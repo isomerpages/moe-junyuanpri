@@ -41,12 +41,12 @@ Primary 5 Teachers
   <tr>
     <td class="tg-0lj4"> P5 Responsibility</td>
     <td class="tg-0lj4"> Mdm Noor Aishah Bte Abu Bakar<br><a href="mailto:noor_aishah_abu_bakar@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">noor_aishah_abu_bakar@moe.edu.sg</span></a><br></td>
-    <td class="tg-que8"> Mr Wang Shing Huei<br> <a href="mailto:wang_shing_huei@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">wang_shing_huei@moe.edu.sg</span></a><br><br> Miss Charlotte Tan Cher Ling<br> <a href="mailto:tan_cherling@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">tan_cherling@moe.edu.sg</span></a></td>
+    <td class="tg-0lj4"> Mr Wang Shing Huei<br> <a href="mailto:wang_shing_huei@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">wang_shing_huei@moe.edu.sg</span></a><br><br> Miss Charlotte Tan Cher Ling<br> <a href="mailto:tan_cherling@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">tan_cherling@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P5 Resilience</td>
     <td class="tg-0lj4"> Miss Chan Audrey<br> <a href="mailto:chan_audrey@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chan_audrey@moe.edu.sg</span></a><br></td>
-    <td class="tg-que8"> Mdm Marina Bte Hassan<br> <a href="mailto:marina_hassan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">marina_hassan@moe.edu.sg</span></a><br><br> Mr Ho Keng Chiong&nbsp;<br> <a href="mailto:ho_keng_chiong@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">ho_keng_chiong@moe.edu.sg</span></a> </td>
+    <td class="tg-0lj4"> Mdm Marina Bte Hassan<br> <a href="mailto:marina_hassan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">marina_hassan@moe.edu.sg</span></a><br><br> Mr Ho Keng Chiong&nbsp;<br> <a href="mailto:ho_keng_chiong@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">ho_keng_chiong@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
     <td class="tg-que8"> P5 Integrity</td>
@@ -54,9 +54,9 @@ Primary 5 Teachers
     <td class="tg-que8"> Mr Pavadai Mohan <br> <a href="mailto:pavadai_mohan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">pavadai_mohan@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-que8"> P5 Care</td>
-    <td class="tg-que8"> Mrs Monica Berger<br> <a href="mailto:monica_vasanti_augustine@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">monica_vasanti_augustine@moe.edu.sg</span></a><br></td>
-    <td class="tg-que8"> Mdm Nurulashiqien Bte Mustapa<br> <a href="mailto:nurulashiqien_mustapa@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nurulashiqien_mustapa@moe.edu.sg</span></a><br><br> Miss Teo Mei Hui Jacqueline&nbsp;<br> <a href="mailto:teo_mei_hui_jacqueline@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">teo_mei_hui_jacqueline@moe.edu.sg</span></a> </td>
+    <td class="tg-0lj4"> P5 Care</td>
+    <td class="tg-0lj4"> Mrs Monica Berger<br> <a href="mailto:monica_vasanti_augustine@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">monica_vasanti_augustine@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> Mdm Nurulashiqien Bte Mustapa<br> <a href="mailto:nurulashiqien_mustapa@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nurulashiqien_mustapa@moe.edu.sg</span></a><br><br> Miss Teo Mei Hui Jacqueline&nbsp;<br> <a href="mailto:teo_mei_hui_jacqueline@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">teo_mei_hui_jacqueline@moe.edu.sg</span></a> </td>
   </tr>
 </tbody>
 </table>
