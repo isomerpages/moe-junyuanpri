@@ -30,7 +30,7 @@ Primary 5 Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-lpmw"> Class</td>
+    <td class="tg-hvnt"> Class</td>
     <td class="tg-lpmw" colspan="2">Form Teachers</td>
   </tr>
   <tr>
