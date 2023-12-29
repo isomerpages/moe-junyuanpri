@@ -11,4 +11,4 @@ JYPS Bulletin
 
 ##### <u>JYPS Bulletin 2024</u>
 
-[January](/files/January%20Bulletin_2024_Final.pdf) <br>
+[January](/files/January_Bulletin_2024_Final.pdf) <br>
