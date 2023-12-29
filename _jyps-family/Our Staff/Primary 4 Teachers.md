@@ -62,7 +62,7 @@ Primary 4 Teachers
 	  <tr>
     <td class="tg-que8"> P4 Harmony</td>
     <td class="tg-que8"> Mdm Lim Celia (Mrs Yee)<br> <a href="mailto:lim_celia@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lim_celia@moe.edu.sg</span></a><br></td>
-    <td class="tg-que8"> Miss Low Ruilin Andralyn<br> <a href="mailto:low_ruilin_andralyn@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">low_ruilin_andralyn@moe.edu.sg</span></a></td>
+    <td class="tg-que8"> Mdm Low Ruilin Andralyn (Mrs Kang)<br> <a href="mailto:low_ruilin_andralyn@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">low_ruilin_andralyn@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
