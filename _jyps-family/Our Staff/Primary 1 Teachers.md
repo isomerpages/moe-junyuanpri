@@ -68,8 +68,8 @@ Primary 1 Teachers
   </tr>
   <tr>
     <td class="tg-0lj4"> P1-7<br></td>
-    <td class="tg-que8"> Mdm Nur Hidayah Bte Mohamed Farook<br> <a href="mailto:nurhidayah_farook@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nurhidayah_farook@moe.edu.sg</span></a><br></td>
-    <td class="tg-que8"> Mdm Pang Sze Sheng (Mrs Yap)<br> <a href="mailto:pang_sze_sheng@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">pang_sze_sheng@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> Mdm Nur Hidayah Bte Mohamed Farook<br> <a href="mailto:nurhidayah_farook@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nurhidayah_farook@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> Mdm Pang Sze Sheng (Mrs Yap)<br> <a href="mailto:pang_sze_sheng@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">pang_sze_sheng@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P1-8</td>
