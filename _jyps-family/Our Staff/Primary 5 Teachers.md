@@ -34,9 +34,9 @@ Primary 5 Teachers
     <td class="tg-lpmw" colspan="2">Form Teachers</td>
   </tr>
   <tr>
-    <td class="tg-que8"> P5 Respect</td>
-    <td class="tg-que8"> Miss Goh Mei Ling<br> <a href="mailto:goh_mei_ling_a@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">goh_mei_ling_a@moe.edu.sg</span></a><br></td>
-    <td class="tg-que8"> Mdm Nur Liyana Bte Amrun<br> <a href="mailto:nur_liyana_amrun@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nur_liyana_amrun@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> P5 Respect</td>
+    <td class="tg-0lj4"> Miss Goh Mei Ling<br> <a href="mailto:goh_mei_ling_a@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">goh_mei_ling_a@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> Mdm Nur Liyana Bte Amrun<br> <a href="mailto:nur_liyana_amrun@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nur_liyana_amrun@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P5 Responsibility</td>
@@ -49,9 +49,9 @@ Primary 5 Teachers
     <td class="tg-0lj4"> Mdm Marina Bte Hassan<br> <a href="mailto:marina_hassan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">marina_hassan@moe.edu.sg</span></a><br><br> Mr Ho Keng Chiong&nbsp;<br> <a href="mailto:ho_keng_chiong@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">ho_keng_chiong@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-que8"> P5 Integrity</td>
-    <td class="tg-que8"> Mdm Cheah Soo Har Joelyn<br> <a href="mailto:cheah_soo_har@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">cheah_soo_har@moe.edu.sg</span></a><br></td>
-    <td class="tg-que8"> Mr Pavadai Mohan <br> <a href="mailto:pavadai_mohan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">pavadai_mohan@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> P5 Integrity</td>
+    <td class="tg-0lj4"> Mdm Cheah Soo Har Joelyn<br> <a href="mailto:cheah_soo_har@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">cheah_soo_har@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> Mr Pavadai Mohan <br> <a href="mailto:pavadai_mohan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">pavadai_mohan@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P5 Care</td>
