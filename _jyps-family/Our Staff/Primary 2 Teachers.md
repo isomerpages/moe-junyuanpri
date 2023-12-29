@@ -52,7 +52,7 @@ Primary 2 Teachers
   <tr>
     <td class="tg-que8"> P2 Integrity</td>
     <td class="tg-que8"> Mdm Loo Chin Imm<br> <a href="mailto:loo_chin_imm@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">loo_chin_imm@moe.edu.sg</span></a><br></td>
-    <td class="tg-que8"> Mr Pavadai Mohan<br> <a href="mailto:pavadai_mohan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">pavadai_mohan@moe.edu.sg</span></a><br></td>
+    <td class="tg-que8"> Mr Pavadai Mohan<br> <a href="mailto:pavadai_mohan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">pavadai_mohan@moe.edu.sg</span></a><br><br> Mdm Rosmawati<br> <a href="mailto:rosmawati_latiff@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">rosmawati_latiff@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-que8"> P2 Care</td>
@@ -72,7 +72,7 @@ Primary 2 Teachers
   <tr>
     <td class="tg-0lj4"> P2 Excellence</td>
     <td class="tg-0lj4"> Mdm Ye Huilin (Mrs Tng)<br> <a href="mailto:ye_huilin@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">ye_huilin@moe.edu.sg</span></a></td>
-    <td class="tg-0lj4"> Mdm Nadhirah Bte Yusope<br> <a href="mailto:nadhirah_yusope@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nadhirah_yusope@moe.edu.sg</span></a><br><br> Mdm Lee Poh Cheng<br> <a href="mailto:lee_poh_cheng@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lee_poh_cheng@moe.edu.sg</span></a></td>
-  </tr>
+    <td class="tg-0lj4"> Mdm Nadhirah Bte Yusope<br> <a href="mailto:nadhirah_yusope@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nadhirah_yusope@moe.edu.sg</span>
+  </a></td></tr>
 </tbody>
 </table>
