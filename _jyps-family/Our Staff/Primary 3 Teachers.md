@@ -46,7 +46,7 @@ Primary 3 Teachers
   <tr>
     <td class="tg-0lj4"> P3 Resilience</td>
     <td class="tg-0lj4"> Mdm Lim Hui Ling Cynthia (Mrs Chu)<br> <a href="mailto:lim_hui_ling_cynthia@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lim_hui_ling_cynthia@moe.edu.sg</span></a></td>
-    <td class="tg-0lj4"> Mdm Soh Eng Wee<br> <a href="mailto:soh_eng_wee@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">soh_eng_wee@moe.edu.sg</span></a><br><br> Ms Quek Shu Mien<br> <a href="mailto:quek_shu_mien@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">quek_shu_mien@moe.edu.sg</span></a></td>
+    <td class="tg-0lj4"> Mdm Soh Eng Wee<br> <a href="mailto:soh_eng_wee@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">soh_eng_wee@moe.edu.sg</span></a><br><br> Mdm Quek Shu Mien<br> <a href="mailto:quek_shu_mien@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">quek_shu_mien@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-que8"> P3 Integrity</td>
