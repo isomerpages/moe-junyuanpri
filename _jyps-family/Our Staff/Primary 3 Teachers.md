@@ -54,7 +54,7 @@ Primary 3 Teachers
     <td class="tg-0lj4"> Ms Loong Shu Yi<br> <a href="mailto:loong_shu_yi@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">loong_shu_yi@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-que8"> P3 Care</td>
+    <td class="tg-0lj4"> P3 Care</td>
      <td class="tg-0lj4"> Mdm Lee Jia Woei Sharon (Mrs Chia)<br> <a href="mailto:lee_jia_woei@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lee_jia_woei@moe.edu.sg</span></a></td>
     <td class="tg-0lj4"> Mrs Selvarajoo Selvi<br> <a href="mailto:selvarajoo_selvi@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">selvarajoo_selvi@moe.edu.sg</span></a><br><br> Mdm Nur Azlina bte Othman<br> <a href="mailto:nur_azlina_othman@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nur_azlina_othman@moe.edu.sg</span></a></td>
   </tr><tr>
