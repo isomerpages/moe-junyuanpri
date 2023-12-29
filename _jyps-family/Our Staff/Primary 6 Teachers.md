@@ -50,12 +50,12 @@ Primary 6 Teachers
   </tr>
   <tr>
     <td class="tg-que8"> P6 Integrity</td>
-    <td class="tg-0lj4"> Mr Koh Thiam Joo<br> <a href="mailto:koh_thiam_joo@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">koh_thiam_joo@moe.edu.sg</span></a><br></td>
+    <td class="tg-que8"> Mr Koh Thiam Joo<br> <a href="mailto:koh_thiam_joo@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">koh_thiam_joo@moe.edu.sg</span></a><br></td>
     <td class="tg-0lj4"> Mdm Zhu Xueshu (Mrs Hao)<br> <a href="mailto:zhu_xueshu@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">zhu_xueshu@moe.edu.sg</span></a><br><br> Mdm Maisarah Bte Mohamad Sahat<br> <a href="mailto:maisarah_mohamad_sahat@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">maisarah_mohamad_sahat@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> P6 Care</td>
-    <td class="tg-0lj4"> Mr Tay Koon Hua<br> <a href="mailto:tay_koon_hua@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">tay_koon_hua@moe.edu.sg</span></a><br></td>
+    <td class="tg-que8"> P6 Care</td>
+    <td class="tg-que8"> Mr Tay Koon Hua<br> <a href="mailto:tay_koon_hua@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">tay_koon_hua@moe.edu.sg</span></a><br></td>
     <td class="tg-0lj4"> Mdm Siti Raihani Bte Husainni<br> <a href="mailto:siti_raihani_husainni@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">siti_raihani_husainni@moe.edu.sg</span></a><br><br> Mdm Vasnani Pushpa Udharam (Mrs Bala)<br> <a href="mailto:vasnani_pushpa_udharam@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">vasnani_pushpa_udharam@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
