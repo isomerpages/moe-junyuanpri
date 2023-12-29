@@ -51,7 +51,7 @@ Primary 5 Teachers
   <tr>
     <td class="tg-que8"> P5 Integrity</td>
     <td class="tg-que8"> Mdm Cheah Soo Har Joelyn<br> <a href="mailto:cheah_soo_har@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">cheah_soo_har@moe.edu.sg</span></a><br></td>
-    <td class="tg-que8"> Mdm Shahidah Bte Mahfodz<br> <a href="mailto:shahidah_mahfodz@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">shahidah_mahfodz@moe.edu.sg</span></a><br><br> Mdm Azlina<br> <a href="mailto:chua_shirley@moe.edu.sg"><span style="text-decoration:underline;color:#A52023"></span></a> </td>
+    <td class="tg-que8"> Mr Pavadai Mohan <br> <a href="mailto:pavadai_mohan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">pavadai_mohan@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-que8"> P5 Care</td>
