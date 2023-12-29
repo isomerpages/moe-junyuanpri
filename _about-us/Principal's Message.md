@@ -2,6 +2,7 @@
 title: Principal's Message
 permalink: /about-us/Principals-Message/
 description: ""
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -15,17 +16,19 @@ Principal's Message
 
 <i>Hello and welcome to Junyuan Primary School!</i>
 
-<i>We invite you to imagine with us students been assigned with the task to design a solution that will help extend the lifespan of the Pulau Semakau Landfill. From suggestions that seem to aim for the moon to prototypes that appear amateurish, the children pitch their solutions with a mix of innocence and confidence in their small “work” groups. Or visualise with us pre-schoolers encountering a pea flower for the first time. Captivated, they bombard their teacher with strings of questions that adults would not ask and leave the teacher speechless but smiling.</i>
+<i>We celebrated our 35th anniversary last year and as we take time to reflect on this milestone, we can truly be grateful for the shared experiences of every member of our school’s community.</i>
 
-<i>These children have a sense of wonder about the things happening around them. They seem to carry with them a curiosity about the world and an enthusiasm to try things new.  They are not fictional. They can be found in our school. More encouragingly, restrictions imposed on them during the pandemic have not extinguished their spirit to learn and the willingness to care for the world around them.</i>
+<i>Over the past few years, we needed to learn many new things, unlearn some old habits, and relearn some age-old wisdom and attitudes. These lessons are gifts that have shaped and taught us as a school community to better guide and teach our students to embrace the exciting opportunities that the post pandemic future holds for them. They also affirmed that certain fundamentals like nurturing good character and supporting students with caring relationships will not change, no matter what.</i>
 
-<i>We see them discover pleasure in learning when the things they do and try coinciding with the interests that they harbour, when time and space is given for them to tinker with ideas that they generate – alone or as a group, when their efforts and creations are recognised, and when they are given the chance to explore beyond the limits of the classrooms to the world beyond.</i>
+<i>We have also been trying different ways to teach and to learn, some of which nudged by the challenges of the pandemic, as well as adding new learning spaces to enhance our schooling experiences. Together, we are seeing possibilities of what we can do as we guide our students into the future of learning.</i>
 
-<i>As we commemorate 35 years of our school’s founding, we want to celebrate the joy that accompanies our children’s learning as they grow and glow in their journey with us. We invite you to join us on this ride!</i>
+<i>Let’s help them imagine who they can be and what they can do as they learn and discover themselves and the world around them. Let them dare dream of an exciting and fulfilling future for themselves and the world they will inherit.</i>
 
-  
+<i>Let’s help them dare to try and find different ways to try again if they were to fail the first, second and perhaps even the third time.</i>
 
-Wishing you a joyful and fruitful year of learning in 2023!
+<i>Let’s help them to dare contribute and give to the family, the community, and the nation for a better future for all of us!</i>
+
+Wishing you a fruitful year of learning in 2024!
 
   
 
