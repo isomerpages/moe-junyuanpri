@@ -175,7 +175,7 @@ Steering Committee
         Miss Chan Audrey<br>
         <a href="mailto:chan_audrey@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chan_audrey@moe.edu.sg</span></a><br>
       </td>
-      <td class="tg-lyvw">SH-Innovation<br></td>
+      <td class="tg-lyvw">SH-Innovation &amp; ALP<br></td>
     </tr>
     <tr>
       <td class="tg-yp4s">
