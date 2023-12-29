@@ -49,7 +49,7 @@ Primary 3 Teachers
     <td class="tg-0lj4"> Mdm Soh Eng Wee<br> <a href="mailto:soh_eng_wee@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">soh_eng_wee@moe.edu.sg</span></a><br><br> Mdm Quek Shu Mien<br> <a href="mailto:quek_shu_mien@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">quek_shu_mien@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-que8"> P3 Integrity</td>
+    <td class="tg-0lj4"> P3 Integrity</td>
     <td class="tg-0lj4"> Mr Khairul Anwar Bin Kamaruddin<br> <a href="mailto:khairul_anwar_kamaruddin@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">khairul_anwar_kamaruddin@moe.edu.sg</span></a> </td>
     <td class="tg-0lj4"> Ms Loong Shu Yi<br> <a href="mailto:loong_shu_yi@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">loong_shu_yi@moe.edu.sg</span></a> </td>
   </tr>
