@@ -28,7 +28,7 @@ Principal's Message
 
 <i>Let’s help them to dare contribute and give to the family, the community, and the nation for a better future for all of us!</i>
 
-Wishing you a fruitful year of learning in 2024!
+Wishing you a fruitful year in 2024!
 
   
 
