@@ -44,7 +44,7 @@ Primary 6 Teachers
     <td class="tg-0lj4"> Miss Lim Chwee Neo Pearl<br> <a href="mailto:lim_chwee_neo_pearl@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lim_chwee_neo_pearl@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-que8"> P6 Resilience</td>
+    <td class="tg-0lj4"> P6 Resilience</td>
     <td class="tg-0lj4"> Mr Nor Azri Bin Abdul Aziz<br> <a href="mailto:nor_azri@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nor_azri@moe.edu.sg</span></a><br></td>
     <td class="tg-0lj4"> Mdm Ilmal Ali<br> <a href="mailto:ilmal_yaqin_ali@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">ilmal_yaqin_ali@moe.edu.sg</span></a><br></td>
   </tr>
