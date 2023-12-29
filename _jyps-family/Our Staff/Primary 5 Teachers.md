@@ -20,6 +20,7 @@ Primary 5 Teachers
 .tg .tg-hvnt{color:#666;text-align:center;vertical-align:top}
 .tg .tg-0qja{color:#A52023;text-align:left;text-decoration:underline;vertical-align:top}
 .tg .tg-lpmw{color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lj4{color:#454545;text-align:left;vertical-align:middle}
 .tg .tg-que8{color:#454545;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
