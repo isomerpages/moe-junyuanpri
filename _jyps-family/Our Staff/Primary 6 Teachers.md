@@ -39,7 +39,7 @@ Primary 6 Teachers
     <td class="tg-0lj4"> Miss Khairunnisha Bte Abdullah<br> <a href="mailto:khairunnisha_abdullah@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">khairunnisha_abdullah@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-que8"> P6 Responsibility</td>
+    <td class="tg-0lj4"> P6 Responsibility</td>
     <td class="tg-0lj4"> Mdm Suriani Bte Abdullah (Mrs Hanes)<br> <a href="mailto:suriani_abdullah@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">suriani_abdullah@moe.edu.sg</span></a><br></td>
     <td class="tg-0lj4"> Miss Lim Chwee Neo Pearl<br> <a href="mailto:lim_chwee_neo_pearl@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lim_chwee_neo_pearl@moe.edu.sg</span></a><br></td>
   </tr>
