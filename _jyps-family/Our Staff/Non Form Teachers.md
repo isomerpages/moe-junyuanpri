@@ -31,13 +31,11 @@ Non Form Teachers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-sdzj">Miss Angel Raphael Teo An Chic</td>
-    <td class="tg-sdzj">teo_an_chic_angel@moe.edu.sg</td>
+    <td class="tg-0lj4"> Miss Angel Raphael Teo An Chic<br> <a href="mailto:teo_an_chic_angel@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">teo_an_chic_angel@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-sdzj">Mdm Hadlia Bte Jamil </td>
-    <td class="tg-sdzj">ST-LP </td>
+     <td class="tg-0lj4"> Ms Nur Faiqah bte Hamzah<br> <a href="mailto:nur_faiqah_hamzah@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nur_faiqah_hamzah@moe.edu.sg</span></a></td>
+	
   </tr>
-  
-</tbody>
+  </tbody>
 </table>
