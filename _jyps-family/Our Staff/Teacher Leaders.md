@@ -3,6 +3,7 @@ title: Teacher Leaders
 permalink: /jyps-family/Our-Staff/Teacher-Leaders/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -40,10 +41,6 @@ Teacher Leaders
   <tr>
     <td class="tg-sdzj">Miss Lim Chwee Neo Pearl</td>
     <td class="tg-sdzj">ST-Mathematics</td>
-  </tr>
-  <tr>
-    <td class="tg-sdzj">Mdm Siti Hawa Bte Abdul Karim </td>
-    <td class="tg-sdzj">ST-Mathematics </td>
   </tr>
   <tr>
     <td class="tg-sdzj">Ms Halimatussa'diah Bte Jaffar</td>
