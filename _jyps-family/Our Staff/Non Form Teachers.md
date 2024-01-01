@@ -33,9 +33,5 @@ Non Form Teachers
   <tr>
     <td class="tg-0lj4"> Miss Angel Raphael Teo An Chic<br> <a href="mailto:teo_an_chic_angel@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">teo_an_chic_angel@moe.edu.sg</span></a></td>
   </tr>
-  <tr>
-     <td class="tg-0lj4"> Ms Nur Faiqah bte Hamzah<br> <a href="mailto:nur_faiqah_hamzah@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nur_faiqah_hamzah@moe.edu.sg</span></a></td>
-	
-  </tr>
   </tbody>
 </table>
