@@ -10,6 +10,6 @@ sections:
       background: /images/Homepage.gif
       key_highlights:
         - title: Announcements
-          description: JYPS November Bulletin
+          description: JYPS January Bulletin 2024
           url: /parents-portal/JYPS-Bulletin/
 ---

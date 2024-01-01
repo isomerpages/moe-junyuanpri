@@ -3,6 +3,7 @@ title: EAS & Support Staff
 permalink: /jyps-family/Our-Staff/EAS-and-Support-Staff/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -21,7 +22,7 @@ EAS &amp; Support Staff
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lj4">Ms Sharon Seo</th>
+    <th class="tg-0lj4">Mdm Fazidah Hani Abdul Hadi </th>
     <th class="tg-0lj4"> Admin Manager</th>
   </tr>
 </thead>
@@ -104,7 +105,7 @@ EAS &amp; Support Staff
     <td class="tg-0lj4"> Security Guard</td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> Mr Johari Bin Jalil </td>
+    <td class="tg-0lj4"> Mr Mohd Said </td>
     <td class="tg-0lj4"> Security Guard (MK) </td>
   </tr>
 </tbody>

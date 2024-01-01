@@ -2,6 +2,7 @@ collections:
   jyps-family:
     output: true
     order:
+      - Our Staff/.keep
       - Our Staff/Steering Committee.md
       - Our Staff/Teacher Leaders.md
       - Our Staff/Primary 1 Teachers.md
@@ -14,4 +15,3 @@ collections:
       - Our Staff/Allied Educators (AED).md
       - Our Staff/SEN Officers.md
       - Our Staff/EAS & Support Staff.md
-      - Our Staff/.keep

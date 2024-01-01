@@ -3,6 +3,7 @@ title: Steering Committee
 permalink: /jyps-family/Our-Staff/Steering-Committee/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -19,10 +20,6 @@ Steering Committee
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td class="tg-yp4s">Mrs Jenny Lai</td>
-      <td class="tg-yp4s">VP-Academic</td>
-    </tr>
 		<tr>
       <td class="tg-yp4s">Mrs Audrea Chin</td>
       <td class="tg-yp4s">VP-Academic</td>
@@ -40,6 +37,13 @@ Steering Committee
 
 <table class="tg">
   <thead>
+		  <tr>
+      <td class="tg-yp4s">
+        Mdm Waheeda Bte Abd Kadir<br>
+        <a href="mailto:waheeda_abdul_kadir@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">waheeda_abdul_kadir@moe.edu.sg</span></a><br>
+      </td>
+      <td class="tg-yp4s">School Staff Developer</td>
+    </tr>
     <tr>
       <td class="tg-yp4s">
         Mdm Noorazlina Bte Mad Shah<br>
@@ -90,13 +94,6 @@ Steering Committee
       <td class="tg-yp4s">HOD-Student Management</td>
     </tr>
     <tr>
-      <td class="tg-yp4s">
-        Mr Kandesan s/o Ramasamy<br>
-        <a href="mailto:kandesan_ramasamy@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">kandesan_ramasamy@moe.edu.sg</span></a><br>
-      </td>
-      <td class="tg-yp4s">HOD-Student Management</td>
-    </tr>
-    <tr>
       <td class="tg-lyvw">
         Mr Mark Sum Yoong Wei<br>
         <a href="mailto:sum_yoong_wei_mark@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">sum_yoong_wei_mark@moe.edu.sg</span></a><br>
@@ -107,6 +104,13 @@ Steering Committee
       <td class="tg-yp4s">
         Mr Quek Tian Bee<br>
         <a href="mailto:quek_tian_bee@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">quek_tian_bee@moe.edu.sg</span></a><br>
+      </td>
+      <td class="tg-yp4s">Year Head</td>
+    </tr>
+		   <tr>
+      <td class="tg-yp4s">
+        Miss Nur Faiqah Hamzah<br>
+        <a href="mailto:nur_faiqah_hamzah@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nur_faiqah_hamzah@moe.edu.sg</span></a><br>
       </td>
       <td class="tg-yp4s">Year Head</td>
     </tr>
@@ -131,6 +135,13 @@ Steering Committee
       </td>
       <td class="tg-lyvw">Assistant Year Head</td>
     </tr>
+		<tr>
+      <td class="tg-lyvw">
+        Mdm Phua Li Min (Mrs Tan)<br>
+        <a href="mailto:phua_li_min@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">phua_li_min@moe.edu.sg</span></a>
+      </td>
+      <td class="tg-lyvw">Assistant Year Head</td>
+    </tr>
     <tr>
       <td class="tg-yp4s">
         Mdm Siti Shahrina Bte Rahmat<br>
@@ -152,19 +163,26 @@ Steering Committee
       </td>
       <td class="tg-lyvw">SH-PE &amp; CCA<br></td>
     </tr>
+		<tr>
+      <td class="tg-yp4s">
+        Mdm Lim Celia (Mrs Yee)<br>
+        <a href="mailto:Lim_celia@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lim_celia@moe.edu.sg</span></a><br>
+      </td>
+      <td class="tg-lyvw">SH-Info Comm Technology<br></td>
+    </tr>
+		<tr>
+      <td class="tg-yp4s">
+        Miss Chan Audrey<br>
+        <a href="mailto:chan_audrey@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chan_audrey@moe.edu.sg</span></a><br>
+      </td>
+      <td class="tg-lyvw">SH-Innovation &amp; ALP<br></td>
+    </tr>
     <tr>
       <td class="tg-yp4s">
         Miss Khairunnisha Bte Abdullah<br>
         <a href="mailto:khairunnisha_abdullah@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">khairunnisha_abdullah@moe.edu.sg</span></a><br>
       </td>
       <td class="tg-yp4s">LH-English Language</td>
-    </tr>
-    <tr>
-      <td class="tg-yp4s">
-        Mdm Waheeda Bte Abd Kadir<br>
-        <a href="mailto:waheeda_abdul_kadir@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">waheeda_abdul_kadir@moe.edu.sg</span></a><br>
-      </td>
-      <td class="tg-yp4s">LH-English Language (Covering SSD)</td>
     </tr>
     <tr>
       <td class="tg-lyvw">
