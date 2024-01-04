@@ -55,9 +55,9 @@ b.&nbsp; &nbsp;&nbsp;Character and Citizenship Education (CCE)
 
   
 
-7\.&nbsp; &nbsp;Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.&nbsp;
+7\.&nbsp; &nbsp;Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks.&nbsp;
 
-**At Junyuan Primary School’s, the following Sexuality Education lessons will be taught in&nbsp;2023:**
+**At Junyuan Primary School’s, the following Sexuality Education lessons will be taught in&nbsp;2024:**
 
 #### **Primary 5**
 
