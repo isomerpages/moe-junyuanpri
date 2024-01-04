@@ -35,7 +35,7 @@ Sexuality Education Programme (SEd)
 
 You may&nbsp;click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
-**Overview of**&nbsp;**JUNYUAN PRIMARY SCHOOL’s**&nbsp;**Sexuality Education Programme for 2023**
+**OVERVIEW OF JUNYUAN PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024**
 
   
 
@@ -49,7 +49,7 @@ a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Science
 
 b.&nbsp; &nbsp;&nbsp;Character and Citizenship Education (CCE)
 
-**Sexuality Education Lessons:**
+**<u>Sexuality Education Lessons</u>:**
 
 6\.&nbsp; &nbsp; The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.
 
