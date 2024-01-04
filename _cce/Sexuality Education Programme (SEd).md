@@ -82,7 +82,7 @@ b.&nbsp; &nbsp;&nbsp;Character and Citizenship Education (CCE)
 
   
 
-9\.&nbsp;&nbsp; &nbsp;Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable&nbsp;[here](/files/2023%20sed%20annexa.pdf).&nbsp;The completed opt-out form is to be submitted by 11 Jan 2024 (P6) and 28 Mar 2024 (P5).
+9\.&nbsp;&nbsp; &nbsp;Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable&nbsp;[here](/files/2024_SEd_Annex_A__Sch_Website_.pdf).&nbsp;The completed opt-out form is to be submitted by 11 Jan 2024 (P6) and 28 Mar 2024 (P5).
 
   
 
