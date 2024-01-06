@@ -71,3 +71,5 @@ time to develop and hone their skills.
 To minimise disruption in the running of CCA programmes and activities in the
 year, please refer to the table below on the guidelines to request for change of
 CCA.
+
+<table><thead><tr><th rowspan="3">Primary 1/2</th><th colspan="3">Primary 3</th></tr><tr><th>Term 1</th><th>Term 2</th><th>Term 3 - 4</th></tr><tr><th>CCA Experience (Optional)</th><th>CCA Selection Exercise</th><th>CCA</th></tr></thead><tbody><tr><td>No CCA as PAL will allow the studentsto be exposed to all domains of CCA.</td><td>Students experience a CCA based on the CCAs available in CCA Experience.</td><td>Students select a CCA in Term 2. Students will start in their new CCA in Term 3.</td><td>All students are to remain in their current CCA until end of Term 4.<br><br><b><u>Any requests to change CCA can only take place towards the end of Term 4</u></b> after which, studentswill join new CCA in Term 1 the following year.</td></tr></tbody></table>
