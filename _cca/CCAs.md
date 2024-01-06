@@ -74,17 +74,17 @@ CCA.
 
 <table style="border:1px solid black"><thead>
 	<tr>
-		<th style="background-color: #ffe699; border:1px solid black" rowspan="3">Primary 1/2</th>
-		<th style="background-color:#fce4d6; border:1px solid black" colspan="3">Primary 3</th>
+		<th style="background-color: #ffe699; border:1px solid black;     text-align:center;vertical-align:middle" rowspan="3">Primary 1/2</th>
+		<th style="background-color:#fce4d6; border:1px solid black; text-align:center;vertical-align:middle" colspan="3">Primary 3</th>
 	</tr>
 	<tr>
-		<th style="background-color:#fce4d6; border:1px solid black">Term 1</th>
-		<th style="background-color:#fce4d6; border:1px solid black">Term 2</th>
-		<th style="background-color:#fce4d6; border:1px solid black">Term 3 - 4</th>   </tr>
+		<th style="background-color:#fce4d6; border:1px solid black; text-align:center;vertical-align:middle">Term 1</th>
+		<th style="background-color:#fce4d6; border:1px solid black; text-align:center;vertical-align:middle">Term 2</th>
+		<th style="background-color:#fce4d6; border:1px solid black; text-align:center;vertical-align:middle">Term 3 - 4</th>   </tr>
 <tr>
-		<th style="background-color:#fce4d6; border:1px solid black">CCA Experience (Optional)</th>
-	<th style="background-color:#fce4d6; border:1px solid black">CCA Selection Exercise</th>
-	<th style="background-color:#fce4d6; border:1px solid black">CCA</th>
+		<th style="background-color:#fce4d6; border:1px solid black; text-align:center;vertical-align:middle">CCA Experience (Optional)</th>
+	<th style="background-color:#fce4d6; border:1px solid black; text-align:center;vertical-align:middle">CCA Selection Exercise</th>
+	<th style="background-color:#fce4d6; border:1px solid black; text-align:center;vertical-align:middle">CCA</th>
 	</tr>
 	</thead>
 	<tbody>
@@ -99,18 +99,18 @@ CCA.
 <table style="border:1px solid black">
 	<thead>
 		<tr>
-			<th style="background-color:#c6e0b4; border:1px solid black" colspan="2">Primary 4 &amp; Primary 5</th>
-			<th style="background-color:#ddebf7; border:1px solid black"> Primary 6</th>
+			<th style="background-color:#c6e0b4; border:1px solid black; text-align:center;vertical-align:middle" colspan="2">Primary 4 &amp; Primary 5</th>
+			<th style="background-color:#ddebf7; border:1px solid black; text-align:center;vertical-align:middle"> Primary 6</th>
 		</tr>
 		<tr>
-			<th style="background-color:#c6e0b4; border:1px solid black">Term 1 - 2</th>
-			<th style="background-color:#c6e0b4; border:1px solid black">Term 3 -4 </th>
-			<th style="background-color:#ddebf7; border:1px solid black">Term 1 - 2</th>
+			<th style="background-color:#c6e0b4; border:1px solid black; text-align:center;vertical-align:middle">Term 1 - 2</th>
+			<th style="background-color:#c6e0b4; border:1px solid black; text-align:center;vertical-align:middle">Term 3 -4 </th>
+			<th style="background-color:#ddebf7; border:1px solid black; text-align:center;vertical-align:middle">Term 1 - 2</th>
 		</tr>
 		<tr>
-			<th style="background-color:#c6e0b4; border:1px solid black">CCA</th>
-			<th style="background-color:#c6e0b4; border:1px solid black">CCA</th>
-			<th style="background-color:#ddebf7; border:1px solid black">CCA</th>
+			<th style="background-color:#c6e0b4; border:1px solid black; text-align:center;vertical-align:middle">CCA</th>
+			<th style="background-color:#c6e0b4; border:1px solid black; text-align:center;vertical-align:middle">CCA</th>
+			<th style="background-color:#ddebf7; border:1px solid black; text-align:center;vertical-align:middle">CCA</th>
 		</tr>
 	</thead>
 	<tbody>
