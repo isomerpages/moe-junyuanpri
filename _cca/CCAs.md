@@ -7,7 +7,7 @@ variant: markdown
 ![](/images/banner.gif)
 
 
-CCAs
+Co-Curricular Activities Department Policy 
 ====
 
 ##### &nbsp;**1.&nbsp;<u>Objectives of Co-Curricular Activities (CCA) in JYPS</u>**  
@@ -73,3 +73,21 @@ year, please refer to the table below on the guidelines to request for change of
 CCA.
 
 <table><thead><tr><th rowspan="3">Primary 1/2</th><th colspan="3">Primary 3</th></tr><tr><th>Term 1</th><th>Term 2</th><th>Term 3 - 4</th></tr><tr><th>CCA Experience (Optional)</th><th>CCA Selection Exercise</th><th>CCA</th></tr></thead><tbody><tr><td>No CCA as PAL will allow the studentsto be exposed to all domains of CCA.</td><td>Students experience a CCA based on the CCAs available in CCA Experience.</td><td>Students select a CCA in Term 2. Students will start in their new CCA in Term 3.</td><td>All students are to remain in their current CCA until end of Term 4.<br><br><b><u>Any requests to change CCA can only take place towards the end of Term 4</u></b> after which, studentswill join new CCA in Term 1 the following year.</td></tr></tbody></table>
+
+&lt;<table><thead><tr><th colspan="2">Primary 4 &amp; Primary 5</th><th> Primary 6</th></tr><tr><th>Term 1 - 2</th><th>Term 3 -4 </th><th>Term 1 - 2</th></tr><tr><th>CCA</th><th>CCA</th><th>CCA</th></tr></thead><tbody><tr><td>Students remain in current CCA.</td><td>All students are to remain in current CCA until end of Term 4. <br><br><b><u>All requests to change CCA can only take place towards the end of Term 4</u></b> after which, students will join new CCA in Term 1 the following year.</td><td>Students remain in current CCA until end of Term 2. Students will step down from CCA at Term 3.</td></tr></tbody></table>
+
+If students wish to request to change their CCA, they will need to fill out a
+Change of CCA Request Form that can be attained through their CCA Teachers.
+If necessary, CCA Teachers / SH PE/CCA or HOD of PAC will engage the
+parent to find out more before facilitating/allowing the change of CCA.
+Approval of request will be on a case-by-case basis. Students must also show
+good attendance (75% and above) in their current CCA to be eligible for the
+change of CCA.
+
+##### **2.5 <u>Notification of CCA Schedule</u>**  
+
+All notification of CCA Schedule will be communicated through Parents’
+Gateway for all onboarded parents and SLS for all students. To ensure our
+students and teachers have sufficient time to rest, there are compulsory black-
+out dates during June and December holidays where CCAs will stand-down from
+all activities.
