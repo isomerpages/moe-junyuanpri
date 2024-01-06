@@ -3,6 +3,7 @@ title: Library Club
 permalink: /cca/Clubs-and-Societies/LibraryClub/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -33,5 +34,5 @@ Fridays
 **Teachers IC &amp; Email address:** <br>
 Mrs Josephine Lee:&nbsp;[woon\_mui\_chuan\_josephine@moe.edu.sg](mailto:woon_mui_chuan_josephine@moe.edu.sg)  <br>
 Miss Charlotte Tan:&nbsp;[tan\_cherling@moe.edu.sg](mailto:tan_cherling@moe.edu.sg)  <br>
-Miss Nadzirah:&nbsp;[fatin\_nadzirah\_zahari@moe.edu.sg](mailto:fatin_nadzirah_zahari@moe.edu.sg)  <br>
-Mdm Hadlia:&nbsp;[hadlia\_jamil@moe.edu.sg](mailto:hadlia_jamil@moe.edu.sg)
+Mdm Siti Hawa:&nbsp;[siti\_hawa\_abdul\_karim@moe.edu.sg](mailto:siti_hawa_abdul_karim@moe.edu.sg)  <br>
+Mdm Halima:&nbsp;[halimatussadiah\_jaffar@moe.edu.sg](mailto:halimatussadiah_jaffar@moe.edu.sg)
