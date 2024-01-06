@@ -3,6 +3,7 @@ title: Environment Club
 permalink: /cca/Clubs-and-Societies/EnvironmentClub/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -59,7 +60,8 @@ Fridays
 2.00pm - 3.30pm  
   
 **Teachers IC and Email address:**  <br>
-Mr Ivan Ong:&nbsp;[ong\_chee\_beng\_a@moe.edu.sg](mailto:ong_chee_beng_a@moe.edu.sg)  <br>
-Mrs Corinne Teo:&nbsp;[sim\_chew\_yen@moe.edu.sg](mailto:sim_chew_yen@moe.edu.sg)  <br>
 Ms Loong Shu Yi:&nbsp;[loong\_shu\_yi@moe.edu.sg](mailto:loong_shu_yi@moe.edu.sg)<br>
-Mrs Cynthia Chu:&nbsp;[lim\_hui\_ling\_cynthia@moe.edu.sg](mailto:lim_hui_ling_cynthia@moe.edu.sg)
+Mrs Cynthia Chu:&nbsp;[lim\_hui\_ling\_cynthia@moe.edu.sg](mailto:lim_hui_ling_cynthia@moe.edu.sg) <br>
+Mdm Joelyn Cheah:&nbsp;[cheah\_soo\_har@moe.edu.sg](mailto:cheah_soo_har@moe.edu.sg)  <br>
+Mdm Hidayah:&nbsp;[nurhidayah\_farook@moe.edu.sg](mailto:nurhidayah_farook@moe.edu.sg)  <br>
+
