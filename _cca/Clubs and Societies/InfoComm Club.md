@@ -3,6 +3,7 @@ title: InfoComm Club
 permalink: /cca/Clubs-and-Societies/InfoCommClub/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -45,8 +46,8 @@ Mondays &amp; Fridays&nbsp;<br>
   
 
 **Teachers IC and Email address:**<br>
+Mdm Siti Raihani Bte Husainni:&nbsp;[siti\_raihani\_husainni@moe.edu.sg](mailto:siti_raihani_husainni@moe.edu.sg)<br>
+Mdm Chee Li Boon:&nbsp;[chee\_li\_boon@moe.edu.sg](mailto:chee_li_boon@moe.edu.sg)<br>
+Mdm Corinne Sim:&nbsp;[sim\_chew\_yen@moe.edu.sg](mailto:sim_chew_yen@moe.edu.sg)  <br>
 Ms Celia Lim:&nbsp;[lim\_celia@moe.edu.sg](mailto:lim_celia@moe.edu.sg)<br>
 Mdm Pan Xuan:&nbsp;[pan\_xuan@moe.edu.sg](mailto:pan_xuan@moe.edu.sg)<br>
-Mrs Sharon Chia:&nbsp;[lee\_jia\_woei@moe.edu.sg](mailto:lee_jia_woei@moe.edu.sg)<br>
-Mdm Hidayah:&nbsp;[nurhidayah\_farook@moe.edu.sg](mailto:nurhidayah_farook@moe.edu.sg)  <br>
-Mdm Liyana:&nbsp;[nur\_liyana\_amrun@moe.edu.sg](mailto:nur_liyana_amrun@moe.edu.sg)
