@@ -2,7 +2,8 @@
 title: Modern Dance
 permalink: /cca/Visual-and-Performing-Arts-Group/ModernDance/
 description: ""
-third_nav_title: Visual &amp; Performing Arts Group
+third_nav_title: Visual & Performing Arts Group
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -34,6 +35,6 @@ Mondays &amp; Fridays
   
 **Teachers IC and Email address:**  <br>
 Mr Nor Azri B Abdul Aziz(I.C):&nbsp;[nor\_azri@moe.edu.sg](mailto:nor_azri@moe.edu.sg)<br>
-Mdm Siti Raihani Bte Husainni:&nbsp;[siti\_raihani\_husainni@moe.edu.sg](mailto:siti_raihani_husainni@moe.edu.sg)<br>
 Mdm Selvi D/O Suppiah:&nbsp;[selvarajoo\_selvi@moe.edu.sg](mailto:selvarajoo_selvi@moe.edu.sg)<br>
-Miss Lim Chwee Neo, Pearl:&nbsp;[lim\_chwee\_neo\_pearl@moe.edu.sg](mailto:lim_chwee_neo_pearl@moe.edu.sg)
+Miss Lim Chwee Neo, Pearl:&nbsp;[lim\_chwee\_neo\_pearl@moe.edu.sg](mailto:lim_chwee_neo_pearl@moe.edu.sg)<br>
+Miss Goh Mei Ling:&nbsp;[goh\_mei\_ling\_a@moe.edu.sg](mailto:goh_mei_ling_a@moe.edu.sg)<br>
