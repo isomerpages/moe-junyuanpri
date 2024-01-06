@@ -4,7 +4,7 @@ permalink: /cca/CCAs/
 description: ""
 variant: markdown
 ---
-o![](/images/banner.gif)
+![](/images/banner.gif)
 
 
 CCA Policy 
