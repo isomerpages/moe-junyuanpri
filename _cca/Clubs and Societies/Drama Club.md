@@ -3,6 +3,7 @@ title: Drama Club
 permalink: /cca/Clubs-and-Societies/DramaClub/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -33,6 +34,7 @@ Fridays
 2.00pm - 3.30pm  
   
 **Teachers IC:**<br>
-Mdm Melissa Ong:&nbsp;[ong\_melissa@moe.edu.sg](mailto:ong_melissa@moe.edu.sg)[](mailto:chua_kar_yan@moe.edu.sg)  <br>
 Mrs Suriani Hanes:&nbsp;[suriani\_abdullah@moe.edu.sg](mailto:suriani_abdullah@moe.edu.sg)<br>
-Mrs Chan Soh Wah:&nbsp;[teo\_soh\_wah@moe.edu.sg](mailto:teo_soh_wah@moe.edu.sg)
+Mrs Chow Kar Yan:&nbsp;[chua\_kar\_yan@moe.edu.sg](mailto:chua_kar_yan@moe.edu.sg)<br>
+Mdm Nadhirah Parveen:&nbsp;[nadhirah\_parveen@moe.edu.sg](mailto:nadhirah_parveen@moe.edu.sg)<br>
+Mdm Norainy:&nbsp;[norainy\_jailani@moe.edu.sg](mailto:norainy_jailani@moe.edu.sg)<br>
