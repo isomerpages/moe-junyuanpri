@@ -7,7 +7,7 @@ variant: markdown
 ![](/images/banner.gif)
 
 
-Co-Curricular Activities Department Policy 
+CCA Policy 
 ====
 
 ##### &nbsp;**1.&nbsp;<u>Objectives of Co-Curricular Activities (CCA) in JYPS</u>**  
