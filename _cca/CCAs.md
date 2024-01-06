@@ -94,7 +94,7 @@ CCA.
 			<td style="border:1px solid black">Students select a CCA in Term 2. Students will start in their new CCA in Term 3.</td>
 			<td>All students are to remain in their current CCA until end of Term 4.<br><br><b><u>Any requests to change CCA can only take place towards the end of Term 4</u></b> after which, students will join new CCA in Term 1 the following year.</td></tr>
 	</tbody>
-</table>
+</table><br><br>
 
 <table style="border:1px solid black">
 	<thead>
