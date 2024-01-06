@@ -31,7 +31,7 @@ All our CCAs offer excellent platforms for students to learn core values, social
 2\. Nurture our students to demonstrate the 4 Desired Junyuan Outcomes (DJOs) through an engaging and relevant CCA programme.
  
 
-3\. Develop our students to be Future-Ready Learners and Leaders of Character.**
+3\. Develop our students to be Future-Ready Learners and Leaders of Character.
 
  
 ##### **2\. JYPS CCA Department Overview**
@@ -125,7 +125,7 @@ CCA.
 If students wish to request to change their CCA, they will need to fill out a
 Change of CCA Request Form that can be attained through their CCA Teachers.
 If necessary, CCA Teachers / SH PE/CCA or HOD of PAC will engage the
-parent to find out more before facilitating/allowing the change of CCA.
+parent to find out more before facilitating/allowing the change of CCA.<br><br>
 Approval of request will be on a case-by-case basis. Students must also show
 good attendance (75% and above) in their current CCA to be eligible for the
 change of CCA.
