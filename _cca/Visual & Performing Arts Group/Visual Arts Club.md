@@ -2,7 +2,8 @@
 title: Visual Arts Club
 permalink: /cca/Visual-and-Performing-Arts-Group/VisualArtsClub/
 description: ""
-third_nav_title: Visual &amp; Performing Arts Group
+third_nav_title: Visual & Performing Arts Group
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -50,4 +51,5 @@ Mondays &amp; Fridays
 Mrs Michelle Ang:&nbsp;[chan\_yen\_ling\_michelle@moe.edu.sg](mailto:chan_yen_ling_michelle@moe.edu.sg)  <br>
 Mr Wang Shing Huei:&nbsp;[wang\_shing\_huei@moe.edu.sg](mailto:wang_shing_huei@moe.edu.sg)  <br>
 Mrs Monica Berger:&nbsp;[monica\_vasanti\_augustine@moe.edu.sg](mailto:monica_vasanti_augustine@moe.edu.sg)<br> 
-Mrs Angela Chin:&nbsp;[kam\_jiewen@moe.edu.sg](mailto:kam_jiewen@moe.edu.sg)
+Mrs Angela Chin:&nbsp;[kam\_jiewen@moe.edu.sg](mailto:kam_jiewen@moe.edu.sg)<br>
+Miss Angel Teo:&nbsp;[teo\_an\_chic\_angel@moe.edu.sg](mailto:teo_an_chic_angel@moe.edu.sg)
