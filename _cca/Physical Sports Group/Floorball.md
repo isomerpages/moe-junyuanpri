@@ -3,6 +3,7 @@ title: Floorball
 permalink: /cca/Physical-Sports-Group/Floorball/
 description: ""
 third_nav_title: Physical Sports Group
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -51,5 +52,4 @@ Mondays &amp; Fridays
 Mdm Subiati Bte Cromo:&nbsp;[subiati\_cromo@moe.edu.sg](mailto:subiati_cromo@moe.edu.sg)
 <br>
 Mr Pavadai Mohan:&nbsp;[pavadai\_mohan@moe.edu.sg](mailto:pavadai_mohan@moe.edu.sg)<br>
-Mdm Hafidzoh Sirri Bts Sajani:&nbsp;[hafidzoh\_sirri\_sajani@moe.edu.sg](mailto:hafidzoh_sirri_sajani@moe.edu.sg)<br>
-Mr Khairul:&nbsp;[khairul\_anwar\_kamaruddin@moe.edu.sg](mailto:khairul_anwar_kamaruddin@moe.edu.sg)
+Mdm Nur Azlina:&nbsp;[nur\_azlina\_othman@moe.edu.sg](mailto:nur_azlina_othman@moe.edu.sg)<br>
