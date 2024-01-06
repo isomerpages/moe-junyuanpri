@@ -4,7 +4,7 @@ permalink: /cca/CCAs/
 description: ""
 variant: markdown
 ---
-![](/images/banner.gif)
+o![](/images/banner.gif)
 
 
 CCA Policy 
@@ -72,7 +72,7 @@ To minimise disruption in the running of CCA programmes and activities in the
 year, please refer to the table below on the guidelines to request for change of
 CCA.
 
-<table><thead><tr><th style="background-color:    #ffe5b0" rowspan="3">Primary 1/2</th><th style="background-color:#f5dad8" colspan="3">Primary 3</th></tr><tr><th style="background-color:#f5dad8">Term 1</th><th style="background-color:#f5dad8">Term 2</th><th style="background-color:#f5dad8">Term 3 - 4</th></tr><tr><th style="background-color:#f5dad8">CCA Experience (Optional)</th><th style="background-color:#f5dad8">CCA Selection Exercise</th><th style="background-color:#f5dad8">CCA</th></tr></thead><tbody><tr><td>No CCA as PAL will allow the studentsto be exposed to all domains of CCA.</td><td>Students experience a CCA based on the CCAs available in CCA Experience.</td><td>Students select a CCA in Term 2. Students will start in their new CCA in Term 3.</td><td>All students are to remain in their current CCA until end of Term 4.<br><br><b><u>Any requests to change CCA can only take place towards the end of Term 4</u></b> after which, studentswill join new CCA in Term 1 the following year.</td></tr></tbody></table>
+<table style="border:1px solid black"><thead><tr><th style="background-color: #ffe5b0; border:1px solid black" rowspan="3">Primary 1/2</th><th style="background-color:#f5dad8;; border:1px solid black" colspan="3">Primary 3</th></tr><tr><th style="background-color:#f5dad8; ; border:1px solid black">Term 1</th><th style="background-color:#f5dad8;; border:1px solid black">Term 2</th><th style="background-color:#f5dad8;; border:1px solid black">Term 3 - 4</th></tr><tr><th style="background-color:#f5dad8;; border:1px solid black">CCA Experience (Optional)</th><th style="background-color:#f5dad8;; border:1px solid black">CCA Selection Exercise</th><th style="background-color:#f5dad8;; border:1px solid black">CCA</th></tr></thead><tbody><tr><td style="border:1px solid black">No CCA as PAL will allow the studentsto be exposed to all domains of CCA.</td><td style="border:1px solid black">Students experience a CCA based on the CCAs available in CCA Experience.</td><td style="border:1px solid black">Students select a CCA in Term 2. Students will start in their new CCA in Term 3.</td><td>All students are to remain in their current CCA until end of Term 4.<br><br><b><u>Any requests to change CCA can only take place towards the end of Term 4</u></b> after which, studentswill join new CCA in Term 1 the following year.</td></tr></tbody></table>
 
 &lt;<table><thead><tr><th colspan="2">Primary 4 &amp; Primary 5</th><th> Primary 6</th></tr><tr><th>Term 1 - 2</th><th>Term 3 -4 </th><th>Term 1 - 2</th></tr><tr><th>CCA</th><th>CCA</th><th>CCA</th></tr></thead><tbody><tr><td>Students remain in current CCA.</td><td>All students are to remain in current CCA until end of Term 4. <br><br><b><u>All requests to change CCA can only take place towards the end of Term 4</u></b> after which, students will join new CCA in Term 1 the following year.</td><td>Students remain in current CCA until end of Term 2. Students will step down from CCA at Term 3.</td></tr></tbody></table>
 
