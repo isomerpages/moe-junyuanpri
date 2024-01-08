@@ -3,6 +3,7 @@ title: Volleyball
 permalink: /cca/Physical-Sports-Group/Volleyball/
 description: ""
 third_nav_title: Physical Sports Group
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -39,4 +40,4 @@ Mondays &amp; Fridays
 Mr Andre Ye:&nbsp;[ye\_huankun\_andre@moe.edu.sg](mailto:ye_huankun_andre@moe.edu.sg)  <br>
 Mdm Marina:&nbsp;[marina\_hassan@moe.edu.sg](mailto:marina_hassan@moe.edu.sg) <br>
 Mrs Widdy Teh:&nbsp;[widdy\_haryanti\_srisungkouu@moe.edu.sg](mailto:widdy_haryanti_srisungkouu@moe.edu.sg)  <br>
-Mdm Halima:&nbsp;[halimatussadiah\_jaffar@moe.edu.sg](mailto:halimatussadiah_jaffar@moe.edu.sg)
+Mdm De Souza Valerie Jean:&nbsp;[de\_souza\_valerie\_jean@moe.edu.sg](mailto:de_souza_valerie_jean@moe.edu.sg)

@@ -3,6 +3,7 @@ title: Scouts Cubs
 permalink: /cca/Uniformed-Groups/ScoutsCubs/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -55,6 +56,6 @@ Fridays&nbsp;<br>
   
 
 **Teachers IC and Email address:**  
-Mdm Loo Chin Imm: l[oo\_chin\_imm@moe.edu.sg](mailto:oo_chin_imm@moe.edu.sg)  
+Mdm Loo Chin Imm: l[oo\_chin\_imm@moe.edu.sg](mailto:oo_chin_imm@moe.edu.sg) <br>
 Mr Kelvin Goh:&nbsp;[goh\_wei\_keong\_kelvin@moe.edu.sg](mailto:goh_wei_keong_kelvin@moe.edu.sg)  
-Mdm Goh Mei Ling:&nbsp;[goh\_mei\_ling\_a@moe.edu.sg](mailto:goh_mei_ling_a@moe.edu.sg)
+Mdm Liyana:&nbsp;[nur\_liyana\_amrun@moe.edu.sg](mailto:nur_liyana_amrun@moe.edu.sg)

@@ -3,6 +3,7 @@ title: Tchoukball
 permalink: /cca/Physical-Sports-Group/Tchoukball/
 description: ""
 third_nav_title: Physical Sports Group
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -107,4 +108,5 @@ Mondays &amp; Fridays
 **Teachers IC and Email address:**  
 Mr Koh Thiam Joo:&nbsp;[koh\_thiam\_joo@moe.edu.sg](mailto:koh_thiam_joo@moe.edu.sg)  
 Mdm Soh Eng Wee:&nbsp;[soh\_eng\_wee@moe.edu.sg](mailto:soh_eng_wee@moe.edu.sg)  
-Mr Terence Khoo:&nbsp;[khoo\_kang\_ming@moe.edu.sg](mailto:khoo_kang_ming@moe.edu.sg)
+Mr Terence Khoo:&nbsp;[khoo\_kang\_ming@moe.edu.sg](mailto:khoo_kang_ming@moe.edu.sg)<br>
+Mdm Lydia Teh:&nbsp;[teh\_soo\_wen\_lydia@moe.edu.sg](mailto:teh_soo_wen_lydia@moe.edu.sg)
