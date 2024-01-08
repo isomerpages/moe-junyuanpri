@@ -9,6 +9,16 @@ variant: markdown
 Announcements
 =============
 
+Dear JYPS Students and Parents,
+
+Do you have a teacher in mind to nominate for the Caring Teacher Award
+[https://www.cta.nie.edu.sg/nominate](https://www.cta.nie.edu.sg/nominate) ?
+
+Please nominate if you have a teacher in mind. That will be the best affirmation that you can give to the teachers. Please do so before 12 January 2024.
+
+![https://www.cta.nie.edu.sg/nominate](/images/Screenshot_2024_01_08_154815.png)
+
+
 ### JYPS 35th Anniversary Coffeetable e-Book&nbsp; !New
 
 Click [here](https://drive.google.com/file/d/1gkwvfmR3U4kQIjAPnKtO4IKkWfjHOHoo/view?usp=sharing) &nbsp;to access the 35th Anniversary Coffeetable e-Book.
