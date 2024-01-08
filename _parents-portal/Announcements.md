@@ -11,7 +11,7 @@ Announcements
 
 Dear JYPS Students and Parents,
 
-Do you have a teacher in mind to nominate for the Caring Teacher Award
+Do you have a teacher in mind to nominate for the Caring Teacher Awards
 [https://www.cta.nie.edu.sg/nominate](https://www.cta.nie.edu.sg/nominate) ?
 
 Please nominate if you have a teacher in mind. That will be the best affirmation that you can give to the teachers. Please do so before 12 January 2024.
