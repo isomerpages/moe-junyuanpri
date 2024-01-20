@@ -2,11 +2,16 @@
 title: Announcements
 permalink: /mk-at-junyuan/Announcements/
 description: ""
+variant: markdown
 ---
 ![](/images/banner.gif)
 
 
 Announcements
 =============
+####  MK@JUNYUAN Open House 2024        
+![](/images/MK_Open_House_2024.jpg)
 
-#### MOE Kindergarten Registration Exercise for K1 Admission 2024 has closed. Thank you
+MK@JUNYUAN Open House 2024 will be held on **Saturday, 3 February 2024 at 8.30am to 12.30pm.** Parents can sign up via the [FormSG Link](https://go.gov.sg/mkoh2024) or QR code above.
+
+We look forward to seeing you!
