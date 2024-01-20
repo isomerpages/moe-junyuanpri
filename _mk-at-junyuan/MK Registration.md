@@ -2,34 +2,25 @@
 title: MK Registration
 permalink: /mk-at-junyuan/MK-Registration/
 description: ""
+variant: markdown
 ---
 ![](/images/banner.gif)
 
 
 MK Registration
 ===============
+![](/images/MK_logo.jpg)
 
+### * MK Registration Exercise for K1 2025
 
-Registration for MK@Junyuan <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(K1 – 2024 Cohort) <br>
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(K2 – 2024 Cohort)
+Online registration for 2025 K1 admissions for both Open Admissions (OA) and Early Years Centre (EYC) children will
 
+*  Open from **9am on Friday, 16 February 2024** and
+*  Close at **4pm on Tuesday, 20 February 2024**
 
-  
+You can register your child for the 2025 Kindergarten 1 (K1) admission to an MOE Kindergarten (MK) if your child is
 
-Dear Parents/Guardians,  
+*   A Singapore Citizen (SC) or Permanent Resident (PR); and
+*   Born between 2 January 2020 and 1 January 2021, both dates inclusive.
 
-  
-
-All incoming applications for Registration for MK@Junyuan will be placed under the&nbsp;Waitlist&nbsp;as the official registration window has closed.  
-  
-
-<b>You may submit your application via the FormSG Link or QR code for MK@Junyuan Waitlist form below: </b>  
-
-<b>MK Junyuan Waitlist Form:</b>&nbsp;&nbsp;[https://go.gov.sg/mkjunyuanwaitlist](https://go.gov.sg/mkjunyuanwaitlist)
-
-
-
-<img src="/images/mkwaitlist.png" style="width:60%">
-
-
-For more information, you can visit MK website ([www.moe.gov.sg/mk](http://www.moe.gov.sg/mk)) or contact the MK ([www.moe.gov.sg/schoolfinder-mk](http://www.moe.gov.sg/schoolfinder-mk)) directly if you have further queries.
+**Online registration will be via MK Website:** [**https://www.moe.gov.sg/preschool/moe-kindergarten/register**](https://www.moe.gov.sg/preschool/moe-kindergarten/register)
