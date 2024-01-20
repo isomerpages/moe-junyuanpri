@@ -9,7 +9,6 @@ variant: markdown
 
 MK Registration
 ===============
-![](/images/MK_logo.jpg)
 
 ### •	MK Registration Exercise for K1 2025
 
@@ -39,4 +38,5 @@ All incoming applications for Registration for MK@Junyuan will be placed under t
 You may submit your application via the FormSG Link or QR code for MK@Junyuan Waitlist form below:
 
 MK Junyuan Waitlist Form:  [https://go.gov.sg/mkjunyuanwaitlist](https://go.gov.sg/mkjunyuanwaitlist)
-![](/images/mk_waitlist_qrcode.png) 
+
+![](/images/mk_waitlist_qrcode.png)
