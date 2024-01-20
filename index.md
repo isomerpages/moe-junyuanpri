@@ -13,6 +13,6 @@ sections:
           description: JYPS January Bulletin 2024
           url: /parents-portal/JYPS-Bulletin/
         - title: Announcements (MOE Kindergarten)
-          description: Open House
+          description: "Open House 2024 "
           url: /mk-at-junyuan/Announcements/
 ---
