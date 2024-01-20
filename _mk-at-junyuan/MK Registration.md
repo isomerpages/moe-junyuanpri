@@ -39,4 +39,4 @@ You may submit your application via the FormSG Link or QR code for MK@Junyuan Wa
 
 MK Junyuan Waitlist Form:  [https://go.gov.sg/mkjunyuanwaitlist](https://go.gov.sg/mkjunyuanwaitlist)
 
-<img height="50" width="50" src="/images/mk_waitlist_qrcode.png">
+<img height="10%/" width="10%" src="/images/mk_waitlist_qrcode.png">
