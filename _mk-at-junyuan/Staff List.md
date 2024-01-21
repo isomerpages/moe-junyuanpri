@@ -34,6 +34,11 @@ Staff List
     <td class="tg-ncov">Centre Head (CH)</td>
     <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">vidthya_surandran@moe.edu.sg</span><br></td>
   </tr>
+	<tr>
+    <td class="tg-ncov"> Ms Denise Pun Jie Zhen</td>
+    <td class="tg-ncov"> Level Head (LH)</td>
+    <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">pun_jie_zhen_denise@moe.edu.sg</span> </td>
+  </tr>
   <tr>
     <td class="tg-ncov">Mdm Rasyidah Binte Rosdi</td>
     <td class="tg-ncov">Admin Executive (AE)</td>
@@ -58,11 +63,6 @@ Staff List
     <td class="tg-ncov"> Miss Jolene Ang Zhuo Hui</td>
     <td class="tg-ncov">K1 English Language Teacher </td>
     <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">ang_zhuo_hui_jolene@moe.edu.sg</span> </td>
-  </tr>
-  <tr>
-    <td class="tg-ncov"> Ms Denise Pun Jie Zhen</td>
-    <td class="tg-ncov"> K2 English Language Teacher</td>
-    <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">pun_jie_zhen_denise@moe.edu.sg</span> </td>
   </tr>
   <tr>
     <td class="tg-ncov"> Ms Atiqah Bte Ismael</td>
