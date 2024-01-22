@@ -34,6 +34,11 @@ Staff List
     <td class="tg-ncov">Centre Head (CH)</td>
     <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">vidthya_surandran@moe.edu.sg</span><br></td>
   </tr>
+	<tr>
+    <td class="tg-ncov"> Ms Denise Pun Jie Zhen</td>
+    <td class="tg-ncov"> Level Head (LH)</td>
+    <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">pun_jie_zhen_denise@moe.edu.sg</span> </td>
+  </tr>
   <tr>
     <td class="tg-ncov">Mdm Rasyidah Binte Rosdi</td>
     <td class="tg-ncov">Admin Executive (AE)</td>
@@ -41,62 +46,62 @@ Staff List
   </tr>
   <tr>
     <td class="tg-ncov"> Ms Insyirah Arissa Binte Iskandar</td>
-    <td class="tg-ncov"> K1 English Language Teacher</td>
+    <td class="tg-ncov">English Language Teacher</td>
     <td class="tg-ncov"> <span style="text-decoration:underline;color:#A52023">insyirah_arissa_iskandar@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-ncov"> Ms Khaniza Binte Syed Rashid</td>
-    <td class="tg-ncov">  K1 English Language Teacher</td>
+    <td class="tg-ncov">English Language Teacher</td>
     <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">khaniza_syed_rashid@moe.edu.sg</span> </td>
   </tr>
   <tr>
     <td class="tg-ncov"> Ms Noor Faizah Binte Mohamed Rahim</td>
-    <td class="tg-ncov">K1 English Language Teacher </td>
+    <td class="tg-ncov">English Language Teacher </td>
     <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">noor_faizah_mohamed_rahim@moe.edu.sg</span> </td>
   </tr>
   <tr>
     <td class="tg-ncov"> Miss Jolene Ang Zhuo Hui</td>
-    <td class="tg-ncov">K1 English Language Teacher </td>
+    <td class="tg-ncov">English Language Teacher </td>
     <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">ang_zhuo_hui_jolene@moe.edu.sg</span> </td>
   </tr>
   <tr>
-    <td class="tg-ncov"> Ms Denise Pun Jie Zhen</td>
-    <td class="tg-ncov"> K2 English Language Teacher</td>
-    <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">pun_jie_zhen_denise@moe.edu.sg</span> </td>
-  </tr>
-  <tr>
     <td class="tg-ncov"> Ms Atiqah Bte Ismael</td>
-    <td class="tg-ncov">K2 English Language Teacher </td>
+    <td class="tg-ncov">English Language Teacher </td>
     <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">nurul_atiqah_ismael@moe.edu.sg</span><br></td>
+  </tr>
+	 <tr>
+    <td class="tg-ncov"> Mdm Tan Chai Hong Jovina</td>
+    <td class="tg-ncov">English Language Teacher </td>
+    <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">jovina_tan_chai_hong@moe.edu.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-ncov"> Ms Izzah Syaza Binte Tazhar</td>
-    <td class="tg-ncov">K2 English Language Teacher </td>
+    <td class="tg-ncov">English Language Teacher </td>
     <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">izzah_syaza_tazhar@moe.edu.sg</span><br></td>
   </tr>
   <tr>
-    <td class="tg-ncov">Ms Fang Xuiyi (Fang Laoshi)<br></td>
-    <td class="tg-ncov">K1 Chinese Language Teacher </td>
+    <td class="tg-ncov">Ms Fang Xuiyi <br>(Fang Laoshi)<br></td>
+    <td class="tg-ncov">Chinese Language Teacher </td>
     <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">fang_xiuyi@moe.edu.sg</span> <br></td>
   </tr>
   <tr>
-    <td class="tg-ncov"> Ms Xue Ting (Xue Laoshi) </td>
-    <td class="tg-ncov"> K2 Chinese Language Teacher </td>
+    <td class="tg-ncov"> Ms Xue Ting <br> (Xue Laoshi) </td>
+    <td class="tg-ncov"> Chinese Language Teacher </td>
     <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">xue_ting@moe.edu.sg</span><br></td>
   </tr>
   <tr>
-    <td class="tg-ncov"> Ms Lee Huey Yng (Lee Laoshi)</td>
-    <td class="tg-ncov"> K1 &amp; K2 Chinese Language Teacher</td>
+    <td class="tg-ncov"> Ms Lee Huey Yng <br>(Lee Laoshi)</td>
+    <td class="tg-ncov">Chinese Language Teacher</td>
     <td class="tg-ncov"> <span style="text-decoration:underline;color:#A52023">lee_huey_yng@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-ncov"> Ms Nur Syafiqah Binte Mazlan</td>
-    <td class="tg-ncov"> K1 Malay Language Teacher </td>
+    <td class="tg-ncov"> Malay Language Teacher </td>
     <td class="tg-ncov">  <span style="text-decoration:underline;color:#A52023">nur_syafiqah_mazlan@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-ncov"> Miss Waheeda Jabeen Binte Jamal Mohd</td>
-    <td class="tg-ncov">K1 &amp; K2 Tamil Language Teacher </td>
+    <td class="tg-ncov">Tamil Language Teacher </td>
     <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">waheeda_jabeen_jamal_mohd@moe.edu.sg</span></td>
   </tr>
 </tbody>

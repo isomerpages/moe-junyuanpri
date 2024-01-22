@@ -9,7 +9,10 @@ sections:
   - hero:
       background: /images/Homepage.gif
       key_highlights:
-        - title: Announcements
+        - title: Announcements (Primary)
           description: JYPS January Bulletin 2024
           url: /parents-portal/JYPS-Bulletin/
+        - title: Announcements (MOE Kindergarten)
+          description: "Open House 2024 "
+          url: /mk-at-junyuan/Announcements/
 ---
