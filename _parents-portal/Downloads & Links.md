@@ -61,7 +61,8 @@ variant: markdown
 * [Mathematics Curriculum](/files/2024_P6_MA_Curriculum_Briefing.pdf)<br>
 * [English Curriculum](/files/2024_P6_Std_EL___Fdn_EL_Presentation_for_Curriculum_Briefing.pdf)<br>
 * [Mother Tongue Language Curriculum](/files/2024_P6_MTL_Curriculum_Briefing.pdf)<br>
-* [PE / Art / Music / CCA Curriculum](/files/2024_P6_PAM_CCA_Curriculum_Briefing.pdf)
+* [PE / Art / Music / CCA Curriculum](/files/2024_P6_PAM_CCA_Curriculum_Briefing.pdf)<br>
+* [Briefing Recording](https://drive.google.com/file/d/1LDtVOwFMznSNO5Y7LMjRSGzwzjNKQ7bS/view?usp=sharing)
 
 ##### **2024 Primary 1 Matters&nbsp;\*NEW!**
 
