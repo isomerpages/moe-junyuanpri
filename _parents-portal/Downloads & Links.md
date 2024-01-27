@@ -48,6 +48,17 @@ variant: markdown
 * [Science Curriculum](/files/2024_P5_Sci_Curriculum_Briefing.pdf)<br>
 * [Mother Tongue Language Curriculum](/files/2024_P5_MTL_Curriculum_Briefing.pdf)
 
+
+##### <b>Primary 6 Briefing Slides</b><br>
+* [Principal's Address](/files/2024_P6_Curriculum_Briefing_P_FInal.pdf)<br>
+* [Assistant Year Head's Address](/files/2024_P6_AYH_Curriculum_Briefing.pdf)<br>
+* [CCE / SS Curriculum](/files/2024_P6_CCE_Curriculum_Briefing.pdf)<br>
+* [Science Curriculum](/files/2024_P6_SCI_Curriculum_Briefing.pdf)<br>
+* [Mathematics Curriculum](/files/2024_P6_MA_Curriculum_Briefing.pdf)<br>
+* [English Curriculum](/files/2024_P6_Std_EL___Fdn_EL_Presentation_for_Curriculum_Briefing.pdf)<br>
+* [Mother Tongue Language Curriculum](/files/2024_P6_MTL_Curriculum_Briefing.pdf)<br>
+* [PE / Art / Music / CCA Curriculum](/files/2024_P6_PAM_CCA_Curriculum_Briefing.pdf)
+
 ##### **2024 Primary 1 Matters&nbsp;\*NEW!**
 
 *   [2024 P1 Links &amp; Downloads](https://go.gov.sg/jyps2024p1)
