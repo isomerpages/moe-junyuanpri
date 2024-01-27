@@ -15,7 +15,7 @@ variant: markdown
 * [Mathematics Curriculum](/files/2024_P2_Math_Curriculum_Briefing.pdf)<br>
 * [Mother Tongue Language Curriculum](/files/2024_P2_MTL_Curriculum_Briefing.pdf)<br>
 * [CCE / SS Curriculum](/files/2024_P2_CCE_Curriculum_Briefing.pdf)<br>
-* [PAM / PAL Curriculum](/files/2024_P2_PAM_PAL_CCA_Curriculum_Briefing_2024.pdf)
+* [PE / Art / Music / PAL / CCA Curriculum](/files/2024_P2_PAM_PAL_CCA_Curriculum_Briefing_2024.pdf)
 
 ##### <b>Primary 3 Briefing Slides</b><br>
 * [Vice Principal's Address](/files/2024_P3_VP_Curriculum_Briefing.pdf)<br>
