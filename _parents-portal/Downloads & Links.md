@@ -34,7 +34,7 @@ variant: markdown
 * [English Curriculum](/files/2024_P4_EL_Cclm_Briefing.pdf)<br>
 * [Mother Tongue Language Curriculum](/files/2024_P4_MTL_Curriculum_Briefing.pdf)<br>
 * [Mathematics Curriculum](/files/2024_P4_MA_Curriculum_Briefing.pdf)<br>
-* [PAM / CCA Curriculum](/files/2024_P4_PAM_CCA_Curriculum_Briefing.pdf)<br>
+* [PE / Art / Music / CCA Curriculum](/files/2024_P4_PAM_CCA_Curriculum_Briefing.pdf)<br>
 * [CCE / SS Curriculum](/files/2024_P4_CCE_Curriculum_Briefing.pdf)<br>
 
 
