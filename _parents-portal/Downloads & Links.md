@@ -49,7 +49,8 @@ variant: markdown
 * [PE / Art / Music / CCA Curriculum](/files/2024_P5_PAM_CCA_Curriculum_Briefing_reduced.pdf)<br>
 * [Mathematics Curriculum](/files/2024_P5_MA_Curriculum_Briefing.pdf)<br>
 * [Science Curriculum](/files/2024_P5_Sci_Curriculum_Briefing.pdf)<br>
-* [Mother Tongue Language Curriculum](/files/2024_P5_MTL_Curriculum_Briefing.pdf)
+* [Mother Tongue Language Curriculum](/files/2024_P5_MTL_Curriculum_Briefing.pdf)<br>
+* [Briefing Recording](https://drive.google.com/file/d/1ZGNNBCx8kWna6m9_z5h8sYHGBGZq-LZ4/view?usp=sharing)
 
 
 ##### <b>Primary 6 Briefing Slides</b><br>
