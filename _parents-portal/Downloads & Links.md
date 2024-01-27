@@ -20,7 +20,7 @@ variant: markdown
 ##### <b>Primary 3 Briefing Slides</b><br>
 * [Vice Principal's Address](/files/2024_P3_VP_Curriculum_Briefing.pdf)<br>
 * [Assistant Year Head's Address](/files/2024_P3_AYH_Briefing.pdf)<br>
-* [PAM Curriculum](/files/2024_P3_PAM_CCA_Curriculum_Briefing.pdf)<br>
+* [PE / Art / Music / CCA Curriculum](/files/2024_P3_PAM_CCA_Curriculum_Briefing.pdf)<br>
 * [Mother Tongue Language Curriculum](/files/2024_P3_MTL_Briefing.pdf)<br>
 * [English Curriculum](/files/2024_P3_EL_Briefing.pdf)<br>
 *  [Mathematics Curriculum](/files/2024_P3_MA_Briefing.pdf)<br>
