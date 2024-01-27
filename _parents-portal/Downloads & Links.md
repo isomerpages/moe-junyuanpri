@@ -36,6 +36,7 @@ variant: markdown
 * [Mathematics Curriculum](/files/2024_P4_MA_Curriculum_Briefing.pdf)<br>
 * [PE / Art / Music / CCA Curriculum](/files/2024_P4_PAM_CCA_Curriculum_Briefing.pdf)<br>
 * [CCE / SS Curriculum](/files/2024_P4_CCE_Curriculum_Briefing.pdf)<br>
+* [Curriculum Briefing Recording](https://drive.google.com/file/d/18_8JfV58PSDU2nSyjrXc2dQGpkY3VdR1/view?usp=sharing)
 
 
 ##### <b>Primary 5 Briefing Slides</b><br>
