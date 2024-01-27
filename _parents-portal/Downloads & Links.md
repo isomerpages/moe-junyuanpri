@@ -26,7 +26,8 @@ variant: markdown
 * [English Curriculum](/files/2024_P3_EL_Briefing.pdf)<br>
 *  [Mathematics Curriculum](/files/2024_P3_MA_Briefing.pdf)<br>
 * [Science Curriculum](/files/2024_P3_SCI_Curriculum_Briefing.pdf)<br>
-* [CCE / SS Curriculum](/files/2024_P3_CCE_Briefing.pdf)
+* [CCE / SS Curriculum](/files/2024_P3_CCE_Briefing.pdf)<br>
+* [Briefing Recording](https://drive.google.com/file/d/12PrVKOiNWREARftS8s_e82P4tKV6C-Ml/view?usp=sharing)
 
 ##### <b>Primary 4 Briefing Slides &amp; Zoom Recording</b><br>
 * [Principal's Address](/files/2024_P4_Curriculum_Briefing_P_Uploading.pdf)<br>
