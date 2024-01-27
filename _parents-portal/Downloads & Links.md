@@ -36,7 +36,17 @@ variant: markdown
 * [Mathematics Curriculum](/files/2024_P4_MA_Curriculum_Briefing.pdf)<br>
 * [PAM / CCA Curriculum](/files/2024_P4_PAM_CCA_Curriculum_Briefing.pdf)<br>
 * [CCE / SS Curriculum](/files/2024_P4_CCE_Curriculum_Briefing.pdf)<br>
-* 
+
+
+##### <b>Primary 5 Briefing Slides</b><br>
+* [Principal's Address](/files/2024_P5_Curriculum_Briefing_P_Uploading.pdf)<br>
+* [Assistant Year Head's Address](/files/2024_P5_Curriculum_Briefing_AYH_updated_on_24_Jan.pdf)<br>
+* [English Curriculum](/files/2024_P5_Std_EL___Fdn_EL_Presentation_for_Curriculum_Briefing_upload.pdf)<br>
+* [CCE / SS Curriculum](/files/2024_P5_CCE_Curriculum_Briefing.pdf)<br>
+* [PE / Art / Music / CCA Curriculum](/files/2024_P5_PAM_CCA_Curriculum_Briefing_reduced.pdf)<br>
+* [Mathematics Curriculum](/files/2024_P5_MA_Curriculum_Briefing.pdf)<br>
+* [Science Curriculum](/files/2024_P5_Sci_Curriculum_Briefing.pdf)<br>
+* [Mother Tongue Language Curriculum](/files/2024_P5_MTL_Curriculum_Briefing.pdf)
 
 ##### **2024 Primary 1 Matters&nbsp;\*NEW!**
 
