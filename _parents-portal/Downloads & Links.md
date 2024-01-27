@@ -7,16 +7,18 @@ variant: markdown
 ![](/images/banner.gif)
 
 
-#### <b>2024 Curriculum Briefing &nbsp;&nbsp;**\*NEW!**
-##### Primary 2 Briefing Slides</b>
-[Vice-Principal's Address](/files/2024_P2_VP_Curriculum_Briefing.pdf)<br>
-[Year Head's Address](/files/2024_P2_AYH_Curriculum_Briefing.pdf)<br>
-[English Curriculum](/files/2024_P2_EL_Presentation_for_Curriculum_Briefing.pdf)<br>
-[Mathematics Curriculum](/files/2024_P2_Math_Curriculum_Briefing.pdf)<br>
-[Mother Tongue Language Curriculum](/files/2024_P2_MTL_Curriculum_Briefing.pdf)<br>
-[CCE / SS Curriculum](/files/2024_P2_CCE_Curriculum_Briefing.pdf)<br>
-[PAM / PAL Curriculum](/files/2024_P2_PAM_PAL_CCA_Curriculum_Briefing_2024.pdf)
+#### <b>2024 Curriculum Briefing &nbsp;&nbsp;**\*NEW!**</b>
+##### <b>Primary 2 Briefing Slides</b><br>
+* [Vice-Principal's Address](/files/2024_P2_VP_Curriculum_Briefing.pdf)<br>
+* [Year Head's Address](/files/2024_P2_AYH_Curriculum_Briefing.pdf)<br>
+* [English Curriculum](/files/2024_P2_EL_Presentation_for_Curriculum_Briefing.pdf)<br>
+* [Mathematics Curriculum](/files/2024_P2_Math_Curriculum_Briefing.pdf)<br>
+* [Mother Tongue Language Curriculum](/files/2024_P2_MTL_Curriculum_Briefing.pdf)<br>
+* [CCE / SS Curriculum](/files/2024_P2_CCE_Curriculum_Briefing.pdf)<br>
+* [PAM / PAL Curriculum](/files/2024_P2_PAM_PAL_CCA_Curriculum_Briefing_2024.pdf)
 
+##### <b>Primary 2 Briefing Slides</b><br>
+* 
 
 ##### **2024 Primary 1 Matters&nbsp;\*NEW!**
 
