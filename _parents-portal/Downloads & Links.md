@@ -2,17 +2,21 @@
 title: Downloads & Links
 permalink: /parents-portal/Downloads-and-Links/
 description: ""
+variant: markdown
 ---
 ![](/images/banner.gif)
 
-Downloads &amp; Links
-=================
-##### **2023 Math Alive&nbsp;\*NEW!**
-* [P1 Briefing Slides](/files/p1%20math%20alive%20workshop%20for%20parents%2014%20april%202023%20(for%20school%20website).pdf)
-* [P2 Briefing Slides](/files/p2%20math%20alive%20workshop%20for%20parents%2014%20april%202023%20(for%20school%20website).pdf)
-* [P3 Briefing Slides](/files/p3%20math%20alive%20workshop%20for%20parents%2014%20april%202023%20(for%20school%20website).pdf)
-* [P4 Briefing Slides](/files/p4%20math%20alive%20workshop%20for%20parents%2014%20april%202023%20(for%20school%20website).pdf)
-* [P5 &amp; P6 Briefing Slides](/files/p5%20&amp;%206%20math%20alive!%20workshop%20for%20parents%2031%20march%2023.pdf)
+
+#### <b>2024 Curriculum Briefing &nbsp;&nbsp;**\*NEW!**
+##### Primary 2 Briefing Slides</b>
+[Vice-Principal's Address](/files/2024_P2_VP_Curriculum_Briefing.pdf)<br>
+[Year Head's Address](/files/2024_P2_AYH_Curriculum_Briefing.pdf)<br>
+[English Curriculum](/files/2024_P2_EL_Presentation_for_Curriculum_Briefing.pdf)<br>
+[Mathematics Curriculum](/files/2024_P2_Math_Curriculum_Briefing.pdf)<br>
+[Mother Tongue Language Curriculum](/files/2024_P2_MTL_Curriculum_Briefing.pdf)<br>
+[CCE / SS Curriculum](/files/2024_P2_CCE_Curriculum_Briefing.pdf)<br>
+[PAM / PAL Curriculum](/files/2024_P2_PAM_PAL_CCA_Curriculum_Briefing_2024.pdf)
+
 
 ##### **2024 Primary 1 Matters&nbsp;\*NEW!**
 
