@@ -8,7 +8,7 @@ variant: markdown
 
 
 #### <b>2024 Curriculum Briefing &nbsp;&nbsp;**\*NEW!**</b>
-##### <b>Primary 2 Briefing Slides</b><br>
+##### <b>Primary 2 Briefing Slides &amp; Recording</b><br>
 * [Vice Principal's Address](/files/2024_P2_VP_Curriculum_Briefing.pdf)<br>
 * [Assistant Year Head's Address](/files/2024_P2_AYH_Curriculum_Briefing.pdf)<br>
 * [English Curriculum](/files/2024_P2_EL_Presentation_for_Curriculum_Briefing.pdf)<br>
@@ -18,7 +18,7 @@ variant: markdown
 * [PE / Art / Music / PAL / CCA Curriculum](/files/2024_P2_PAM_PAL_CCA_Curriculum_Briefing_2024.pdf)<br>
 * [Briefing Recording](https://drive.google.com/file/d/1cbf__KuhvjeSZdMLH3Ac9X2BQ8m1bmv9/view?usp=sharing)
 
-##### <b>Primary 3 Briefing Slides</b><br>
+##### <b>Primary 3 Briefing Slides &amp; Recording</b><br>
 * [Vice Principal's Address](/files/2024_P3_VP_Curriculum_Briefing.pdf)<br>
 * [Assistant Year Head's Address](/files/2024_P3_AYH_Briefing.pdf)<br>
 * [PE / Art / Music / CCA Curriculum](/files/2024_P3_PAM_CCA_Curriculum_Briefing.pdf)<br>
@@ -29,7 +29,7 @@ variant: markdown
 * [CCE / SS Curriculum](/files/2024_P3_CCE_Briefing.pdf)<br>
 * [Briefing Recording](https://drive.google.com/file/d/12PrVKOiNWREARftS8s_e82P4tKV6C-Ml/view?usp=sharing)
 
-##### <b>Primary 4 Briefing Slides &amp; Zoom Recording</b><br>
+##### <b>Primary 4 Briefing Slides &amp; Recording</b><br>
 * [Principal's Address](/files/2024_P4_Curriculum_Briefing_P_Uploading.pdf)<br>
 * [Year Head's Address](/files/2024_P4_YH_Curriculum_Briefing.pdf)<br>
 * [Science Curriculum](/files/2024_P4_SCI_Curriculum_Briefing.pdf)<br>
@@ -41,7 +41,7 @@ variant: markdown
 * [Briefing Recording](https://drive.google.com/file/d/1IvyW4RysjH9vtqyOw0gGo1ceYsnv7IWp/view?usp=sharing)
 
 
-##### <b>Primary 5 Briefing Slides</b><br>
+##### <b>Primary 5 Briefing Slides &amp; Recording</b><br>
 * [Principal's Address](/files/2024_P5_Curriculum_Briefing_P_Uploading.pdf)<br>
 * [Assistant Year Head's Address](/files/2024_P5_Curriculum_Briefing_AYH_updated_on_24_Jan.pdf)<br>
 * [English Curriculum](/files/2024_P5_Std_EL___Fdn_EL_Presentation_for_Curriculum_Briefing_upload.pdf)<br>
@@ -53,7 +53,7 @@ variant: markdown
 * [Briefing Recording](https://drive.google.com/file/d/1ZGNNBCx8kWna6m9_z5h8sYHGBGZq-LZ4/view?usp=sharing)
 
 
-##### <b>Primary 6 Briefing Slides</b><br>
+##### <b>Primary 6 Briefing Slides &amp; Recording</b><br>
 * [Principal's Address](/files/2024_P6_Curriculum_Briefing_P_FInal.pdf)<br>
 * [Assistant Year Head's Address](/files/2024_P6_AYH_Curriculum_Briefing.pdf)<br>
 * [CCE / SS Curriculum](/files/2024_P6_CCE_Curriculum_Briefing.pdf)<br>
