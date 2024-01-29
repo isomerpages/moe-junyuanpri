@@ -2,17 +2,67 @@
 title: Downloads & Links
 permalink: /parents-portal/Downloads-and-Links/
 description: ""
+variant: markdown
 ---
 ![](/images/banner.gif)
 
-Downloads &amp; Links
-=================
-##### **2023 Math Alive&nbsp;\*NEW!**
-* [P1 Briefing Slides](/files/p1%20math%20alive%20workshop%20for%20parents%2014%20april%202023%20(for%20school%20website).pdf)
-* [P2 Briefing Slides](/files/p2%20math%20alive%20workshop%20for%20parents%2014%20april%202023%20(for%20school%20website).pdf)
-* [P3 Briefing Slides](/files/p3%20math%20alive%20workshop%20for%20parents%2014%20april%202023%20(for%20school%20website).pdf)
-* [P4 Briefing Slides](/files/p4%20math%20alive%20workshop%20for%20parents%2014%20april%202023%20(for%20school%20website).pdf)
-* [P5 &amp; P6 Briefing Slides](/files/p5%20&amp;%206%20math%20alive!%20workshop%20for%20parents%2031%20march%2023.pdf)
+
+#### <b>2024 Curriculum Briefing &nbsp;&nbsp;**\*NEW!**</b>
+##### <b>Primary 2 Briefing Slides &amp; Recording</b><br>
+* [Vice Principal's Address](/files/2024_P2_VP_Curriculum_Briefing.pdf)<br>
+* [Assistant Year Head's Address](/files/2024_P2_AYH_Curriculum_Briefing.pdf)<br>
+* [English Curriculum](/files/2024_P2_EL_Presentation_for_Curriculum_Briefing.pdf)<br>
+* [Mathematics Curriculum](/files/2024_P2_Math_Curriculum_Briefing.pdf)<br>
+* [Mother Tongue Language Curriculum](/files/2024_P2_MTL_Curriculum_Briefing.pdf)<br>
+* [CCE / SS Curriculum](/files/2024_P2_CCE_Curriculum_Briefing.pdf)<br>
+* [PE / Art / Music / PAL / CCA Curriculum](/files/2024_P2_PAM_PAL_CCA_Curriculum_Briefing_2024.pdf)<br>
+* [Briefing Recording](https://drive.google.com/file/d/1cbf__KuhvjeSZdMLH3Ac9X2BQ8m1bmv9/view?usp=sharing)
+
+##### <b>Primary 3 Briefing Slides &amp; Recording</b><br>
+* [Vice Principal's Address](/files/2024_P3_VP_Curriculum_Briefing.pdf)<br>
+* [Assistant Year Head's Address](/files/2024_P3_AYH_Briefing.pdf)<br>
+* [PE / Art / Music / CCA Curriculum](/files/2024_P3_PAM_CCA_Curriculum_Briefing.pdf)<br>
+* [Mother Tongue Language Curriculum](/files/2024_P3_MTL_Briefing.pdf)<br>
+* [English Curriculum](/files/2024_P3_EL_Briefing.pdf)<br>
+*  [Mathematics Curriculum](/files/2024_P3_MA_Briefing.pdf)<br>
+* [Science Curriculum](/files/2024_P3_SCI_Curriculum_Briefing.pdf)<br>
+* [CCE / SS Curriculum](/files/2024_P3_CCE_Briefing.pdf)<br>
+* [Briefing Recording](https://drive.google.com/file/d/12PrVKOiNWREARftS8s_e82P4tKV6C-Ml/view?usp=sharing)
+
+##### <b>Primary 4 Briefing Slides &amp; Recording</b><br>
+* [Principal's Address](/files/2024_P4_Curriculum_Briefing_P_Uploading.pdf)<br>
+* [Year Head's Address](/files/2024_P4_YH_Curriculum_Briefing.pdf)<br>
+* [Science Curriculum](/files/2024_P4_SCI_Curriculum_Briefing.pdf)<br>
+* [English Curriculum](/files/2024_P4_EL_Cclm_Briefing.pdf)<br>
+* [Mother Tongue Language Curriculum](/files/2024_P4_MTL_Curriculum_Briefing.pdf)<br>
+* [Mathematics Curriculum](/files/2024_P4_MA_Curriculum_Briefing.pdf)<br>
+* [PE / Art / Music / CCA Curriculum](/files/2024_P4_PAM_CCA_Curriculum_Briefing.pdf)<br>
+* [CCE / SS Curriculum](/files/2024_P4_CCE_Curriculum_Briefing.pdf)<br>
+* [Briefing Recording](https://drive.google.com/file/d/1IvyW4RysjH9vtqyOw0gGo1ceYsnv7IWp/view?usp=sharing)
+
+
+##### <b>Primary 5 Briefing Slides &amp; Recording</b><br>
+* [Principal's Address](/files/2024_P5_Curriculum_Briefing_P_Uploading.pdf)<br>
+* [Assistant Year Head's Address](/files/2024_P5_Curriculum_Briefing_AYH_updated_on_24_Jan.pdf)<br>
+* [English Curriculum](/files/2024_P5_Std_EL___Fdn_EL_Presentation_for_Curriculum_Briefing_upload.pdf)<br>
+* [CCE / SS Curriculum](/files/2024_P5_CCE_Curriculum_Briefing.pdf)<br>
+* [PE / Art / Music / CCA Curriculum](/files/2024_P5_PAM_CCA_Curriculum_Briefing_reduced.pdf)<br>
+* [Mathematics Curriculum](/files/2024_P5_MA_Curriculum_Briefing.pdf)<br>
+* [Science Curriculum](/files/2024_P5_Sci_Curriculum_Briefing.pdf)<br>
+* [Mother Tongue Language Curriculum](/files/2024_P5_MTL_Curriculum_Briefing.pdf)<br>
+* [Briefing Recording](https://drive.google.com/file/d/1ZGNNBCx8kWna6m9_z5h8sYHGBGZq-LZ4/view?usp=sharing)
+
+
+##### <b>Primary 6 Briefing Slides &amp; Recording</b><br>
+* [Principal's Address](/files/2024_P6_Curriculum_Briefing_P_FInal.pdf)<br>
+* [Assistant Year Head's Address](/files/2024_P6_AYH_Curriculum_Briefing.pdf)<br>
+* [CCE / SS Curriculum](/files/2024_P6_CCE_Curriculum_Briefing.pdf)<br>
+* [Science Curriculum](/files/2024_P6_SCI_Curriculum_Briefing.pdf)<br>
+* [Mathematics Curriculum](/files/2024_P6_MA_Curriculum_Briefing.pdf)<br>
+* [English Curriculum](/files/2024_P6_Std_EL___Fdn_EL_Presentation_for_Curriculum_Briefing.pdf)<br>
+* [Mother Tongue Language Curriculum](/files/2024_P6_MTL_Curriculum_Briefing.pdf)<br>
+* [PE / Art / Music / CCA Curriculum](/files/2024_P6_PAM_CCA_Curriculum_Briefing.pdf)<br>
+* [Briefing Recording](https://drive.google.com/file/d/1LDtVOwFMznSNO5Y7LMjRSGzwzjNKQ7bS/view?usp=sharing)
 
 ##### **2024 Primary 1 Matters&nbsp;\*NEW!**
 
