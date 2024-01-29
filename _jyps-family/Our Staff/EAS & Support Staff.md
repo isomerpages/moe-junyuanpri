@@ -53,10 +53,6 @@ EAS &amp; Support Staff
     <td class="tg-0lj4"> Operations Manager </td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> Mdm Lim Cheow Sim</td>
-    <td class="tg-0lj4"> Operations Support Officer </td>
-  </tr>
-  <tr>
     <td class="tg-0lj4"> Mr Png Thiam Chay <br></td>
     <td class="tg-0lj4"> Operations Support Officer <br></td>
   </tr>
@@ -90,7 +86,7 @@ EAS &amp; Support Staff
   </tr>
   <tr>
     <td class="tg-0lj4"> Mr Mohd Faisal Bin Abdul Samat </td>
-    <td class="tg-0lj4"> Science Lab Assistant</td>
+    <td class="tg-0lj4"> STEM Instructor (Laboratory) </td>
   </tr>
   <tr>
     <td class="tg-0lj4"> Ms Noraisah Binte Bujang<br></td>
