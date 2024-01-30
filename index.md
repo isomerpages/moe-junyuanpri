@@ -10,8 +10,8 @@ sections:
       background: /images/Homepage.gif
       key_highlights:
         - title: Announcements (Primary)
-          description: P2 to P6 Curriculum Briefing
-          url: /parents-portal/Downloads-and-Links/
+          description: February Bulletin
+          url: /parents-portal/JYPS-Bulletin/
         - title: Announcements (MOE Kindergarten)
           description: Open House 2024
           url: /mk-at-junyuan/Announcements/
