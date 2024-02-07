@@ -56,7 +56,7 @@ Waitlist form below:</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_junyuanmk_waitlist.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_junyuanmk_waitlist.png">
 </div>
 <p>For more information, you can visit MK website (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/mk</a>)
 or contact the MK (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/schoolfinder-mk</a>)
