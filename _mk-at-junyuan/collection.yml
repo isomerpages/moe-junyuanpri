@@ -2,9 +2,9 @@ collections:
   mk-at-junyuan:
     output: true
     order:
-      - Kindergarten Care (KCare).md
       - Announcements.md
       - MK Registration.md
       - K1 Orientation 2023.md
       - Staff List.md
       - Our EYC Partner.md
+      - Kindergarten Care (KCare).md
