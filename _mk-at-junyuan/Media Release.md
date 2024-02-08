@@ -2,14 +2,18 @@
 title: Media Release
 permalink: /mk-at-junyuan/Media-Release/
 description: ""
+variant: tiptap
 ---
-![](/images/banner.gif)
-
-Media Release
-=============
-
-
-
-[30 May 2019 - CNA](https://www.channelnewsasia.com/singapore/new-moe-kindergartens-where-location-882256)
-
-[30 May 2019 - The Straits Times](https://www.straitstimes.com/singapore/education/eight-new-moe-kindergartens-to-open-in-2022-inside-primary-schools)
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/banner.gif">
+</div>
+<p>We have partnered with an Anchor Operator – PCF Sparkletots (PCF) to provide
+a continuum of quality and affordable preschool education for children
+aged 2 months to 6 years.</p>
+<p>Our partner Early Years Centre is:</p>
+<p><strong>PCF Sparkletots Preschool @ Tampines West Blk 942</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/SparkleTots_Preschool_Logo.png">
+</div>
+<p></p>
