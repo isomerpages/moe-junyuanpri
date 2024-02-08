@@ -52,9 +52,8 @@ under the Waitlist as the official registration window for K1/K2 2024 has
 closed.</p>
 <p>You may submit your application via the FormSG Link or QR code for MK@Junyuan
 Waitlist form below:</p>
-<p>MK Junyuan Waitlist Form: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/junyuanmk-waitlist</a>
+<p>MK Junyuan Waitlist Form: <a href="https://go.gov.sg/junyuanmk-waitlist" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/junyuanmk-waitlist</a>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_junyuanmk_waitlist.png">
 </div>
