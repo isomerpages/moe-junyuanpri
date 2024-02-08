@@ -25,13 +25,10 @@ gardening activities.</p>
 as the MK.</p>
 <p><strong>Our KCare operator at MK@Junyuan:</strong>
 </p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/raffleskcare.png">
 </div>
-<p></p>
 <h4>Raffles Student Care Centre was established in 2008 and has been operating community and school-based student care and KCare centres at various locations across the country. Guided by our Company Vision of&nbsp;<strong>Building Our Next Generation</strong>, we inculcate core values and life skills to our young children to ensure they grow up well.</h4>
 <p>&nbsp;</p>
-<p>For more information on KCare, please visit&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care</a>
+<p>For more information on KCare, please visit&nbsp;<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care</a>
 </p>
