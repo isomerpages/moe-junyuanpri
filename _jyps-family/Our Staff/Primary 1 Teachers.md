@@ -44,7 +44,7 @@ Primary 1 Teachers
   <tr>
     <td class="tg-0lj4"> P1-2</td>
     <td class="tg-0lj4"> Mdm Jurieni Bte Bahrom<br> <a href="mailto:jurieni_bahrom@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">jurieni_bahrom@moe.edu.sg</span></a></td>
-    <td class="tg-0lj4"> Mdm Nadhirah Parveen<br> <a href="mailto:nadhirah_parveen@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nadhirah_parveen@moe.edu.sg</span></a></td>
+    <td class="tg-0lj4"> Mdm Nadhira Parveen<br> <a href="mailto:nadhira_parveen@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nadhira_parveen@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P1-3 </td>
