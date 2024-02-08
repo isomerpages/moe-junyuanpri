@@ -4,7 +4,7 @@ permalink: /mk-at-junyuan/kcare/
 variant: tiptap
 description: ""
 ---
-<p><strong><em>Kindergarten Care (KCare) is available at all MOE Kindergartens (MK) for parents who require a full-day service for their children who are enrolled in MK.&nbsp;</em></strong>
+<p><strong>Kindergarten Care (KCare) is available at all MOE Kindergartens (MK) for parents who require a full-day service for their children who are enrolled in MK.&nbsp;</strong>
 </p>
 <p>KCare is a care service available in all MKs.</p>
 <p>KCare operates from Monday to Friday, till 7pm, including school holidays.
@@ -30,5 +30,5 @@ as the MK.</p>
 </div>
 <h4>Raffles Student Care Centre was established in 2008 and has been operating community and school-based student care and KCare centres at various locations across the country. Guided by our Company Vision of&nbsp;<strong>Building Our Next Generation</strong>, we inculcate core values and life skills to our young children to ensure they grow up well.</h4>
 <p>&nbsp;</p>
-<p>For more information on KCare, please visit&nbsp;<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care</a>
-</p>
+<h4>For more information on KCare, please visit&nbsp;<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care</a></h4>
+<p></p>
