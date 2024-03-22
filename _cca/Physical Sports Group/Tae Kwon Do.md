@@ -3,10 +3,11 @@ title: Tae Kwon Do
 permalink: /cca/Physical-Sports-Group/TaeKwonDo/
 description: ""
 third_nav_title: Physical Sports Group
+variant: markdown
 ---
 ![](/images/banner.gif)
 
-Tae Kwon Do
+TAEKWONDO
 ===========
 
 
@@ -22,7 +23,32 @@ Taekwondo is a Korean martial art that was developed by Korean masters in the 19
 ---
 
 ##### **ACHIEVEMENTS**  
-  
+
+<table style="border:1px solid black">
+	<thead>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Year</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Event / Activity</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Participation / Achievement</th>
+		</tr>
+	</thead>
+	<tbody>
+			<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="3">2023</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Taekwondo (Senior Boys)</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Poomsae Green 6, 5th position <br><br>5-Duan Nanquan, 17th position<br><br>		1st International Nan Gun, 23rd position<br> </th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Taekwondo (Senior Girls)</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Poomsae Yellow 7, 7th position</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Taekwondo (Junior Boys)</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Poomsae Poom 1, Gold</th>
+		</tr>
+	</tbody>
+</table>	
+
 **2019**  
 Our pupils emerged 4th place overall in the Senior Division Male category in the National School Games.  
   
