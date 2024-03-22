@@ -21,7 +21,7 @@ The Visual Arts Club provides a platform for student with common interest in art
 ---
 
 
-##### **ACHIEVEMENT**  
+##### **PARTICIPATION AND ACHIEVEMENTS AT EVENTS**  
   
 <table style="border:1px solid black">
 	<thead>
