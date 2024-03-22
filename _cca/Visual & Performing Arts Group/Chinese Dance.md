@@ -2,7 +2,8 @@
 title: Chinese Dance
 permalink: /cca/Visual-and-Performing-Arts-Group/ChineseDance/
 description: ""
-third_nav_title: Visual &amp; Performing Arts Group
+third_nav_title: Visual & Performing Arts Group
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -16,6 +17,8 @@ Chinese Dance allows students to learn dance moves, proper stretching, warm-up t
 ---
 
 ![](/images/ChineseDance2.png)
+
+![](/images/Chinese_Dance_1.jpg)![](/images/Chinese_Dance_2.jpg)
 
 ---
 
