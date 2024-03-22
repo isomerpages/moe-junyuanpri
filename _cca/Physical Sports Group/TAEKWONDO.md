@@ -37,7 +37,7 @@ Taekwondo is a Korean martial art that was developed by Korean masters in the 19
 
 ---
 
-##### **ACHIEVEMENTS**  
+##### **PARTICIPATION AND ACHIEVEMENTS AT EVENTS**  
 
 <table style="border:1px solid black">
 	<thead>
