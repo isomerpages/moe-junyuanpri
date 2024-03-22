@@ -141,24 +141,42 @@ Plate (Girls)
 			<th style="border:1px solid black; text-align:left;vertical-align:left">3rd position</th>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2021</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National School Games – Senior Boys<br><br>National School Games – Junior Boys<br></th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation<br><br>Participation<br></th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="4">2019</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">National Primary School Tchoukball Championships 2019 (Seniors), Boys</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Champion</th>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2020</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National School Games – Senior Boys</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">National Primary School Tchoukball Championships 2019 (Seniors), Girls</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">1st Runner up</th>
+		</tr>
+			<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">National Primary School Tchoukball Championships 2019 (Juniors), Boys</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Champion</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">National Primary School Tchoukball Championships 2019 (Juniors), Girls</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Champion</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="5">2018</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Singapore Press Holdings Foundation East Zone (Seniors), Boys</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Champion</th>
+		</tr>
+			<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">National Primary School Tchoukball Championships 2018 (Seniors), Boys</th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation</th>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2019</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">East Zone Volleyball Championships - Senior Boys<br><br>East Zone Volleyball Championships - Junior Boys</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">3rd in group<br><br> 4th in group</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">National Primary School Tchoukball Championships 2018 (Seniors), Girls</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">&nbsp;2nd Runner up</th>
 		</tr>
 			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2018</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">East Zone Volleyball Championships - Senior Boys<br><br>East Zone Volleyball Championships - Junior Boys</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">3rd in group<br><br> 4th in group</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">National Primary School Tchoukball Championships 2018 (Juniors), Boys</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Champion</th>
+		</tr>
+			<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">National Primary School Tchoukball Championships 2018 (Juniors), Girls</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2nd Runner up</th>
 		</tr>
 	</tbody>
 </table>	
