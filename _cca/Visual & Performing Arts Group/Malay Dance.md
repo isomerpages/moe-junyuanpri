@@ -20,7 +20,7 @@ We aim to develop our members into graceful and skilled dancers, and confident p
 
 ---
 
-##### **ACHIEVEMENTS**
+##### **PARTICIPATION AND ACHIEVEMENTS AT EVENTS**
 
 <table style="border:1px solid black">
 	<thead>
