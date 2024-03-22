@@ -30,7 +30,7 @@ Chinese Dance allows students to learn dance moves, proper stretching, warm-up t
 
 ---
 
-##### **ACHIEVEMENTS**
+##### **PARTICIPATION AND ACHIEVEMENTS AT EVENTS**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
