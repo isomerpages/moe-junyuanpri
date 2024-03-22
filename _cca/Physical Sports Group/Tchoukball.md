@@ -31,6 +31,79 @@ Junyuan Primary started Tchoukball as a CCA in 2012. It is an active and fun spo
 
 ##### **PARTICIPATION AND ACHIEVEMENTS AT EVENTS**
 
+<table style="border:1px solid black">
+	<thead>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Year</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Event / Activity</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Participation / Achievement</th>
+		</tr>
+	</thead>
+	<tbody>
+			<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="8">2023</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">6th World Youth Tchoukball Championships 2023,
+Boys</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">3rd position</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">6th World Youth Tchoukball Championships 2023,
+Girls
+</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2nd position</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2023 (Junior Boys Cup)
+</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2nd position</th>
+		</tr>
+			<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2023 (Junior Boys Plate)
+</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2nd position</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2023 (Junior Girls Cup)
+</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">3rd position</th>
+		</tr>
+			<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2023 (Junior Girls Plate)
+</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2nd position</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2023 (Senior Boys)
+</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">1st position</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2023 (Senior Girls)
+</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2nd position</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2021</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">National School Games – Senior Boys<br><br>National School Games – Junior Boys<br></th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation<br><br>Participation<br></th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2020</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">National School Games – Senior Boys</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2019</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">East Zone Volleyball Championships - Senior Boys<br><br>East Zone Volleyball Championships - Junior Boys</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">3rd in group<br><br> 4th in group</th>
+		</tr>
+			<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2018</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">East Zone Volleyball Championships - Senior Boys<br><br>East Zone Volleyball Championships - Junior Boys</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">3rd in group<br><br> 4th in group</th>
+		</tr>
+	</tbody>
+</table>	
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
