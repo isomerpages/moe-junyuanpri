@@ -83,6 +83,64 @@ Girls
 			<th style="border:1px solid black; text-align:left;vertical-align:left">2nd position</th>
 		</tr>
 		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="8">2022</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">SPH Foundation National Primary School Tchoukball Championships 2022 (Juniors), 
+Cup (Boys)
+</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2nd position</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">SPH Foundation National Primary School Tchoukball Championships 2022 (Juniors), 
+Cup (Girls)
+
+</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2nd position</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">SPH Foundation National Primary School Tchoukball Championships 2022 (Juniors), 
+Plate (Boys)
+</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">1st position</th>
+		</tr>
+			<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">SPH Foundation National Primary School Tchoukball Championships 2022 (Juniors), 
+Plate (Girls)
+</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2nd position</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">SPH Foundation National Primary School Tchoukball Championships 2022 (Juniors), Bowl (Boys)
+</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">3rd position</th>
+		</tr>
+			<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">SPH Foundation National Primary School Tchoukball Championships 2022 (Juniors), Bowl (Girls)
+</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">4th position</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">SPH Foundation National Primary School Tchoukball Championships 2022 (Senior), Cup (Boys)
+</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2nd position</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">SPH Foundation National Primary School Tchoukball Championships 2022 (Senior), Cup (Girls)
+</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2nd position</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">SPH Foundation National Primary School Tchoukball Championships 2022 (Senior),
+Plate (Boys)
+</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">1st position</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">SPH Foundation National Primary School Tchoukball Championships 2022 (Senior),
+Plate (Girls)
+</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">3rd position</th>
+		</tr>
+		<tr>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">2021</th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">National School Games – Senior Boys<br><br>National School Games – Junior Boys<br></th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation<br><br>Participation<br></th>
