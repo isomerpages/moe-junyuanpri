@@ -11,7 +11,7 @@ TAEKWONDO
 ===========
 
 
-![](/images/TAEKWONDO.jpeg)
+![](/images/Taekwondo_4.jpg)
 
 
 Taekwondo is a Korean martial art that was developed by Korean masters in the 1940s. This martial art combines self-defence and combat techniques with exercise and sport. The training which includes Taekwondo patterns that help cultivate resilient and confident students in line with the school’s Desired Outcomes.
@@ -19,6 +19,7 @@ Taekwondo is a Korean martial art that was developed by Korean masters in the 19
 ---
 
 <img style="width:80%" src="/images/taekwondo1.png">
+![](/images/Taekwondo_1.jpg)![](/images/Taekwondo_2.jpg)![](/images/Taekwondo_3.jpg)
 
 ---
 
