@@ -20,7 +20,18 @@ Taekwondo is a Korean martial art that was developed by Korean masters in the 19
 
 <img style="width:80%" src="/images/taekwondo1.png">
 
-<img style="width:60%" src="/images/Taekwondo_1.jpg"><img style="width:60%" src="/images/Taekwondo_2.jpg"><img style="width:60%" src="/images/Taekwondo_3.jpg">
+<div class="row">
+  <div class="column">
+    <img style="width:100%" src="/images/Taekwondo_1.jpg">
+  </div>
+  <div class="column">
+    <img style="width:100%" src="/images/Taekwondo_2.jpg">
+  </div>
+	<div class="column">
+    <img style="width:100%" src="/images/Taekwondo_3.jpg">
+  </div>
+</div>
+
 
 ![](/images/Taekwondo_4.jpg)
 
