@@ -18,7 +18,15 @@ Chinese Dance allows students to learn dance moves, proper stretching, warm-up t
 
 ![](/images/ChineseDance2.png)
 
-![](/images/Chinese_Dance_1.jpg)![](/images/Chinese_Dance_2.jpg)
+<div class="row">
+  <div class="column">
+    <img style="width:65%" src="/images/Chinese_Dance_1.jpg">
+  </div>
+  <div class="column">
+    <img style="width:60%" src="/images/Chinese_Dance_2.jpg">
+  </div>
+</div>
+
 
 ---
 
