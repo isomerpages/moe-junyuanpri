@@ -45,6 +45,11 @@ The Visual Arts Club provides a platform for student with common interest in art
 			<th style="border:1px solid black; text-align:left;vertical-align:left">SYF Art Exhibition 2021 Category C</th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Recognition</th>
 		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2021</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">SYF Art Exhibition 2021 Category C	 </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Recognition<br>(Special Mention)</th>
+		</tr>
 	</tbody>
 </table>	
 
