@@ -38,7 +38,36 @@ Cub Scout Gangshow
 ---
 
 ##### **PARTICIPATION AND ACHIEVEMENTS AT EVENTS**  
-  
+
+<table style="border:1px solid black">
+	<thead>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Year</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Event / Activity</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Participation / Achievement</th>
+		</tr>
+	</thead>
+	<tbody>
+			<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2023</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Akela Award 2023	 </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">VALENCIA BAI<br>SHRI SWASTHIKA<br>JISELE LI<br>REZANN LAU RUI ZHEN<br>YANG CHIAO FEI
+</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2022</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Akela Award 2022</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">LIM XUAN EN, EMILY <br>MOHAMMAD ARYAN SHAH BIN ASRIN <br>HOO WEN ZE <br>MUHAMMAD HAZIM BIN HIDAYAT <br>RAZIQ AMMAR BIN ABDUL KAMAL 
+</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2021</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Akela Award 2021	 </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">NUR'AINAA IZZATI BINTE MOHAMAD IZUANDI<br>RYAN NG HONG WEI<br>DUONG NGUYEN NGOC TRAN<br>JANESSA CHIA YU XUAN<br>SIM XIAO EN, KELLIE<br>CRYSTAL TAN MI SIAN<br>AALIA ARINA
+</th>
+		</tr>
+	</tbody>
+</table>	
 
 *   Frank Cooper Sands Award - Bronze
 *   Akela Award 2019 Recipients - Illyanis and Gracia Lee
