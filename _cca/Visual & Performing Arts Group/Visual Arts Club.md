@@ -23,6 +23,30 @@ The Visual Arts Club provides a platform for student with common interest in art
 
 ##### **ACHIEVEMENT**  
   
+<table style="border:1px solid black">
+	<thead>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Year</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Event / Activity</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Participation / Achievement</th>
+		</tr>
+	</thead>
+	<tbody>
+			<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="3">2023</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">SYF Art Exhibition 2021 Category A	 </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Recognition </th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">SYF Art Exhibition 2021 Category B</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Recognition</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">SYF Art Exhibition 2021 Category C</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Recognition</th>
+		</tr>
+	</tbody>
+</table>	
 
 **2019**  
 SINGAPORE YOUTH FESTIVAL 2019 ART EXHIBITION, Category B, ‘Our Bridge of Success’ was selected for on-site art exhibition at National Gallery Singapore.  
