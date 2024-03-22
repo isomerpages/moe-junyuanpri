@@ -83,7 +83,7 @@ Girls
 			<th style="border:1px solid black; text-align:left;vertical-align:left">2nd position</th>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="8">2022</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="10">2022</th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">SPH Foundation National Primary School Tchoukball Championships 2022 (Juniors), 
 Cup (Boys)
 </th>
