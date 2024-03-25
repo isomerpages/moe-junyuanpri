@@ -158,27 +158,7 @@ Plate (Girls)
 			<th style="border:1px solid black; text-align:left;vertical-align:left">Champion</th>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="5">2018</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Singapore Press Holdings Foundation East Zone (Seniors), Boys</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Champion</th>
-		</tr>
-			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National Primary School Tchoukball Championships 2018 (Seniors), Boys</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation</th>
-		</tr>
-		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National Primary School Tchoukball Championships 2018 (Seniors), Girls</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">&nbsp;2nd Runner up</th>
-		</tr>
-			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National Primary School Tchoukball Championships 2018 (Juniors), Boys</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Champion</th>
-		</tr>
-			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National Primary School Tchoukball Championships 2018 (Juniors), Girls</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2nd Runner up</th>
-		</tr>
-	</tbody>
+	</tr></tbody>
 </table>	
 
 
