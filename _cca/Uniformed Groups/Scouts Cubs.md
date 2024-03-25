@@ -66,13 +66,14 @@ Cub Scout Gangshow
 			<th style="border:1px solid black; text-align:left;vertical-align:left">NUR'AINAA IZZATI BINTE MOHAMAD IZUANDI<br>RYAN NG HONG WEI<br>DUONG NGUYEN NGOC TRAN<br>JANESSA CHIA YU XUAN<br>SIM XIAO EN, KELLIE<br>CRYSTAL TAN MI SIAN<br>AALIA ARINA
 </th>
 		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2019</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Akela Award 2021	 </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">NUR'AINAA IZZATI BINTE MOHAMAD IZUANDI<br>RYAN NG HONG WEI<br>DUONG NGUYEN NGOC TRAN<br>JANESSA CHIA YU XUAN<br>SIM XIAO EN, KELLIE<br>CRYSTAL TAN MI SIAN<br>AALIA ARINA
+</th>
+		</tr>
 	</tbody>
 </table>	
-
-*   Frank Cooper Sands Award - Bronze
-*   Akela Award 2019 Recipients - Illyanis and Gracia Lee
-*   Akela Award 2020 Recipients - Erin Lee Jia En and Mavis Seng Jia En
-*   National event - 2019 Bicentennial Scout trek at Bishan Stadium
 
 
 ---
