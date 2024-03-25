@@ -55,11 +55,6 @@ The Volleyball CCA aims to educate its members on the schools’ 7 character val
 			<th style="border:1px solid black; text-align:left;vertical-align:left">East Zone Volleyball Championships - Senior Boys<br><br>East Zone Volleyball Championships - Junior Boys</th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">3rd in group<br><br> 4th in group</th>
 		</tr>
-			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2018</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">East Zone Volleyball Championships - Senior Boys<br><br>East Zone Volleyball Championships - Junior Boys</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">3rd in group<br><br> 4th in group</th>
-		</tr>
 	</tbody>
 </table>	
 
