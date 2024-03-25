@@ -50,25 +50,23 @@ The Visual Arts Club provides a platform for student with common interest in art
 			<th style="border:1px solid black; text-align:left;vertical-align:left">SYF Art Exhibition 2021 Category C	 </th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Recognition<br>(Special Mention)</th>
 		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="3">2019</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Singapore Youth Festive 2019 Art Exhibition, Category B	 </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> ‘Our Bridge of Success’ was selected for <br>on-site art exhibition at National Gallery Singapore.</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Participated in SYF Art Exhibition 2017 Category C </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Participated in SOTA competition 2019</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
+		</tr>
 	</tbody>
 </table>	
 
-**2019**  
-SINGAPORE YOUTH FESTIVAL 2019 ART EXHIBITION, Category B, ‘Our Bridge of Success’ was selected for on-site art exhibition at National Gallery Singapore.  
-Participated in SYF Art Exhibition 2017 Category C  
-Participated in SOTA competition 2019  
-  
 
-**2018**  
-Participated in EZCOECA@Haig Girls' School Art Camp  
-Participated in JYPS 30th Anniversary Card Design Competition  
-Participated in SOTA Junior Academy 2018 - Visual Arts workshop  
-Participated in SYF 2018 Celebrations - Logo Design Contest  
-  
-**2017**  
-Participated in SYF Art Exhibition 2017 Category B  
-SYF Art Exhibition 2017 Category C was selected for on-site art exhibition  
-Participated in SOTA Junior Academy 2017 - Visual Arts Workshop
 
 ---
 
