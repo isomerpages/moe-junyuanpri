@@ -21,10 +21,32 @@ The Drama Club was formed in 2013. Currently, there are 15 members from Primary 
 
 ### PARTICIPATION AND ACHIEVEMENT AT EVENTS
 
+<table style="border:1px solid black">
+	<thead>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Year</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Event / Activity</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Participation / Achievement</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2020</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Junior Orators  </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">1st prize </th>
+		</tr>	
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2019</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Junior Orators  	 </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">3rd prize</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">SYF KidsPlay! Showcase</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">One of the schools selected to perform</th>
+		</tr>
+	</tbody>
+</table>
 
-2019 - 3rd prize for Junior Orators  
-2019 - One of the schools selected to perform for SYF KidsPlay! Showcase  
-2020 - 1st prize for Junior Orators
 
 
 ### SCHEDULE
