@@ -35,7 +35,7 @@ The InfoComm Club CCA aims to excite and develop the love for Information Commun
 			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation</th>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">FIRST LEGO League Challenge)</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">FIRST LEGO League Challenge</th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation</th>
 		</tr>
 		<tr>
