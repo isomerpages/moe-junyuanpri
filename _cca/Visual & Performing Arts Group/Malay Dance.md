@@ -46,15 +46,6 @@ We aim to develop our members into graceful and skilled dancers, and confident p
 			<th style="border:1px solid black; text-align:left;vertical-align:left">Performed at Tampines Learning Festival 2019</th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
 		</tr>
-			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2018</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Singapore Youth Festival Arts Presentation</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Distinction</th>
-		</tr>
-		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">	Performed at Tampines Learning Festival 2018</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
-		</tr>
 	</tbody>
 </table>	
 
