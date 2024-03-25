@@ -52,11 +52,6 @@ Our Junyuan floorball team is made up of passionate players, teachers and coache
 			<th style="border:1px solid black; text-align:left;vertical-align:left">National Floorball Championships: Junior Boys</th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">Tier 2 - Group 2A<br><br> 2nd position</th>
 		</tr>
-			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2018</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National Floorball Championships: Junior Boys</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Preliminary Round 1<br><br> 3rd position</th>
-		</tr>
 	</tbody>
 </table>	
 	
