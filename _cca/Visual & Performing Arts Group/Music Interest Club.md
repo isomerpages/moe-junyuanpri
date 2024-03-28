@@ -2,7 +2,8 @@
 title: Music Interest Club
 permalink: /cca/Visual-and-Performing-Arts-Group/MusicInterestClub/
 description: ""
-third_nav_title: Visual &amp; Performing Arts Group
+third_nav_title: Visual & Performing Arts Group
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -22,8 +23,27 @@ The Music Interest Club is a multi-instrumental ensemble club comprising of enth
 
 ##### **PARTICIPATION AND ACHIEVEMENT AT EVENTS**
 
-Performance of a medley of popular Singapore Songs at TWCC National Day Carnival 2019<br>
-Latin and Pop music performance on Awards Day 2019
+<table style="border:1px solid black">
+	<thead>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Year</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Event / Activity</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Participation / Achievement</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2019</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">TWCC National Day Carnival 2019</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Performance of a medley of popular Singapore Songs </th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Awards Day 2019</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Latin and Pop music performance</th>
+		</tr>
+	</tbody>
+</table>	
+
 
 ---
 

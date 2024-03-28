@@ -2,7 +2,8 @@
 title: Chinese Dance
 permalink: /cca/Visual-and-Performing-Arts-Group/ChineseDance/
 description: ""
-third_nav_title: Visual &amp; Performing Arts Group
+third_nav_title: Visual & Performing Arts Group
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -17,32 +18,42 @@ Chinese Dance allows students to learn dance moves, proper stretching, warm-up t
 
 ![](/images/ChineseDance2.png)
 
+<div class="row">
+  <div class="column">
+    <img style="width:65%" src="/images/Chinese_Dance_1.jpg">
+  </div>
+  <div class="column">
+    <img style="width:60%" src="/images/Chinese_Dance_2.jpg">
+  </div>
+</div>
+
+
 ---
 
-##### **ACHIEVEMENTS**
+##### **PARTICIPATION AND ACHIEVEMENTS AT EVENTS**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-l7na{background-color:#FFF;color:#444;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-l7na">2018</th>
-    <th class="tg-l7na">Singapore Youth Festival (SYF) – Certificate of Accomplishment</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-l7na">2016</td>
-    <td class="tg-l7na">Singapore Youth Festival (SYF) – Certificate of Distinction </td>
-  </tr>
-</tbody>
-</table>
+<table style="border:1px solid black">
+	<thead>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Year</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Event / Activity</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Participation / Achievement</th>
+		</tr>
+	</thead>
+	<tbody>
+			<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2018</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Singapore Youth Festival (SYF​) </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Accomplishment </th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2016</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Singapore Youth Festival (SYF)</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Certificate of Distinction</th>
+		</tr>
+	</tbody>
+</table>	
+
 
 
 ---

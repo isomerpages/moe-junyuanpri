@@ -2,7 +2,8 @@
 title: Malay Dance
 permalink: /cca/Visual-and-Performing-Arts-Group/MalayDance/
 description: ""
-third_nav_title: Visual &amp; Performing Arts Group
+third_nav_title: Visual & Performing Arts Group
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -19,39 +20,35 @@ We aim to develop our members into graceful and skilled dancers, and confident p
 
 ---
 
-##### **ACHIEVEMENTS**
+##### **PARTICIPATION AND ACHIEVEMENTS AT EVENTS**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-36jr{color:#444;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-36jr">2019</th>
-    <th class="tg-36jr">Performed at Tampines Learning Festival 2019<br></th>
-    <th class="tg-1wig"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-36jr">2018</td>
-    <td class="tg-36jr">Singapore Youth Festival Arts Presentation<br></td>
-    <td class="tg-36jr">- Certificate of Distinction</td>
-  </tr>
-  <tr>
-    <td class="tg-36jr">2018</td>
-    <td class="tg-36jr">Performed at Tampines Learning Festival 2018<br></td>
-    <td class="tg-0lax"></td>
-  </tr>
-</tbody>
-</table>
+<table style="border:1px solid black">
+	<thead>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Year</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Event / Activity</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Participation / Achievement</th>
+		</tr>
+	</thead>
+	<tbody>
+			<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2023</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2023	Tampines Learning Festival 2023	 </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> </th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2020</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">SYF Arts Presentation 2020</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2019</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Performed at Tampines Learning Festival 2019</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
+		</tr>
+	</tbody>
+</table>	
+
 
 
 ##### **SCHEDULE**

@@ -23,9 +23,31 @@ The International Dance is a newly formed Aesthetics CCA in Junyuan Primary Scho
 
 ##### **PARTICIPATION AND ACHIEVEMENT AT EVENTS**
 
-*   SYF (2020)
-*   International Friendship Day (2019)
-*   National Day Observance Ceremony (2019)
+<table style="border:1px solid black">
+	<thead>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Year</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Event / Activity</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Participation / Achievement</th>
+		</tr>
+	</thead>
+	<tbody>
+			<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2020</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Singapore Youth Festival (SYF​) </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> </th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2019</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">International Friendship Day</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">National Day Observance Ceremony</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
+		</tr>
+	</tbody>
+</table>	
 
 ---
 ##### **SCHEDULE**

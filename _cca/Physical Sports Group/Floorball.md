@@ -31,14 +31,32 @@ Our Junyuan floorball team is made up of passionate players, teachers and coache
 
 ---
 
-##### **ACHIEVEMENTS**
+##### **PARTICIPATION AND ACHIEVEMENTS AT EVENTS**
   
-**2019**  
-National Floorball Championships: Junior Boys came in 2nd in Tier 2 - Group 2A  
-  
-2018  
-National Floorball Championships: Junior Boys came in 3rd in the preliminary round
+<table style="border:1px solid black">
+	<thead>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Year</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Event / Activity</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Participation / Achievement</th>
+		</tr>
+	</thead>
+	<tbody>
+			<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2023</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">NSG FLOORBALL SENIORS 2023 </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Preliminary Round 1<br><br> 1st position</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2019</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">National Floorball Championships: Junior Boys</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Tier 2 - Group 2A<br><br> 2nd position</th>
+		</tr>
+	</tbody>
+</table>	
+	
 
+  
 -----
 
 

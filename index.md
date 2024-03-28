@@ -10,9 +10,6 @@ sections:
       background: /images/Homepage.gif
       key_highlights:
         - title: Announcements (Primary)
-          description: March Bulletin
+          description: April Bulletin
           url: /parents-portal/JYPS-Bulletin/
-        - title: Announcements (MOE Kindergarten)
-          description: MK Open House
-          url: /mk-at-junyuan/Announcements/
 ---

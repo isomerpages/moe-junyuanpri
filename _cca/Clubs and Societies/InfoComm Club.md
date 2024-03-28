@@ -20,21 +20,37 @@ The InfoComm Club CCA aims to excite and develop the love for Information Commun
 
 ##### **PARTICIPATION AND ACHIEVEMENTS AT EVENTS**
 
-2021<br>
-Completed a 10-session Microbit Course<br>
-Participated in Artificial Intelligence Festival 2021
+<table style="border:1px solid black">
+	<thead>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Year</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Event / Activity</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Participation / Achievement</th>
+		</tr>
+	</thead>
+	<tbody>
+			<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2023</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">National Robotics Competition 	 </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">FIRST LEGO League Challenge</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2022</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Swift Explorers Singapore (SES)</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2021</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Artificial Intelligence Festival </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation</th>
+		</tr>
+	</tbody>
+</table>
 
-  
-
-2020  <br>
-Completed a 12-hour Mobile App Development Course<br>
-Participated in 3D-Tronics Micro:bit Asia Challenge 2020 and won Explorer Award for the Junior Category
-
-  
-
-2019<br>
-Participated in photography contests<br>
-Completed a 12-session Web Developer Junior Course
 
 ---
 

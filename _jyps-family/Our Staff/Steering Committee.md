@@ -109,7 +109,7 @@ Steering Committee
     </tr>
 		   <tr>
       <td class="tg-yp4s">
-        Miss Nur Faiqah Hamzah<br>
+        Ms Nur Faiqah Hamzah<br>
         <a href="mailto:nur_faiqah_hamzah@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nur_faiqah_hamzah@moe.edu.sg</span></a><br>
       </td>
       <td class="tg-yp4s">Year Head</td>

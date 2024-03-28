@@ -26,31 +26,25 @@ Pupils learn to be self-directed learners and make their own decisions as they r
 
 ##### **PARTICIPATION AND ACHIEVEMENTS AT EVENTS**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-sdzj{background-color:#FFF;color:#454545;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-sdzj"><span style="color:inherit;background-color:transparent">2020</span></th>
-    <th class="tg-sdzj"><span style="color:inherit;background-color:transparent">- Wild Wisdom Quiz</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">2019</span></td>
-    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">- National Environment Quiz </span></td>
-  </tr>
-  <tr>
-    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">2019</span></td>
-    <td class="tg-sdzj"><span style="color:inherit;background-color:transparent">-Marine Aquascaping VJC </span></td>
-  </tr>
-</tbody>
+<table style="border:1px solid black">
+	<thead>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Year</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Event / Activity</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Participation / Achievement</th>
+		</tr>
+	</thead>
+	<tbody>
+			<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2021</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">World Water Day Online Celebrations 2021	 </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">World Water Day Poster Making Competition </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation</th>
+		</tr>
+	</tbody>
 </table>
 
 
@@ -64,4 +58,3 @@ Ms Loong Shu Yi:&nbsp;[loong\_shu\_yi@moe.edu.sg](mailto:loong_shu_yi@moe.edu.sg
 Mrs Cynthia Chu:&nbsp;[lim\_hui\_ling\_cynthia@moe.edu.sg](mailto:lim_hui_ling_cynthia@moe.edu.sg) <br>
 Mdm Joelyn Cheah:&nbsp;[cheah\_soo\_har@moe.edu.sg](mailto:cheah_soo_har@moe.edu.sg)  <br>
 Mdm Hidayah:&nbsp;[nurhidayah\_farook@moe.edu.sg](mailto:nurhidayah_farook@moe.edu.sg)  <br>
-
