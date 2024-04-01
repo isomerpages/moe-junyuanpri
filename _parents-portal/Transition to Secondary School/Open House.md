@@ -9,5 +9,9 @@ third_nav_title: Transition to Secondary School
 
 Open House for Secondary Schools 2024
 =====================================
+#### Temasek Secondary School
+![](/images/TMS_2024_DSA_Online_Outreach.png)
+
+
 #### Anglo-Chinese School (Independent)
 ![](/images/ACI_Open_House.jpg)
