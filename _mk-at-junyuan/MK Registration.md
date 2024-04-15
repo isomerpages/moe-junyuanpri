@@ -35,9 +35,12 @@ closed.</p>
 <p>Dear Parents/Guardians,</p>
 <p>You may submit your application via the FormSG Link or QR code for MK@Junyuan
 Waitlist form below:</p>
-<p>MK Junyuan Waitlist Form: <a href="https://go.gov.sg/mkjunyuanwaitlist" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mkjunyuanwaitlist</a>
+<p>MK Junyuan Waitlist Form: <a href="https://go.gov.sg/junyuanmk-waitlist" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/junyuanmk-waitlist</a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_junyuanmk_waitlist.png">
+</div>
 <p></p>
 <p>The waitlist will be considered on a case-by-case basis, subject to available
 vacanies. We will contact you directly, should a vacancy arise for your
