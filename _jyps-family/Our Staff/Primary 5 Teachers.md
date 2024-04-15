@@ -47,7 +47,7 @@ Primary 5 Teachers
   <tr>
     <td class="tg-0lj4"> P5 Resilience</td>
     <td class="tg-0lj4"> Miss Chan Audrey<br> <a href="mailto:chan_audrey@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chan_audrey@moe.edu.sg</span></a><br></td>
-    <td class="tg-0lj4"> Mdm Marina Bte Hassan<br> <a href="mailto:marina_hassan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">marina_hassan@moe.edu.sg</span></a><br><br> Mr Ho Keng Chiong&nbsp;<br> <a href="mailto:ho_keng_chiong@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">ho_keng_chiong@moe.edu.sg</span></a> </td>
+    <td class="tg-0lj4"> Mdm Marina Bte Hassan<br> <a href="mailto:marina_hassan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">marina_hassan@moe.edu.sg</span></a><br> </td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P5 Integrity</td>
