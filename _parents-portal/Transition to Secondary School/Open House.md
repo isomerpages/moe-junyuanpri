@@ -9,6 +9,12 @@ third_nav_title: Transition to Secondary School
 
 Open House for Secondary Schools 2024
 =====================================
+#### Chung Cheng Hugh School (Main)
+![](/images/CCHM_Sports_DSA_Open_House_2024.png)
+
+#### NUS High School
+![](/images/NUS_High_Open_House.jpg)
+
 #### Temasek Junior College (IP)
 ![](/images/IP_Open_House_banner.png)
 
