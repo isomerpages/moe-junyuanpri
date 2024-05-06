@@ -6,6 +6,9 @@ variant: markdown
 ---
 ![](/images/banner.gif)
 
+##### **2024 Maths Alive! Workshop;\*NEW!**
+
+
 ##### **2024 Primary 1 Matters&nbsp;\*NEW!**
 
 *   [2024 P1 Links &amp; Downloads](https://go.gov.sg/jyps2024p1)
