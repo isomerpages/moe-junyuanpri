@@ -6,6 +6,12 @@ variant: markdown
 ---
 ![](/images/banner.gif)
 
+##### **2024 Maths Alive! Parent Workshop&nbsp;\*NEW!**
+* [P1 Slides](/files/P1_Math_Alive_Parents_Workshop_2024.pdf)<br>
+* [P2 Slides](/files/P2_Math_Alive_Parents_Workshop_2024.pdf)<br>
+* [P3 &amp; P4 Slides](/files/P3_P4_Math_Alive_Parents_Workshop_2024.pdf)<br>
+* [P5 &amp; P6 Slides](/files/P5_P6_Math_Alive_Parents_Workshop_2024.pdf)<br>
+
 ##### **2024 Primary 1 Matters&nbsp;\*NEW!**
 
 *   [2024 P1 Links &amp; Downloads](https://go.gov.sg/jyps2024p1)
