@@ -31,7 +31,7 @@ variant: markdown
 *   [Parents Gateway](/files/parentsgateway.pdf)<br>
 *   [Sexuality Education Programme](/departments/CCE/Sexuality-Education-Programme-SEd/)<br>
 *   [MOE FAS Application Form](/files/document1_2024%20moe%20fas%20application%20form.pdf)/&nbsp;[e-FAS](https://go.gov.sg/moe-efas)&nbsp;&nbsp;**\*NEW!**<br>
-*   [Group Personal Accident GPA Insurance Plan for Students (Fact Sheet)](/files/Product_Fact_Sheet_Year_2024.pdf)&nbsp;**\*NEW!**<br>
+*   [Group Personal Accident GPA Insurance Plan for Students (Fact Sheet)](/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf)&nbsp;**\*NEW!**<br>
 *   [Student GPA Claims Portal](https://studentgpa.incomegroupins.com.sg/)&nbsp;**\*NEW!**<br>
 *   [JYPS Vehicle Access](https://go.gov.sg/jyps-vehicle-access)&nbsp;**\*NEW!**     <br> 
 *   [Leave of Absence (LOA)](https://go.gov.sg/jyps-loa)&nbsp;**\*NEW!**<br>
