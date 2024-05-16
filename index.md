@@ -12,7 +12,7 @@ sections:
         - title: Announcements (Primary)
           description: May-June Bulletin
           url: /parents-portal/JYPS-Bulletin/
-        - title: OPEN HOUSE (PRIMARY)
-          description: 21 June Registration is needed
+        - title: Announcements (Primary)
+          description: Open House 2024
           url: /parents-portal/Announcements/
 ---
