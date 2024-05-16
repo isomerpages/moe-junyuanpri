@@ -15,8 +15,7 @@ Announcements
 
 Dear Parents and Prospective students,  <br>
 
-We cordinally invite you to join us for our Open House on **Friday, 21 June 2024 from 9a.m. to 12p.m.**. <br>
-Scan the QR code or visit [https://go.gov.sg/jypsopenhouse2024](https://go.gov.sg/jypsopenhouse2024) to register.  <br><br>
+We cordinally invite you to join us for our Open House on **Friday, 21 June 2024 from 9a.m. to 12p.m.**. Scan the QR code or visit [https://go.gov.sg/jypsopenhouse2024](https://go.gov.sg/jypsopenhouse2024) to register.  <br><br>
 Closing date: 14 June 2024 <br><br>
 
 
