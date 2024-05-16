@@ -13,11 +13,17 @@ Announcements
 
 ![](/images/2024_JYPS_Open_House_Registration_Poster.jpg)
 
-Dear Parents and Prospective students,  <br>
+Dear Parents and Prospective P1 students,  <br>
 
-We cordinally invite you to join us for our Open House on **Friday, 21 June 2024 from 9a.m. to 12p.m.**. Scan the QR code or visit [https://go.gov.sg/jypsopenhouse2024](https://go.gov.sg/jypsopenhouse2024) to register.  <br><br>
-Closing date: 14 June 2024 <br><br>
+You are invited to Junyuan Primary School's Open House 2024!
+Date:Friday, 21 June 2024 
+Time from 9a.m. to 12p.m. 
 
+You may register using QR code or via this link&nbsp;[https://go.gov.sg/jypsopenhouse2024](https://go.gov.sg/jypsopenhouse2024)
+
+Closing date: 14 June 2024 
+
+We look forward to seeing you and your child!
 
 
 ### **Caring Teacher Awards 2024**&nbsp;
