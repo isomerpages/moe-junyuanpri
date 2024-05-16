@@ -12,4 +12,7 @@ sections:
         - title: Announcements (Primary)
           description: May-June Bulletin
           url: /parents-portal/JYPS-Bulletin/
+        - title: OPEN HOUSE (PRIMARY)
+          description: ""
+          url: ""
 ---
