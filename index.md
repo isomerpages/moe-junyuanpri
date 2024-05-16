@@ -13,6 +13,6 @@ sections:
           description: May-June Bulletin
           url: /parents-portal/JYPS-Bulletin/
         - title: OPEN HOUSE (PRIMARY)
-          description: ""
-          url: ""
+          description: 21 June Registration is needed
+          url: /parents-portal/Announcements/
 ---
