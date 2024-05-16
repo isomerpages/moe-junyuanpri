@@ -9,22 +9,21 @@ variant: markdown
 Announcements
 =============
 
-### JYPS Open House 2024&nbsp; !New
-
-Dear Parents,  
-
-We would like to invite you and your K2 child to join us for Junyuan Primary School’s Open House 2024 on **Friday, 21 June 2024 from 9.00am to 12.00pm**. 
-
-Scan the QR code or visit [https://go.gov.sg/jypsopenhouse2024](https://go.gov.sg/jypsopenhouse2024) to register.  
-
-Closing date: 18 June 2024
-
-We look forward to your registration.
+### **JYPS Open House 2024**&nbsp;
 
 ![](/images/2024_JYPS_Open_House_Registration_Poster.jpg)
 
+Dear Parents and Prospective students,  <br>
+
+We would like to invite you to join us for Junyuan Primary School’s Open House 2024 on **Friday, 21 June 2024 from 9.00am to 12.00pm**. 
+Scan the QR code or visit [https://go.gov.sg/jypsopenhouse2024](https://go.gov.sg/jypsopenhouse2024) to register.  <br><br>
+Closing date: 18 June 2024 <br><br>
 
 
+
+
+
+### **Caring Teacher Awards 2024**&nbsp;
 
 Dear JYPS Students and Parents,
 
@@ -36,19 +35,19 @@ Please nominate if you have a teacher in mind. That will be the best affirmation
 ![https://www.cta.nie.edu.sg/nominate](/images/Screenshot_2024_01_08_154815.png)
 
 
-### JYPS 35th Anniversary Coffeetable e-Book&nbsp; !New
+### **JYPS 35th Anniversary Coffeetable e-Book**&nbsp;
 
 Click [here](https://drive.google.com/file/d/1gkwvfmR3U4kQIjAPnKtO4IKkWfjHOHoo/view?usp=sharing) &nbsp;to access the 35th Anniversary Coffeetable e-Book.
 
 
 
-### 2022JYPS P6 e-Yearbook
+### **2022 JYPS P6 e-Yearbook**
 
 [2022 P6 e-Yearbook](https://www.canva.com/design/DAFOt12c6WA/view?utm_content=DAFOt12c6WA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link)&nbsp;by JYPS
 
 
 
-### 2021 JYPS P6 e-Yearbook
+### **2021 JYPS P6 e-Yearbook**
 
 ![](/images/e-Yearbook.png)
 
