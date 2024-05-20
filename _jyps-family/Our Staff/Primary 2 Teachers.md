@@ -52,7 +52,7 @@ Primary 2 Teachers
   <tr>
     <td class="tg-0lj4"> P2 Integrity</td>
     <td class="tg-0lj4"> Mdm Loo Chin Imm<br> <a href="mailto:loo_chin_imm@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">loo_chin_imm@moe.edu.sg</span></a><br></td>
-    <td class="tg-0lj4"> Mr Pavadai Mohan<br> <a href="mailto:pavadai_mohan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">pavadai_mohan@moe.edu.sg</span></a><br><br> Mdm Rosmawati<br> <a href="mailto:rosmawati_latiff@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">rosmawati_latiff@moe.edu.sg</span></a></td>
+    <td class="tg-0lj4"> Mr Khoo Kang Ming Terence<br> <a href="mailto:khoo_kang_ming@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">khoo_kang_ming@moe.edu.sg</span></a><br><br> Mdm Rosmawati<br> <a href="mailto:rosmawati_latiff@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">rosmawati_latiff@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P2 Care</td>

@@ -9,6 +9,25 @@ variant: markdown
 Announcements
 =============
 
+### **JYPS Open House 2024**&nbsp;
+
+![](/images/2024_JYPS_Open_House_Registration_Poster.jpg)
+
+Dear Parents and Prospective P1 students, 
+
+You are invited to Junyuan Primary School's Open House 2024! <br>
+Date: 21 June 2024 (Friday) <br>
+Time: 9am to 12pm
+
+You may register using QR code or via this link&nbsp;[https://go.gov.sg/jypsopenhouse2024](https://go.gov.sg/jypsopenhouse2024)
+
+Closing date: 14 June 2024 
+
+We look forward to seeing you and your child!
+
+
+### **Caring Teacher Awards 2024**&nbsp;
+
 Dear JYPS Students and Parents,
 
 Do you have a teacher in mind to nominate for the Caring Teacher Awards
@@ -19,35 +38,19 @@ Please nominate if you have a teacher in mind. That will be the best affirmation
 ![https://www.cta.nie.edu.sg/nominate](/images/Screenshot_2024_01_08_154815.png)
 
 
-### JYPS 35th Anniversary Coffeetable e-Book&nbsp; !New
+### **JYPS 35th Anniversary Coffeetable e-Book**&nbsp;
 
 Click [here](https://drive.google.com/file/d/1gkwvfmR3U4kQIjAPnKtO4IKkWfjHOHoo/view?usp=sharing) &nbsp;to access the 35th Anniversary Coffeetable e-Book.
 
-### JYPS Virtual Open House 2023&nbsp; !New
-
-Dear Parents,  
-  
-We would like to invite you to join us for Junyuan Primary School’s Virtual Open House 2023 on Friday, 30 June 2023 from 2.30pm to 4.00pm.
-
-<font color="Blue">UPDATES<br>
-Please join us via this zoom link (https://moe-singapore.zoom.us/j/83827578807) <br>
-Meeting ID: 838 2757 8807 <br>
-Passcode will be sent via email registered </font>
-
-You may register using QR code or via this link&nbsp;[https://go.gov.sg/jyps-virtual-open-hse](https://go.gov.sg/jyps-virtual-open-hse).  
-We look forward to your registration.
 
 
-
-![](/images/jyps%20e-open%20house%202023.jpg)
-
-### 2022JYPS P6 e-Yearbook
+### **2022 JYPS P6 e-Yearbook**
 
 [2022 P6 e-Yearbook](https://www.canva.com/design/DAFOt12c6WA/view?utm_content=DAFOt12c6WA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link)&nbsp;by JYPS
 
 
 
-### 2021 JYPS P6 e-Yearbook
+### **2021 JYPS P6 e-Yearbook**
 
 ![](/images/e-Yearbook.png)
 
