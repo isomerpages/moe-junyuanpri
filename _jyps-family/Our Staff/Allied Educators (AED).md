@@ -3,6 +3,7 @@ title: Allied Educators (AED)
 permalink: /jyps-family/Our-Staff/Allied-Educators-AED/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -31,6 +32,10 @@ Allied Educators (AED)
   </tr>
   <tr>
     <td class="tg-0lj4"> Mdm Sharifah Taibah Bte Mohamed Alhabshie<br> <a href="mailto:sharifah_taibah_alhabshie@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">sharifah_taibah_alhabshie@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> AED-Counselling<br></td>
+  </tr>
+	<tr>
+    <td class="tg-0lj4"> Ms Chan Keng Sun<br> <a href="mailto:chan_keng_sun@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chan_keng_sun@moe.edu.sg</span></a><br></td>
     <td class="tg-0lj4"> AED-Counselling<br></td>
   </tr>
   <tr>
