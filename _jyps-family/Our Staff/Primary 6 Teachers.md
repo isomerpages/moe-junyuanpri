@@ -46,7 +46,7 @@ Primary 6 Teachers
   <tr>
     <td class="tg-0lj4"> P6 Resilience</td>
     <td class="tg-0lj4"> Mr Nor Azri Bin Abdul Aziz<br> <a href="mailto:nor_azri@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nor_azri@moe.edu.sg</span></a><br></td>
-    <td class="tg-0lj4"> Mdm Ilmal Ali<br> <a href="mailto:ilmal_yaqin_ali@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">ilmal_yaqin_ali@moe.edu.sg</span></a><br><br> Mr Ho Keng Chiong&nbsp;<br> <a href="mailto:ho_keng_chiong@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">ho_keng_chiong@moe.edu.sg</span></a></td>
+    <td class="tg-0lj4"> Mdm Ilmal Ali<br> <a href="mailto:ilmal_yaqin_ali@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">ilmal_yaqin_ali@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P6 Integrity</td>
