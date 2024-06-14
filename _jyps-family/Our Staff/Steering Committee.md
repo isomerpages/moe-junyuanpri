@@ -114,6 +114,13 @@ Steering Committee
       </td>
       <td class="tg-yp4s">Year Head</td>
     </tr>
+		 <tr>
+      <td class="tg-yp4s">
+        Ms Tan Jeet Lian Joyce<br>
+        <a href="mailto:tan_jeet_lian_joyce@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">tan_jeet_lian_joyce@moe.edu.sg</span></a><br>
+      </td>
+      <td class="tg-yp4s">Year Head</td>
+    </tr>
     <tr>
       <td class="tg-yp4s">
         Mdm Asmara Kamisah Bte Muslim<br>
