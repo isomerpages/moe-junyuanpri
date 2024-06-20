@@ -15,4 +15,5 @@ JYPS Bulletin
 [February](/files/February_Bulletin_2024_FINAL.pdf) ([Insurance Product Factsheet](/files/Product_Fact_Sheet_Year_2024.pdf)) <br>
 [March](/files/March_Bulletin_2024_FINAL.pdf)<br>
 [April](/files/April_Bulletin_2024_FINAL.pdf)<br>
-[May-June](/files/May_June_Bulletin_2024_FINAL.pdf)
+[May-June](/files/May_June_Bulletin_2024_FINAL.pdf)<br>
+[June-July](/files/June_July_Bulletin_2024_Final.pdf)
