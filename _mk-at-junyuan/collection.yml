@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Announcements.md
-      - About Us/School Uniform.md
-      - About Us/Fees.md
-      - About Us/Operating Hours.md
       - About Us/.keep
+      - About Us/Operating Hours.md
+      - About Us/Fees.md
+      - About Us/School Uniform.md
       - MK Registration.md
       - K1 Orientation 2023.md
       - MK Team.md
