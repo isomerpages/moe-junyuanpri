@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Announcements.md
+      - About Us/Fees.md
       - About Us/Operating Hours.md
       - About Us/.keep
       - MK Registration.md
