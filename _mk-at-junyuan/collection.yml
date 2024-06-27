@@ -2,8 +2,8 @@ collections:
   mk-at-junyuan:
     output: true
     order:
-      - About Us/.keep
       - Announcements.md
+      - About Us/.keep
       - MK Registration.md
       - K1 Orientation 2023.md
       - MK Team.md
