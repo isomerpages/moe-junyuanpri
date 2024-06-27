@@ -70,6 +70,11 @@ Staff List
     <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">nurul_atiqah_ismael@moe.edu.sg</span><br></td>
   </tr>
 	 <tr>
+    <td class="tg-ncov"> Miss Nur Diana Binte Saini</td>
+    <td class="tg-ncov">English Language Teacher </td>
+    <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">nur_diana_saini@moe.edu.sg</span> </td>
+  </tr>
+	 <tr>
     <td class="tg-ncov"> Mdm Tan Chai Hong Jovina</td>
     <td class="tg-ncov">English Language Teacher </td>
     <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">jovina_tan_chai_hong@moe.edu.sg</span><br></td>
