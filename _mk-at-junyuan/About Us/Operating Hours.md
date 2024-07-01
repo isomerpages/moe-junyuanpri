@@ -20,48 +20,44 @@ Our school timings are as follows:
 			</th>
 			<th>AM Session
 			</th>
-			<th>Uniformed Groups
+			<th>PM Session
 			</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td>
-				<a href="/cca/Physical-Sports-Group/Floorball/">Floorball
-				</a>
+			<td><b>Health Screening</b>
 			</td>
 			<td>
-				<a href="/cca/Visual-and-Performing-Arts-Group/ChineseDance/">Chinese Dance
-				</a>
+				<b>7.55 a.m.</b>
 			</td>
 			<td>
-				<a href="/cca/Uniformed-Groups/ScoutsCubs/">Scouts
-				</a>
+				<b>12.55 p.m</b>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<a href="/cca/Physical-Sports-Group/Volleyball/">Volleyball
-				</a>
+				K1
 			</td>
 			<td>
-				<a href="/cca/Visual-and-Performing-Arts-Group/MalayDance/">Malay Dance
-				</a>
+				8.00 a.m. - 12.00 p.m.
 			</td>
 			<td>
+				1.00 p.m. - 5.00 p.m.
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<a href="/cca/Physical-Sports-Group/TaeKwonDo/">Taekwondo
-				</a>
+				K2
 			</td>
 			<td>
-				<a href="/cca/Visual-and-Performing-Arts-Group/ModernDance/">Modern Dance
-				</a>
+					8.00 a.m. - 12.00 p.m.
 			</td>
 			<td>
+					1.00 p.m. - 5.00 p.m.
 			</td>
 		</tr>
 	</tbody>
 </table>
+
+<b>Note</b>: If you require a full-day service, <b>Kindergarten Care (KCare)</b> is available.
