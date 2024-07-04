@@ -2,14 +2,14 @@ collections:
   mk-at-junyuan:
     output: true
     order:
-      - Explore our MK/Our MK Learning Environment.md
-      - Explore our MK/.keep
       - Announcements.md
       - About Us/.keep
       - About Us/Operating Hours.md
       - About Us/Fees.md
       - About Us/School Uniform.md
       - MK Registration.md
+      - Explore our MK/.keep
+      - Explore our MK/Our MK Learning Environment.md
       - MK Team.md
       - Kindergarten Care (KCare).md
       - Our Early Years Centre (EYC) Partner.md
