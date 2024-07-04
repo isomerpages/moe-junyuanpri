@@ -20,3 +20,5 @@ You can purchase the MK uniform from either <a href="https://www.beauvoix.com.sg
 ##### Jeep Sing Fashion <br>
 •	$7 for polo T-shirt.<br>
 •	$8 for khaki shorts (for boys) or skorts (for girls).
+
+![](/images/MK_Uniform.png)
