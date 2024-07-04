@@ -2,6 +2,7 @@ collections:
   mk-at-junyuan:
     output: true
     order:
+      - Explore our MK/.keep
       - Announcements.md
       - About Us/.keep
       - About Us/Operating Hours.md
