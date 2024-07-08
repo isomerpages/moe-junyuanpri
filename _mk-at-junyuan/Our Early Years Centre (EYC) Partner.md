@@ -14,7 +14,7 @@ download a copy of our brochure!</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MK_EYC_brochure.jpg">
 </div>
 <p></p>
-<p>Our EYC Partner is: <strong>PCF Sparkletots Preschool @ Tampines West Blk 942</strong>
+<p>Our EYC Partner is: <br><strong>PCF Sparkletots Preschool @ Tampines West Blk 942</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/SparkleTots_Preschool_Logo.png">
