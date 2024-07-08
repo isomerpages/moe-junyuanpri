@@ -2,6 +2,7 @@
 title: Media Resource Library
 permalink: /departments/Media-Resource-Library/
 description: ""
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -115,12 +116,6 @@ Mdm Maryati Mohamad Ani
 ### Useful Links!
 
 NLB Website : [www.nlb.gov.sg](http://www.nlb.gov.sg/)
-
-  
-
-Want to share your thoughts and feelings about a story? Go to
-
-Read and Reap : [http://blogs.nlb.gov.sg/readandreap/about/](http://blogs.nlb.gov.sg/readandreap/about/)
 
 Got a question for the librarian? Send it to
 
