@@ -2,11 +2,11 @@ collections:
   mk-at-junyuan:
     output: true
     order:
-      - Announcements.md
       - About Us/.keep
       - About Us/Operating Hours.md
       - About Us/Fees.md
       - About Us/School Uniform.md
+      - Announcements.md
       - Explore our MK/.keep
       - Explore our MK/Our MK Learning Environment.md
       - MK Registration.md
