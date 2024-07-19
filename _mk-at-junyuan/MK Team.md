@@ -4,7 +4,9 @@ permalink: /mk-at-junyuan/mk-team/
 description: ""
 variant: markdown
 ---
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mk_banner.gif">
+</div>
 
 
 
