@@ -6,7 +6,7 @@ description: ""
 third_nav_title: About Us
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/banner.gif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mk_banner.gif">
 </div>
 <h3>Uniform expenses</h3>
 <p>You can purchase the MK uniform from either <a href="https://www.beauvoix.com.sg/products/moe-kindergarten" rel="noopener noreferrer nofollow" target="_blank">Beau Voix Uniform</a> or
