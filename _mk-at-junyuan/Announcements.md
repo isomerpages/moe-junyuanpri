@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/banner.gif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mk_banner.gif">
 </div>
 <h1>Announcements</h1>
 <h4>MK@JUNYUAN Open House 2024</h4>
