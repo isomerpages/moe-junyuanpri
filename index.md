@@ -13,6 +13,6 @@ sections:
           description: August Bulletin
           url: /parents-portal/JYPS-Bulletin/
         - title: Announcements (Primary)
-          description: MOE ECHA
+          description: MOE ECHA 2024
           url: /departments/cce/echa/
 ---
