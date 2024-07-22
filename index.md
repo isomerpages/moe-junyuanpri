@@ -14,5 +14,5 @@ sections:
           url: /parents-portal/JYPS-Bulletin/
         - title: Announcements (Primary)
           description: MOE ECHA
-          url: ""
+          url: /departments/cce/echa/
 ---
