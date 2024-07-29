@@ -3,6 +3,7 @@ title: SEN Officers
 permalink: /jyps-family/Our-Staff/SEN-Officers/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -27,7 +28,7 @@ SEN Officers
 <tbody>
   <tr>
     <td class="tg-0lj4"> Mdm Yee Kai Ling Amanda<br> <a href="mailto:yee_kai_ling_amanda@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">yee_kai_ling_amanda@moe.edu.sg</span></a> </td>
-    <td class="tg-0lj4"> SEN Officer </td>
+    <td class="tg-0lj4"> Senior SEN Officer </td>
   </tr>
   <tr>
     <td class="tg-0lj4"> Mdm Munira Binte Salleh<br> <a href="mailto:munira_salleh@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">munira_salleh@moe.edu.sg</span></a><br></td>
