@@ -42,7 +42,7 @@ Primary 4 Teachers
   <tr>
     <td class="tg-0lj4"> P4 Responsibility</td>
     <td class="tg-0lj4"> Mr Sim Poh Meng Joseph<br> <a href="mailto:sim_poh_meng_joseph@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">sim_poh_meng_joseph@moe.edu.sg</span></a><br></td>
-    <td class="tg-0lj4"> Mdm Chee Li Boon<br> <a href="mailto:chee_li_boon@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chee_li_boon@moe.edu.sg</span></a><br><br> Mdm Pan Xuan<br> <a href="mailto:pan_xuan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">pan_xuan@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> Mdm Chee Li Boon<br> <a href="mailto:chee_li_boon@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chee_li_boon@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P4 Resilience</td>
@@ -62,7 +62,7 @@ Primary 4 Teachers
 	  <tr>
     <td class="tg-0lj4"> P4 Harmony</td>
     <td class="tg-0lj4"> Mdm Lim Celia (Mrs Yee)<br> <a href="mailto:lim_celia@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lim_celia@moe.edu.sg</span></a><br></td>
-    <td class="tg-0lj4"> Mdm Low Ruilin Andralyn (Mrs Kang)<br> <a href="mailto:low_ruilin_andralyn@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">low_ruilin_andralyn@moe.edu.sg</span></a></td>
+    <td class="tg-0lj4"> Mdm Low Ruilin Andralyn (Mrs Kang)<br> <a href="mailto:low_ruilin_andralyn@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">low_ruilin_andralyn@moe.edu.sg</span></a><br><br> Mdm Pan Xuan<br> <a href="mailto:pan_xuan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">pan_xuan@moe.edu.sg</span></a><br></td>
   </tr>
 </tbody>
 </table>
