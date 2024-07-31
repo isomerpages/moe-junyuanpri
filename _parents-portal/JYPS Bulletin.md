@@ -16,4 +16,5 @@ JYPS Bulletin
 [March](/files/March_Bulletin_2024_FINAL.pdf)<br>
 [April](/files/April_Bulletin_2024_FINAL.pdf)<br>
 [May-June](/files/May_June_Bulletin_2024_FINAL.pdf)<br>
-[June-July](/files/June_July_Bulletin_2024_Final.pdf)
+[June-July](/files/June_July_Bulletin_2024_Final.pdf)<br>
+[August](/files/August_Bulletin_2024_Final.pdf)<br>

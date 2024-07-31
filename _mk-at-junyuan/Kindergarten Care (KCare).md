@@ -1,9 +1,13 @@
 ---
 title: Kindergarten Care (KCare)
 permalink: /mk-at-junyuan/kcare/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mk_banner.gif">
+</div>
+
 <p><strong>Kindergarten Care (KCare) is available at all MOE Kindergartens (MK) for parents who require a full-day service for their children who are enrolled in MK.&nbsp;</strong>
 </p>
 <p>KCare is a care service available in all MKs.</p>
