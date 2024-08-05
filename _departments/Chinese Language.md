@@ -2,6 +2,7 @@
 title: Chinese Language
 permalink: /departments/Chinese-Language/
 description: ""
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -150,7 +151,6 @@ The iMTL portal is a web-based, interactive Mother Tongue Languages Portal which
 
 The iMTL Portal offers a wide range of tools and resources to promote collaboration and interaction between students, and between teachers and students. It seeks to create an immersive MTL learning environment that integrates the learning of MTLs with students’ daily lives.
 
-Link:&nbsp;[https://imtl.moe.edu.sg/cos/o.x?c=/ca7\_imtl/user&amp;func=login](https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&amp;func=login)[](https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&amp;func=login)
 
 2.&nbsp;&nbsp;Thumbs Up Chinese Newspaper
 
