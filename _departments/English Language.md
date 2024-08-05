@@ -213,6 +213,6 @@ Vasanthakumar secured 1st Runner-up placing in the Finals.
 
 [2010 English Language (Primary/Secondary - Express/Normal (Academic)) Syllabus](https://www.moe.gov.sg/-/media/files/primary/english-primary-secondary-express-normal-academic.pdf)
 
-[2010 English Language (Primary (Foundation) / Secondary Normal (Technical)) Syllabus](https://www.moe.gov.sg/-/media/files/secondary/syllabuses-nt/eng/felnt_els-2020_syllabus.pdf)
+[2010 English Language (Primary (Foundation) / Secondary Normal (Technical)) Syllabus](https://www.moe.gov.sg/-/media/files/primary/english-primary-foundation-secondary-normal-technical.pdf)
 
 [Speak Good English Movement](https://www.goodenglish.org.sg/)
