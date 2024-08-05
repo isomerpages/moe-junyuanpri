@@ -164,4 +164,4 @@ Tamil language Competitions organised by GRC IAEC Tampines Central CC
 ### USEFUL LINKS/TIPS
 
 For more information on the Tamil Language curriculum, please refer to:  
-[https://www.moe.gov.sg/-/media/files/primary/tamil-primary-2015.pdf](https://www.moe.gov.sg/-/media/files/primary/tamil-primary-2015.pdf)
+[http://www.moe.gov.sg/education/syllabuses/mother-tongue-languages/files/tamil-primary-2015.pdf](https://www.moe.gov.sg/-/media/files/primary/tamil-primary-2015.pdf)
