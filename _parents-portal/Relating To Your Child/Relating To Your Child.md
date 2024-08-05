@@ -46,7 +46,7 @@ In support of the Race to Praise Campaign by Focus on The Family SG, we would li
 </thead>
 </table>
 
-You may also visit their website to complete a short quiz&nbsp;[www.family.org.sg/ParentsQuiz](http://www.family.org.sg/ParentsQuiz)&nbsp;that will help you discover the strength of your emotional connectedness with your children.  
+You may also visit their website to complete a short quiz that will help you discover the strength of your emotional connectedness with your children.  
   
 If you are interested to learn more, please visit&nbsp;[campaigns.family.org.sg/race-to-praise/](http://campaigns.family.org.sg/race-to-praise/)&nbsp;for more parenting resources and programmes.
 
