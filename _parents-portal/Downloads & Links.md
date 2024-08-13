@@ -16,10 +16,6 @@ variant: markdown
 *   [Account Management (P2 - P6)](/files/SLS%20AccountManagement.pdf)
 *   [Annex A and B (P1)](/files/2Annex%20A%20and%20B%20for%20SLS_P1.pdf)
 
-##### **Edusave Character Award**
-
-*   [Nomination Form](/files/Nomination%20Form.pdf)
-
 
 ##### **Quick Links**
 
