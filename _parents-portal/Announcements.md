@@ -20,7 +20,7 @@ Time: 10.45am to 11.30am<br>
 Venue: Meeting area in the canteen<br>
 End: 11.30am to leave school
 
-You can also send your heartfelt e-messages to the teacher(s) and staff who has made a positive difference in their lives via the Compliments Portal at https://www.moe.gov.sg/about-us/compliments. Thank you.
+You can also send your heartfelt e-messages to the teacher(s) and staff who has made a positive difference in their lives via the Compliments Portal at [https://www.moe.gov.sg/about-us/compliments](https://www.moe.gov.sg/about-us/compliments). Thank you.
 
 
 ### **JYPS Open House 2024**&nbsp;
