@@ -8,7 +8,8 @@ variant: markdown
 
 Announcements
 =============
-### Alumni Visiting On Teachers' Day 2024 
+
+### **Alumni Visiting On Teachers' Day 2024**&nbsp; 
 
 Dear former students,
 
