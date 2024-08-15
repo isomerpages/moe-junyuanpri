@@ -2,6 +2,7 @@
 title: English Language
 permalink: /departments/English-Language/
 description: ""
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -210,8 +211,8 @@ Vasanthakumar secured 1st Runner-up placing in the Finals.
 
 ### **Useful links and/or tips**
 
-[2010 English Language (Primary/Secondary - Express/Normal (Academic)) Syllabus](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/english-primary-secondary-express-normal-academic.pdf)
+[2010 English Language (Primary/Secondary - Express/Normal (Academic)) Syllabus](https://www.moe.gov.sg/-/media/files/primary/english-primary-secondary-express-normal-academic.pdf)
 
-[2010 English Language (Primary (Foundation) / Secondary Normal (Technical)) Syllabus](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/english-primary-foundation-secondary-normal-technical.pdf)
+[2010 English Language (Primary (Foundation) / Secondary Normal (Technical)) Syllabus](https://www.moe.gov.sg/-/media/files/primary/english-primary-foundation-secondary-normal-technical.pdf)
 
 [Speak Good English Movement](https://www.goodenglish.org.sg/)

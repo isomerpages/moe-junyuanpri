@@ -119,4 +119,4 @@ NLB Website : [www.nlb.gov.sg](http://www.nlb.gov.sg/)
 
 Got a question for the librarian? Send it to
 
-ASK! A Librarian:  [http://www.pl.sg/page/PlJustAskContent/Ask&\_nfls=false](http://www.pl.sg/page/PlJustAskContent/Ask&_nfls=false)
+[ASK! A Librarian](https://form.gov.sg/60012dfdcc381d001141b97f)
