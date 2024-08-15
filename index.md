@@ -17,5 +17,5 @@ sections:
           url: /departments/cce/echa/
         - title: Announcements (Primary)
           description: Alumni Visiting on 29 Aug
-          url: /parents-portal/announcement/
+          url: /parents-portal/Announcements/
 ---
