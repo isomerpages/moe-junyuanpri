@@ -85,10 +85,6 @@ EAS &amp; Support Staff
     <td class="tg-0lj4"> Desktop Engineer<br></td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> Mr Balaji Naidu S/O Sehkar Naidu </td>
-    <td class="tg-0lj4"> Desktop Engineer</td>
-  </tr>
-  <tr>
     <td class="tg-0lj4"> Mr Mohd Faisal Bin Abdul Samat </td>
     <td class="tg-0lj4"> STEM Instructor (Laboratory) </td>
   </tr>
