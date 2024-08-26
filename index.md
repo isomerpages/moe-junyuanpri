@@ -10,7 +10,7 @@ sections:
       background: /images/Homepage.gif
       key_highlights:
         - title: Announcements (Primary)
-          description: August Bulletin
+          description: September Bulletin
           url: /parents-portal/JYPS-Bulletin/
         - title: Announcements (Primary)
           description: MOE ECHA 2024
