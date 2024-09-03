@@ -26,10 +26,7 @@ Allied Educators (AED)
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-0lj4"> Mdm Phun Win Lin<br> <a href="mailto:phun_win_lin@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">phun_win_lin@moe.edu.sg</span></a><br></td>
-    <td class="tg-0lj4"> Senior AED-Counselling<br></td>
-  </tr>
+
   <tr>
     <td class="tg-0lj4"> Mdm Sharifah Taibah Bte Mohamed Alhabshie<br> <a href="mailto:sharifah_taibah_alhabshie@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">sharifah_taibah_alhabshie@moe.edu.sg</span></a><br></td>
     <td class="tg-0lj4"> Senior AED-Counselling<br></td>
