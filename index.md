@@ -12,10 +12,4 @@ sections:
         - title: Announcements (Primary)
           description: September Bulletin
           url: /parents-portal/JYPS-Bulletin/
-        - title: Announcements (Primary)
-          description: MOE ECHA 2024
-          url: /departments/cce/echa/
-        - title: Announcements (Primary)
-          description: Alumni Visiting on 29 Aug
-          url: /parents-portal/Announcements/
 ---
