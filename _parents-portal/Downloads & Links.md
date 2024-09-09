@@ -7,11 +7,11 @@ variant: markdown
 ![](/images/banner.gif)
 
 
-##### **2025 Primary 1 Matters&nbsp;\*Coming Soon!**
+#### **2025 Primary 1 Matters&nbsp;\*\*Coming Soon!**
 
 
 
-##### **SLS&nbsp;NEW!\***
+#### **SLS&nbsp;\*\*NEW!**
 
 *   [Account Management (P2 - P6)](/files/SLS%20AccountManagement.pdf)
 *   [Annex A and B (P1)](/files/2Annex%20A%20and%20B%20for%20SLS_P1.pdf)
