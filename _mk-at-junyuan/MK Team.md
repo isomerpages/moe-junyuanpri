@@ -83,11 +83,6 @@ MK Team
     <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">jovina_tan_chai_hong@moe.edu.sg</span><br></td>
   </tr>
   <tr>
-    <td class="tg-ncov"> Ms Izzah Syaza Binte Tazhar</td>
-    <td class="tg-ncov">English Language Teacher </td>
-    <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">izzah_syaza_tazhar@moe.edu.sg</span><br></td>
-  </tr>
-  <tr>
     <td class="tg-ncov">Ms Fang Xuiyi <br>(Fang Laoshi)<br></td>
     <td class="tg-ncov">Chinese Language Teacher </td>
     <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">fang_xiuyi@moe.edu.sg</span> <br></td>
