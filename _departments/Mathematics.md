@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /departments/Mathematics/
 description: ""
+variant: markdown
 ---
 ![](/images/banner.gif)
 
