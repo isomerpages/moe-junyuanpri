@@ -20,4 +20,4 @@ JYPS Bulletin
 [August](/files/August_Bulletin_2024_Final.pdf)<br>
 [September](/files/September_Bulletin_2024_Final.pdf)<br>
 [October](/files/October_Bulletin_2024_Final.pdf)<br>
-[November](/files/November_Bulletin_2024_FINAL.pdf) ([Joint Year-End School Holidays Advisory](/files/Joint_Year_End_School_Advisory.pdf)) <br>
+[November](/files/November_Bulletin_2024_FINAL.pdf) ([Joint Year-End School Holidays Advisory](/files/Joint_Year_End_School_Holidays_Advisory.pdf)) <br>
