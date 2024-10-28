@@ -7,7 +7,8 @@ variant: markdown
 ![](/images/banner.gif)
 
 
-#### **2025 Primary 1 Matters&nbsp;\*\*Coming Soon!**
+#### **2025 Primary 1 Matters&nbsp;**
+[Primary 1 Matters](https://go.gov.sg/jyps2025p1)
 
 
 

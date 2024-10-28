@@ -81,4 +81,3 @@ The Primary 5 Overseas Learning Journey to Chiang Mai provides an opportunity fo
 
 1. [The 2014 primary science syllabus](https://www.moe.gov.sg/-/media/files/primary/science-primary-2014.pdf)
 
-2. [A web portal with science websites specially selected to match the learning objectives in the Primary Science syllabus](http://sciberdiver.wikispaces.com/)
