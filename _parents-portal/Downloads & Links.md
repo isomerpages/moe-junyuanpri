@@ -6,6 +6,13 @@ variant: markdown
 ---
 ![](/images/banner.gif)
 
+#### **Booklist&nbsp;**
+[2025 P1 Booklist](https://drive.google.com/file/d/1BRBph03Vzti8-f4BLgYKHfnr4ObTi9ku/view?usp=drive_link)<br>
+[2025 P2 Booklist](https://drive.google.com/file/d/1M5H8BwSTakkNdRA0_oIIVcuECJ_DAbxO/view?usp=drive_link)<br>
+[2025 P3 Booklist](https://drive.google.com/file/d/17O2VfV6hRHOUHFNVHY09i9YArWH8G7bh/view?usp=drive_link)<br>
+[2025 P4 Booklist](https://drive.google.com/file/d/1WqwUHNZ2IO6QnAzpbzdt3zXfhpztGzSw/view?usp=drive_link)<br>
+[2025 P5 Booklist](https://drive.google.com/file/d/15xujIQpNiD0u1pZByHLl5AXmvqF2BNON/view?usp=drive_link)<br>
+[2025 P6 Booklist](https://drive.google.com/file/d/1TVIC5Q2XLsabdRDgCQfhneNuZ-jaOWkv/view?usp=drive_link)<br>
 
 #### **2025 Primary 1 Matters&nbsp;**
 [Primary 1 Matters](https://go.gov.sg/jyps2025p1)
