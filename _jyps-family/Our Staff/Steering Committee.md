@@ -176,7 +176,7 @@ Steering Committee
     </tr>
 		<tr>
       <td class="tg-yp4s">
-        Ms Eunice Bor <br>
+        Ms Eunice Bor Bee Cheoh<br>
         <a href="mailto:bor_bee_cheoh_eunice@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">bor_bee_cheoh_eunice@moe.edu.sg</span></a><br>
       </td>
       <td class="tg-lyvw">SH-CCE<br></td>
