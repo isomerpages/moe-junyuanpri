@@ -34,6 +34,36 @@ Primary 4 Teachers
     <td class="tg-hvnt"> Class</td>
     <td class="tg-lpmw" colspan="2">Form Teachers</td>
   </tr>
+	 <tr>
+    <td class="tg-0lj4"> P4 Respect </td>
+    <td class="tg-0lj4"> Mdm Foo Ming Peow (Mrs Chua)<br> <a href="mailto:foo_ming_peow@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">foo_ming_peow@moe.edu.sg</span></a></td>
+    <td class="tg-0lj4"> Mr Murugesu s/o Samarasan<br> <a href="mailto:murugesu_samarasan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">murugesu_samarasan@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lj4"> P4 Responsibility</td>
+    <td class="tg-0lj4"> Mr Sim Poh Meng Joseph<br> <a href="mailto:sim_poh_meng_joseph@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">sim_poh_meng_joseph@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> Mdm Chee Li Boon<br> <a href="mailto:chee_li_boon@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chee_li_boon@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lj4"> P4 Resilience</td>
+    <td class="tg-0lj4"> Mdm Wong Sze Yeun (Mrs Sarah Quek)<br> <a href="mailto:wong_sze_yeun@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">wong_sze_yeun@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> Mrs Marisa De Almeida<br> <a href="mailto:marisa_de_almeida@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">marisa_de_almeida@moe.edu.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lj4"> P4 Integrity</td>
+    <td class="tg-0lj4"> Mdm Rozana Bte Abdul Razak<br> <a href="mailto:rozana_abd_razak@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">rozana_abd_razak@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> Mdm Sim Hui Hui<br> <a href="mailto:sim_hui_hui@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">sim_hui_hui@moe.edu.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lj4"> P4 Care</td>
+    <td class="tg-0lj4"> Mr Goh Wei Keong Kelvin<br> <a href="mailto:goh_wei_keong_kelvin@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">goh_wei_keong_kelvin@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> Mdm Rozana Bte Mohamad Said<br> <a href="mailto:rozana_mohamad_said@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">rozana_mohamad_said@moe.edu.sg</span></a></td>
+  </tr>
+	  <tr>
+    <td class="tg-0lj4"> P4 Harmony</td>
+    <td class="tg-0lj4"> Mdm Lim Celia (Mrs Yee)<br> <a href="mailto:lim_celia@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lim_celia@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> Mdm Low Ruilin Andralyn (Mrs Kang)<br> <a href="mailto:low_ruilin_andralyn@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">low_ruilin_andralyn@moe.edu.sg</span></a><br><br> Mdm Pan Xuan<br> <a href="mailto:pan_xuan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">pan_xuan@moe.edu.sg</span></a><br></td>
+  </tr>
   <tr>
     <td class="tg-0lj4"> P3 Respect</td>
     <td class="tg-0lj4"> Mr Ivan Ong Chee Beng<br> <a href="mailto:ong_chee_beng_a@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">ong_chee_beng_a@moe.edu.sg</span></a></td>
