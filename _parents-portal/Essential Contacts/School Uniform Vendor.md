@@ -13,4 +13,3 @@ variant: markdown
 | **Website:**    | [https://jeepsinguniform.com/](https://jeepsinguniform.com/)    |      |
 |**Operating Hours:**  | Monday to Friday <br> 7.30am to 3.00pm<br><br> Open to Parents <br> 2.00pm to 3.00pm     |     |
 |
-
