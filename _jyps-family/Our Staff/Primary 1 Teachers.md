@@ -38,7 +38,7 @@ Primary 1 Teachers
   </tr>
   <tr>
     <td class="tg-0lj4"> P1-1</td>
-    <td class="tg-0lj4"> Mdm Pan Xuan<br> <a href="mailto:pan_xuan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">pan_xuan@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4">  Mdm Chee Li Boon<br> <a href="mailto:chee_li_boon@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chee_li_boon@moe.edu.sg</span></a><br></td>
     <td class="tg-0lj4"> Mrs Michelle Ang<br> <a href="mailto:chan_yen_ling_michelle@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chan_yen_ling_michelle@moe.edu.sg</span></a><br><br>Mdm Zawiyah Bte Mohd Salleh<br> <a href="mailto:zawiyah_m_salleh@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">zawiyah_m_salleh@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
@@ -59,7 +59,7 @@ Primary 1 Teachers
   <tr>
     <td class="tg-0lj4"> P1-5 </td>
     <td class="tg-0lj4"> Miss Fatin Nadzirah Bte Zahari<br> <a href="mailto:fatin_nadzirah_zahari@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">fatin_nadzirah_zahari@moe.edu.sg</span></a><br></td>
-    <td class="tg-0lj4"> Mdm Chee Li Boon<br> <a href="mailto:chee_li_boon@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chee_li_boon@moe.edu.sg</span></a><br><br> Mdm Ruziah Binte Ali<br> <a href="mailto:ruziah_ali@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">ruziah_ali@moe.edu.sg</span></a> </td>
+    <td class="tg-0lj4">Mdm Pan Xuan<br> <a href="mailto:pan_xuan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">pan_xuan@moe.edu.sg</span></a><br><br> Mdm Ruziah Binte Ali<br> <a href="mailto:ruziah_ali@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">ruziah_ali@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P1-6</td>
