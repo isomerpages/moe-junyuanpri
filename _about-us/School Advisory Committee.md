@@ -2,6 +2,7 @@
 title: School Advisory Committee
 permalink: /about-us/School-Advisory-Committee/
 description: ""
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -20,13 +21,13 @@ School Advisory Committee
 <thead>
   <tr>
     <th class="tg-fwnj">Chairman</th>
-    <th class="tg-fwnj">Mr John Ong Moh Taur</th>
+    <th class="tg-fwnj">Mr Lim Wan Xian Dominic</th>
   </tr>
 </thead>
 <tbody>
 	 <tr>
     <td class="tg-fwnj">Vice Chairman</td>
-    <td class="tg-fwnj">Mr Lim Wan Xian Dominic</td>
+    <td class="tg-fwnj">Mr Goh Hong Yi</td>
   </tr>
   <tr>
     <td class="tg-fwnj">Honorary Secretary (Principal)</td>
@@ -34,7 +35,7 @@ School Advisory Committee
   </tr>
   <tr>
     <td class="tg-fwnj"><br><br>Members<br></td>
-    <td class="tg-fwnj"><span style="background-color:initial">Mdm Lim Lee Bee</span><br>Mdm Vivian Tio Bee Hian<br>Mr Heng Wee Shiun <br>Ms Eng Jia Yun<br>Mr Goh Hong Yi<br>Mdm Waheeda Rahman</td>
+    <td class="tg-fwnj"><span style="background-color:initial">Mr Heng Wee Shiun <br>Mdm Waheeda Rahman<br>Mr Dennis Poh Wei Song<br>Mr Tan Sheng Han<br>Ms Lim Ke Yi Elysia</span></td>
   </tr>
 </tbody>
 </table>
