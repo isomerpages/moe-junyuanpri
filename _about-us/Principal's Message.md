@@ -14,21 +14,21 @@ Principal's Message
 <img src="/images/Principal.jpeg" style="width:35%">
 
 
-<i>Hello and welcome to Junyuan Primary School!</i>
+Greetings and welcome to Junyuan Primary School!
 
-<i>We celebrated our 35th anniversary last year and as we take time to reflect on this milestone, we can truly be grateful for the shared experiences of every member of our school’s community.</i>
+In the years post-pandemic, we have been riding the waves of changes and opportunities in the new landscape. We challenged ourselves to imagine how we can make learning more engaging, more meaningful for all our children, from the little ones in our kindergarten to the about-to-turn teenagers in the upper primary levels. And without the restrictions that limited what we can do, some of our ideas ran a little “wild”.
 
-<i>Over the past few years, we needed to learn many new things, unlearn some old habits, and relearn some age-old wisdom and attitudes. These lessons are gifts that have shaped and taught us as a school community to better guide and teach our students to embrace the exciting opportunities that the post pandemic future holds for them. They also affirmed that certain fundamentals like nurturing good character and supporting students with caring relationships will not change, no matter what.</i>
+Our colleagues started to re-imagine schooling to better nurture the children for the future. They have been integrating real-world issues into the curriculum to get the children to think more critically. In CCAs, the various groups are going beyond the boundaries of the school to engage the community, including exchange programmes with cluster schools. In other programmes – outdoor camps, learning journeys, VIAs, social emotional learning, overseas cultural exchanges, just to name some - our colleagues are exploring ways instil a joy of learning, to grow the children to be lifelong learners and leaders of character. The PSG too, has been kept busy. Together with our colleagues, we are initiating a support group for parents of children with learning needs so that we can proactively reach out to each other to better help our children grow. The PSG also started several grounds up initiatives to create a more holistic environment for the children. 
 
-<i>We have also been trying different ways to teach and to learn, some of which nudged by the challenges of the pandemic, as well as adding new learning spaces to enhance our schooling experiences. Together, we are seeing possibilities of what we can do as we guide our students into the future of learning.</i>
+Why the need for different opportunities that offer a variety of learning experiences?
 
-<i>Let’s help them imagine who they can be and what they can do as they learn and discover themselves and the world around them. Let them dare dream of an exciting and fulfilling future for themselves and the world they will inherit.</i>
+We believe every child is different, each with his own needs and her own talents. Therefore, we make it our mission to nurture every child in a vibrant learning environment, so that we provide a range of opportunities to match the equally broad spectrum of talents and needs of our children. We believe that school is a place for them to find out about themselves, about what they are good at, and how they can excel in talents they are endowed with.
 
-<i>Let’s help them dare to try and find different ways to try again if they were to fail the first, second and perhaps even the third time.</i>
+Going forward, we will encourage them to dare try, to embrace struggles as part of learning, and to discover what they are able to do well and take the journey of lifelong learning towards their dream.
 
-<i>Let’s help them to dare contribute and give to the family, the community, and the nation for a better future for all of us!</i>
+But we must never forget what is unseen because often what we can’t see are the anchors that serve as foundations. These are the foundations built from developing character, citizenship and shared values. They will always remain at the core of what we do as a school community. It is when we push the boundaries to explore further and to try that we need deeper anchors. They will re-orientate us when we venture a bit too far, as explorers tend to so, to help us learn when we fail, and to remind us to be grateful when we succeed.  
 
-Wishing you a fruitful year in 2024!
+Wishing you and your family a fruitful year ahead!
 
   
 
