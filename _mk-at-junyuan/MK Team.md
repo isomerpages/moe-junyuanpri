@@ -85,7 +85,7 @@ MK Team
 	 <tr>
     <td class="tg-ncov"> Mdm Hidayah Binte Yahya</td>
     <td class="tg-ncov">English Language Teacher </td>
-    <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">hidayah_yahya@moe.edu.sg</span><br></td>
+    <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">hidayah_binte_yahya@moe.edu.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-ncov">Ms Fang Xuiyi <br>(Fang Laoshi)<br></td>
