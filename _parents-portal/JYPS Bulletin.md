@@ -9,6 +9,9 @@ variant: markdown
 JYPS Bulletin
 =============
 
+##### JYPS Bulletin 2025
+[January](/files/January_Bulletin_2025_Final.pdf) <br>
+
 ##### JYPS Bulletin 2024
 
 [January](/files/January_Bulletin_2024_Final.pdf) <br>
