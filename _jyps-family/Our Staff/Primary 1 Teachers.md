@@ -76,7 +76,7 @@ Primary 1 Teachers
   <tr>
     <td class="tg-0lj4"> P1-8</td>
    <td class="tg-0lj4"> Mdm Ye Huilin (Mrs Tng)<br> <a href="mailto:ye_huilin@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">ye_huilin@moe.edu.sg</span></a></td>
-    <td class="tg-0lj4"> Mdm Nur Azlina bte Othman<br> <a href="mailto:nur_azlina_othman@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nur_azlina_othman@moe.edu.sg</span></a><br><br> Mrs Sharon Sharmini Gomez Daniel K&nbsp;<br> <a href="mailto:sharmini_sharon_gomez@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">sharmini_sharon_gomez@moe.edu.sg</span></a></td>
+    <td class="tg-0lj4"> Mdm Nur Azlina bte Othman<br> <a href="mailto:nur_azlina_othman@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nur_azlina_othman@moe.edu.sg</span></a><br><br> Mrs Sharon Sharmini Gomez Daniel &nbsp;<br> <a href="mailto:sharmini_sharon_gomez@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">sharmini_sharon_gomez@moe.edu.sg</span></a></td>
   </tr>
 	</tbody>
 </table>
