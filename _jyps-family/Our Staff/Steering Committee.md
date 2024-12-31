@@ -24,6 +24,10 @@ Steering Committee
       <td class="tg-yp4s">Mrs Audrea Chin</td>
       <td class="tg-yp4s">VP-Academic</td>
     </tr>
+		<tr>
+      <td class="tg-yp4s">Mrs Lee Shi Lin</td>
+      <td class="tg-yp4s">VP-Academic</td>
+    </tr>
     <tr>
       <td class="tg-yp4s">Mr Chue Wai Leong William</td>
       <td class="tg-yp4s">VP-Administration</td>
@@ -169,6 +173,13 @@ Steering Committee
         <a href="mailto:nurul_syahidah_rahmat@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nurul_syahidah_rahmat@moe.edu.sg</span></a><br>
       </td>
       <td class="tg-lyvw">SH-PE &amp; CCA<br></td>
+    </tr>
+		<tr>
+      <td class="tg-yp4s">
+        Ms Eunice Bor Bee Cheoh<br>
+        <a href="mailto:bor_bee_cheoh_eunice@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">bor_bee_cheoh_eunice@moe.edu.sg</span></a><br>
+      </td>
+      <td class="tg-lyvw">SH-CCE<br></td>
     </tr>
 		<tr>
       <td class="tg-yp4s">

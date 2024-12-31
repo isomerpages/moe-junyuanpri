@@ -25,9 +25,10 @@ EAS &amp; Support Staff
     <th class="tg-0lj4">Mdm Fazidah Hani Abdul Hadi </th>
     <th class="tg-0lj4"> Admin Manager</th>
   </tr>
-</thead>
-<tbody>
-
+	  <tr>
+    <td class="tg-0lj4"> Mdm Cynthia Lee Ling Ling </td>
+    <td class="tg-0lj4"> Admin Manager (ICT)<br></td>
+  </tr>
   <tr>
     <td class="tg-0lj4"> Ms Chan Pui Lin Rachael </td>
     <td class="tg-0lj4"> Admin Executive </td>
@@ -55,11 +56,7 @@ EAS &amp; Support Staff
   <tr>
     <td class="tg-0lj4"> Mdm Lee Li Juin</td>
     <td class="tg-0lj4"> Operations Manager </td>
-  </tr>
-  <tr>
-    <td class="tg-0lj4"> Mr Png Thiam Chay <br></td>
-    <td class="tg-0lj4"> Operations Support Officer <br></td>
-  </tr>
+	</tr>
   <tr>
     <td class="tg-0lj4"> Mdm Ijo Hiok Tjoe</td>
     <td class="tg-0lj4"> Operations Support Officer</td>
@@ -72,16 +69,16 @@ EAS &amp; Support Staff
     <td class="tg-0lj4"> Mdm Siti Aisah Bte Ahmad <br></td>
     <td class="tg-0lj4"> Operations Support Officer (MK)<br></td>
   </tr>
-  <tr>
-    <td class="tg-0lj4"> Mdm Cynthia Lee Ling Ling </td>
-    <td class="tg-0lj4"> ICT Manager<br></td>
-  </tr>
 	 <tr>
     <td class="tg-0lj4"> Mr Juhanis Bin Juma'at </td>
     <td class="tg-0lj4"> ICT Manager<br></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> Mr Low Jun Xian</td>
+    <td class="tg-0lj4"> Desktop Engineer<br></td>
+  </tr>
+	 <tr>
+    <td class="tg-0lj4"> Mr S Kuganesvar S Sundaresan</td>
     <td class="tg-0lj4"> Desktop Engineer<br></td>
   </tr>
   <tr>
@@ -104,8 +101,8 @@ EAS &amp; Support Staff
     <td class="tg-0lj4"> Mr Mohd Said </td>
     <td class="tg-0lj4"> Security Guard (MK) </td>
   </tr>
-</tbody>
-</table>
+
+</thead></table>
 
 
 
