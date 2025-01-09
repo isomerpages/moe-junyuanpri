@@ -61,11 +61,35 @@ b.&nbsp; &nbsp;&nbsp;Character and Citizenship Education (CCE)
 
 #### **Primary 5**
 
-| CCE(FTGP) THEME | LESSON TITLE / DURATION | LESSON OVERVIEW | TIME PERIOD<br>(e.g. Term 1 Week 2) |
-|:---:|:---:|:---:|:---:|
-| Growing Years | The Changes in Me<br>(60 min) | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one's identity need not be negatively affected, even when one's body is experiencing changes due to puberty. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.  | Term 2 Week 5 |
-| Growing Years | Did You Know?<br>(60 min) | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy 'Stop-Think-Do'.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Term 2 Week 6 |
-| Growing Years | Keeping Myself Safe<br>(60 min) | In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.  | Term 2 Week 7 |
+<table style="border:1px solid black">
+	<thead>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">CCE(FTGP) THEME</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> LESSON TITLE / DURATION</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> LESSON OVERVIEW</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
+		</tr>
+	</thead>
+	<tbody>
+			<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Growing Years</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Did You Know?<br>(60 min) </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one's identity need not be negatively affected, even when one's body is experiencing changes due to puberty. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</th>
+				<th style="border:1px solid black; text-align:left;vertical-align:left">  Term 2 Week 5 </th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Growing Years</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Did You Know?<br>(60 min)</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy 'Stop-Think-Do'.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">  Term 2 Week 6 </th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Growing Years</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Keeping Myself Safe<br>(60 min)</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">  Term 2 Week 7 </th>
+		</tr>
+</tbody></table>	
 
 #### **Primary 6**
 
