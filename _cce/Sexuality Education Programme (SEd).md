@@ -86,4 +86,4 @@ b.&nbsp; &nbsp;&nbsp;Character and Citizenship Education (CCE)
 
   
 
-10\.&nbsp;&nbsp; &nbsp;Parents can contact the school at&nbsp;[junyuan\_ps@moe.edu.sg](mailto:junyuan_ps@moe.edu.sg) or 67830375&nbsp;for discussion or to seek clarification about the school’s Sexuality Education programme.
+10\.&nbsp;&nbsp; &nbsp;Parents can contact the school at&nbsp;[junyuan\_ps@moe.edu.sg](mailto:junyuan_ps@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
