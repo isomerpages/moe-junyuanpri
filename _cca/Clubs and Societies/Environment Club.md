@@ -11,7 +11,8 @@ variant: markdown
   
 # Environment Club
 
-![](/images/Environment%20Club_Pic%201.jpeg)
+![](/images/Environment_Club_Formal.jpg) <br>
+![](/images/Environment_Club_Informal.jpg)
 
 The Environment Club aims to (i) cultivate environmental awareness in pupils and inculcate in them a sense of responsibility and respect for the environment, (ii) develop their understanding of environmental issues, conservation and sustainable living, and (iii) empower pupils to raise and promote environmental awareness amongst their peers and in the community, while (iv) instilling character values in them.  
   
