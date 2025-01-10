@@ -7,7 +7,7 @@ variant: markdown
 ---
 ![](/images/banner.gif)
 
-TAEKWONDO
+Taekwondo
 ===========
 
 
