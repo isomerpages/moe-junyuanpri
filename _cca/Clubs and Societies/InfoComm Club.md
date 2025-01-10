@@ -66,5 +66,4 @@ Mondays &amp; Fridays&nbsp;<br>
 Mdm Siti Raihani Bte Husainni:&nbsp;[siti\_raihani\_husainni@moe.edu.sg](mailto:siti_raihani_husainni@moe.edu.sg)<br>
 Mdm Chee Li Boon:&nbsp;[chee\_li\_boon@moe.edu.sg](mailto:chee_li_boon@moe.edu.sg)<br>
 Mdm Corinne Sim:&nbsp;[sim\_chew\_yen@moe.edu.sg](mailto:sim_chew_yen@moe.edu.sg)  <br>
-Ms Celia Lim:&nbsp;[lim\_celia@moe.edu.sg](mailto:lim_celia@moe.edu.sg)<br>
 Mdm Pan Xuan:&nbsp;[pan\_xuan@moe.edu.sg](mailto:pan_xuan@moe.edu.sg)<br>
