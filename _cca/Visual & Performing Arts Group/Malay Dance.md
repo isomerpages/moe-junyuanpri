@@ -61,4 +61,4 @@ Mondays &amp; Fridays
 **Teachers IC and Email address:**  <br>
 Mdm Jurieni:&nbsp;[jurieni\_bahrom@moe.edu.sg](mailto:jurieni_bahrom@moe.edu.sg) <br>
 Mdm Rozana:&nbsp;[rozana\_mohamad\_said@moe.edu.sg](mailto:rozana_mohamad_said@moe.edu.sg)  <br>
-Mdm Nadhirah:&nbsp;[nadhirah\_yusope@moe.edu.sg](mailto:nadhirah_yusope@moe.edu.sg)
+Mdm Shahidah:&nbsp;[shahidah\_mahfodz@moe.edu.sg](mailto:shahidah_mohfodz@moe.edu.sg)
