@@ -60,4 +60,3 @@ Fridays
 Mrs Suriani Hanes:&nbsp;[suriani\_abdullah@moe.edu.sg](mailto:suriani_abdullah@moe.edu.sg)<br>
 Mrs Chow Kar Yan:&nbsp;[chua\_kar\_yan@moe.edu.sg](mailto:chua_kar_yan@moe.edu.sg)<br>
 Mdm Nadhira Parveen:&nbsp;[nadhira\_parveen@moe.edu.sg](mailto:nadhira_parveen@moe.edu.sg)<br>
-Mdm Norainy:&nbsp;[norainy\_jailani@moe.edu.sg](mailto:norainy_jailani@moe.edu.sg)<br>
