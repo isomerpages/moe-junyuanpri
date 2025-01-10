@@ -11,11 +11,11 @@ variant: markdown
 Floorball
 =========
 
-![](/images/Floorball.jpeg)
+![](/images/Floorball_Formal.jpg)
 
-![](/images/Floorball2.jpeg)
+![](/images/Floorball_Informal.jpg)
 
-![](/images/Floorball3.jpeg)
+
 
 
 Floorball is a fast-paced indoor team sports game that is fun and exciting. The rules are simple and is safe for students.  
