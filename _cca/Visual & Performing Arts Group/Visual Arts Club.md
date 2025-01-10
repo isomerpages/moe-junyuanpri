@@ -10,7 +10,9 @@ variant: markdown
 Visual Arts Club
 ================
 
-![](/images/Visual%20Arts%20Club%20photo.jpeg)
+![](/images/Visual_Art_Club_P4_Informal.jpg) <br>
+![](/images/Visual_Art_Club_P5_Informal.jpg) <br>
+![](/images/Visual_Art_Club_P6_Informal.jpg) 
 
 The Visual Arts Club provides a platform for student with common interest in art to explore their talents and collaborate with other student artists. During the Visual Arts Club sessions, students will experience engaging activities to explore different art forms and appreciate art. Members will be creating their own original artwork and some of which will be selected for competitions and displays in school. We aim to flourish the potential in the young, talented artists.
 
@@ -79,4 +81,4 @@ Mrs Michelle Ang:&nbsp;[chan\_yen\_ling\_michelle@moe.edu.sg](mailto:chan_yen_li
 Mr Wang Shing Huei:&nbsp;[wang\_shing\_huei@moe.edu.sg](mailto:wang_shing_huei@moe.edu.sg)  <br>
 Mrs Monica Berger:&nbsp;[monica\_vasanti\_augustine@moe.edu.sg](mailto:monica_vasanti_augustine@moe.edu.sg)<br> 
 Mrs Angela Chin:&nbsp;[kam\_jiewen@moe.edu.sg](mailto:kam_jiewen@moe.edu.sg)<br>
-Miss Angel Teo:&nbsp;[teo\_an\_chic\_angel@moe.edu.sg](mailto:teo_an_chic_angel@moe.edu.sg)
+Mrs Josephine Lee:&nbsp;[twoon\_mui\_chuan\_josephine@moe.edu.sg](mailto:woon_mui_chuan_josephine@moe.edu.sg)
