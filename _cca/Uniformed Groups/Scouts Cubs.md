@@ -10,7 +10,8 @@ variant: markdown
 Scouts Cubs
 ===========
 
-![](/images/ScoutsCLub.jpeg)
+![](/images/Scouts_Formal.jpg) <br>
+![](/images/Scouts_Informal.jpg) <br>
 ![](/images/Scout%20Group%20photo%20with%20school%20flag.jpeg)
 
 It is a CCA programme that seeks to provide a group environment to build Cub scouts in their social, emotional, intellectual, physical and character development. Each meeting involves the use of the Scout Method, with an emphasis on practical outdoor activities, including camping, woodcraft, hiking and sports. Most Cub Scouts will be a leader within their Pack as they continue in their Scouting Journey.
@@ -87,5 +88,6 @@ Fridays&nbsp;<br>
 
 **Teachers IC and Email address:**  
 Mdm Loo Chin Imm: l[oo\_chin\_imm@moe.edu.sg](mailto:oo_chin_imm@moe.edu.sg) <br>
-Mr Kelvin Goh:&nbsp;[goh\_wei\_keong\_kelvin@moe.edu.sg](mailto:goh_wei_keong_kelvin@moe.edu.sg)  
-Mdm Liyana:&nbsp;[nur\_liyana\_amrun@moe.edu.sg](mailto:nur_liyana_amrun@moe.edu.sg)
+Mr Kelvin Goh:&nbsp;[goh\_wei\_keong\_kelvin@moe.edu.sg](mailto:goh_wei_keong_kelvin@moe.edu.sg)<br>
+Mdm Liyana:&nbsp;[nur\_liyana\_amrun@moe.edu.sg](mailto:nur_liyana_amrun@moe.edu.sg)<br>
+Mdm Siti Hawa:&nbsp;[siti\_hawa\_abdul\_karim@moe.edu.sg](mailto:siti_hawa_abdul_karim@moe.edu.sg)

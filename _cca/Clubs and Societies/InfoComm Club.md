@@ -10,7 +10,8 @@ variant: markdown
   
 # InfoComm Club
 
-![](/images/INFOCOMM%20CLUB_0301A%20FORMAL.jpeg)
+![](/images/InfoComm_Club_Formal.jpg) <br>
+![](/images/InfoComm_Club_Informal.jpg)
 
 The InfoComm Club CCA aims to excite and develop the love for Information Communication and Technology (ICT) in students through fun and meaningful ways. Students will be empowered with relevant knowledge and skills such as photo editing, video editing, animation and coding. The club also aims to help students develop essential 21st century competencies such as personal and social responsibility, critical thinking, digital competence, as well as collaboration and communication.
 
@@ -65,5 +66,4 @@ Mondays &amp; Fridays&nbsp;<br>
 Mdm Siti Raihani Bte Husainni:&nbsp;[siti\_raihani\_husainni@moe.edu.sg](mailto:siti_raihani_husainni@moe.edu.sg)<br>
 Mdm Chee Li Boon:&nbsp;[chee\_li\_boon@moe.edu.sg](mailto:chee_li_boon@moe.edu.sg)<br>
 Mdm Corinne Sim:&nbsp;[sim\_chew\_yen@moe.edu.sg](mailto:sim_chew_yen@moe.edu.sg)  <br>
-Ms Celia Lim:&nbsp;[lim\_celia@moe.edu.sg](mailto:lim_celia@moe.edu.sg)<br>
 Mdm Pan Xuan:&nbsp;[pan\_xuan@moe.edu.sg](mailto:pan_xuan@moe.edu.sg)<br>

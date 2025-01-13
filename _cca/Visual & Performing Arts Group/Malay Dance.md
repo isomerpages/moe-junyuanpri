@@ -10,7 +10,9 @@ variant: markdown
 Malay Dance
 ===========
 
-![](/images/MALAY%20DANCE_0294%20FORMAL.jpeg)
+![](/images/Malay_Dance_Formal.jpg) <br>
+![](/images/Malay_Dance_Informal.jpg) 
+
 
 We aim to develop our members into graceful and skilled dancers, and confident performers. The pupils will learn the 5 basic traditional Malay dance moves – Asli, Inang, Joget, Masri &amp; Zapin. The pupils will be given the opportunity to showcase their talents during school events and in the Singapore Youth Festival (SYF).
 
@@ -59,4 +61,4 @@ Mondays &amp; Fridays
 **Teachers IC and Email address:**  <br>
 Mdm Jurieni:&nbsp;[jurieni\_bahrom@moe.edu.sg](mailto:jurieni_bahrom@moe.edu.sg) <br>
 Mdm Rozana:&nbsp;[rozana\_mohamad\_said@moe.edu.sg](mailto:rozana_mohamad_said@moe.edu.sg)  <br>
-Mdm Nadhirah:&nbsp;[nadhirah\_yusope@moe.edu.sg](mailto:nadhirah_yusope@moe.edu.sg)
+Mdm Shahidah:&nbsp;[shahidah\_mahfodz@moe.edu.sg](mailto:shahidah_mohfodz@moe.edu.sg)
