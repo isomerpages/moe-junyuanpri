@@ -125,7 +125,7 @@ b.&nbsp; &nbsp;&nbsp;Character and Citizenship Education (CCE)
 
   
 
-9\.&nbsp;&nbsp; &nbsp;Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable&nbsp;[here](/files/2025_SEd_Annex_A.pdf).&nbsp;The completed opt-out form is to be submitted by Friday, 17 Jan 2025.
+9\.&nbsp;&nbsp; &nbsp;Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable&nbsp;[here](/files/2025_SEd_Annex_A.pdf).&nbsp;The completed opt-out form is to be submitted by Friday, 17 Jan 2025 (P6 only) and Monday, 7 Apr 2025 (P5 only).
 
   
 
