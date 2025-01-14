@@ -10,5 +10,4 @@ variant: markdown
 <h1>Announcements</h1>
 
 ![](/images/MK_Junyuan_Open_house_poster.jpg)
-<h4><center><font style="color:#000000"> Dear Parents/Guardians,<br><br>Join us for MK@Junyuan Open House 2025!<br><br>When: Saturday, 15 February 2025<br> Time: 8.30 am - 12.30 pm&gt;<br><br> Register now using the QR code. We look forward to seeing you there!</font></center></h4>
-
+<h4><center><b><font style="color:#000000"> Dear Parents/Guardians,<br><br>Join us for MK@Junyuan Open House 2025!<br><br>When: Saturday, 15 February 2025<br> Time: 8.30 am - 12.30 pm&gt;<br><br> Register now using the QR code. We look forward to seeing you there!</font></b></center></h4>
