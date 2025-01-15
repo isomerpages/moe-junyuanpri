@@ -14,5 +14,5 @@ sections:
           url: /parents-portal/JYPS-Bulletin/
         - title: Announcements (MOE Kindergarten)
           description: MK Open House
-          url: ""
+          url: /mk-at-junyuan/announcements/
 ---
