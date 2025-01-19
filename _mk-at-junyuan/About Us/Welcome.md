@@ -5,3 +5,20 @@ variant: markdown
 description: ""
 third_nav_title: About Us
 ---
+
+
+<img style="width: 50%" height="50%" width="50%" alt="" src="/images/MK_logo.jpg">
+
+## <b><font color="orange">Welcome to MK@Junyuan</font></b>
+
+### <b><font color="maroon">Our Vision<font></font></font></b><font color="maroon"><font>
+####  <b><font color="cyan">A Strong Start for Every Child</font></b>
+
+### <b><font color="maroon">Our Mission<font></font></font></b><font color="maroon"><font>
+####  <b><font color="cyan">To provide quality pre-school education that is affordable to Singaporeans and catalyse quality improvements in the sector</font></b>
+
+### <b><font color="maroon">Our Values<font></font></font></b><font color="maroon"><font>
+####  <b><font color="cyan">Integrity the Foundation <br>
+####  <b><font color="cyan">People our Focus <br>
+####  <b><font color="cyan">Learning our Passion<br>
+####  <b><font color="cyan">Excellence our Pursuit</font></b></font></b></font></b></font></b></font></font></font></font></font></font>
