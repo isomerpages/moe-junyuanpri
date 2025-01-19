@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: About Us
 ---
-<img style="width: 50%" height="50%" width="50%" alt="" src="/images/MK_logo.jpg">
+<img style="width: 40%" height="50%" width="50%" alt="" src="/images/MK_logo.jpg">
 
 ## <b><font color="orange">Welcome to MK@Junyuan</font></b>
 
