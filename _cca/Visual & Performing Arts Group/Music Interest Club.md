@@ -56,4 +56,4 @@ Mondays &amp; Fridays
 Mr Murugesu:&nbsp;[murugesu\_samarasan@moe.edu.sg](mailto:murugesu_samarasan@moe.edu.sg)<br>
 Mr Joseph Sim:&nbsp;[sim\_poh\_meng\_joseph@moe.edu.sg](mailto:sim_poh_meng_joseph@moe.edu.sg)  <br>
 Mrs Chua Ming Peow:&nbsp;[foo\_ming\_peow@moe.edu.sg](mailto:foo_ming_peow@moe.edu.sg)  <br>
-Mrs Marisa de Almeida:&nbsp;[marisa\_de\_almeida@moe.edu.sg](mailto:marisa_de_almeida@moe.edu.sg)
+Mrs Marisa de Almeida:&nbsp;[bonaparte\_marisa@moe.edu.sg](mailto:Bonaparte_marisa@moe.edu.sg)
