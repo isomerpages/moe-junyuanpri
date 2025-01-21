@@ -51,7 +51,7 @@ Primary 3 Teachers
 		 <tr>
     <td class="tg-0lj4"> P3 Integrity</td>
     <td class="tg-0lj4"> Mr Goh Wei Keong Kelvin<br> <a href="mailto:goh_wei_keong_kelvin@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">goh_wei_keong_kelvin@moe.edu.sg</span></a><br></td>
-    <td class="tg-0lj4"> Mrs Marisa De Almeida<br> <a href="mailto:marisa_de_almeida@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">marisa_de_almeida@moe.edu.sg</span></a></td>
+    <td class="tg-0lj4"> Mrs Marisa De Almeida<br> <a href="mailto:bonaparte_marisa@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">bonaparte_marisa@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P3 Care</td>
