@@ -12,8 +12,8 @@ third_nav_title: About Us
 ### <b><font color="maroon">Our Vision</font></b>
 #### <font color="#0091A6">A Strong Start for Every Child</font>
 
-### <b><font color="maroon">Our Mission</font>
+### <b><font color="maroon">Our Mission</font></b>
 #### <font color="#0091A6">To provide quality pre-school education that is affordable to Singaporeans and catalyse quality improvements in the sector</font>
 
 ### <b><font color="maroon">Our Values</font></b>
-#### <font color="#0091A6">Integrity the Foundation<br>People our Focus <br>Learning our Passion<br>Excellence our Pursuit</font></b>
+#### <font color="#0091A6">Integrity the Foundation<br>People our Focus <br>Learning our Passion<br>Excellence our Pursuit</font>
