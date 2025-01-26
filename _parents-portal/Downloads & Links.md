@@ -7,7 +7,7 @@ variant: markdown
 ![](/images/banner.gif)
 
 #### **2025 Curriculum Briefing&nbsp;**
-##### **Primary 1&nbsp;**
+#### **Primary 1&nbsp;**
 [English Language (EL)](/files/2025_P1_EL_Curriculum_Briefing_Slides.pdf)<br>
 [Mother Tongue Language (MTL)](/files/2025_P1_MTL_Curriculum_Briefing_Slides.pdf) <br>
 [Character &amp; Citizenship Education (CCE)](/files/2025_P1_CCE_Curriculum_Briefing_Slides.pdf)<br>
