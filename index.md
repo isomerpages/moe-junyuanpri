@@ -10,7 +10,7 @@ sections:
       background: /images/Homepage.gif
       key_highlights:
         - title: Announcements (Primary)
-          description: January Bulletin
+          description: February Bulletin
           url: /parents-portal/JYPS-Bulletin/
         - title: Announcements (MOE Kindergarten)
           description: MK Open House
