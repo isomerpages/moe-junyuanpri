@@ -6,6 +6,18 @@ variant: markdown
 ---
 ![](/images/banner.gif)
 
+#### **2025 Curriculum Briefing&nbsp;**
+##### Primary 1 <br>
+[English Language (EL)](/files/2025_P1_EL_Curriculum_Briefing_Slides.pdf)<br>
+[Mother Tongue Language (MTL)](/files/2025_P1_MTL_Curriculum_Briefing_Slides.pdf) <br>
+[Character &amp; Citizenship Education (CCE)](/files/2025_P1_CCE_Curriculum_Briefing_Slides.pdf)<br>
+
+
+##### Primary 1 <br>
+English Language (EL)<br>
+Mother Tongue Language (MTL) <br>
+Character &amp; Citizenship Education (CCE)<br>
+
 #### **Booklist&nbsp;**
 [2025 P1 Booklist](https://drive.google.com/file/d/1BRBph03Vzti8-f4BLgYKHfnr4ObTi9ku/view?usp=drive_link)<br>
 [2025 P2 Booklist](https://drive.google.com/file/d/1M5H8BwSTakkNdRA0_oIIVcuECJ_DAbxO/view?usp=drive_link)<br>
