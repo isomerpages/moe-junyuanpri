@@ -4,7 +4,7 @@ permalink: /parents-portal/Downloads-and-Links/
 description: ""
 variant: markdown
 ---
-![](/images/banner.gif)
+2![](/images/banner.gif)
 
 #### **2025 Curriculum Briefing&nbsp;**
 #### **Primary 1&nbsp;**
@@ -13,10 +13,10 @@ variant: markdown
 [Character &amp; Citizenship Education (CCE)](/files/2025_P1_CCE_Curriculum_Briefing_Slides.pdf)<br>
 
 
-##### Primary 1 <br>
-English Language (EL)<br>
-Mother Tongue Language (MTL) <br>
-Character &amp; Citizenship Education (CCE)<br>
+##### **Primary 2&nbsp;**
+[English Language (EL)](/files/2025_P2_EL_Curriculum_Briefing_Slides.pdf)<br>
+[Mother Tongue Language (MTL)](/files/2025_P2_MTL_Curriculum_Briefing_Slides.pdf) <br>
+[Character &amp; Citizenship Education (CCE)](/files/2025_P2_CCE_Curriculum_Briefing_Slides.pdf)<br>
 
 #### **Booklist&nbsp;**
 [2025 P1 Booklist](https://drive.google.com/file/d/1BRBph03Vzti8-f4BLgYKHfnr4ObTi9ku/view?usp=drive_link)<br>
