@@ -6,6 +6,9 @@ variant: markdown
 ---
 ![](/images/banner.gif)
 
+#### **Coming Soon! 2025 Curriculum Briefing&nbsp;**
+#### **Primary 1 Briefing Slides<br>Primary 2 Briefing Slides<br>Primary 3 Briefing Slides<br>Primary 4 Briefing Slides<br>Primary 5 Briefing Slides<br>Primary 6 Briefing Slides&nbsp;**
+
 #### **Booklist&nbsp;**
 [2025 P1 Booklist](https://drive.google.com/file/d/1BRBph03Vzti8-f4BLgYKHfnr4ObTi9ku/view?usp=drive_link)<br>
 [2025 P2 Booklist](https://drive.google.com/file/d/1M5H8BwSTakkNdRA0_oIIVcuECJ_DAbxO/view?usp=drive_link)<br>
