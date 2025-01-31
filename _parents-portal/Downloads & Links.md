@@ -6,8 +6,22 @@ variant: markdown
 ---
 ![](/images/banner.gif)
 
-#### **Coming Soon! 2025 Curriculum Briefing&nbsp;**
-#### **Primary 1 Briefing Slides<br>Primary 2 Briefing Slides<br>Primary 3 Briefing Slides<br>Primary 4 Briefing Slides<br>Primary 5 Briefing Slides<br>Primary 6 Briefing Slides&nbsp;**
+#### **2025 Curriculum Briefing&nbsp;**
+#### **Primary 1 Briefing Slides&nbsp;**
+[English Language (EL)](/files/2025_P1_EL_Curriculum_Briefing_Slides.pdf)<br>
+[Mother Tongue Language (MTL)](/files/2025_P1_MTL_Curriculum_Briefing_Slides.pdf) <br>
+[Character &amp; Citizenship Education (CCE)](/files/2025_P1_CCE_Curriculum_Briefing_Slides.pdf)<br>
+[Programme for Active Learning (PAL) PE, Art an Music (PAM)](/files/2025_P1_PAM_PAL_Curriculum_Briefing_Slides.pdf)<br>
+
+
+##### **Primary 2 Briefing Slides&nbsp;**
+[English Language (EL)](/files/2025_P2_EL_Curriculum_Briefing_Slides.pdf)<br>
+[Mother Tongue Language (MTL)](/files/2025_P2_MTL_Curriculum_Briefing_Slides.pdf) <br>
+[Character &amp; Citizenship Education (CCE)](/files/2025_P2_CCE_Curriculum_Briefing_Slides.pdf)<br>
+
+### Coming Soon!
+##### **Primary 3 Briefing Slides<br>Primary 4 Briefing Slides<br>Primary 5 Briefing Slides<br>Primary 6 Briefing Slides&nbsp;**
+
 
 #### **Booklist&nbsp;**
 [2025 P1 Booklist](https://drive.google.com/file/d/1BRBph03Vzti8-f4BLgYKHfnr4ObTi9ku/view?usp=drive_link)<br>
