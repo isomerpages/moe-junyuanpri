@@ -33,7 +33,7 @@ variant: markdown
 [Science (SCI)](/files/2025_P3_SCI_Curriculum_Briefing_Slides.pdf)<br>
 [Mother Tongue Language (MTL)](/files/2025_P3_MTL_Curriculum_Briefing_Slides.pdf) <br>
 [Character &amp; Citizenship Education (CCE)](/files/2025_P3_CCE_Curriculum_Briefing_Slides.pdf)<br>
-[PE, Art, Music, Programme for Active Learning (PAL) and CCA](/files/2025_P3_PAM_PAL_CCA_Curriculum_Briefing_Slides.pdf)<br>
+[PE, Art, Music and CCA](/files/2025_P3_PAM_CCA_Curriculum_Briefing_Slides.pdf)<br>
 [Q&amp;A](/files/2025_P2_Q_A.pdf)<br>
 
 
