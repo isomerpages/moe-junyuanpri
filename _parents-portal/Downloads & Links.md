@@ -7,13 +7,6 @@ variant: markdown
 ![](/images/banner.gif)
 
 #### **2025 Curriculum Briefing&nbsp;**
-#### **Primary 1 Briefing Slides&nbsp;**
-[English Language (EL)](/files/2025_P1_EL_Curriculum_Briefing_Slides.pdf)<br>
-[Mother Tongue Language (MTL)](/files/2025_P1_MTL_Curriculum_Briefing_Slides.pdf) <br>
-[Character &amp; Citizenship Education (CCE)](/files/2025_P1_CCE_Curriculum_Briefing_Slides.pdf)<br>
-[PE, Art, Music, Programme for Active Learning (PAL)](/files/2025_P1_PAM_PAL_Curriculum_Briefing_Slides.pdf)<br>
-
-
 ##### **Primary 2 Briefing Slides&nbsp;**
 [Vice Principal's Address](/files/2025_P2_VP_Address_Curriculum_Briefing_Slides.pdf)<br>
 [Year Head's Address](/files/2025_P2_YH_Address_Curriculum_Briefing_Slides.pdf)<br>
