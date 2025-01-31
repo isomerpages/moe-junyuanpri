@@ -22,7 +22,7 @@ variant: markdown
 [Mother Tongue Language (MTL)](/files/2025_P2_MTL_Curriculum_Briefing_Slides.pdf) <br>
 [Character &amp; Citizenship Education (CCE)](/files/2025_P2_CCE_Curriculum_Briefing_Slides.pdf)<br>
 [PE, Art, Music, Programme for Active Learning (PAL)](/files/2025_P2_PAM_PAL_Curriculum_Briefing_Slides.pdf)<br>
-[Q&amp;A](/files/2025_P2_Q&amp;A.pdf)<br>
+[Q&amp;A](/files/2025_P2_Q_A.pdf)<br>
 
 ### Coming Soon!
 ##### **Primary 3 Briefing Slides<br>Primary 4 Briefing Slides<br>Primary 5 Briefing Slides<br>Primary 6 Briefing Slides&nbsp;**
