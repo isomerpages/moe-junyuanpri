@@ -21,7 +21,19 @@ variant: markdown
 [Mathematics (MA)](/files/2025_P2_MA_Curriculum_Briefing_Slides.pdf)<br>
 [Mother Tongue Language (MTL)](/files/2025_P2_MTL_Curriculum_Briefing_Slides.pdf) <br>
 [Character &amp; Citizenship Education (CCE)](/files/2025_P2_CCE_Curriculum_Briefing_Slides.pdf)<br>
-[PE, Art, Music, Programme for Active Learning (PAL)](/files/2025_P2_PAM_PAL_Curriculum_Briefing_Slides.pdf)<br>
+[PE, Art, Music, Programme for Active Learning (PAL) and CCA](/files/2025_P2_PAM_PAL_CCA_Curriculum_Briefing_Slides.pdf)<br>
+[Q&amp;A](/files/2025_P2_Q_A.pdf)<br>
+
+
+##### **Primary 3 Briefing Slides&nbsp;**
+[Vice Principal's Address](/files/2025_P3_VP_Address_Curriculum_Briefing_Slides.pdf)<br>
+[Year Head's Address](/files/2025_P3_YH_Address_Curriculum_Briefing_Slides.pdf)<br>
+[English Language (EL)](/files/2025_P3_EL_Curriculum_Briefing_Slides.pdf)<br>
+[Mathematics (MA)](/files/2025_P3_MA_Curriculum_Briefing_Slides.pdf)<br>
+[Science (SCI)](/files/2025_P3_SCI_Curriculum_Briefing_Slides.pdf)<br>
+[Mother Tongue Language (MTL)](/files/2025_P3_MTL_Curriculum_Briefing_Slides.pdf) <br>
+[Character &amp; Citizenship Education (CCE)](/files/2025_P3_CCE_Curriculum_Briefing_Slides.pdf)<br>
+[PE, Art, Music, Programme for Active Learning (PAL) and CCA](/files/2025_P3_PAM_PAL_CCA_Curriculum_Briefing_Slides.pdf)<br>
 [Q&amp;A](/files/2025_P2_Q_A.pdf)<br>
 
 ### Coming Soon!
