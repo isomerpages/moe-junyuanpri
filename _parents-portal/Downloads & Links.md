@@ -15,8 +15,10 @@ variant: markdown
 
 
 ##### **Primary 2 Briefing Slides&nbsp;**
+[Vice Principal's Address](/files/2025_P2_VP_Address_Curriculum_Briefing_Slides.pdf)<br>
+[Year Head's Address](/files/2025_P2_YH_Address_Curriculum_Briefing_Slides.pdf)<br>
 [English Language (EL)](/files/2025_P2_EL_Curriculum_Briefing_Slides.pdf)<br>
-
+[Mathematics (MA)](/files/2025_P2_MA_Curriculum_Briefing_Slides.pdf)<br>
 [Mother Tongue Language (MTL)](/files/2025_P2_MTL_Curriculum_Briefing_Slides.pdf) <br>
 [Character &amp; Citizenship Education (CCE)](/files/2025_P2_CCE_Curriculum_Briefing_Slides.pdf)<br>
 
