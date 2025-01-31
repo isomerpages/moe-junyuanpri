@@ -11,11 +11,12 @@ variant: markdown
 [English Language (EL)](/files/2025_P1_EL_Curriculum_Briefing_Slides.pdf)<br>
 [Mother Tongue Language (MTL)](/files/2025_P1_MTL_Curriculum_Briefing_Slides.pdf) <br>
 [Character &amp; Citizenship Education (CCE)](/files/2025_P1_CCE_Curriculum_Briefing_Slides.pdf)<br>
-[Programme for Active Learning (PAL), PE, Art and Music (PAM)](/files/2025_P1_PAM_PAL_Curriculum_Briefing_Slides.pdf)<br>
+[PE, Art, Music, Programme for Active Learning (PAL)](/files/2025_P1_PAM_PAL_Curriculum_Briefing_Slides.pdf)<br>
 
 
 ##### **Primary 2 Briefing Slides&nbsp;**
 [English Language (EL)](/files/2025_P2_EL_Curriculum_Briefing_Slides.pdf)<br>
+
 [Mother Tongue Language (MTL)](/files/2025_P2_MTL_Curriculum_Briefing_Slides.pdf) <br>
 [Character &amp; Citizenship Education (CCE)](/files/2025_P2_CCE_Curriculum_Briefing_Slides.pdf)<br>
 
