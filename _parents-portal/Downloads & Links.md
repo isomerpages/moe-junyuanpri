@@ -44,7 +44,6 @@ variant: markdown
 [Mathematics (MA)](/files/2025_P4_MA_Curriculum_Briefing_Slides.pdf)<br>
 [Science (SCI)](/files/2025_P4_SCI_Curriculum_Briefing_Slides.pdf)<br>
 [Mother Tongue Language (MTL)](/files/2025_P4_MTL_Curriculum_Briefing_Slides.pdf) <br>
-[Character &amp; Citizenship Education (CCE)](/files/2025_P4_CCE_Curriculum_Briefing_Slides.pdf)<br>
 [PE, Art, Music, and CCA](/files/2025_P4_PAM_CCA_Curriculum_Briefing_Slides.pdf)<br>
 
 
