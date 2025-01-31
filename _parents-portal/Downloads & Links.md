@@ -48,7 +48,8 @@ variant: markdown
 [PE, Art, Music, and CCA](/files/2025_P4_PAM_CCA_Curriculum_Briefing_Slides.pdf)<br>
 
 ### Coming Soon!
-##### **Primary 3 Briefing Slides<br>Primary 4 Briefing Slides<br>Primary 5 Briefing Slides<br>Primary 6 Briefing Slides&nbsp;**
+##### **Primary 5 Briefing Slides<br>Primary 6 Briefing Slides&nbsp;**
+
 
 
 #### **Booklist&nbsp;**
