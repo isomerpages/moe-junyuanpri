@@ -27,7 +27,7 @@ variant: markdown
 
 ##### **Primary 3 Briefing Slides&nbsp;**
 [Vice Principal's Address](/files/2025_P3_VP_Address_Curriculum_Briefing_Slides.pdf)<br>
-[Year Head's Address](/files/2025_P3_YH_Address_Curriculum_Briefing_Slides.pdf)<br>
+[Year Head's Address](/files/2025_P3_YH_Curriculum_Briefing_Slides.pdf)<br>
 [English Language (EL)](/files/2025_P3_EL_Curriculum_Briefing_Slides.pdf)<br>
 [Mathematics (MA)](/files/2025_P3_MA_Curriculum_Briefing_Slides.pdf)<br>
 [Science (SCI)](/files/2025_P3_SCI_Curriculum_Briefing_Slides.pdf)<br>
