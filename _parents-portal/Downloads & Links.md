@@ -36,6 +36,17 @@ variant: markdown
 [PE, Art, Music, Programme for Active Learning (PAL) and CCA](/files/2025_P3_PAM_PAL_CCA_Curriculum_Briefing_Slides.pdf)<br>
 [Q&amp;A](/files/2025_P2_Q_A.pdf)<br>
 
+
+##### **Primary 4 Briefing Slides&nbsp;**
+[Vice Principal's Address](/files/2025_P4_VP_Address_Curriculum_Briefing_Slides.pdf)<br>
+[Asst Year Head's Address](/files/2025_P4_AYH_Address_Curriculum_Briefing_Slides.pdf)<br>
+[English Language (EL)](/files/2025_P4_EL_Curriculum_Briefing_Slides.pdf)<br>
+[Mathematics (MA)](/files/2025_P4_MA_Curriculum_Briefing_Slides.pdf)<br>
+[Science (SCI)](/files/2025_P4_SCI_Curriculum_Briefing_Slides.pdf)<br>
+[Mother Tongue Language (MTL)](/files/2025_P4_MTL_Curriculum_Briefing_Slides.pdf) <br>
+[Character &amp; Citizenship Education (CCE)](/files/2025_P4_CCE_Curriculum_Briefing_Slides.pdf)<br>
+[PE, Art, Music, and CCA](/files/2025_P4_PAM_CCA_Curriculum_Briefing_Slides.pdf)<br>
+
 ### Coming Soon!
 ##### **Primary 3 Briefing Slides<br>Primary 4 Briefing Slides<br>Primary 5 Briefing Slides<br>Primary 6 Briefing Slides&nbsp;**
 
