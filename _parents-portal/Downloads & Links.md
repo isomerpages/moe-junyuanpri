@@ -53,14 +53,15 @@ variant: markdown
 
 
 ##### **Primary 6 Briefing Slides&nbsp;**
-[Principal's Address](/files/2025_P5_Principal_Address_Curriculum_Briefing_Slides.pdf)<br>
-[Asst Year Head's Address](/files/2025_P5_AYH_Address_Curriculum_Briefing_Slides.pdf)<br>
-[Standard &amp; Foundation English Language (EL)](/files/2025_P5_Std_EL__Fnd_EL_Curriculum_Briefing_Slides.pdf)<br>
-[Mathematics (MA)](/files/2025_P5_MA_Curriculum_Briefing_Slides.pdf)<br>
-[Science (SCI)](/files/2025_P5_SCI_Curriculum_Briefing_Slides.pdf)<br>
+[Principal's Address](/files/2025_P6_Principal_Address_Curriculum_Briefing_Slides.pdf)<br>
+[Year Head's Address](/files/2025_P6_YH_Address_Curriculum_Briefing_Slides.pdf)<br>
+[Standard English Language (EL) &amp; Foundation English Language (FEL)](/files/2025_P6_Std_EL_and_FEL_Curriculum_Briefing_Slides.pdf)<br>
+[Mathematics (MA)](/files/2025_P6_MA_Curriculum_Briefing_Slides.pdf)<br>
+[Standard Science (SCI) and Foundation Science (FSC)](/files/2025_P5_SCI_Curriculum_Briefing_Slides.pdf)<br>
 [Mother Tongue Language (MTL)](/files/2025_P4_MTL_Curriculum_Briefing_Slides.pdf) <br>
 [Character &amp; Citizenship Education (CCE)](/files/2025_P5_CCE_Curriculum_Briefing_Slides.pdf)<br>
 [PE, Art, Music, and CCA](/files/2025_P5_PAM_CCA_Curriculum_Briefing_Slides.pdf)<br>
+[Q&amp;A](/files/2025_P6_Q_A.pdf)<br>
 
 
 #### **Booklist&nbsp;**
