@@ -32,7 +32,7 @@ variant: markdown
 
 ##### **Primary 4 Briefing Slides&nbsp;**
 [Vice Principal's Address](/files/2025_P4_VP_Address_Curriculum_Briefing_Slides.pdf)<br>
-[Asst Year Head's Address](/files/2025_P4_AYH_Address_Curriculum_Briefing_Slides.pdf)<br>
+[Asst Year Head's Address](/files/2025_P4_AYH_Curriculum_Briefing_Slides.pdf)<br>
 [English Language (EL)](/files/2025_P4_EL_Curriculum_Briefing_Slides.pdf)<br>
 [Mathematics (MA)](/files/2025_P4_MA_Curriculum_Briefing_Slides.pdf)<br>
 [Science (SCI)](/files/2025_P4_SCI_Curriculum_Briefing_Slides.pdf)<br>
