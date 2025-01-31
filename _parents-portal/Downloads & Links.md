@@ -34,7 +34,7 @@ variant: markdown
 [Mother Tongue Language (MTL)](/files/2025_P3_MTL_Curriculum_Briefing_Slides.pdf) <br>
 [Character &amp; Citizenship Education (CCE)](/files/2025_P3_CCE_Curriculum_Briefing_Slides.pdf)<br>
 [PE, Art, Music and CCA](/files/2025_P3_PAM_CCA_Curriculum_Briefing_Slides.pdf)<br>
-[Q&amp;A](/files/2025_P2_Q_A.pdf)<br>
+[Q&amp;A](/files/2025_P3_Q_A.pdf)<br>
 
 
 ##### **Primary 4 Briefing Slides&nbsp;**
@@ -46,6 +46,7 @@ variant: markdown
 [Mother Tongue Language (MTL)](/files/2025_P4_MTL_Curriculum_Briefing_Slides.pdf) <br>
 [Character &amp; Citizenship Education (CCE)](/files/2025_P4_CCE_Curriculum_Briefing_Slides.pdf)<br>
 [PE, Art, Music, and CCA](/files/2025_P4_PAM_CCA_Curriculum_Briefing_Slides.pdf)<br>
+
 
 ### Coming Soon!
 ##### **Primary 5 Briefing Slides<br>Primary 6 Briefing Slides&nbsp;**
