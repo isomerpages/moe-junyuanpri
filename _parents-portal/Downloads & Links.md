@@ -55,7 +55,7 @@ variant: markdown
 ##### **Primary 6 Briefing Slides&nbsp;**
 [Principal's Address](/files/2025_P6_Principal_Address_Curriculum_Briefing_Slides.pdf)<br>
 [Year Head's Address](/files/2025_P6_YH_Address_Curriculum_Briefing_Slides.pdf)<br>
-[Standard English Language (EL) &amp; Foundation English Language (FEL)](/files/2025_P6_Std_EL_and_FEL_Curriculum_Briefing_Slides.pdf)<br>
+[Standard English Language (EL) &amp; Foundation English Language (FEL)](/files/2025_P6_EL_and_FEL_Curriculum_Briefing_Slides.pdf)<br>
 [Mathematics (MA)](/files/2025_P6_MA_Curriculum_Briefing_Slides.pdf)<br>
 [Standard Science (SCI) and Foundation Science (FSC)](/files/2025_P6_SCI_Curriculum_Briefing_Slides.pdf)<br>
 [Mother Tongue Language (MTL)](/files/2025_P6_MTL_Curriculum_Briefing_Slides.pdf) <br>
