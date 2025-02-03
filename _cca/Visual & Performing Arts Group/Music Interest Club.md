@@ -70,7 +70,7 @@ The Music Interest Club is a multi-instrumental ensemble club comprising of enth
 Every Mondays &amp; Fridays  2:00pm – 3:30pm  
   
 **Teachers IC and Email address:**  <br>
-Mrs Marisa de Almeida:&nbsp;[bonaparte\_marisa@moe.edu.sg](mailto:Bonaparte_marisa@moe.edu.sg)<br>
+Mrs M De Almeida:&nbsp;[bonaparte\_marisa@moe.edu.sg](mailto:Bonaparte_marisa@moe.edu.sg)<br>
 Mr Murugesu:&nbsp;[murugesu\_samarasan@moe.edu.sg](mailto:murugesu_samarasan@moe.edu.sg)<br>
 Mr Joseph Sim:&nbsp;[sim\_poh\_meng\_joseph@moe.edu.sg](mailto:sim_poh_meng_joseph@moe.edu.sg)  <br>
 Mrs Chua Ming Peow:&nbsp;[foo\_ming\_peow@moe.edu.sg](mailto:foo_ming_peow@moe.edu.sg)  <br>
