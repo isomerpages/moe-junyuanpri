@@ -26,7 +26,7 @@ Our Junyuan floorball team is made up of passionate players, teachers and coache
 ---
 
 
-<img style="width:80%" src="/images/floorball1.png">
+<img style="width:100%" src="/images/floorball.png">
 
 
 ---
