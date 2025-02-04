@@ -17,7 +17,7 @@ The Music Interest Club is a multi-instrumental ensemble club comprising of enth
 
 ---
 
-<img style="width:40%" src="/images/MIC_students_in_action_Pic_3.jpg"><img style="width:40%" src="/images/End_of_year_concert_2024_Pic_2.jpg"><img style="width:40%" src="/images/playing_the_thumb_piano_Pic_4.jpg">
+<img style="width:100%" src="/images/MIC.png">
 
 ---
 
