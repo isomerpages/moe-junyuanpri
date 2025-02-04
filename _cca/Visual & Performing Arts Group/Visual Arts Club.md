@@ -18,7 +18,7 @@ In the Visual Arts Club, members have the opportunity to explore a wide range of
 
 ---
 
-<img style="width:50%" src="/images/Pic_2_edit.jpg">
+<img style="width:100%" src="/images/Visual_Art.png">
 
 ---
 
