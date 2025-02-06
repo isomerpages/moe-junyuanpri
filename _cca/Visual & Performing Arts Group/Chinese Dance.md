@@ -63,7 +63,7 @@ Chinese Dance allows students to learn dance moves, proper stretching, warm-up t
 
   
 
-Every Mondays and Fridays (2.00pm - 4.00pm)
+Every Monday and Friday (2.00pm - 4.00pm)
 
 
 **Teachers IC and Email address:**
