@@ -14,11 +14,11 @@ Visual Arts Club
 ![](/images/Visual_Art_Club_P5_Informal.jpg) <br>
 ![](/images/Visual_Art_Club_P6_Informal.jpg) 
 
-The Visual Arts Club provides a platform for student with common interest in art to explore their talents and collaborate with other student artists. During the Visual Arts Club sessions, students will experience engaging activities to explore different art forms and appreciate art. Members will be creating their own original artwork and some of which will be selected for competitions and displays in school. We aim to flourish the potential in the young, talented artists.
+In the Visual Arts Club, members have the opportunity to explore a wide range of artistic mediums and techniques, fostering creativity and artistic expression. Members are encouraged to develop their personal artistic style while building a strong foundation in visual communication and creativity. The CCA provides a supportive space for all skill levels. In addition, students get to work on group art pieces, murals, or installations that contribute to the displays around the school and foster teamwork.
 
 ---
 
-<img style="width:80%" src="/images/visualarts.png">
+<img style="width:100%" src="/images/Visual_Art.png">
 
 ---
 
@@ -34,8 +34,12 @@ The Visual Arts Club provides a platform for student with common interest in art
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="4">2023</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Invitation for Mural painting in Tampines by Tampines Town Council</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> </th>
+		</tr>
 			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="3">2023</th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">SYF Art Exhibition 2021 Category A	 </th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Recognition </th>
 		</tr>
@@ -73,11 +77,12 @@ The Visual Arts Club provides a platform for student with common interest in art
 ---
 
 ##### **SCHEDULE:**  
-Mondays &amp; Fridays  
-2.00pm - 3.30pm  
+P3 and P5 on Mondays (2.00pm - 3.30pm) <br>
+P4 and P6 on Fridays (2.00pm - 3.30pm)
+
   
 **Teachers IC and Email address:**<br>
-Mrs Michelle Ang:&nbsp;[chan\_yen\_ling\_michelle@moe.edu.sg](mailto:chan_yen_ling_michelle@moe.edu.sg)  <br>
+Mrs Ang:&nbsp;[chan\_yen\_ling\_michelle@moe.edu.sg](mailto:chan_yen_ling_michelle@moe.edu.sg)  <br>
 Mr Wang Shing Huei:&nbsp;[wang\_shing\_huei@moe.edu.sg](mailto:wang_shing_huei@moe.edu.sg)  <br>
 Mrs Monica Berger:&nbsp;[monica\_vasanti\_augustine@moe.edu.sg](mailto:monica_vasanti_augustine@moe.edu.sg)<br> 
 Mrs Angela Chin:&nbsp;[kam\_jiewen@moe.edu.sg](mailto:kam_jiewen@moe.edu.sg)<br>

@@ -13,7 +13,7 @@ variant: markdown
 ![](/images/InfoComm_Club_Formal.jpg) <br>
 ![](/images/InfoComm_Club_Informal.jpg)
 
-The InfoComm Club CCA aims to excite and develop the love for Information Communication and Technology (ICT) in students through fun and meaningful ways. Students will be empowered with relevant knowledge and skills such as photo editing, video editing, animation and coding. The club also aims to help students develop essential 21st century competencies such as personal and social responsibility, critical thinking, digital competence, as well as collaboration and communication.
+The Info Comm Club focuses on hands-on coding and robotics, emphasizing programming, problem-solving, and teamwork. Students learn the fundamentals of coding through the LEGO Spike Prime software and apply their knowledge by designing, building, and programming robots to complete specific tasks. These activities often involve challenges such as navigating obstacle courses or performing designated actions, fostering creativity and innovation. Students work collaboratively in teams to brainstorm and execute solutions, enhancing their ability to work together and communicate effectively. Those who demonstrate competency and dedication are selected to represent the club in robotics competitions, showcasing their skills and gaining valuable experience.
 
 <img style="width:90%" src="/images/infocomm.png">
 
@@ -57,13 +57,12 @@ The InfoComm Club CCA aims to excite and develop the love for Information Commun
 
 ##### **SCHEDULE**  
 
-Mondays &amp; Fridays&nbsp;<br>
-2.00pm - 3.30pm
+Fridays 2.00pm - 3.30pm
 
   
 
 **Teachers IC and Email address:**<br>
-Mdm Siti Raihani Bte Husainni:&nbsp;[siti\_raihani\_husainni@moe.edu.sg](mailto:siti_raihani_husainni@moe.edu.sg)<br>
-Mdm Chee Li Boon:&nbsp;[chee\_li\_boon@moe.edu.sg](mailto:chee_li_boon@moe.edu.sg)<br>
-Mdm Corinne Sim:&nbsp;[sim\_chew\_yen@moe.edu.sg](mailto:sim_chew_yen@moe.edu.sg)  <br>
 Mdm Pan Xuan:&nbsp;[pan\_xuan@moe.edu.sg](mailto:pan_xuan@moe.edu.sg)<br>
+Mdm Siti Raihani Bte Husainni:&nbsp;[siti\_raihani\_husainni@moe.edu.sg](mailto:siti_raihani_husainni@moe.edu.sg)<br>
+Mdm Corinne Sim:&nbsp;[sim\_chew\_yen@moe.edu.sg](mailto:sim_chew_yen@moe.edu.sg)  <br>
+Mdm Subiati:&nbsp;[subiati\_cromo@moe.edu.sg](mailto:subiati_cromo@moe.edu.sg)<br>
