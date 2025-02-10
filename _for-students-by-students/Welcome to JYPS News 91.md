@@ -4,6 +4,7 @@ permalink: /for-students-by-students/welcome-to-jyps-news-91/
 variant: markdown
 description: ""
 ---
+![](/images/JYPS_News_91_Logo.png)
 ![](/images/banner.gif)
 
 ### <font color="black"><b>JYPS News 91 </b>is here!</font> 
