@@ -2,5 +2,5 @@ collections:
   for-students-by-students:
     output: true
     order:
-      - Welcome.md
+      - Welcome to JYPS News 91.md
       - Recess Fun on the First Day of School.md
