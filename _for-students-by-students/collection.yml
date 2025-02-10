@@ -2,4 +2,5 @@ collections:
   for-students-by-students:
     output: true
     order:
+      - Recess Fun on the First Day of School.md
       - Welcome.md
