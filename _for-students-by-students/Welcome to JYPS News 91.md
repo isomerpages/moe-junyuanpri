@@ -6,7 +6,8 @@ description: ""
 ---
 ![](/images/banner.gif)
 
-<img size="20%" src="/images/JYPS_News_91_Logo.png">)### <font color="black"><b>JYPS News 91 </b>is here!</font> 
+<img style="width:20%" src="/images/JYPS_News_91_Logo.png">
+### <font color="black"><b>JYPS News 91 </b>is here!</font> 
 
 #### <font color="black">Stay updated on the fun events, cool activities, and exciting events happening in JYPS. Let us hear from our students as they share their thoughts and experiences. Don’t miss out!
 
