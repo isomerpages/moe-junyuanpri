@@ -4,5 +4,5 @@ permalink: /for-students-by-students/recess-fun-on-the-first-day-of-school/
 variant: markdown
 description: ""
 ---
-![](/images/Recess_Fun_on_the_First_Day_of_School_edited_Page_1.jpg)
+![](/images/Recess_Fun_on_the_First_Day_of_School_edited_Page_1.png)
 ![](/images/Recess_Fun_on_the_First_Day_of_School_edited_Page_2.jpg)
