@@ -20,16 +20,16 @@ closed.</p>
 <p>Waitlist Registration for MK@Junyuan</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>(K1 – 2024 Cohort)</p>
+<p>(K1 – 2025 Cohort)</p>
 </li>
 <li>
-<p>(K2 – 2024 Cohort)</p>
+	<p>(K2 – 2025 Cohort)<b> (No Vacancy)</b></p>
 </li>
 <li>
-<p>(K1 - 2025 Cohort)</p>
+<p>(K1 - 2026 Cohort)</p>
 </li>
 <li>
-<p>(K2 - 2025 Cohort)</p>
+<p>(K2 - 2026 Cohort)</p>
 </li>
 </ul>
 <p>Dear Parents/Guardians,</p>
