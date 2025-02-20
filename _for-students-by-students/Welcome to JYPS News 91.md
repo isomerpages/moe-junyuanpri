@@ -7,6 +7,7 @@ description: ""
 ![](/images/banner.gif)
 
 <img style="width:20%" src="/images/JYPS_News_91_Logo.png">
+
 <img style="width:80%" src="/images/Jyps_New91_Photo.jpg">
 
 ### <font color="maroon"><b>JYPS News 91 </b></font><font color="black">is here!</font>
