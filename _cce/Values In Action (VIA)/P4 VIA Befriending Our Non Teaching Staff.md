@@ -5,6 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: Values In Action (VIA)
 ---
+
+
 As part of their CCE lessons, P4 students learnt to show care for the needs of people in the school community.  In line with this, our P4 students embarked on a “Befriending the Non-Teaching Staff” VIA program.  
 
 For the first part of the program, students learnt about what it means to be part of a school community, and what are some ways they can make the school community a better place to live, work and play in.   The students learnt to identify and understand the needs of the people in the school community, particularly the school’s non-teaching staff.  
