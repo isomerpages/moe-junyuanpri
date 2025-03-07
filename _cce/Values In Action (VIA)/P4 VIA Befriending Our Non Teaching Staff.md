@@ -14,4 +14,7 @@ With this insight, they worked in teams and embarked on a craft making project, 
 It was indeed a meaningful learning experience for all the Primary 4 students who took part in this VIA program. The students are inspired to continue their contribution to our community.
 
 
-<figure><img src="/images/P4VIAImage1.jpg" style="width:100%"><figcaption> Wow! It’s great to see these RSAF officers marching proudly outside the Padang!</figcaption></figure>
+<figure><img src="/images/P4VIACImage1.jpg" style="width:800%"><figcaption>P4 students working together to prepare the tokens</figcaption></figure>
+
+<figure><img src="/images/P4VIAImage2.jpg" style="width:50%"><figcaption>P4 Tokens of Appreciation and love for the non-teaching staff</figcaption></figure>
+
