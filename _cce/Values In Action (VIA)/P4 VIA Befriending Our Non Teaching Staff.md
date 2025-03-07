@@ -16,4 +16,4 @@ It was indeed a meaningful learning experience for all the Primary 4 students wh
 
 <figure><img src="/images/P4VIACImage1.jpg" style="width:90%"></figure>
 
-<figure><img src="/images/P4VIAImage2.jpg" style="width:50%"><figcaption>P4 Tokens of Appreciation and love for the non-teaching staff</figcaption></figure>
+<figure><img src="/images/P4VIACImage2.jpg" style="width:80%"></figure>
