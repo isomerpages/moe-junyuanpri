@@ -5,7 +5,9 @@ variant: markdown
 description: ""
 third_nav_title: Values In Action (VIA)
 ---
+![](/images/banner.gif)
 
+### P4 VIA <br> Befriending Our Non-Teaching Staff
 
 As part of their CCE lessons, P4 students learnt to show care for the needs of people in the school community.  In line with this, our P4 students embarked on a “Befriending the Non-Teaching Staff” VIA program.  
 
