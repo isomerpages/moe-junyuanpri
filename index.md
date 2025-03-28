@@ -10,6 +10,6 @@ sections:
       background: /images/Homepage.gif
       key_highlights:
         - title: Announcements (Primary)
-          description: March Bulletin
+          description: April Bulletin
           url: /parents-portal/JYPS-Bulletin/
 ---
