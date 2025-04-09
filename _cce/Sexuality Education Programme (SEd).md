@@ -113,7 +113,7 @@ b.&nbsp; &nbsp;&nbsp;Character and Citizenship Education (CCE)
 		<tr>
 			<td style="border:1px solid black; text-align:left;vertical-align:left">Growing Years</td>
 			<td style="border:1px solid black; text-align:left;vertical-align:left">Are We More than Friends?<br><br>Lesson 2<br>(60 min)</td>
-			<td style="border:1px solid black; text-align:left;vertical-align:left">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy 'Stop-Think-Do'.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other..</td>
 			<td style="border:1px solid black; text-align:left;vertical-align:left">  Term 1 Week 5 </td>
 		</tr>
 </tbody></table>
