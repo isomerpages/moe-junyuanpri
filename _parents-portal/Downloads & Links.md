@@ -6,62 +6,10 @@ variant: markdown
 ---
 ![](/images/banner.gif)
 
-#### **2025 Curriculum Briefing&nbsp;**
-##### **Primary 2 Briefing Slides&nbsp;**
-[Vice Principal's Address](/files/2025_P2_VP_Address_Curriculum_Briefing_Slides.pdf)<br>
-[Year Head's Address](/files/2025_P2_YH_Address_Curriculum_Briefing_Slides.pdf)<br>
-[English Language (EL)](/files/2025_P2_EL_Curriculum_Briefing_Slides.pdf)<br>
-[Mathematics (MA)](/files/2025_P2_MA_Curriculum_Briefing_Slides.pdf)<br>
-[Mother Tongue Language (MTL)](/files/2025_P2_MTL_Curriculum_Briefing_Slides.pdf) <br>
-[Character &amp; Citizenship Education (CCE)](/files/2025_P2_CCE_Curriculum_Briefing_Slides.pdf)<br>
-[PE, Art, Music, Programme for Active Learning (PAL) and CCA](/files/2025_P2_PAM_PAL_CCA_Curriculum_Briefing_Slides.pdf)<br>
-[Q&amp;A](/files/2025_P2_Q_A.pdf)<br>
-
-
-##### **Primary 3 Briefing Slides&nbsp;**
-[Vice Principal's Address](/files/2025_P3_VP_Address_Curriculum_Briefing_Slides.pdf)<br>
-[Year Head's Address](/files/2025_P3_YH_Curriculum_Briefing_Slides.pdf)<br>
-[English Language (EL)](/files/2025_P3_EL_Curriculum_Briefing_Slides.pdf)<br>
-[Mathematics (MA)](/files/2025_P3_MA_Curriculum_Briefing_Slides.pdf)<br>
-[Science (SCI)](/files/2025_P3_SCI_Curriculum_Briefing_Slides.pdf)<br>
-[Mother Tongue Language (MTL)](/files/2025_P3_MTL_Curriculum_Briefing_Slides.pdf) <br>
-[Character &amp; Citizenship Education (CCE)](/files/2025_P3_CCE_Curriculum_Briefing_Slides.pdf)<br>
-[PE, Art, Music and CCA](/files/2025_P3_PAM_CCA_Curriculum_Briefing_Slides.pdf)<br>
-[Q&amp;A](/files/2025_P3_Q_A.pdf)<br>
-
-
-##### **Primary 4 Briefing Slides&nbsp;**
-[Vice Principal's Address](/files/2025_P4_VP_Address_Curriculum_Briefing_Slides.pdf)<br>
-[Asst Year Head's Address](/files/2025_P4_AYH_Curriculum_Briefing_Slides.pdf)<br>
-[English Language (EL)](/files/2025_P4_EL_Curriculum_Briefing_Slides.pdf)<br>
-[Mathematics (MA)](/files/2025_P4_MA_Curriculum_Briefing_Slides.pdf)<br>
-[Science (SCI)](/files/2025_P4_SCI_Curriculum_Briefing_Slides.pdf)<br>
-[Mother Tongue Language (MTL)](/files/2025_P4_MTL_Curriculum_Briefing_Slides.pdf) <br>
-[Character &amp; Citizenship Education (CCE)](/files/2025_P4_CCE_Curriculum_Briefing_Slides.pdf)<br>
-[PE, Art, Music, and CCA](/files/2025_P4_PAM_CCA_Curriculum_Briefing_Slides.pdf)<br>
-
-
-##### **Primary 5 Briefing Slides&nbsp;**
-[Principal's Address](/files/2025_P5_Principal_Address_Curriculum_Briefing_Slides.pdf)<br>
-[Asst Year Head's Address](/files/2025_P5_AYH_Address_Curriculum_Briefing_Slides.pdf)<br>
-[Standard English Language (EL) &amp; Foundation English Language (FEL)](/files/2025_P5_Std_EL___Fdn_EL_Curriculum_Briefing_Slides.pdf)<br>
-[Mathematics (MA)](/files/2025_P5_MA_Curriculum_Briefing_Slides.pdf)<br>
-[Science (SCI)](/files/2025_P5_SCI_Curriculum_Briefing_Slides.pdf)<br>
-[Mother Tongue Language (MTL)](/files/2025_P5_MTL_Curriculum_Briefing_Slides.pdf) <br>
-[Character &amp; Citizenship Education (CCE)](/files/2025_P5_CCE_Curriculum_Briefing_Slides.pdf)<br>
-[PE, Art, Music, and CCA](/files/2025_P5_PAM_CCA_Curriculum_Briefing_Slides.pdf)<br>
-
-
-##### **Primary 6 Briefing Slides&nbsp;**
-[Principal's Address](/files/2025_P6_Principal_Address_Curriculum_Briefing_Slides.pdf)<br>
-[Year Head's Address](/files/2025_P6_YH_Address_Curriculum_Briefing_Slides.pdf)<br>
-[Standard English Language (EL) &amp; Foundation English Language (FEL)](/files/2025_P6_EL_and_FEL_Curriculum_Briefing_Slides.pdf)<br>
-[Mathematics (MA)](/files/2025_P6_MA_Curriculum_Briefing_Slides.pdf)<br>
-[Standard Science (SCI) and Foundation Science (FSC)](/files/2025_P6_SCI_and_FSC_Curriculum_Briefing_Slides.pdf)<br>
-[Mother Tongue Language (MTL)](/files/2025_P6_MTL_Curriculum_Briefing_Slides.pdf) <br>
-[Character &amp; Citizenship Education (CCE)](/files/2025_P6_CCE_Curriculum_Briefing_Slides.pdf)<br>
-[PE, Art, Music, and CCA](/files/2025_P6_PAM_CCA_Curriculum_Briefing_Slides.pdf)<br>
-[Q&amp;A](/files/2025_P6_Q_A.pdf)<br>
+#### Math Alive! Workshop for Parents&nbsp;
+[Primary 1](/files/P1_Math_Alive__Parent_Workshop_2025.pdf)<br>
+[Primary 2](/files/P2_Parent_Workshop_2025.pdf)<br>
+[Primary 3 &amp; 4](/files/P3___P4_Math_Alive__Workshop_for_Parents_2025.pdf)
 
 
 #### **Booklist&nbsp;**
