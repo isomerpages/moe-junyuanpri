@@ -2,6 +2,6 @@ collections:
   for-students-by-students:
     output: true
     order:
-      - Out School Field is Open.md
       - Welcome to JYPS News 91.md
+      - Out School Field is Open.md
       - Recess Fun on the First Day of School.md
