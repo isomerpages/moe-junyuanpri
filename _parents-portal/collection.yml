@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Announcements.md
-      - JYPS Bulletin.md
       - Essential Contacts/.keep
       - Essential Contacts/School Bookshop.md
       - Essential Contacts/School Bus Services.md
