@@ -8,8 +8,4 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage.gif
-      key_highlights:
-        - title: Announcements (Primary)
-          description: April Bulletin
-          url: /parents-portal/JYPS-Bulletin/
 ---
