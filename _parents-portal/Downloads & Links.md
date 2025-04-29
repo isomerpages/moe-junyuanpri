@@ -9,7 +9,8 @@ variant: markdown
 #### Math Alive! Workshop for Parents&nbsp;
 [Primary 1](/files/P1_Math_Alive__Parent_Workshop_2025.pdf)<br>
 [Primary 2](/files/P2_Parent_Workshop_2025.pdf)<br>
-[Primary 3 &amp; 4](/files/P3___P4_Math_Alive__Workshop_for_Parents_2025.pdf)
+[Primary 3 &amp; 4](/files/P3___P4_Math_Alive__Workshop_for_Parents_2025.pdf)<br>
+[Primary 5 &amp; 6](/files/P5___P6_Math_Alive__Workshop_for_Parents_2025.pdf)
 
 
 #### **Booklist&nbsp;**
