@@ -9,6 +9,8 @@ third_nav_title: Transition to Secondary School
 
 Open House for Secondary Schools 2025
 =====================================
+![](/images/PRSS_e_Open_House_2025.png)
+
 ![](/images/PLMGSS_Open_House.jpg)
 
 ![](/images/SJI_Open_house_2025.jpg)
