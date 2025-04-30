@@ -61,10 +61,6 @@ EAS &amp; Support Staff
     <td class="tg-0lj4"> Mdm Ijo Hiok Tjoe</td>
     <td class="tg-0lj4"> Operations Support Officer</td>
   </tr>
-  <tr>
-    <td class="tg-0lj4"> Mr Oh Swee Teck</td>
-    <td class="tg-0lj4"> Operations Support Officer<br></td>
-  </tr>
 	<tr>
     <td class="tg-0lj4"> Mr Toh Tian Hua</td>
     <td class="tg-0lj4"> Operations Support Officer<br></td>
