@@ -14,9 +14,11 @@ Announcements
 
 Dear Parents and Prospective P1 students, <br>
 
-You are invited to Junyuan Primary School's Open House 2025! <br>
+You are invited to Junyuan Primary School's Open House 2025! <br> 
 
 ![](/images/2025_JYPS_Open_House_Poster.jpg)
+
+Registration will close on 16 June 2025  or when participation capacity is full.
 
 We look forward to seeing you and your child!
 
@@ -24,5 +26,3 @@ We look forward to seeing you and your child!
 ### **JYPS 35th Anniversary Coffeetable e-Book**&nbsp;
 
 Click [here](https://drive.google.com/file/d/1gkwvfmR3U4kQIjAPnKtO4IKkWfjHOHoo/view?usp=sharing) &nbsp;to access the 35th Anniversary Coffeetable e-Book.
-
-
