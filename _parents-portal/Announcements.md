@@ -9,30 +9,14 @@ variant: markdown
 Announcements
 =============
 
-### **Alumni Visiting On Teachers' Day 2024**&nbsp; 
 
-Dear former students,
+### **JYPS Open House 2025**&nbsp;
 
-You can visit the teachers between 10.45am and 11.30am on 29 Aug. You should make prior appointment with your teacher(s) before coming so that they will be around to meet you. Students currently schooling in secondary schools or junior colleges are to come, clad in your school uniforms. However, please note that school premises needs to be vacated by 11.30am.
+Dear Parents and Prospective P1 students, <br>
 
-Date: 29 August 2024<br>
-Time: 10.45am to 11.30am<br>
-Venue: Meeting area in the canteen<br>
-End: 11.30am to leave school
+You are invited to Junyuan Primary School's Open House 2025! <br>
 
-You can also send your heartfelt e-messages to the teacher(s) and staff who has made a positive difference in their lives via the Compliments Portal at [https://www.moe.gov.sg/about-us/compliments](https://www.moe.gov.sg/about-us/compliments). Thank you.
-
-
-### **JYPS Open House 2024**&nbsp;
-
-![](/images/2024_JYPS_Open_House_Registration_Closed.jpg)
-
-Dear Parents and Prospective P1 students, 
-
-You are invited to Junyuan Primary School's Open House 2024! <br>
-Date: 21 June 2024 (Friday) <br>
-Time: 9am to 12pm
-
+![](/images/2025_JYPS_Open_House_Poster.jpg)
 
 We look forward to seeing you and your child!
 
