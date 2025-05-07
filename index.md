@@ -11,5 +11,5 @@ sections:
       key_highlights:
         - title: Announcements (Primary)
           description: JYPS Open House 2025
-          url: /parents-portal/announcement/
+          url: /parents-portal/Announcements/
 ---
