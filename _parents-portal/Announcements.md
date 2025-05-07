@@ -18,7 +18,7 @@ You are invited to Junyuan Primary School's Open House 2025! <br>
 
 ![](/images/2025_JYPS_Open_House_Poster.jpg)
 
-Registration will close on 16 June 2025  or when participation capacity is full.
+Registration will close on <b> 16 June 2025 </b>  or when participation capacity is full.
 
 We look forward to seeing you and your child!
 
