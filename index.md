@@ -15,6 +15,6 @@ sections:
         - title: New Announcement
           date: 27 June 2025
           announcement: JYPS Open House 2025
-          link_text: ""
-          link_url: ""
+          link_text: Click here to find out more
+          link_url: /parents-portal/Announcements/
 ---
