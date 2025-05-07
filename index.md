@@ -8,13 +8,8 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage.gif
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: New Announcement
-          date: 27 June 2025
-          announcement: JYPS Open House 2025
-          link_text: Click here to find out more
-          link_url: /parents-portal/Announcements/
+      key_highlights:
+        - title: Announcements (Primary)
+          description: JYPS Open House 2025
+          url: /parents-portal/announcement/
 ---
