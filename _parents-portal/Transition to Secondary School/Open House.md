@@ -11,12 +11,12 @@ Open House for Secondary Schools 2025
 =====================================
 ### Hwa Chong International School
 
-We are delighted to invite you to attend our HCIS 2026 Year 1 Admission Information Session, which will be conducted online (via Zoom) on 31 May 2025, from 9:00am to 11:00am.
+We are delighted to invite you to attend our HCIS 2026 Year 1 Admission Information Session, which will be conducted <b>online (via Zoom)</b> on <b>31 May 2025</b>, from <b>9:00am to 11:00am</b>.
 
-Following our #ExperienceHCIS Open House 2025 held on 5 April, we received feedback from some parents who were unable to attend the Theatre Sharing Session. Hence, we are organizing an additional information session for parents of students who are taking the PSLE this year. The topics covered will be similar to those shared during our Open House, including:
-• The IB Programme
-• HCIS’ School Curriculum
-• Our Admission Processes
+Following our #ExperienceHCIS Open House 2025 held on 5 April, we received feedback from some parents who were unable to attend the Theatre Sharing Session. Hence, we are organizing an additional information session for parents of students who are taking the PSLE this year. The topics covered will be similar to those shared during our Open House, including:<br>
+• The IB Programme<br>
+• HCIS’ School Curriculum<br>
+• Our Admission Processes<br>
 • Scholarship Opportunities.
 
 Sign up for the HCIS 2026 Year 1 Admission Information Session via the QR code in the image, or at this link: https://forms.gle/h1fGosYuUAcMDVmA7
