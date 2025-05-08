@@ -21,7 +21,7 @@ Following our #ExperienceHCIS Open House 2025 held on 5 April, we received feedb
 
 Sign up for the HCIS 2026 Year 1 Admission Information Session via the QR code in the image, or at this link: https://forms.gle/h1fGosYuUAcMDVmA7
 ![](/images/2026_HCIS_Y1_Admission_Info_Session.jpg)
-Please feel free to share the event with your family and friends who may be interested to find out more! Thank you and we look forward to seeing you online!
+Please feel free to share the event with your family and friends who may be interested to find out more! <br>Thank you and we look forward to seeing you online!
 
 ### Pasir Ris Secondary School
 ![](/images/PRSS_e_Open_House_2025.png)
