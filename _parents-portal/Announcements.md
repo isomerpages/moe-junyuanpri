@@ -20,7 +20,7 @@ Thank you for your interest in our Open House. Due to overwhelming responses, we
 ![](/images/2025_JYPS_Open_House_slides_closed.png)
 
 
-Successful registrants will be informed by email by **13 June, 2025**
+Successful registrants will be informed via email by **13 June, 2025**
 
 We look forward to seeing you and your child!
 
