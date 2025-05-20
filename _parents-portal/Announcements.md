@@ -16,7 +16,6 @@ Dear Parents and Prospective P1 students, <br>
 
 Thank you for your interest in our Open House. Due to overwhelming responses, we have reached full capacity. The registration for Junyuan Primary School Open House 2025 will now be closed. 
 
-Successful registrants will be informed by email by **13 June, 2025**. 
 
 ![](/images/2025_JYPS_Open_House_slides_closed.png)
 
