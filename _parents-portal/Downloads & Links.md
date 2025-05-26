@@ -6,9 +6,6 @@ variant: markdown
 ---
 ![](/images/banner.gif)
 
-#### Math Alive! Workshop for Parents&nbsp;
-[Primary 5 &amp; 6](/files/P5___P6_Math_Alive__Workshop_for_Parents_2025.pdf)
-
 
 #### **Booklist&nbsp;**
 [2025 P1 Booklist](https://drive.google.com/file/d/1BRBph03Vzti8-f4BLgYKHfnr4ObTi9ku/view?usp=drive_link)<br>
