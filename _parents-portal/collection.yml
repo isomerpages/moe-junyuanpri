@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Announcements.md
-      - Essential Contacts/School Canteen Vacancy.md
+      - Essential Contacts/School Canteen Advertisement.md
       - Essential Contacts/.keep
       - Essential Contacts/School Bookshop.md
       - Essential Contacts/School Bus Services.md
