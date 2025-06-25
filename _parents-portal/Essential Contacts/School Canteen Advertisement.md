@@ -91,8 +91,7 @@ certificates such as Food Safety Course Level 1, etc</p>
 School’s General Office by the closing date.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Address: </a>
-<a href="https://maps.google.com/?q=2,+Tampines+Street+91,+Singapore+528906&amp;entry=gmail&amp;source=g" rel="noopener noreferrer nofollow" target="_blank">2, Tampines Street 91, Singapore 528906</a>
+<p>Address: 2, Tampines Street 91, Singapore 528906
 </p>
 </li>
 <li>
@@ -112,11 +111,11 @@ School’s General Office by the closing date.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Nearest MRT: Tampines West, Tampines MRT</a>
+<p>Nearest MRT: Tampines West, Tampines MRT
 </p>
 </li>
 <li>
-<p>Bus number:129, 65, 46, 293, 299 <a href="#_msocom_3" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[SAS3]</a>&nbsp;</p>
+<p>Bus number:129, 65, 46, 293, 299</p>
 </li>
 </ul>
 <p><strong>&nbsp;</strong>
