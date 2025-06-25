@@ -55,7 +55,7 @@ You may also request for a hardcopy of the Application Form from the School’s
 General Office.</p>
 </li>
 </ol>
-<p><a href="https://schadmsvc.moe.gov.sg/files/appexistingsch.pdf" rel="noopener noreferrer nofollow" target="https://schadmsvc.moe.gov.sg/files/appexistingsch.pdf">     Application Form</a>
+<p><a href="https://schadmsvc.moe.gov.sg/files/appexistingsch.pdf" rel="noopener noreferrer nofollow" target="https://schadmsvc.moe.gov.sg/files/appexistingsch.pdf">Application Form</a>
 </p>
 <ol start="2" data-tight="true" class="tight">
 <li>
@@ -91,14 +91,14 @@ certificates such as Food Safety Course Level 1, etc</p>
 School’s General Office by the closing date.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Address: 2, Tampines Street 91, Singapore 528906 <a href="https://www.google.com/maps/place/Junyuan+Primary+School/@1.3479785,103.9374168,17z/data=!3m1!4b1!4m6!3m5!1s0x31da3d14ee960ac3:0x212d15b72926a1c9!8m2!3d1.3479731!4d103.9399917!16s%2Fg%2F1tlc5lnt?entry=ttu" rel="noopener nofollow" target="_blank">View Map</a>
+<p>Address: 2, Tampines Street 91, Singapore 528906 <a href="https://www.google.com/maps/place/Junyuan+Primary+School/@1.3479785,103.9374168,17z/data=!3m1!4b1!4m6!3m5!1s0x31da3d14ee960ac3:0x212d15b72926a1c9!8m2!3d1.3479731!4d103.9399917!16s%2Fg%2F1tlc5lnt?entry=ttu" rel="noopener nofollow" target="_blank">[View Map]</a>
 </p>
 </li>
 <li>
 <p>Contact No: 67830375</p>
 </li>
 <li>
-<p>Email: <a href="junyuan_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="mailto:junyuan_ps@moe.edu.sg">Junyuan_ps@moe.edu.sg</a>
+<p>Email: <a href="Mailto:junyuan_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="mailto:junyuan_ps@moe.edu.sg">Junyuan_ps@moe.edu.sg</a>
 </p>
 </li>
 <li>
