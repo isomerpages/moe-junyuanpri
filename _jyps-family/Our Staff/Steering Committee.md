@@ -97,13 +97,6 @@ Steering Committee
       </td>
       <td class="tg-yp4s">HOD-Student Management</td>
     </tr>
-		 <tr>
-      <td class="tg-yp4s">
-        Mdm Asmara Kamisah Bte Muslim<br>
-        <a href="mailto:asmara_kamisah_muslim@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">asmara_kamisah_muslim@moe.edu.sg</span></a><br>
-      </td>
-      <td class="tg-yp4s">HOD-Student Management</td>
-    </tr>
     <tr>
       <td class="tg-lyvw">
         Mr Mark Sum Yoong Wei<br>
@@ -131,6 +124,13 @@ Steering Committee
         <a href="mailto:tan_jeet_lian_joyce@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">tan_jeet_lian_joyce@moe.edu.sg</span></a><br>
       </td>
       <td class="tg-yp4s">Year Head</td>
+    </tr>
+		 <tr>
+      <td class="tg-yp4s">
+        Mdm Asmara Kamisah Bte Muslim<br>
+        <a href="mailto:asmara_kamisah_muslim@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">asmara_kamisah_muslim@moe.edu.sg</span></a><br>
+      </td>
+      <td class="tg-yp4s">Assistant Year Head</td>
     </tr>
     <tr>
       <td class="tg-lyvw">
