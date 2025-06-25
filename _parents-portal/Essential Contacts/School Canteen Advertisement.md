@@ -99,11 +99,11 @@ School’s General Office by the closing date.</p>
 <p>Contact No: 67830375</p>
 </li>
 <li>
-<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">Junyuan_ps@moe.edu.sg</a>
+<p>Email: <a rel="noopener noreferrer nofollow" target="junyuan_ps@moe.edu.sg">Junyuan_ps@moe.edu.sg</a>
 </p>
 </li>
 <li>
-<p>Contact Person: <a href="#_msocom_2" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[SAS2]</a>&nbsp;Ms Chan Pui Lin, Rachael</p>
+<p>Contact Person: Ms Chan Pui Lin, Rachael</p>
 </li>
 </ul>
 </li>
