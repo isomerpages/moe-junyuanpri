@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Essential Contacts
 ---
-<p><strong>School Canteen Advertisement</strong>
-</p>
+<h4><strong>School Canteen Advertisement</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -55,8 +54,12 @@ You may also request for a hardcopy of the Application Form from the School’s
 General Office.</p>
 </li>
 </ol>
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://schadmsvc.moe.gov.sg/files/appexistingsch.pdf" rel="noopener noreferrer nofollow" target="https://schadmsvc.moe.gov.sg/files/appexistingsch.pdf">Application Form</a>
 </p>
+</li>
+</ul>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Attached the following documents together with the Application Form:</p>
@@ -74,17 +77,23 @@ General Office.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of the NRIC
-(front and back)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; List of proposed menu
-and pricing for all items</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of relevant
-certificates such as Food Safety Course Level 1, etc</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Photocopy of the NRIC (front and back)</p>
+</li>
+<li>
+<p>List of proposed menu and pricing for all items</p>
+</li>
+<li>
+<p>Photocopy of relevant certificates such as Food Safety Course Level 1,
+etc</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>Submit the completed Application Form and documents via email OR to the
@@ -169,9 +178,7 @@ environment.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Note to successful applicants:</strong>
+<p><strong>&nbsp;Note to successful applicants:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
