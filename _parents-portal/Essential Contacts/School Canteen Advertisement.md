@@ -1,7 +1,7 @@
 ---
 title: School Canteen Advertisement
 permalink: /school-canteen-advertisement/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Essential Contacts
 ---
@@ -55,8 +55,8 @@ You may also request for a hardcopy of the Application Form from the School’s
 General Office.</p>
 </li>
 </ol>
-<p> <a href="https://schadmsvc.moe.gov.sg/files/appexistingsch.pdf" rel="noopener noreferrer nofollow" target="https://schadmsvc.moe.gov.sg/files/appexistingsch.pdf">Application Form for individual stallholder</a>
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank"></a>&nbsp;</p>
+<p><a href="https://schadmsvc.moe.gov.sg/files/appexistingsch.pdf" rel="noopener noreferrer nofollow" target="https://schadmsvc.moe.gov.sg/files/appexistingsch.pdf">     Application Form</a>
+</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Attached the following documents together with the Application Form:</p>
@@ -91,14 +91,14 @@ certificates such as Food Safety Course Level 1, etc</p>
 School’s General Office by the closing date.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Address: 2, Tampines Street 91, Singapore 528906
+<p>Address: 2, Tampines Street 91, Singapore 528906 <a href="https://www.google.com/maps/place/Junyuan+Primary+School/@1.3479785,103.9374168,17z/data=!3m1!4b1!4m6!3m5!1s0x31da3d14ee960ac3:0x212d15b72926a1c9!8m2!3d1.3479731!4d103.9399917!16s%2Fg%2F1tlc5lnt?entry=ttu" rel="noopener nofollow" target="_blank">View Map</a>
 </p>
 </li>
 <li>
 <p>Contact No: 67830375</p>
 </li>
 <li>
-<p>Email: <a rel="noopener noreferrer nofollow" target="mailto:junyuan_ps@moe.edu.sg">Junyuan_ps@moe.edu.sg</a>
+<p>Email: <a href="junyuan_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="mailto:junyuan_ps@moe.edu.sg">Junyuan_ps@moe.edu.sg</a>
 </p>
 </li>
 <li>
@@ -111,8 +111,7 @@ School’s General Office by the closing date.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nearest MRT: Tampines West, Tampines MRT
-</p>
+<p>Nearest MRT: Tampines West, Tampines MRT</p>
 </li>
 <li>
 <p>Bus number:129, 65, 46, 293, 299</p>
