@@ -91,7 +91,7 @@ certificates such as Food Safety Course Level 1, etc</p>
 School’s General Office by the closing date.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p> <a rel="noopener noreferrer nofollow" target="https://www.google.com/maps/place/Junyuan+Primary+School/@1.3479785,103.9374168,17z/data=!3m1!4b1!4m6!3m5!1s0x31da3d14ee960ac3:0x212d15b72926a1c9!8m2!3d1.3479731!4d103.9399917!16s%2Fg%2F1tlc5lnt?entry=ttu">Address: 2, Tampines Street 91, Singapore 528906</a>
+<p>Address: 2, Tampines Street 91, Singapore 528906
 </p>
 </li>
 <li>
