@@ -55,8 +55,8 @@ You may also request for a hardcopy of the Application Form from the School’s
 General Office.</p>
 </li>
 </ol>
-<p> <a href="https://schadmsvc.moe.gov.sg/files/appexistingsch.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form for individual stallholder</a>
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[SAS1]</a>&nbsp;</p>
+<p> <a href="https://schadmsvc.moe.gov.sg/files/appexistingsch.pdf" rel="noopener noreferrer nofollow" target="https://schadmsvc.moe.gov.sg/files/appexistingsch.pdf">Application Form for individual stallholder</a>
+<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank"></a>&nbsp;</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Attached the following documents together with the Application Form:</p>
