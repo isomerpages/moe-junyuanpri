@@ -29,7 +29,7 @@ third_nav_title: Essential Contacts
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Halal Western Stall</strong>
+<p><strong>Western / Japanese Stall (Halal)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,7 +43,7 @@ third_nav_title: Essential Contacts
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Halal Snack Stall</strong>
+<p><strong>Snack Stall (Halal)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
