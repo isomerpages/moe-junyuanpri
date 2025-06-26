@@ -41,6 +41,20 @@ third_nav_title: Essential Contacts
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Halal Snack Stall</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>11 July 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Preferably with experience in managing a food stall.</strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>&nbsp;</strong>
