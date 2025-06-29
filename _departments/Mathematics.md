@@ -66,6 +66,21 @@ Mathematics is a hierarchical subject, where higher concepts and skills are buil
 
 ##### **The school is proud to share the following achievements:**
 
+**Annual Mathlympics 2024**
+
+| A | B | C |
+|:---:|:---:|:---:|
+| SILVER<br><img style="width:30%" src="/images/trophy.png"> | SALAZAR GABRIEL SAYAM | P5 INTEGRITY |
+| CERTIFICATE OF MERIT | MUHAMMAD SYUAIB BIN SULAIMAN<br>ZAC TOH JOON KUANG (ZHUO JUNKUANG)<br>LIM KYLER<br>QUAN CHARLIE JUNFENG | P5 RESPONSIBILITY<br>P5 RESPECT<br>P5 RESILIENCE<br>P5 CARE |
+
+**Visual Spatial Mathlympics 2024**
+
+| A | B | C |
+|:---:|:---:|:---:|
+| SILVER<br><img style="width:30%" src="/images/trophy.png"> | LU YU AN | P6 INTEGRITY |
+| BRONZE<br><img style="width:30%" src="/images/trophy.png"> | NADYNE BINTE MOHAMMAD SIDIQ | P6 RESILIENCE |
+
+
 **Asia Pacific Mathematical Olympiad For Primary Schools (APMOPS) 2023**
 
 | A | B | C |
