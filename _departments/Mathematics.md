@@ -80,6 +80,14 @@ Mathematics is a hierarchical subject, where higher concepts and skills are buil
 | SILVER<br><img style="width:30%" src="/images/trophy.png"> | LU YU AN | P6 INTEGRITY |
 | BRONZE<br><img style="width:30%" src="/images/trophy.png"> | NADYNE BINTE MOHAMMAD SIDIQ | P6 RESILIENCE |
 
+**Singapore &amp; Asian Schools Math Olympiad (SASMO) 2024**
+
+| A | B | C |
+|:---:|:---:|:---:|
+| SILVER<br><img style="width:30%" src="/images/trophy.png"> | WANG JASON<br>SALAZAR GABRIEL SAYAM | P5 RESPONSIBILITY<br>P5 INTEGRITY |
+| BRONZE<br><img style="width:30%" src="/images/trophy.png"> | ZHANG TING<br>CAVEN ONG YAN JUN<br>LESLIE CHEW YIK FENG<br>QUAN CHARLIE JUNFENG<br>YAN XINZE| P6 RESILIENCE<br>P5 RESPECT<br>P5 RESILIENCE<br>P5 CARE<br>P4 HARMONY |
+| HONOURABLE MENTION | TAN YI KAI<br>ZAC TOH JOON KUANG (ZHUO JUNKUANG)<b>XAVIER LOKE YUAN FENG<br>WALLACE TEH YU TZE| P6 RESILIENCE<br>P5 RESPECT<br>P5 RESPONSIBILITY<br>P5 CARE<br>P4 CARE |
+
 
 **Asia Pacific Mathematical Olympiad For Primary Schools (APMOPS) 2023**
 
@@ -216,4 +224,4 @@ Mathematics is a hierarchical subject, where higher concepts and skills are buil
 *   **[http://www.mathwords.com](http://www.mathwords.com/)**
 *   **[https://www.coolmath.com/](https://www.coolmath.com/)**
 *   **[https://www.funbrain.com/math-zone](https://www.funbrain.com/math-zone)**
-*   **[https://mathstory.com/](https://mathstory.com/%C2%A0)**
+*   **[https://mathstory.com/](https://mathstory.com/%C2%A0)**</b>
