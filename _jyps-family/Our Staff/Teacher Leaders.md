@@ -64,7 +64,7 @@ Teacher Leaders
   </tr>
 	<tr>
     <td class="tg-sdzj">Miss Angel Raphael Teo An Chic </td>
-    <td class="tg-sdzj">ST-Special Education Needs (SEN)</td>
+    <td class="tg-sdzj">ST-SEN</td>
   </tr>
 	</tbody>
 </table>
