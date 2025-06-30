@@ -71,7 +71,7 @@ Mathematics is a hierarchical subject, where higher concepts and skills are buil
 | A | B | C |
 |:---:|:---:|:---:|
 | SILVER<br><img style="width:30%" src="/images/trophy.png"> | SALAZAR GABRIEL SAYAM | P5 INTEGRITY |
-| CERTIFICATE OF MERIT | MUHAMMAD SYUAIB BIN SULAIMAN<br>ZAC TOH JOON KUANG (ZHUO JUNKUANG)<br>LIM KYLER<br>QUAN CHARLIE JUNFENG | P5 RESPONSIBILITY<br>P5 RESPECT<br>P5 RESILIENCE<br>P5 CARE |
+| CERTIFICATE OF MERIT | MUHAMMAD SYUAIB BIN SULAIMAN<br><br>ZAC TOH JOON KUANG (ZHUO JUNKUANG)<br><br>LIM KYLER<br><br>QUAN CHARLIE JUNFENG | P5 RESPONSIBILITY<br><br>P5 RESPECT<br><br>P5 RESILIENCE<br><br>P5 CARE |
 
 **Visual Spatial Mathlympics 2024**
 
@@ -84,9 +84,9 @@ Mathematics is a hierarchical subject, where higher concepts and skills are buil
 
 | A | B | C |
 |:---:|:---:|:---:|
-| SILVER<br><img style="width:30%" src="/images/trophy.png"> | WANG JASON<br>SALAZAR GABRIEL SAYAM | P5 RESPONSIBILITY<br>P5 INTEGRITY |
-| BRONZE<br><img style="width:30%" src="/images/trophy.png"> | ZHANG TING<br>CAVEN ONG YAN JUN<br>LESLIE CHEW YIK FENG<br>QUAN CHARLIE JUNFENG<br>YAN XINZE| P6 RESILIENCE<br>P5 RESPECT<br>P5 RESILIENCE<br>P5 CARE<br>P4 HARMONY |
-| HONOURABLE MENTION | TAN YI KAI<br>ZAC TOH JOON KUANG (ZHUO JUNKUANG)<b>XAVIER LOKE YUAN FENG<br>WALLACE TEH YU TZE| P6 RESILIENCE<br>P5 RESPECT<br>P5 RESPONSIBILITY<br>P5 CARE<br>P4 CARE |
+| SILVER<br><img style="width:30%" src="/images/trophy.png"> | WANG JASON<br><br>SALAZAR GABRIEL SAYAM | P5 RESPONSIBILITY<br><br>P5 INTEGRITY |
+| BRONZE<br><img style="width:30%" src="/images/trophy.png"> | ZHANG TING<br><br>CAVEN ONG YAN JUN<br><br>LESLIE CHEW YIK FENG<br><br>QUAN CHARLIE JUNFENG<br><br>YAN XINZE| P6 RESILIENCE<br><br>P5 RESPECT<br><br>P5 RESILIENCE<br><br>P5 CARE<br><br>P4 HARMONY |
+| HONOURABLE MENTION | TAN YI KAI<br>ZAC TOH JOON KUANG (ZHUO JUNKUANG)<br>XAVIER LOKE YUAN FENG<br><br>WALLACE TEH YU TZE| P6 RESILIENCE<br>P5 RESPECT<br>P5 RESPONSIBILITY<br>P5 CARE<br>P4 CARE |
 
 **National Mathematical Olympaid of Singapore (NMOS) 2024**
 
@@ -229,4 +229,4 @@ Mathematics is a hierarchical subject, where higher concepts and skills are buil
 *   **[http://www.mathwords.com](http://www.mathwords.com/)**
 *   **[https://www.coolmath.com/](https://www.coolmath.com/)**
 *   **[https://www.funbrain.com/math-zone](https://www.funbrain.com/math-zone)**
-*   **[https://mathstory.com/](https://mathstory.com/%C2%A0)**</b>
+*   **[https://mathstory.com/](https://mathstory.com/%C2%A0)**
