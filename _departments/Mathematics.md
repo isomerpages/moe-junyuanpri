@@ -205,7 +205,6 @@ Mathematics is a hierarchical subject, where higher concepts and skills are buil
 
 ![](/images/SPD1.png)
 
-![](/images/SPD2.png)
 
 ### **USEFUL LINKS/TIPS**
 
