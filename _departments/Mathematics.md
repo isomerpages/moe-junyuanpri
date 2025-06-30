@@ -56,10 +56,8 @@ The enrichment programmes/activities aim to improve students’ understanding of
 ### &nbsp;Maths Reinforcement Programmes / Activities
 
 Mathematics is a hierarchical subject, where higher concepts and skills are built upon foundational ones. It is important that students are grounded in basic concepts to be better prepared for more advanced learning.
-Please include the following programmes:
 
 *   Learning Support for Maths (LSM) (P1 to P4)
-*   Improving Confidence and Achievement in Numeracy (ICAN) (P3 to P6)
 *   Factual Fluency (P1 to P6)
 *   Timed Revision (P5 &amp; P6)
 *   Maths Alive! Programme (P6)
