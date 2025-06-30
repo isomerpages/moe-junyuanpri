@@ -86,7 +86,7 @@ Mathematics is a hierarchical subject, where higher concepts and skills are buil
 |:---:|:---:|:---:|
 | SILVER<br><img style="width:30%" src="/images/trophy.png"> | WANG JASON<br><br>SALAZAR GABRIEL SAYAM | P5 RESPONSIBILITY<br><br>P5 INTEGRITY |
 | BRONZE<br><img style="width:30%" src="/images/trophy.png"> | ZHANG TING<br><br>CAVEN ONG YAN JUN<br><br>LESLIE CHEW YIK FENG<br><br>QUAN CHARLIE JUNFENG<br><br>YAN XINZE| P6 RESILIENCE<br><br>P5 RESPECT<br><br>P5 RESILIENCE<br><br>P5 CARE<br><br>P4 HARMONY |
-| HONOURABLE MENTION | TAN YI KAI<br>ZAC TOH JOON KUANG (ZHUO JUNKUANG)<br>XAVIER LOKE YUAN FENG<br><br>WALLACE TEH YU TZE| P6 RESILIENCE<br>P5 RESPECT<br>P5 RESPONSIBILITY<br>P5 CARE<br>P4 CARE |
+| HONOURABLE MENTION | TAN YI KAI<br><br>ZAC TOH JOON KUANG (ZHUO JUNKUANG)<br><br>XAVIER LOKE YUAN FENG<br><br>WALLACE TEH YU TZE| P6 RESILIENCE<br><br>P5 RESPECT<br><br>P5 RESPONSIBILITY<br><br>P4 CARE |
 
 **National Mathematical Olympaid of Singapore (NMOS) 2024**
 
