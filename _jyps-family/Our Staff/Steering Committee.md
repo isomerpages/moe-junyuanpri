@@ -102,7 +102,7 @@ Steering Committee
         Mdm Asmara Kamisah Bte Muslim<br>
         <a href="mailto:asmara_kamisah_muslim@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">asmara_kamisah_muslim@moe.edu.sg</span></a><br>
       </td>
-      <td class="tg-yp4s">HOD-Student Management</td>
+      <td class="tg-yp4s">HOD-Student Management <br>(Student Well-Being And Educational Support)</td>
     </tr>
     <tr>
       <td class="tg-lyvw">
