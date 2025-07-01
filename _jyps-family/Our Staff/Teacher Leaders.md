@@ -62,5 +62,9 @@ Teacher Leaders
     <td class="tg-sdzj">Mdm Sim Chew Yen Corinne Alethia </td>
     <td class="tg-sdzj">ST-CCE </td>
   </tr>
+	<tr>
+    <td class="tg-sdzj">Miss Angel Raphael Teo An Chic </td>
+    <td class="tg-sdzj">ST-SEN</td>
+  </tr>
 	</tbody>
 </table>

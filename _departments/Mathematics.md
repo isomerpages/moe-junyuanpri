@@ -55,17 +55,44 @@ The enrichment programmes/activities aim to improve students’ understanding of
 
 ### &nbsp;Maths Reinforcement Programmes / Activities
 
-Mathematics is a hierarchical subject, where higher concepts and skills are built upon the more foundational ones. It is important that students are grounded in the basic concepts so as to be better prepared for learning of concepts of a higher level.
+Mathematics is a hierarchical subject, where higher concepts and skills are built upon foundational ones. It is important that students are grounded in basic concepts to be better prepared for more advanced learning.
 
-*   Learning Support for Maths (LSM) (P1&amp;2)
-*   Improving Confidence and Achievement in Numeracy (ICAN) (P3-6)
-*   Factual Fluency (P1-6)
-*   Timed Revision (P5&amp;6)
+*   Learning Support for Maths (LSM) (P1 to P4)
+*   Factual Fluency (P1 to P6)
+*   Timed Revision (P5 &amp; P6)
 *   Maths Alive! Programme (P6)
 
 
 ##### **The school is proud to share the following achievements:**
 
+**Annual Mathlympics 2024**
+
+| A | B | C |
+|:---:|:---:|:---:|
+| SILVER<br><img style="width:30%" src="/images/trophy.png"> | SALAZAR GABRIEL SAYAM | P5 INTEGRITY |
+| CERTIFICATE OF MERIT | MUHAMMAD SYUAIB BIN SULAIMAN<br><br>ZAC TOH JOON KUANG (ZHUO JUNKUANG)<br><br>LIM KYLER<br><br>QUAN CHARLIE JUNFENG | P5 RESPONSIBILITY<br><br>P5 RESPECT<br><br>P5 RESILIENCE<br><br>P5 CARE |
+
+**Visual Spatial Mathlympics 2024**
+
+| A | B | C |
+|:---:|:---:|:---:|
+| SILVER<br><img style="width:30%" src="/images/trophy.png"> | LU YU AN | P6 INTEGRITY |
+| BRONZE<br><img style="width:30%" src="/images/trophy.png"> | NADYNE BINTE MOHAMMAD SIDIQ | P6 RESILIENCE |
+
+**Singapore &amp; Asian Schools Math Olympiad (SASMO) 2024**
+
+| A | B | C |
+|:---:|:---:|:---:|
+| SILVER<br><img style="width:30%" src="/images/trophy.png"> | WANG JASON<br><br>SALAZAR GABRIEL SAYAM | P5 RESPONSIBILITY<br><br>P5 INTEGRITY |
+| BRONZE<br><img style="width:30%" src="/images/trophy.png"> | ZHANG TING<br><br>CAVEN ONG YAN JUN<br><br>LESLIE CHEW YIK FENG<br><br>QUAN CHARLIE JUNFENG<br><br>YAN XINZE| P6 RESILIENCE<br><br>P5 RESPECT<br><br>P5 RESILIENCE<br><br>P5 CARE<br><br>P4 HARMONY |
+| HONOURABLE MENTION | TAN YI KAI<br><br>ZAC TOH JOON KUANG (ZHUO JUNKUANG)<br><br>XAVIER LOKE YUAN FENG<br><br>WALLACE TEH YU TZE| P6 RESILIENCE<br><br>P5 RESPECT<br><br>P5 RESPONSIBILITY<br><br>P4 CARE |
+
+**National Mathematical Olympaid of Singapore (NMOS) 2024**
+
+| A | B | C |
+|:---:|:---:|:---:|
+| BRONZE<br><img style="width:30%" src="/images/trophy.png"> | SALAZAR GABRIEL SAYAM |P5 INTEGRITY |
+	
 **Asia Pacific Mathematical Olympiad For Primary Schools (APMOPS) 2023**
 
 | A | B | C |
@@ -177,7 +204,6 @@ Mathematics is a hierarchical subject, where higher concepts and skills are buil
 
 ![](/images/SPD1.png)
 
-![](/images/SPD2.png)
 
 ### **USEFUL LINKS/TIPS**
 
