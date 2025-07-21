@@ -8,8 +8,4 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage.gif
-      key_highlights:
-        - title: Announcements (Primary)
-          description: JYPS Open House 2025
-          url: /parents-portal/Announcements/
 ---
