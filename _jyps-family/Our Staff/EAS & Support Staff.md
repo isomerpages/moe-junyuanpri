@@ -33,10 +33,6 @@ EAS &amp; Support Staff
     <td class="tg-0lj4"> Ms Chan Pui Lin Rachael </td>
     <td class="tg-0lj4"> Admin Executive </td>
   </tr>
-	  <tr>
-    <td class="tg-0lj4"> Mdm Nur Hanani Bte Surani </td>
-    <td class="tg-0lj4"> Admin Executive</td>
-  </tr>
   <tr>
     <td class="tg-0lj4"> Mdm Rasyidah Bte Rosdi </td>
     <td class="tg-0lj4"> Admin Executive (MK)</td>
