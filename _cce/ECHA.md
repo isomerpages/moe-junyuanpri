@@ -25,6 +25,6 @@ In addition to the MOE Edusave Character Award, the school will continue to reco
 
 Teachers, parents and students are welcome to nominate deserving&nbsp;Junyuan Primary School students for the award. The nominees will be interviewed by a panel consisting of school leaders, school middle managers and stakeholders (Alumni and Parent Support Group).
 
-As our key partner-in-education, we invite you to nominate suitable students for ECHA. You may nominate online via [https://go.gov.sg/jypsecha2024](https://go.gov.sg/jypsecha2024)
+As our key partner-in-education, we invite you to nominate suitable students for ECHA. You may nominate online via [https://go.gov.sg/jypsecha2025](https://go.gov.sg/jypsecha2025)
 
-Nominations will open from Thursday, 1 August 2024 to Friday, 30 August 2024.
+Nominations will open from Friday, 1 August 2025 to Friday, 29 August 2025.
