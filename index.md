@@ -11,5 +11,5 @@ sections:
       key_highlights:
         - title: Announcements (Primary)
           description: ECHA 2025
-          url: /cce/echa
+          url: /departments/cce/echa/
 ---
