@@ -10,6 +10,6 @@ sections:
       background: /images/Homepage.gif
       key_highlights:
         - title: Announcements (Primary)
-          description: MOE ECHA 2025
+          description: ECHA 2025
           url: /cce/echa
 ---
