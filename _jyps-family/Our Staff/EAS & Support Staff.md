@@ -90,7 +90,7 @@ EAS &amp; Support Staff
     <td class="tg-0lj4"> Library Assistant</td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> Mr Pukalathi</td>
+    <td class="tg-0lj4"> Mdm Vasaghee</td>
     <td class="tg-0lj4"> Security Guard </td>
   </tr>
   <tr>
