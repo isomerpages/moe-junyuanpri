@@ -8,4 +8,8 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage.gif
+      key_highlights:
+        - title: Announcements (Primary)
+          description: ECHA 2025
+          url: /departments/cce/echa/
 ---
