@@ -7,7 +7,7 @@ variant: markdown
 ![](/images/banner.gif)
 
 ## Signature Programmes
-
+<br>
 In our commitment to nurture our students to be Leaders of Character who are gracious, active and discerning, our Character and Citizenship Education (CCE) Department offers three programmes, CAVE, DYK and LIVES, to complement and supplement the CCE Curriculum.
 
 <u><b><h5>Current Affairs with Values Embedded (CAVE) Programme</h5></b></u><br>
@@ -25,3 +25,11 @@ DYK encourages a habit of reading widely from reliable, age appropriate sources 
 
 <h6><b>Against all odds, North View Primary School pupil overcame heart condition to sit PSLE</b></h6>
 <figure><img src="/images/SP_Picture2.png" style="width:75%"><figcaption> Source: <a href="https://www.straitstimes.com/singapore/against-all-odds-north-view-primary-school-boy-overcame-heart-condition-to-take-psle"> https://www.straitstimes.com/singapore/against-all-odds-north-view-primary-school-boy-overcame-heart-condition-to-take-psle</a></figcaption></figure>
+
+
+<u><b><h5>Listening to Inspirational Values-embedded Stories (LIVES) Programme</h5></b></u><br>
+<b>LIVES Programme</b>promotes core values through moral and inspirational stories shared during morning assembly by our CCE Ambassadors. These stories are sourced from newspaper articles or drawn from real-life examples of students who demonstrate positive behaviours. They bring school values to life by showing what they look like, sound like, and feel like in action. <br><br>
+With the exemplification of kindness as a key focus, the programme also expounds on the values of respect, generosity, compassion, empathy, patience, inclusivity, gratitude, and graciousness to inculcate in our students. By connecting relatable, authentic examples to each value, LIVES inspires students to embody them in their daily lives and strengthens a culture of care within the school community.
+
+
+<h6><b>Against all odds, North View Primary School pupil overcame heart condition to sit PSLE</b></h6>
