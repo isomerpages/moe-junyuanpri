@@ -20,7 +20,7 @@ Grounded in the commemoration of the National Education events, Total Defence Da
 <br><br><br><br><br><br><br><br><br><br><br>
 
 <u><b><h5>DYK (Did You Know) Programme</h5></b></u><br>
-<b>DYK Programme</b>uses the Singapore Student Learning Space (SLS) to share heartwarming and inspiring stories, highlight what is happening in Singapore, and showcase meaningful activities students can take part in. An example of an inspiring story is about how a P6 student overcame his heart condition to sit for PSLE in 2024. Students reflected on qualities that he had to help him overcome challenges. 
+<b>DYK Programme</b>uses the Singapore Student Learning Space (SLS) to share heartwarming and inspiring stories, highlight what is happening in Singapore, and showcase meaningful activities students can take part in. An example of an inspiring story is about how a P6 student overcame his heart condition to sit for PSLE in 2024. Students reflected on qualities that he had to help him overcome challenges. <br><br>
 DYK encourages a habit of reading widely from reliable, age appropriate sources and builds critical thinking through the coaching of <b>SURE</b> skills (<b>S</b>ource, <b>U</b>nderstand, <b>R</b>esearch, and <b>E</b>valuate) which guide students to check the reliability of sources and the validity of information. By combining uplifting local content with guided self-directed use of SLS, the programme helps students stay curious, discerning, and connected to Singapore.
 
 <h6><b>Against all odds, North View Primary School pupil overcame heart condition to sit PSLE</b></h6>
@@ -32,4 +32,5 @@ DYK encourages a habit of reading widely from reliable, age appropriate sources 
 With the exemplification of kindness as a key focus, the programme also expounds on the values of respect, generosity, compassion, empathy, patience, inclusivity, gratitude, and graciousness to inculcate in our students. By connecting relatable, authentic examples to each value, LIVES inspires students to embody them in their daily lives and strengthens a culture of care within the school community.
 
 
-<h6><b>Against all odds, North View Primary School pupil overcame heart condition to sit PSLE</b></h6>
+<h6><b>‘Under the Values Umbrella’ sharing by our CCE Ambassadors</b></h6>
+<img src="/images/SP_Picture3.png" style="width:75%" align="left">
