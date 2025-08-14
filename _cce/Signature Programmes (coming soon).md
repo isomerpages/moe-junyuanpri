@@ -16,3 +16,11 @@ Grounded in the commemoration of the National Education events, Total Defence Da
 
 <h6><b>Thank you cards by students</b></h6>
 <img src="/images/SP_Picture1.jpg" style="width:75%" align="left">
+
+<br><br><br><br><br><br><br><br><br><br><br>
+
+<u><b><h5>DYK (Did You Know) Programme</h5></b></u><br>
+<b>DYK Programme</b>uses the Singapore Student Learning Space (SLS) to share heartwarming and inspiring stories, highlight what is happening in Singapore, and showcase meaningful activities students can take part in. An example of an inspiring story is about how a P6 student overcame his heart condition to sit for PSLE in 2024. Students reflected on qualities that he had to help him overcome challenges. 
+DYK encourages a habit of reading widely from reliable, age appropriate sources and builds critical thinking through the coaching of <b>SURE</b> skills (<b>S</b>ource, <b>U</b>nderstand, <b>R</b>esearch, and <b>E</b>valuate) which guide students to check the reliability of sources and the validity of information. By combining uplifting local content with guided self-directed use of SLS, the programme helps students stay curious, discerning, and connected to Singapore.
+
+<h6><b>Against all odds, North View Primary School pupil overcame heart condition to sit PSLE</b></h6>
