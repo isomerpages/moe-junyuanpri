@@ -24,3 +24,4 @@ Grounded in the commemoration of the National Education events, Total Defence Da
 DYK encourages a habit of reading widely from reliable, age appropriate sources and builds critical thinking through the coaching of <b>SURE</b> skills (<b>S</b>ource, <b>U</b>nderstand, <b>R</b>esearch, and <b>E</b>valuate) which guide students to check the reliability of sources and the validity of information. By combining uplifting local content with guided self-directed use of SLS, the programme helps students stay curious, discerning, and connected to Singapore.
 
 <h6><b>Against all odds, North View Primary School pupil overcame heart condition to sit PSLE</b></h6>
+<img src="/images/SP_Picture2.png" style="width:75%" align="left">
