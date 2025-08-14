@@ -15,4 +15,4 @@ In our commitment to nurture our students to be Leaders of Character who are gra
 Grounded in the commemoration of the National Education events, Total Defence Day, International Friendship Day and Racial Harmony Day, the programme nurtures pride, unity, and respect for diversity and inclusivity. Students stay engaged with current affairs, reflect on national issues, and learn to contribute positively to Singapore’s future.
 
 <h5><b>Thank you cards by students</b></h5>
-<img src="/images/SP_Picture1.jpg" style="width:75%">
+<img src="/images/SP_Picture1.jpg" style="width:75%" align="left">
