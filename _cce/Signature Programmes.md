@@ -36,6 +36,6 @@ With the exemplification of kindness as a key focus, the programme also expounds
 <img src="/images/SP_Picture3.png" style="width:75%" align="left">
 <br><br><br><br><br><br><br><br><br><br><br>
 <h6><b>Sharing of stories based on values by our CCE Ambassadors</b></h6>
-<img src="/images/SP_Picture4.jpg" style="width:75%" align="left">
-<img src="/images/SP_Picture5.jpg" style="width:75%" align="left">
-<img src="/images/SP_Picture6.jpg" style="width:75" align="left">
+<img src="/images/SP_Picture4.jpg" style="width:45%" align="left">
+<img src="/images/SP_Picture6.jpg" style="width:46.5%" align="left">
+<img src="/images/SP_Picture5.jpg" style="width:91.5%" align="left">
