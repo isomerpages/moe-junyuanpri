@@ -29,25 +29,11 @@ third_nav_title: Essential Contacts
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Western / Japanese Stall (Halal)</strong>
+<p><strong>Japanese / Korean Stall (Non-Halal)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>11 July 2025</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Preferably with experience in managing a food stall.</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Snack Stall (Halal)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>11 July 2025</strong>
+<p><strong>29 August 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
