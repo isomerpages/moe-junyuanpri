@@ -9,7 +9,11 @@ variant: markdown
 Announcements
 =============
 ### Caring Teacher Awards
-<img src="/images/CTA_2026.jpg" style="width:100%">
+The Caring Teacher Awards (CTA) celebrate educators who exemplify care and compassion in their teaching, going beyond the call of duty to nurture the holistic development of their students. These dedicated teachers play a vital role in shaping confident, independent, and resilient learners who contribute meaningfully to our nation. <br><br>
+<b>Nominate now @ [www.cta.nie.edu.sg](www.cta.nie.edu.sg)<br>
+	Closing Date: 31 December 2025</b>
+<img src="/images/CTA_2026.png" style="width:100%">
+For more information, please visit [www.cta.nue.edu.sg](www.cta.nue.edu.sg)
 
 ### **JYPS Open House 2025**&nbsp;
 
