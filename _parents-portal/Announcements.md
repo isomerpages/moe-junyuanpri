@@ -8,7 +8,8 @@ variant: markdown
 
 Announcements
 =============
-
+### Caring Teacher Awards
+The Caring Teacher Awards (CTA) celebrate educators who exemplify care and compassion
 
 ### **JYPS Open House 2025**&nbsp;
 
