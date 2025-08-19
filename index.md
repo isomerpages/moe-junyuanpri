@@ -12,4 +12,7 @@ sections:
         - title: Announcements (Primary)
           description: ECHA 2025
           url: /departments/cce/echa/
+        - title: Announcements (Primary)
+          description: Caring Teacher Awards 2026
+          url: /parents-portal/Announcements/
 ---
