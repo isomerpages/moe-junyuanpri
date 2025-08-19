@@ -9,7 +9,7 @@ variant: markdown
 Announcements
 =============
 ### Caring Teacher Awards
-![](/images/CTA_2026.jpg)
+<img src="/images/CTA_2026.jpg" style="width:100%">
 
 ### **JYPS Open House 2025**&nbsp;
 
