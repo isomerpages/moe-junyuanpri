@@ -9,7 +9,7 @@ variant: markdown
 Announcements
 =============
 ### Caring Teacher Awards
-The Caring Teacher Awards (CTA) celebrate educators who exemplify care and compassion in their teaching, going beyond the call of duty to nurture the holistic development of their students. These dedicated teachers play a vital role in shaping confident, independent, and resilient learners who contribute meaningfully to our nation. For more information, please visit [www.cta.nue.edu.sg](https://www.cta.nie.edu.sg/).<br><br>
+The Caring Teacher Awards (CTA) celebrate educators who exemplify care and compassion in their teaching, going beyond the call of duty to nurture the holistic development of their students. These dedicated teachers play a vital role in shaping confident, independent, and resilient learners who contribute meaningfully to our nation. For more information, please visit [www.cta.nie.edu.sg](https://www.cta.nie.edu.sg/).<br><br>
 <b>Nominate now @ [www.cta.nie.edu.sg](https://www.cta.nie.edu.sg/)<br>
 	Closing Date: 31 December 2025</b><br>
 
