@@ -17,5 +17,5 @@ sections:
           url: /parents-portal/Announcements/
         - title: Announcements (Primary)
           description: Alumni Visiting on 4 Sep
-          url: ""
+          url: /parents-portal/Announcements/
 ---
