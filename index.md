@@ -15,4 +15,7 @@ sections:
         - title: Announcements (Primary)
           description: Caring Teacher Awards 2026
           url: /parents-portal/Announcements/
+        - title: Announcements (Primary)
+          description: Alumni Visiting on 4 Sep
+          url: ""
 ---
