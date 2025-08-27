@@ -9,6 +9,9 @@ third_nav_title: Transition to Secondary School
 
 Open House for Secondary Schools 2025
 =====================================
+### Springfield Secondary School
+![](/images/2025SpringfieldSS.jpg)
+
 ### Hwa Chong International School
 
 We are delighted to invite you to attend our HCIS 2026 Year 1 Admission Information Session, which will be conducted <b>online (via Zoom)</b> on <b>31 May 2025</b>, from <b>9:00am to 11:00am</b>.

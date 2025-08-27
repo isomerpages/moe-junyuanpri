@@ -15,8 +15,7 @@ variant: markdown
 [2025 P5 Booklist](https://drive.google.com/file/d/15xujIQpNiD0u1pZByHLl5AXmvqF2BNON/view?usp=drive_link)<br>
 [2025 P6 Booklist](https://drive.google.com/file/d/1TVIC5Q2XLsabdRDgCQfhneNuZ-jaOWkv/view?usp=drive_link)<br>
 
-#### **2025 Primary 1 Matters&nbsp;**
-[Primary 1 Matters](https://go.gov.sg/jyps2025p1)
+#### **2026 Primary 1 Matters&nbsp; \*\*Coming Soon**
 
 
 
@@ -35,4 +34,4 @@ variant: markdown
 *   [Student GPA Claims Portal](https://studentgpa.incomegroupins.com.sg/)<br>
 *   [Leave of Absence (LOA)](https://go.gov.sg/jypsloa)<br>
 *   [WaitList Form](https://go.gov.sg/jypswaitlist)<br>
-     **Note:**&nbsp;Waiting List application for year 2026 will be made available from 1st Sep 2025, 9am. 
+     **Note:**&nbsp;Waiting List application for year 2026 will be made available from 1st Sep 2025, 9am.
