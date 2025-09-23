@@ -34,4 +34,4 @@ variant: markdown
 *   [Student GPA Claims Portal](https://studentgpa.incomegroupins.com.sg/)<br>
 *   [Leave of Absence (LOA)](https://go.gov.sg/jypsloa)<br>
 *   [WaitList Form](https://go.gov.sg/jypswaitlist)<br>
-     **Note:**&nbsp;Waiting List application for year 2026 will be made available from 1st Sep 2025, 9am.
+    
