@@ -108,6 +108,12 @@ MK Team
     <td class="tg-ncov"> Malay Language Teacher </td>
     <td class="tg-ncov">  <span style="text-decoration:underline;color:#A52023">iryannie_zulkifli@moe.edu.sg</span></td>
   </tr>
+	<tr>
+	</tr><tr>
+    <td class="tg-ncov"> Miss Nur Faezah Razali</td>
+    <td class="tg-ncov"> Malay Language Teacher </td>
+    <td class="tg-ncov">  <span style="text-decoration:underline;color:#A52023">nur_faezah_razali@moe.edu.sg</span></td>
+  </tr>
   <tr>
     <td class="tg-ncov"> Miss Waheeda Jabeen Binte Jamal Mohd</td>
     <td class="tg-ncov">Tamil Language Teacher </td>
