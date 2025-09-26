@@ -69,10 +69,6 @@ EAS &amp; Support Staff
     <td class="tg-0lj4"> Mdm Siti Aisah Bte Ahmad <br></td>
     <td class="tg-0lj4"> Operations Support Officer (MK)<br></td>
   </tr>
-	 <tr>
-    <td class="tg-0lj4"> Mr Juhanis Bin Juma'at </td>
-    <td class="tg-0lj4"> ICT Manager<br></td>
-  </tr>
 	<tr>
     <td class="tg-0lj4"> Mr Toh Boon Ping </td>
     <td class="tg-0lj4"> ICT Manager<br></td>
