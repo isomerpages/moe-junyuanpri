@@ -34,7 +34,7 @@ EAS &amp; Support Staff
     <td class="tg-0lj4"> Admin Executive </td>
   </tr>
 	<tr>
-    <td class="tg-0lj4"> Ms Tan Wee Ling Wendy</td>
+    <td class="tg-0lj4"> Mdm Tan Wee Ling Wendy</td>
     <td class="tg-0lj4"> Admin Executive </td>
   </tr>
   <tr>
