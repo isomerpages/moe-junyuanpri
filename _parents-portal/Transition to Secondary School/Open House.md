@@ -9,6 +9,22 @@ third_nav_title: Transition to Secondary School
 
 Open House for Secondary Schools 2025
 =====================================
+### Hwa Chong International School
+
+We are pleased to invite you and your child to attend our HCIS 2026 Year 1 Admission Information Sessions:<br>
+• (ONSITE at HCIS Campus) 25 Oct 2025 (Saturday) 10AM – 11:30AM<br>
+• (ONLINE via Zoom) 07 Nov 2025 (Friday) 7PM – 8:30PM<br>
+• (ONLINE via Zoom) 25 Nov 2025 (Tuesday) 7PM – 8:30PM<br><br>
+Registration can be done via the QR code in the image, or at this link:
+[https://forms.gle/E58mA8UNtXU1uk4H7](https://forms.gle/E58mA8UNtXU1uk4H7)<br><br>
+These information sessions are designed to help you gain a better understanding of HCIS and decide if our school is the right fit for your child. You will learn more about the IB Programme, our School Curriculum and Scholarship Opportunities. Please feel free to also share this with family and friends who may be interested to find out more!<br><br>
+You may refer to the media references below to understand more regarding our 6-year programme and the Scholarships:<br>
+Channel News Asia: [Broadening Horizons and Growth Beyond the Classroom](https://www.channelnewsasia.com/brandstudio/hwachongintlsch/broadenhorizons)<br>
+Channel News Asia: [Educating The Next Generation: The "Cool" Factor](https://www.channelnewsasia.com/brandstudio/hwachonginternationalsch)<br>
+The Straits Time: [Global mindset, Asian values and close-knit support](https://www.straitstimes.com/singapore/parenting-education/hwa-chong-international-school-global-mindset-asian-values-close-knit-support)
+
+![](/images/2026_Y1_ADMISSION_INFO_SESSION_BANNER.jpg)
+
 ### Springfield Secondary School
 ![](/images/2025SpringfieldSS.jpg)
 
