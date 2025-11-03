@@ -42,15 +42,17 @@ The enrichment programmes/activities aim to improve students’ understanding of
 
 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Make learning enjoyable.
 
-*   STAR HPack (P1-6)
-*   Maths Collaborative Lessons (P1-6)
-*   Maths Self Directed Learning Lessons (P1-6)
-*   Olympiad Training (P4-6)
-*   Singapore and Asian Schools Maths Olympiads (P3-6)
-*   National University of Singapore Mathematical Olympiad (P5)
-*   Raffles Institution Primary Mathematics World Contest (P5-6)
-*   Singapore Mathematical Olympiad for Primary Schools (P5-6)
-*   Mathlympics (P4-5)
+•	STAR HPack (P1-6)<br>
+•	Maths Collaborative Lessons (P1-6)<br>
+•	Maths Self Directed Learning Lessons (P1-6)<br>
+•	Maths Olympiad Training (P4-6)<br>
+•	Asia-Pacific Mathematical Olympiad for Primary Schools (APMOPS) (P6)<br>
+•	Annual Mathlympics Competition (P5)<br>
+•	National Mathematical Olympiad of Singapore (NMOS) (P5)<br>
+•	Raffles Mathematical Olympiad (RMO) (P6)<br>
+•	Singapore and ASEAN Schools Mathematics Olympiads (SASMO) (P4-6)<br>
+•	Visual-Spatial Mathlympics (P6)<br>
+
 
 
 ### &nbsp;Maths Reinforcement Programmes / Activities
@@ -93,88 +95,7 @@ Mathematics is a hierarchical subject, where higher concepts and skills are buil
 |:---:|:---:|:---:|
 | BRONZE<br><img style="width:30%" src="/images/trophy.png"> | SALAZAR GABRIEL SAYAM |P5 INTEGRITY |
 	
-**Asia Pacific Mathematical Olympiad For Primary Schools (APMOPS) 2023**
 
-| A | B | C |
-|:---:|:---:|:---:|
-| SILVER<br><img style="width:30%" src="/images/trophy.png"> | WANG JIAN ZHUO JAYDEN | P6 CARE |
-| BRONZE<br><img style="width:30%" src="/images/trophy.png"> | LI YISHAN | P6 RESPECT |
-
-**Visual Spatial Mathlympics 2023**
-
-| A | B | C |
-|:---:|:---:|:---:|
-| GOLD<br><img style="width:30%" src="/images/trophy.png"> | WANG JIAN ZHUO JAYDEN | P6 CARE |
-| SILVER<br><img style="width:30%" src="/images/trophy.png"> | LI YISHAN | P6 RESPECT |
-
-**Singapore &amp; Asian Schools Math Olympiad (SASMO) 2023**
-
-| A | B | C |
-|:---:|:---:|:---:|
-| GOLD<br><img style="width:30%" src="/images/trophy.png"> | WANG JIAN ZHUO JAYDEN | P6 CARE |
-| BRONZE<br><img style="width:30%" src="/images/trophy.png"> | MUHAMMAD SYUAIB BIN SULAIMAN<br><br>MUHAMMAD HAIQEL GAVIN BIN MUHAMMAD HERMAN<br><br>ZAC TOH JOON KUANG <br>(ZHUO JUNKUANG)<br><br>LU YU AN<br><br>TAY DING HAN<br><br>LI YISHAN<br><br>ROSHAN S/O PRAGAS<br><br>SANDHU EKAM SINGH | P4 RESPECT<br><br>P4 RESPONSIBILITY<br><br>P4 RESPONSIBILITY<br><br>P5 INTEGRITY<br><br>P5 CARE<br><br>P6 RESPECT<br><br>P6 RESPECT<br><br>P6 RESPECT |
-| HONOURABLE MENTION | LIM KYLER<br><br><br>DENG XIAOTONG | P4 RESPONSIBILITY<br><br>P6 RESPECT |
-
-**Raffles Institution Primary Mathematics World Contest (RIPMWC) 2023**
-
-| AWARD | NAME | CLASS |
-|:---:|:---:|:---:|
-| CERTIFICATE OF DISTINCTION | LU YU AN <br><br>SALAZAR GABRIEL SAYAM| P5 INTEGRITY <br><br>P4 RESPONSIBILITY|
-
-**National Mathematical Olympiad of Singapore (NMOS) 2023**
-
-| AWARD | NAME | CLASS |
-|:---:|:---:|:---:|
-| HONOURABLE MENTION | NADYRE BINTE MOHAMMAD SIDIQ <br><br>TAY DING HAN<br><br>WU HANXIANG, ELIJAH| P5 RESILIENCE <br><br>P5 CARE<br><br>P5 INTEGRITY|
-
-**VS Mathlympics 2022**
-
-| A | B | C |
-|:---:|:---:|:---:|
-| SILVER<br><img style="width:30%" src="/images/trophy.png"> | JAYDEN HO JUNDE | P6 RESPONSIBILITY |
-| BRONZE<br><img style="width:30%" src="/images/trophy.png"> | CO CARLITOS SEBASTIAN ALZUL<br><br>EQIL UNAYS BIN AMRAN | P6 RESILIENCE<br><br>P6 RESPONSIBILITY |
-
-**Raffles Institution Primary Mathematics World Contest (RIPMWC) 2022**
-
-| AWARD | NAME | CLASS |
-|:---:|:---:|:---:|
-| Certificate of Distinction | WANG JIAN ZHUO JAYDEN   | P5 RESPECT |
-| Certificate of Distinction | LIM JIA XUAN GERMAINE | P5 RESPECT |
-|  Certificate of Distinction | JOHNNY XIE ZEMING      | P4 RESILIENCE  |
-|  Certificate of Merit | YANG FURUI  | P4 RESPECT  |
-
-**National Mathematical Olympiad of Singapore (NMOS) 2022**
-
-
-| AWARD | NAME | CLASS |
-|:---:|:---:|:---:|
-| GOLD<br><img style="width:30%" src="/images/trophy.png"> | LI YISHAN | P5 RESPONSIBILITY |
-| SILVER<br><img style="width:30%" src="/images/trophy.png"> | WANG JIAN ZHUO JAYDEN | P5 RESPECT |
-|  BRONZE<br><img style="width:30%" src="/images/trophy.png"> | DENG XIAOTONG | P5 RESPONSIBILITY |
-
-**15th Annual Mathlympics 2022**
-
-| AWARD | NAME | CLASS |
-|:---:|:---:|:---:|
-| GOLD<br><img style="width:30%" src="/images/trophy.png"> | WANG JIAN ZHUO JAYDEN | P5 RESPECT |
-| SILVER<br><img style="width:30%" src="/images/trophy.png"> | LI YISHAN | P5 RESPONSIBILITY |
-|  BRONZE<br><img style="width:30%" src="/images/trophy.png"> | JOHNNY XIE ZEMING | P4 RESILIENCE |
-
-**Singapore Mathematical Olympiad for Primary Schools (SMOPS) 2022**
-
-| AWARD | NAME | CLASS |
-|:---:|:---:|:---:|
-| SILVER<br><img style="width:30%" src="/images/trophy.png"> | YERABHAM JOHN PREETHAM REDDY | P6 RESPECT |
-| BRONZE<br><img style="width:30%" src="/images/trophy.png"> | JAYDEN HO JUNZE<br>LUO YUELIN | P6 RESPONSIBILITY<br>P6 RESPONSIBILITY |
-
-**Singapore &amp; Asian Schools Math Olympiad (SASMO) 2022**
-
-| AWARD | NAME | CLASS |
-|:---:|:---:|:---:|
-| GOLD<br><img style="width:30%" src="/images/trophy.png"> | WANG JIAN ZHUO JAYDEN | P5 RESPECT |
-| SILVER<br><img style="width:30%" src="/images/trophy.png">| ZHANG TING<br>TAY DING HAN<br>TAN YI KAI<br>LI YISHAN<br>YERABHAM JOHN PREETHAM REDDY | P4 RESPECT<br>P4 RESPONSIBILITY<br>P4 INTEGRITY<br>P5 RESPONSIBILITY<br>P6 RESPECT |
-|  BRONZE<br><img style="width:30%" src="/images/trophy.png"> | LEUNG CHUN HEI NOAH<br>LEE WYNN ERN<br>DERRICK TAY MIN WEI<br>AMIRUL AQIL BIN IMRAN<br>JAYDEN HO JUNDE<br>HOO WEN ZE<br>EQIL UNAYS BIN AMRAN  | P5 RESPONSIBILITY<br>P6 RESPECT<br>P6 RESPONSIBILITY<br>P6 RESPONSIBILITY<br>P6 RESPONSIBILITY<br>P6 RESPECT<br>P6 RESPONSIBILITY |
-|  HONORABLE MENTION | LOY JI EN<br>LUO YUELIN<br>NUFAEL ARIQ BIN MUHAMMAD SHAHRON  | P6 HARMONY<br>P5 RESILIENCE<br>P5 RESPECT  |
 
 ##### **Activities in the Mathematics classrooms**
 
@@ -216,7 +137,7 @@ Mathematics is a hierarchical subject, where higher concepts and skills are buil
 
 ##### **Calculators for Primary 5 and Primary 6**
 
-*  [Calculators for Primary 5 and Primary 6](/files/Math.pdf)
+*  [Calculators for Primary 5 and Primary 6](/files/seab_approvedcalculators_2025.pdf)
 
 
 ##### **Mathematics Websites**
