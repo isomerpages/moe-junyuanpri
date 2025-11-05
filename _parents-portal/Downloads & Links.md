@@ -16,7 +16,7 @@ Primary 5<br>
 Primary 6<br>
 
 #### **2026 Primary 1 Matters&nbsp; \*NEW**
-[P1 Microsite](go.gov.sg/jyps2026p1)
+[P1 Microsite](https://go.gov.sg/jyps2026p1)
 
 
 #### **SLS&nbsp;**
