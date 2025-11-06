@@ -7,19 +7,19 @@ variant: markdown
 ![](/images/banner.gif)
 
 
-#### **Booklist&nbsp;**
-[2025 P1 Booklist](https://drive.google.com/file/d/1BRBph03Vzti8-f4BLgYKHfnr4ObTi9ku/view?usp=drive_link)<br>
-[2025 P2 Booklist](https://drive.google.com/file/d/1M5H8BwSTakkNdRA0_oIIVcuECJ_DAbxO/view?usp=drive_link)<br>
-[2025 P3 Booklist](https://drive.google.com/file/d/17O2VfV6hRHOUHFNVHY09i9YArWH8G7bh/view?usp=drive_link)<br>
-[2025 P4 Booklist](https://drive.google.com/file/d/1WqwUHNZ2IO6QnAzpbzdt3zXfhpztGzSw/view?usp=drive_link)<br>
-[2025 P5 Booklist](https://drive.google.com/file/d/15xujIQpNiD0u1pZByHLl5AXmvqF2BNON/view?usp=drive_link)<br>
-[2025 P6 Booklist](https://drive.google.com/file/d/1TVIC5Q2XLsabdRDgCQfhneNuZ-jaOWkv/view?usp=drive_link)<br>
+#### **2026 Booklist&nbsp;\*Coming Soon**<br>
+Primary 1<br>
+Primary 2<br>
+Primary 3<br>
+Primary 4<br>
+Primary 5<br>
+Primary 6<br>
 
-#### **2026 Primary 1 Matters&nbsp; \*\*Coming Soon**
+#### **2026 Primary 1 Matters&nbsp; \*NEW**
+[P1 Microsite](https://go.gov.sg/jyps2026p1)
 
 
-
-#### **SLS&nbsp;\*\*NEW!**
+#### **SLS&nbsp;**
 
 *   [Account Management (P2 - P6)](/files/SLS%20AccountManagement.pdf)
 *   [Annex A and B (P1)](/files/2Annex%20A%20and%20B%20for%20SLS_P1.pdf)
