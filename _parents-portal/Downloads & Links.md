@@ -13,7 +13,7 @@ variant: markdown
 [Primary 3](https://drive.google.com/file/d/19TMMvwP09cHOjgJ7y8JMsUxpX2cSVusW/view?usp=sharing)<br>
 [Primary 4](https://drive.google.com/file/d/1JgkbKYi4891CHxqNkmWu8U4RezEJrO2I/view?usp=sharing)<br>
 [Primary 5](https://drive.google.com/file/d/1LmX2ipAjQE5qqcodF3mSMiSoETIZ_00x/view?usp=sharing)<br>
-Primary 6<br>
+[Primary 6](https://drive.google.com/file/d/1Ke4JRi1m0hxutEL_LM-NaqQkBCE_ULW7/view?usp=sharing)<br>
 
 #### **2026 Primary 1 Matters&nbsp; \*NEW**
 [P1 Microsite](https://go.gov.sg/jyps2026p1)
