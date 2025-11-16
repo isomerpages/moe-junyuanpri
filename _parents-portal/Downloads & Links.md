@@ -9,7 +9,8 @@ variant: markdown
 
 #### **2026 Booklist&nbsp;\*Coming Soon**<br>
 [Primary 1](https://drive.google.com/file/d/1Z2xAHffb1B-5GmX_IyEITuUvisB0z36v/view?usp=sharing)<br>
-[Primary 2](https://drive.google.com/file/d/19TMMvwP09cHOjgJ7y8JMsUxpX2cSVusW/view?usp=sharing)<br>[Primary 3](https://drive.google.com/file/d/1wPOFUgg_A7a673Y9V-sa5yMUXcuzSEM9/view?usp=sharing)<br>
+[Primary 2](https://drive.google.com/file/d/1wPOFUgg_A7a673Y9V-sa5yMUXcuzSEM9/view?usp=sharing)<br>
+[Primary 3](https://drive.google.com/file/d/19TMMvwP09cHOjgJ7y8JMsUxpX2cSVusW/view?usp=sharing)<br>
 Primary 4<br>
 Primary 5<br>
 Primary 6<br>
