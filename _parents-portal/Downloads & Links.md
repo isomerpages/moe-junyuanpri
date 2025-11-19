@@ -14,6 +14,8 @@ variant: markdown
 [Primary 5](https://drive.google.com/file/d/1LmX2ipAjQE5qqcodF3mSMiSoETIZ_00x/view?usp=sharing)<br>
 [Primary 6](https://drive.google.com/file/d/1Ke4JRi1m0hxutEL_LM-NaqQkBCE_ULW7/view?usp=sharing)<br>
 
+#### **Year-End Sales for School Uniform**
+[Purchase of School Uniform](/files/JunYuan_Pri_sale_schedule_Y25.pdf)
 
 #### **2026 Primary 1 Matters&nbsp; \*NEW**
 [P1 Microsite](https://go.gov.sg/jyps2026p1)
