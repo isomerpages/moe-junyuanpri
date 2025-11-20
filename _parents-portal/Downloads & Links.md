@@ -6,14 +6,16 @@ variant: markdown
 ---
 ![](/images/banner.gif)
 
+#### **2026 Booklist&nbsp;\*NEW**<br>
+[Primary 1](https://drive.google.com/file/d/1Z2xAHffb1B-5GmX_IyEITuUvisB0z36v/view?usp=sharing)<br>
+[Primary 2](https://drive.google.com/file/d/1wPOFUgg_A7a673Y9V-sa5yMUXcuzSEM9/view?usp=sharing)<br>
+[Primary 3](https://drive.google.com/file/d/19TMMvwP09cHOjgJ7y8JMsUxpX2cSVusW/view?usp=sharing)<br>
+[Primary 4](https://drive.google.com/file/d/1JgkbKYi4891CHxqNkmWu8U4RezEJrO2I/view?usp=sharing)<br>
+[Primary 5](https://drive.google.com/file/d/1LmX2ipAjQE5qqcodF3mSMiSoETIZ_00x/view?usp=sharing)<br>
+[Primary 6](https://drive.google.com/file/d/1Ke4JRi1m0hxutEL_LM-NaqQkBCE_ULW7/view?usp=sharing)<br>
 
-#### **2026 Booklist&nbsp;\*Coming Soon**<br>
-Primary 1<br>
-Primary 2<br>
-Primary 3<br>
-Primary 4<br>
-Primary 5<br>
-Primary 6<br>
+#### **Year-End Sales for School Uniform**
+[Purchase of School Uniform](/files/JunYuan_Pri_sale_schedule_Y25.pdf)
 
 #### **2026 Primary 1 Matters&nbsp; \*NEW**
 [P1 Microsite](https://go.gov.sg/jyps2026p1)
