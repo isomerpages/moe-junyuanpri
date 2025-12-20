@@ -48,7 +48,9 @@ Primary 3 Teachers
 <td class="tg-0lj4">Mdm Nurul Syahidah Bte Rahmat<br> <a href="mailto:nurul_syahidah_rahmat@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nurul_syahidah_rahmat@moe.edu.sg</span></a><br><br>Mdm Zhu Xueshu (Mrs Hao)<br> <a href="mailto:zhu_xueshu@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">zhu_xueshu@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> P4 Integrity</td>
+    <td class="tg-0lj4"> P3 Integrity</td>
+		<td class="tg-0lj4"> Mdm Nadhira Parveen<br> <a href="mailto:nadhira_parveen@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nadhira_parveen@moe.edu.sg</span></a></td>
+		<td class="tg-0lj4">  Mdm Shirley Chua<br> <a href="mailto:chua_shirley@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chua_shirley@moe.edu.sg</span></a> <br></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P3 Care</td>
