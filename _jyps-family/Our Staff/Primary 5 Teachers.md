@@ -41,18 +41,28 @@ Primary 5 Teachers
   </tr>
   <tr>
     <td class="tg-0lj4"> P5 Responsibility</td>
+		<td class="tg-0lj4"> Mrs Monica Berger<br> <a href="mailto:monica_vasanti_augustine@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">monica_vasanti_augustine@moe.edu.sg</span></a><br></td>
+		<td class="tg-0lj4"> Mdm Nur Liyana Bte Amrun<br> <a href="mailto:nur_liyana_amrun@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nur_liyana_amrun@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P5 Resilience</td>
+		<td class="tg-0lj4"> Miss Chan Audrey<br> <a href="mailto:chan_audrey@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chan_audrey@moe.edu.sg</span></a><br></td>
+		<td class="tg-0lj4"> Mr Wang Shing Huei<br> <a href="mailto:wang_shing_huei@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">wang_shing_huei@moe.edu.sg</span></a><br><br>Mdm Siti Hawa Bte Abdul Karim<br> <a href="mailto:siti_hawa_abdul_karim@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">siti_hawa_abdul_karim@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P5 Integrity</td>
+		<td class="tg-0lj4"> Mdm Noor Aishah Bte Abu Bakar<br><a href="mailto:noor_aishah_abu_bakar@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">noor_aishah_abu_bakar@moe.edu.sg</span></a><br></td>
+		<td class="tg-0lj4"> Mr Pavadai Mohan <br> <a href="mailto:pavadai_mohan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">pavadai_mohan@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P5 Care</td>
+		<td class="tg-0lj4"> Mr Ye Huankun Andre<br> <a href="mailto:ye_huankun_andre@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">ye_huankun_andre@moe.edu.sg</span></a></td>
+		<td class="tg-0lj4"> Mdm Lee Jia Woei Sharon (Mrs Chia)<br> <a href="mailto:lee_jia_woei@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lee_jia_woei@moe.edu.sg</span></a></td>
 		</tr>
 	 <tr>
     <td class="tg-0lj4"> P5 Harmony</td>
+		 <td class="tg-0lj4"> Mdm Nurulashiqien Bte Mustapa<br> <a href="mailto:nurulashiqien_mustapa@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nurulashiqien_mustapa@moe.edu.sg</span></a></td>
+		 <td class="tg-0lj4"> Miss Charlotte Tan Cher Ling<br> <a href="mailto:tan_cherling@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">tan_cherling@moe.edu.sg</span></a></td>
 		</tr>
 </tbody>
 </table>
