@@ -54,9 +54,11 @@ Primary 3 Teachers
   </tr>
   <tr>
     <td class="tg-0lj4"> P3 Care</td>
+		<td class="tg-0lj4"> Mdm Nadhirah Bte Yusope<br> <a href="mailto:nadhirah_yusope@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nadhirah_yusope@moe.edu.sg</span></a><br></td>
   </tr>
 	<tr>
     <td class="tg-0lj4"> P3 Harmony</td>
+		<td class="tg-0lj4"> Mr Ivan Ong Chee Beng<br> <a href="mailto:ong_chee_beng_a@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">ong_chee_beng_a@moe.edu.sg</span></a></td>
 	</tr>
 </tbody>
 </table>
