@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Information.md
+      - JYPS Message/JYPS Message.md
       - JYPS Message/.keep
       - JYPS Message/Principal's Message.md
       - School Crest & Song.md
