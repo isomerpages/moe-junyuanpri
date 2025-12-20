@@ -5,6 +5,16 @@ variant: markdown
 description: ""
 third_nav_title: JYPS Message
 ---
+![](/images/banner.gif)
+
+Principal's Message
+===================
+
+
+
+<img src="/images/Principal.jpeg" style="width:35%">
+
+
 Welcome to Junyuan Primary School!
 
 We celebrated our 35th anniversary last year and as we take time to reflect on this milestone, we can truly be grateful for the shared experiences of every member of our school’s community. 
@@ -18,3 +28,8 @@ Let’s help them imagine who they can be and what they can do as they learn and
 Let’s help them dare to try and find different ways to try again if they were to fail the first, second and perhaps even the third time.
 
 Let’s help them to dare contribute and give to the family, the community, and the nation for a better future for all of us!
+
+Wishing you a fruitful year in 2024!  
+
+Chan Weng Cheong <br>
+Principal
