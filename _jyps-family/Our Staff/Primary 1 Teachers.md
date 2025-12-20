@@ -56,6 +56,8 @@ Primary 1 Teachers
   </tr>
   <tr>
     <td class="tg-0lj4"> P1 Care </td>
+		<td class="tg-0lj4"> Mdm Nur Hidayah Bte Mohamed Farook<br> <a href="mailto:nurhidayah_farook@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nurhidayah_farook@moe.edu.sg</span></a><br></td>
+		<td class="tg-0lj4"> Miss Magdalene Lim<br> <a href="mailto:magdalene_lim@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">magdalene_lim@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P1 Harmony</td>
