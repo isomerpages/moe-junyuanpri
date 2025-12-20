@@ -36,6 +36,8 @@ Primary 5 Teachers
   </tr>
 	 <tr>
     <td class="tg-0lj4"> P5 Respect</td>
+		 <td class="tg-0lj4"> Mdm Cheah Soo Har Joelyn<br> <a href="mailto:cheah_soo_har@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">cheah_soo_har@moe.edu.sg</span></a><br></td>
+		 <td class="tg-0lj4"> Mdm Teh Soo Wen Lydia<br> <a href="mailto:teh_soo_wen_lydia@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">teh_soo_wen_lydia@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P5 Responsibility</td>
