@@ -55,8 +55,8 @@ Primary 2 Teachers
   </tr>
   <tr>
     <td class="tg-0lj4"> P2 Care </td>
-    <td class="tg-0lj4"> Miss Fatin Nadzirah Bte Zahari<br> <a href="mailto:fatin_nadzirah_zahari@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">fatin_nadzirah_zahari@moe.edu.sg</span></a><br></td>
-    <td class="tg-0lj4">Mdm Pan Xuan<br> <a href="mailto:pan_xuan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">pan_xuan@moe.edu.sg</span></a><br><br> Mdm Ruziah Binte Ali<br> <a href="mailto:ruziah_ali@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">ruziah_ali@moe.edu.sg</span></a> </td>
+    <td class="tg-0lj4">Mdm Pan Xuan<br> <a href="mailto:pan_xuan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">pan_xuan@moe.edu.sg</span></a><br></td>
+		<td class="tg-0lj4"> Mdm Shahidah Bte Mahfodz<br> <a href="mailto:shahidah_madfodz@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">shahidah_madfodz@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P2 Harmony</td>
@@ -66,9 +66,6 @@ Primary 2 Teachers
   <tr>
     <td class="tg-0lj4"> P2 Compassion<br></td>
     <td class="tg-0lj4"> Mdm Woon Mui Chuan Josephine (Mrs Lee)<br> <a href="mailto:woon_mui_chuan_josephine@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">woon_mui_chuan_josephine@moe.edu.sg</span></a><br></td>
-    <td class="tg-0lj4"> Mdm Shahidah Bte Mahfodz<br> <a href="mailto:shahidah_madfodz@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">shahidah_madfodz@moe.edu.sg</span></a><br><br>Mdm Nadhirah Bte Yusope<br> <a href="mailto:nadhirah_yusope@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nadhirah_yusope@moe.edu.sg</span>
-  </a><br><br>Mdm Khairunnisa Binte Abdul Samat <br> <a href="mailto:khairunnisa_abdul_samat_a@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">khairunnisa_abdul_samat_a@moe.edu.sg</span>
-  </a></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P2 Excellence</td>
