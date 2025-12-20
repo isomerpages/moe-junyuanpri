@@ -39,7 +39,7 @@ MK Team
   </tr>
 	<tr>
     <td class="tg-ncov"> Ms Denise Pun Jie Zhen</td>
-    <td class="tg-ncov"> Level Head (LH)</td>
+    <td class="tg-ncov"> Deputy Centre Head</td>
     <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">pun_jie_zhen_denise@moe.edu.sg</span> </td>
   </tr>
   <tr>
@@ -58,9 +58,9 @@ MK Team
     <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">khaniza_syed_rashid@moe.edu.sg</span> </td>
   </tr>
   <tr>
-    <td class="tg-ncov"> Ms Noor Faizah Binte Mohamed Rahim</td>
+    <td class="tg-ncov"> Ms Tracy Tambong Anthony</td>
     <td class="tg-ncov">English Language Teacher </td>
-    <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">noor_faizah_mohamed_rahim@moe.edu.sg</span> </td>
+    <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">tracy_tambong_anthony@moe.edu.sg</span> </td>
   </tr>
   <tr>
     <td class="tg-ncov"> Miss Jolene Ang Zhuo Hui</td>
