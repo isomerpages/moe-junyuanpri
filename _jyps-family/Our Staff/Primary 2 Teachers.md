@@ -66,6 +66,7 @@ Primary 2 Teachers
   <tr>
     <td class="tg-0lj4"> P2 Compassion<br></td>
     <td class="tg-0lj4"> Mdm Woon Mui Chuan Josephine (Mrs Lee)<br> <a href="mailto:woon_mui_chuan_josephine@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">woon_mui_chuan_josephine@moe.edu.sg</span></a><br></td>
+		<td class="tg-0lj4"> Mrs Tilagawathy V Tirumalai <br> <a href="mailto: tilagawathy_v_ tirumalai@moe.edu.sg"><span style="text-decoration:underline;color:#A52023"> tilagawathy_v_ tirumalai@moe.edu.sg </span></a></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P2 Excellence</td>
