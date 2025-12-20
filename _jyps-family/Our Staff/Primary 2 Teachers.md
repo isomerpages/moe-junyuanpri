@@ -41,7 +41,7 @@ Primary 2 Teachers
   <tr>
     <td class="tg-0lj4"> P2 Responsibility</td>
     <td class="tg-0lj4"> Mr Khoo Kang Ming Terence<br> <a href="mailto:khoo_kang_ming@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">khoo_kang_ming@moe.edu.sg</span></a><br></td>
-    <td class="tg-0lj4"> Mdm Chin Whye Lin (Mrs Wang)<br> <a href="mailto:chin_whye_lin@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chin_whye_lin@moe.edu.sg</span></a><br><br>Mrs Sharon Sharmini Gomez Daniel &nbsp;<br> <a href="mailto:sharmini_sharon_gomez@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">sharmini_sharon_gomez@moe.edu.sg</span></a></td>
+    <td class="tg-0lj4"> Mdm Chin Whye Lin (Mrs Wang)<br> <a href="mailto:chin_whye_lin@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chin_whye_lin@moe.edu.sg</span></a><br><br>Mrs Sharon Sharmini Gomez Daniel &nbsp;<br><a href="mailto:sharmini_sharon_gomez@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">sharmini_sharon_gomez@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P2 Resilience </td>
