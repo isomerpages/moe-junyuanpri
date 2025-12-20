@@ -37,7 +37,8 @@ Primary 1 Teachers
     <td class="tg-lpmw" colspan="2">Form Teachers</td>
   </tr>
    <tr>
-    <td class="tg-0lj4"> P2 Respect</td>
+    <td class="tg-0lj4"> P1 Respect</td>
+		 <td class="tg-0lj4"> Mdm Subiati Bte Cromo<br> <a href="mailto:subiati_cromo@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">subiati_cromo@moe.edu.sg</span></a></td>
 		 <td class="tg-0lj4">  Mdm De Souza Valerie Jean<br> <a href="mailto:de_souza_valerie_jean@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">de_souza_valerie_jean@moe.edu.sg</span></a><br> </td>
     <td class="tg-0lj4"> Mdm Salamah Bte Massa'id<br> <a href="mailto:salamah_massaid@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">salamah_massaid@moe.edu.sg</span></a> </td>
   </tr>
@@ -74,7 +75,7 @@ Primary 1 Teachers
   <tr>
     <td class="tg-0lj4"> P2 Excellence</td>
     <td class="tg-0lj4"> Mdm Lee Yew Ming (Mrs Yong)<br> <a href="mailto:lee_yew_ming@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lee_yew_ming@moe.edu.sg</span></a></td>
-    <td class="tg-0lj4"> Mdm Subiati Bte Cromo<br> <a href="mailto:subiati_cromo@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">subiati_cromo@moe.edu.sg</span></a></td>
+    
   </tr>
 	</tbody>
 </table>
