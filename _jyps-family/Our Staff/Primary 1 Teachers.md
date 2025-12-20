@@ -37,44 +37,45 @@ Primary 1 Teachers
     <td class="tg-lpmw" colspan="2">Form Teachers</td>
   </tr>
    <tr>
-    <td class="tg-0lj4"> P1 Respect</td>
+    <td class="tg-0lj4"> P1-1</td>
 		 <td class="tg-0lj4"> Mdm Subiati Bte Cromo<br> <a href="mailto:subiati_cromo@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">subiati_cromo@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> P1 Responsibility</td>
+    <td class="tg-0lj4"> P1-2</td>
 		<td class="tg-0lj4"> Mdm Pang Sze Sheng (Mrs Yap)<br> <a href="mailto:pang_sze_sheng@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">pang_sze_sheng@moe.edu.sg</span></a><br></td>
 		<td class="tg-0lj4"> Mdm Kam Jiewen (Mrs Angela Chin)<br> <a href="mailto:kam_jiewen@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">kam_jiewen@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> P1 Resilience </td>
+    <td class="tg-0lj4"> P1-3</td>
 		<td class="tg-0lj4"> Mdm Chua Kar Yan (Mrs Chow)<br> <a href="mailto:chua_kar_yan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chua_kar_yan@moe.edu.sg</span></a><br></td>
 		<td class="tg-0lj4"> Mdm Salamah Bte Massa'id<br> <a href="mailto:salamah_massaid@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">salamah_massaid@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> P1 Integrity </td>
+    <td class="tg-0lj4"> P1-4</td>
 		<td class="tg-0lj4"> Mdm Rosmawaty Bte Mohamed Saad<br> <a href="mailto:rosmawaty_mohamed_saad@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">rosmawaty_mohamed_saad@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> P1 Care </td>
+    <td class="tg-0lj4"> P1-5</td>
 		<td class="tg-0lj4"> Mdm Nur Hidayah Bte Mohamed Farook<br> <a href="mailto:nurhidayah_farook@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nurhidayah_farook@moe.edu.sg</span></a><br></td>
 		<td class="tg-0lj4"> Miss Magdalene Lim<br> <a href="mailto:magdalene_lim@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">magdalene_lim@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> P1 Harmony</td>
+    <td class="tg-0lj4"> P1-6</td>
 		<td class="tg-0lj4"> Mdm Lee Yew Ming (Mrs Yong)<br> <a href="mailto:lee_yew_ming@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lee_yew_ming@moe.edu.sg</span></a></td>
 		<td class="tg-0lj4"> Mdm Norlinda Bte Saadon<br> <a href="mailto:norlinda_saadon@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">norlinda_saadon@moe.edu.sg</span></a><br></td>
 		<td class="tg-0lj4">  Mdm Lee Poh Cheng<br> <a href="mailto:lee_poh_cheng@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lee_poh_cheng@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> P1 Compassion<br></td>
+    <td class="tg-0lj4"> P1-7<br></td>
 		<td class="tg-0lj4"> Mdm Rahilawati Bte Rahmat<br> <a href="mailto:rahilawati_rahmat@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">rahilawati_rahmat@moe.edu.sg</span></a><br></td>
+		<td class="tg-0lj4">  Mdm Chee Li Boon<br> <a href="mailto:chee_li_boon@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chee_li_boon@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> P1 Excellence</td>
+    <td class="tg-0lj4"> P1-8</td>
     <td class="tg-0lj4">  Mdm De Souza Valerie Jean<br> <a href="mailto:de_souza_valerie_jean@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">de_souza_valerie_jean@moe.edu.sg</span></a><br> </td>
   </tr>
 	<tr>
-    <td class="tg-0lj4"> P1 Kindness</td>
+    <td class="tg-0lj4"> P1-9</td>
 	<td class="tg-0lj4"> Mdm Jurieni Bte Bahrom<br> <a href="mailto:jurieni_bahrom@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">jurieni_bahrom@moe.edu.sg</span></a></td>
 	</tr>
 	</tbody>
