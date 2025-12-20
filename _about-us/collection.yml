@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - JYPS Message/Principal's Message.md
-      - JYPS Message/.keep
       - School Information.md
+      - JYPS Message/.keep
+      - JYPS Message/Principal's Message.md
       - School Crest & Song.md
       - Vision, Mission & Core Values.md
       - School Advisory Committee.md
