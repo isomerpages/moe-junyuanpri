@@ -35,12 +35,17 @@ Primary 3 Teachers
   </tr>
 	<tr>
     <td class="tg-0lj4"> P3 Respect </td>
+		    <td class="tg-0lj4"> Ms Loong Shu Yi<br> <a href="mailto:loong_shu_yi@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">loong_shu_yi@moe.edu.sg</span></a> </td>
+		    <td class="tg-0lj4"> Mdm Soh Eng Wee<br> <a href="mailto:soh_eng_wee@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">soh_eng_wee@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P3 Responsibility </td>
+		<td class="tg-0lj4"> Mdm Koh Kim Siang Aerita (Mrs Lim)<br> <a href="mailto:koh_kim_siang_aerita@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">koh_kim_siang_aerita@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P3 Resilience</td>
+		<td class="tg-0lj4"> Mdm Lim Hui Ling Cynthia (Mrs Chu)<br> <a href="mailto:lim_hui_ling_cynthia@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lim_hui_ling_cynthia@moe.edu.sg</span></a></td>
+<td class="tg-0lj4">Mdm Nurul Syahidah Bte Rahmat<br> <a href="mailto:nurul_syahidah_rahmat@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nurul_syahidah_rahmat@moe.edu.sg</span></a><br><br>Mdm Zhu Xueshu (Mrs Hao)<br> <a href="mailto:zhu_xueshu@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">zhu_xueshu@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P4 Integrity</td>
