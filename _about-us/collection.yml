@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - JYPS Message/Principal's Message.md
       - JYPS Message/.keep
       - School Information.md
       - School Crest & Song.md
