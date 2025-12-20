@@ -47,6 +47,7 @@ Primary 1 Teachers
   </tr>
   <tr>
     <td class="tg-0lj4"> P1 Resilience </td>
+		<td class="tg-0lj4"> Mdm Chua Kar Yan (Mrs Chow)<br> <a href="mailto:chua_kar_yan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chua_kar_yan@moe.edu.sg</span></a><br></td>
 		<td class="tg-0lj4"> Mdm Salamah Bte Massa'id<br> <a href="mailto:salamah_massaid@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">salamah_massaid@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
