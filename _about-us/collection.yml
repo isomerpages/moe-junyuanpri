@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Information.md
+      - JYPS Message/2024 Principal's Message.md
       - JYPS Message/JYPS Message.md
       - JYPS Message/.keep
       - JYPS Message/2025 Principal's Message.md
