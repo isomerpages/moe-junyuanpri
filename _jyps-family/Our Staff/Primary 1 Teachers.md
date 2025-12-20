@@ -41,23 +41,23 @@ Primary 1 Teachers
 		 <td class="tg-0lj4"> Mdm Subiati Bte Cromo<br> <a href="mailto:subiati_cromo@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">subiati_cromo@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> P2 Responsibility</td>
+    <td class="tg-0lj4"> P1 Responsibility</td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P1 Resilience </td>
 		<td class="tg-0lj4"> Mdm Salamah Bte Massa'id<br> <a href="mailto:salamah_massaid@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">salamah_massaid@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> P2 Integrity </td>
+    <td class="tg-0lj4"> P1 Integrity </td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> P2 Care </td>
+    <td class="tg-0lj4"> P1 Care </td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> P2 Harmony</td>
+    <td class="tg-0lj4"> P1 Harmony</td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> P2 Compassion<br></td>
+    <td class="tg-0lj4"> P1 Compassion<br></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P1 Excellence</td>
