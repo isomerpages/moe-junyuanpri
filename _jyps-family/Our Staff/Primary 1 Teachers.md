@@ -75,7 +75,6 @@ Primary 1 Teachers
   <tr>
     <td class="tg-0lj4"> P1-8</td>
     <td class="tg-0lj4">  Mdm De Souza Valerie Jean<br> <a href="mailto:de_souza_valerie_jean@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">de_souza_valerie_jean@moe.edu.sg</span></a><br> </td>
-		<td class="tg-0lj4"> Miss Fatin Nadzirah Bte Zahari<br> <a href="mailto:fatin_nadzirah_zahari@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">fatin_nadzirah_zahari@moe.edu.sg</span></a><br></td>
   </tr>
 	<tr>
     <td class="tg-0lj4"> P1-9</td>
