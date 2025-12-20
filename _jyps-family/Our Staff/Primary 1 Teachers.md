@@ -64,8 +64,7 @@ Primary 1 Teachers
   <tr>
     <td class="tg-0lj4"> P1-6</td>
 		<td class="tg-0lj4"> Mdm Lee Yew Ming (Mrs Yong)<br> <a href="mailto:lee_yew_ming@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lee_yew_ming@moe.edu.sg</span></a></td>
-		<td class="tg-0lj4"> Mdm Norlinda Bte Saadon<br> <a href="mailto:norlinda_saadon@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">norlinda_saadon@moe.edu.sg</span></a><br></td>
-		<td class="tg-0lj4">  Mdm Lee Poh Cheng<br> <a href="mailto:lee_poh_cheng@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lee_poh_cheng@moe.edu.sg</span></a><br></td>
+		<td class="tg-0lj4"> Mdm Norlinda Bte Saadon<br> <a href="mailto:norlinda_saadon@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">norlinda_saadon@moe.edu.sg</span></a><br><br> Mdm Lee Poh Cheng<br> <a href="mailto:lee_poh_cheng@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lee_poh_cheng@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P1-7<br></td>
