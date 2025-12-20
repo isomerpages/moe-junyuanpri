@@ -56,7 +56,7 @@ Primary 2 Teachers
   <tr>
     <td class="tg-0lj4"> P2 Care </td>
     <td class="tg-0lj4">Mdm Pan Xuan<br> <a href="mailto:pan_xuan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">pan_xuan@moe.edu.sg</span></a><br></td>
-		<td class="tg-0lj4"> Mdm Shahidah Bte Mahfodz<br> <a href="mailto:shahidah_madfodz@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">shahidah_madfodz@moe.edu.sg</span></a><br></td>
+		<td class="tg-0lj4"> Mdm Shahidah Bte Mahfodz<br> <a href="mailto:shahidah_madfodz@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">shahidah_madfodz@moe.edu.sg</span></a><br><br>Mdm Cheryl Lao Yann Choo<br> <a href="mailto:lao_yann_choo@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lao_yann_choo@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P2 Harmony</td>
