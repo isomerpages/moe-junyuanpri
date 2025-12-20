@@ -47,7 +47,7 @@ Primary 4 Teachers
   <tr>
     <td class="tg-0lj4"> P4 Resilience</td>
     <td class="tg-0lj4"> Mr Murugesu s/o Samarasan<br> <a href="mailto:murugesu_samarasan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">murugesu_samarasan@moe.edu.sg</span></a><br></td>
-     <td class="tg-0lj4"> Mdm Lim Celia (Mrs Yee)<br> <a href="mailto:lim_celia@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lim_celia@moe.edu.sg</span></a><br></td>
+     <td class="tg-0lj4"> Mdm Lim Celia (Mrs Yee)<br> <a href="mailto:lim_celia@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">lim_celia@moe.edu.sg</span></a><br><br>Mdm Amal Norahmah Bte Darlan<br> <a href="mailto:amal_norahmah_darlan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">amal_norahmah_darlan@moe.edu.sg</span></a></td>
   </tr>
 		 <tr>
     <td class="tg-0lj4"> P4 Integrity</td>
