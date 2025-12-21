@@ -36,7 +36,7 @@ Primary 3 Teachers
 	<tr>
     <td class="tg-0lj4"> P3 Respect </td>
 		    <td class="tg-0lj4"> Ms Loong Shu Yi<br> <a href="mailto:loong_shu_yi@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">loong_shu_yi@moe.edu.sg</span></a> </td>
-		    <td class="tg-0lj4"> Mdm Soh Eng Wee<br> <a href="mailto:soh_eng_wee@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">soh_eng_wee@moe.edu.sg</span></a><br></td>
+		    <td class="tg-0lj4"> Mdm Soh Eng Wee<br> <a href="mailto:soh_eng_wee@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">soh_eng_wee@moe.edu.sg</span></a><br><br>Mdm Lydia Gan Bee Kuan<br> <a href="mailto: gan_bee_kuan_lydia_a@moe.edu.sg"><span style="text-decoration:underline;color:#A52023"> gan_bee_kuan_lydia_a@moe.edu.sg </span></a><br></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P3 Responsibility </td>
