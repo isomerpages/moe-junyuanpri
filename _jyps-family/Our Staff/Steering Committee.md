@@ -69,6 +69,13 @@ Steering Committee
       </td>
       <td class="tg-yp4s">HOD-Science</td>
     </tr>
+		 <tr>
+      <td class="tg-yp4s">
+        Ms Nur Faiqah Hamzah<br>
+        <a href="mailto:nur_faiqah_hamzah@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nur_faiqah_hamzah@moe.edu.sg</span></a><br>
+      </td>
+      <td class="tg-yp4s">HOD-Info Comm Technology</td>
+    </tr>
     <tr>
       <td class="tg-yp4s">
         Mrs Angela Low<br>
@@ -101,13 +108,6 @@ Steering Committee
       <td class="tg-yp4s">
         Mdm Asmara Kamisah Bte Muslim<br>
         <a href="mailto:asmara_kamisah_muslim@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">asmara_kamisah_muslim@moe.edu.sg</span></a><br>
-      </td>
-      <td class="tg-yp4s">Year Head</td>
-    </tr>
-		   <tr>
-      <td class="tg-yp4s">
-        Ms Nur Faiqah Hamzah<br>
-        <a href="mailto:nur_faiqah_hamzah@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nur_faiqah_hamzah@moe.edu.sg</span></a><br>
       </td>
       <td class="tg-yp4s">Year Head</td>
     </tr>
