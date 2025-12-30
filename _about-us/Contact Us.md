@@ -14,7 +14,7 @@ General Office Operating Hours&nbsp;
 <b>School Days  </b><br>
 7:30am to 5:30pm (Monday to Friday)&nbsp;  
   
-<b>Early School Closure <br>* Eat with Your Family - Last Friday of each School Term<br>* National Day's Celebration<br>* Children's Day Celebration<br>* Teachers' Day Celebration<br>* PSLE Marking Days<br>* PSLE Oral Examination<br>* PSLE Listening Comprehension Examination</b><br>
+<b>Early School Closure During School Days<br>* Eat with Your Family - Last Friday of each School Term<br>* National Day's Celebration<br>* Children's Day Celebration<br>* Teachers' Day Celebration<br>* PSLE Marking Days<br>* PSLE Oral Examination<br>* PSLE Listening Comprehension Examination</b><br>
 7.30am to 5.00pm
 
 <b>School Holidays &amp; School Scheduled Holidays </b><br>
