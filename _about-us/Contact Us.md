@@ -2,6 +2,7 @@
 title: Contact Us
 permalink: /about-us/Contact-Us/
 description: ""
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -16,7 +17,7 @@ General Office Operating Hours&nbsp;
 <b>Eat With Your Family Day (EWYFD)</b><br>
 7.30am to 5.00pm (Last Friday of each School Term)
 
-<b>School Holidays </b><br>
+<b>School Holidays &amp; School Scheduled Holidays </b><br>
 8:00am to 5:00pm (Monday to Friday)  
   
 Closed on Sat, Sun and Public Holidays&nbsp;  
