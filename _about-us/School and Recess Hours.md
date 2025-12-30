@@ -53,7 +53,6 @@ School and Recess Hours
     <td class="tg-umoi">CCA <br> 2.00 pm – 3.30 pm<br></td>
     <td class="tg-fz76">**Remedial  <br> 2.00 pm – 3.30 pm<br>
     </td><td class="tg-a4yv"><br></td>
-		
     <td class="tg-fz76">**Remedial <br> 2.00 pm – 3.30 pm<br></td>
     <td class="tg-fz76"> CCA <br> 2.00 pm – 3.30 pm</td>
   </tr>
