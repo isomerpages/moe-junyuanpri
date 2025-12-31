@@ -54,6 +54,10 @@ Teacher Leaders
     <td class="tg-sdzj">Mdm Rozana Bte Abdul Razak </td>
     <td class="tg-sdzj">ST-Science </td>
   </tr>
+	 <tr>
+    <td class="tg-sdzj">Mr Wang Shing Huei </td>
+    <td class="tg-sdzj">ST-Art </td>
+  </tr>
   <tr>
     <td class="tg-sdzj">Mr Murugesu s/o Samarasan </td>
     <td class="tg-sdzj">ST-Music </td>

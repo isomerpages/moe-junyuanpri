@@ -1,8 +1,9 @@
 ---
-title: Principal's Message
-permalink: /about-us/Principals-Message/
+title: 2025 Principal's Message
+permalink: /about-us/2025-principals-message/
 description: ""
 variant: markdown
+third_nav_title: Principal's Message
 ---
 ![](/images/banner.gif)
 

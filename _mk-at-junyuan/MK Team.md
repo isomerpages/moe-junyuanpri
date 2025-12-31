@@ -39,7 +39,7 @@ MK Team
   </tr>
 	<tr>
     <td class="tg-ncov"> Ms Denise Pun Jie Zhen</td>
-    <td class="tg-ncov"> Level Head (LH)</td>
+    <td class="tg-ncov"> Deputy Centre Head</td>
     <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">pun_jie_zhen_denise@moe.edu.sg</span> </td>
   </tr>
   <tr>
@@ -58,9 +58,9 @@ MK Team
     <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">khaniza_syed_rashid@moe.edu.sg</span> </td>
   </tr>
   <tr>
-    <td class="tg-ncov"> Ms Noor Faizah Binte Mohamed Rahim</td>
+    <td class="tg-ncov"> Ms Tracy Tambong Anthony</td>
     <td class="tg-ncov">English Language Teacher </td>
-    <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">noor_faizah_mohamed_rahim@moe.edu.sg</span> </td>
+    <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">tracy_tambong_anthony@moe.edu.sg</span> </td>
   </tr>
   <tr>
     <td class="tg-ncov"> Miss Jolene Ang Zhuo Hui</td>
@@ -68,9 +68,9 @@ MK Team
     <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">ang_zhuo_hui_jolene@moe.edu.sg</span> </td>
   </tr>
   <tr>
-    <td class="tg-ncov"> Ms Atiqah Bte Ismael</td>
+    <td class="tg-ncov"> Ms Marsya Nur Sabrina Low Binte Mohd Jeffrey Low</td>
     <td class="tg-ncov">English Language Teacher </td>
-    <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">nurul_atiqah_ismael@moe.edu.sg</span><br></td>
+    <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">marsya_nur_sabrina_low@moe.edu.sg</span><br></td>
   </tr>
 	 <tr>
     <td class="tg-ncov"> Miss Nur Diana Binte Saini</td>
@@ -86,6 +86,21 @@ MK Team
     <td class="tg-ncov"> Mdm Hidayah Binte Yahya</td>
     <td class="tg-ncov">English Language Teacher </td>
     <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">hidayah_binte_yahya@moe.edu.sg</span><br></td>
+  </tr>
+	 <tr>
+    <td class="tg-ncov"> Ms Nur Afiqah Binte Abdul Aziz</td>
+    <td class="tg-ncov">English Language Teacher </td>
+    <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">nur_afiwah_adbul_aziz@moe.edu.sg</span><br></td>
+  </tr>
+	 <tr>
+    <td class="tg-ncov"> Mdm Nurul Fatin Binte Hassan</td>
+    <td class="tg-ncov">English Language Teacher </td>
+    <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">nurul_fatin_hassan@moe.edu.sg</span><br></td>
+  </tr>
+	 <tr>
+    <td class="tg-ncov"> Ms Salwaa Jumat Bte Md Tahir Jumat</td>
+    <td class="tg-ncov">English Language Teacher </td>
+    <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">salwaa_jumat_md_tahir@moe.edu.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-ncov">Ms Fang Xuiyi <br>(Fang Laoshi)<br></td>
@@ -107,6 +122,12 @@ MK Team
     <td class="tg-ncov"> Mdm Iryannie binte Zulkifli</td>
     <td class="tg-ncov"> Malay Language Teacher </td>
     <td class="tg-ncov">  <span style="text-decoration:underline;color:#A52023">iryannie_zulkifli@moe.edu.sg</span></td>
+  </tr>
+	 <tr>
+	</tr><tr>
+    <td class="tg-ncov"> Mdm Khairini Bte Kamsan</td>
+    <td class="tg-ncov"> Malay Language Teacher </td>
+    <td class="tg-ncov">  <span style="text-decoration:underline;color:#A52023">khairini_kamsan@moe.edu.sg</span></td>
   </tr>
 	<tr>
 	</tr><tr>

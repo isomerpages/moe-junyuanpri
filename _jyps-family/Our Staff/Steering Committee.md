@@ -69,12 +69,12 @@ Steering Committee
       </td>
       <td class="tg-yp4s">HOD-Science</td>
     </tr>
-    <tr>
-      <td class="tg-lyvw">
-        Mdm Chong Hui Min Charis (Mrs Yuon)<br>
-        <a href="mailto:chong_hui_min@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chong_hui_min@moe.edu.sg</span></a><br>
+		 <tr>
+      <td class="tg-yp4s">
+        Ms Nur Faiqah Hamzah<br>
+        <a href="mailto:nur_faiqah_hamzah@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nur_faiqah_hamzah@moe.edu.sg</span></a><br>
       </td>
-      <td class="tg-yp4s">HOD-Mother Tongue Language</td>
+      <td class="tg-yp4s">HOD-Info Comm Technology</td>
     </tr>
     <tr>
       <td class="tg-yp4s">
@@ -85,24 +85,10 @@ Steering Committee
     </tr>
     <tr>
       <td class="tg-yp4s">
-        Mdm Teo Hui Ping Evelyn (Mrs Lee)<br>
-        <a href="mailto:evelyn_teo_hui_ping@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">evelyn_teo_hui_ping@moe.edu.sg</span></a><br>
-      </td>
-      <td class="tg-yp4s">HOD-Info Comm Technology</td>
-    </tr>
-    <tr>
-      <td class="tg-yp4s">
         Mr Daniel Anand Kolandai<br>
         <a href="mailto:kolandai_daniel_anand@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">kolandai_daniel_anand@moe.edu.sg</span></a><br>
       </td>
       <td class="tg-yp4s">HOD-Student Management</td>
-    </tr>
-		<tr>
-      <td class="tg-yp4s">
-        Mdm Asmara Kamisah Bte Muslim<br>
-        <a href="mailto:asmara_kamisah_muslim@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">asmara_kamisah_muslim@moe.edu.sg</span></a><br>
-      </td>
-      <td class="tg-yp4s">HOD-Student Management <br>(Student Well-Being And Educational Support)</td>
     </tr>
     <tr>
       <td class="tg-lyvw">
@@ -118,10 +104,10 @@ Steering Committee
       </td>
       <td class="tg-yp4s">Year Head</td>
     </tr>
-		   <tr>
+		<tr>
       <td class="tg-yp4s">
-        Ms Nur Faiqah Hamzah<br>
-        <a href="mailto:nur_faiqah_hamzah@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nur_faiqah_hamzah@moe.edu.sg</span></a><br>
+        Mdm Asmara Kamisah Bte Muslim<br>
+        <a href="mailto:asmara_kamisah_muslim@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">asmara_kamisah_muslim@moe.edu.sg</span></a><br>
       </td>
       <td class="tg-yp4s">Year Head</td>
     </tr>

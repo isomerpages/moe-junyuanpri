@@ -53,6 +53,10 @@ EAS &amp; Support Staff
     <td class="tg-0lj4"> Mdm Paridah Binte Yahya </td>
     <td class="tg-0lj4"> Corporate Support Officer </td>
   </tr>
+	<tr>
+    <td class="tg-0lj4"> Mdm Rehanah Binte Hamid </td>
+    <td class="tg-0lj4"> Corporate Support Officer </td>
+  </tr>
   <tr>
     <td class="tg-0lj4"> Mdm Lee Li Juin</td>
     <td class="tg-0lj4"> Operations Manager </td>
@@ -102,7 +106,7 @@ EAS &amp; Support Staff
     <td class="tg-0lj4"> Security Guard</td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> Mr Mohd Said </td>
+    <td class="tg-0lj4"> Mr Ali </td>
     <td class="tg-0lj4"> Security Guard (MK) </td>
   </tr>
 

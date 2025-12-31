@@ -2,6 +2,7 @@
 title: School and Recess Hours
 permalink: /about-us/School-and-Recess-Hours/
 description: ""
+variant: markdown
 ---
 ![](/images/banner.gif)
 
@@ -50,18 +51,18 @@ School and Recess Hours
   <tr>
     <td class="tg-umoi"><br></td>
     <td class="tg-umoi">CCA <br> 2.00 pm – 3.30 pm<br></td>
-    <td class="tg-fz76">**Remedial  <br> 2.00 pm – 3.30 pm<br></td>
+    <td class="tg-fz76">**Remedial  <br> 2.00 pm – 3.30 pm<br>
+    </td><td class="tg-a4yv"><br></td>
     <td class="tg-fz76">**Remedial <br> 2.00 pm – 3.30 pm<br></td>
-    <td class="tg-a4yv"><br></td>
     <td class="tg-fz76"> CCA <br> 2.00 pm – 3.30 pm</td>
   </tr>
 </tbody>
 </table>
 
-\*   Do note the revision in school hours on Friday is due to the increase in CCE (FTGP) periods from 2023 onwards. The increase in CCE (FTGP) curriculum time is critical to support the expanded scope of content <br>\*\*  for CCE lessons to enhance the holistic development of our students.<br>For selected students only. Parents will be notified by Term 1 Week 3 if their child has been selected for the remediation programme.
+\*&nbsp; &nbsp;Do note the revision in school hours on Friday is due to the increase in CCE (FTGP) periods from 2023 onwards. The&nbsp;increase in CCE (FTGP) curriculum time is critical to support the expanded scope of content <br>\*\*&nbsp;&nbsp;for CCE lessons to enhance the holistic development of our students.<br>For selected students only. Parents will be notified by Term 1 Week 3 if their child has been selected for the remediation programme.
 
 
-<center> <u><b>RECESS & SNACK BREAK</b></u> </center>
+<center> <u><b>RECESS &amp; SNACK BREAK</b></u> </center>
 
 
 <style type="text/css">
