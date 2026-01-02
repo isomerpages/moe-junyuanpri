@@ -71,7 +71,7 @@ Primary 2 Teachers
   <tr>
     <td class="tg-0lj4"> P2 Excellence</td>
    <td class="tg-0lj4"> Mdm Ye Huilin (Mrs Tng)<br> <a href="mailto:ye_huilin@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">ye_huilin@moe.edu.sg</span></a></td>
-    <td class="tg-0lj4"> Mdm Nur Azlina bte Othman<br> <a href="mailto:nur_azlina_othman@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nur_azlina_othman@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> Ms Nur Azlina bte Othman<br> <a href="mailto:nur_azlina_othman@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nur_azlina_othman@moe.edu.sg</span></a><br></td>
   </tr>
 </tbody>
 </table>
