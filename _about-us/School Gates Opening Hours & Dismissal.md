@@ -100,7 +100,7 @@ School Gates Opening Hours &amp; Dismissal
     <td class="tg-que8">1.20pm to 1.50pm </td>
   </tr>
   <tr>
-    <td class="tg-que8">Monday to Tuesday, Thursday to Friday</td>
+    <td class="tg-que8">Monday, Tuesday, Thursday &amp; Friday</td>
     <td class="tg-que8">3.25pm to 3.55pm</td>
   </tr>
 </tbody>
