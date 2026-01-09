@@ -35,7 +35,7 @@ Sexuality Education Programme (SEd)
 
 You may&nbsp;click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
-**OVERVIEW OF JUNYUAN PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025**
+**OVERVIEW OF JUNYUAN PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026**
 
   
 
