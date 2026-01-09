@@ -57,7 +57,7 @@ b.&nbsp; &nbsp;&nbsp;Character and Citizenship Education (CCE)
 
 7\.&nbsp; &nbsp;Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks.&nbsp;
 
-**At Junyuan Primary School’s, the following Sexuality Education lessons will be taught in&nbsp;2025:**
+**At Junyuan Primary School’s, the following Sexuality Education lessons will be taught in&nbsp;2026:**
 
 #### **Primary 5**
 
@@ -81,13 +81,13 @@ b.&nbsp; &nbsp;&nbsp;Character and Citizenship Education (CCE)
 			<td style="border:1px solid black; text-align:left;vertical-align:left">Growing Years</td>
 			<td style="border:1px solid black; text-align:left;vertical-align:left">Did You Know?<br>(60 min)</td>
 			<td style="border:1px solid black; text-align:left;vertical-align:left">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy 'Stop-Think-Do'.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-			<td style="border:1px solid black; text-align:left;vertical-align:left">  Term 2 Week 6 </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">  Term 2 Week 7 </td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black; text-align:left;vertical-align:left">Growing Years</td>
 			<td style="border:1px solid black; text-align:left;vertical-align:left">Keeping Myself Safe<br>(60 min)</td>
 			<td style="border:1px solid black; text-align:left;vertical-align:left">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-			<td style="border:1px solid black; text-align:left;vertical-align:left">  Term 2 Week 7 </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">  Term 2 Week 8 </td>
 		</tr>
 </tbody></table>	
 
