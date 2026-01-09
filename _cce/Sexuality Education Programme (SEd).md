@@ -35,7 +35,7 @@ Sexuality Education Programme (SEd)
 
 You may&nbsp;click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
-**OVERVIEW OF JUNYUAN PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025**
+**OVERVIEW OF JUNYUAN PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026**
 
   
 
@@ -57,7 +57,7 @@ b.&nbsp; &nbsp;&nbsp;Character and Citizenship Education (CCE)
 
 7\.&nbsp; &nbsp;Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks.&nbsp;
 
-**At Junyuan Primary School’s, the following Sexuality Education lessons will be taught in&nbsp;2025:**
+**At Junyuan Primary School’s, the following Sexuality Education lessons will be taught in&nbsp;2026:**
 
 #### **Primary 5**
 
@@ -81,13 +81,13 @@ b.&nbsp; &nbsp;&nbsp;Character and Citizenship Education (CCE)
 			<td style="border:1px solid black; text-align:left;vertical-align:left">Growing Years</td>
 			<td style="border:1px solid black; text-align:left;vertical-align:left">Did You Know?<br>(60 min)</td>
 			<td style="border:1px solid black; text-align:left;vertical-align:left">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy 'Stop-Think-Do'.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-			<td style="border:1px solid black; text-align:left;vertical-align:left">  Term 2 Week 6 </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">  Term 2 Week 7 </td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black; text-align:left;vertical-align:left">Growing Years</td>
 			<td style="border:1px solid black; text-align:left;vertical-align:left">Keeping Myself Safe<br>(60 min)</td>
 			<td style="border:1px solid black; text-align:left;vertical-align:left">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-			<td style="border:1px solid black; text-align:left;vertical-align:left">  Term 2 Week 7 </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">  Term 2 Week 8 </td>
 		</tr>
 </tbody></table>	
 
@@ -125,7 +125,7 @@ b.&nbsp; &nbsp;&nbsp;Character and Citizenship Education (CCE)
 
   
 
-9\.&nbsp;&nbsp; &nbsp;Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable&nbsp;[here](/files/2025_SEd_Annex_A.pdf) or [form.sg](https://form.gov.sg/677e405997c6404aaccabd0b).&nbsp;The completed opt-out form is to be submitted by Friday, 17 Jan 2025 (P6 only) and Wednesday, 9 Apr 2025 (P5 only).
+9\.&nbsp;&nbsp; &nbsp;Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable&nbsp;[here](/files/2026_SEd_Annex_A.pdf) or [form.sg](https://form.gov.sg/695b5f304219ef3ecf6392ed).&nbsp;The completed opt-out form is to be submitted by <b><u>Friday, 16 Jan 2026</u></b>.
 
   
 
