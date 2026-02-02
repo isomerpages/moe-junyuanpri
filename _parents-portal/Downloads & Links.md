@@ -27,6 +27,7 @@ variant: markdown
 [Year Head's Sharing](/files/2026_P4_YH.pdf)<br>
 [Character &amp; Citizenship Education (CCE)](/files/2026_P4_CCE.pdf)<br>
 [English Language](/files/2026_P4_EL.pdf)<br>
+[Mathematics](/files/2026_P4_MA.pdf)<br>
 [Mother Tongue Language](/files/2026_P4_MTL.pdf)<br>
 [Science](/files/2026_P4_SCI.pdf)<br>
 
