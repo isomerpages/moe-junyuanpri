@@ -5,8 +5,17 @@ description: ""
 variant: markdown
 ---
 ![](/images/banner.gif)
+#### **2026 Curriculum Briefing**<br>
+##### Primary 1<br>
+[Learning Support Programme(LSP) for English Language](/files/JYPS%2026%LSP.pdf)<br>
+Learning Support for Mathematics (LSM) Programme<br>
+##### Primary 2
+##### Primary 3
+##### Primary 4
+##### Primary 5
+##### Primary 6
 
-#### **2026 Booklist&nbsp;\*NEW**<br>
+#### **2026 Booklist**<br>
 [Primary 1](https://drive.google.com/file/d/1Z2xAHffb1B-5GmX_IyEITuUvisB0z36v/view?usp=sharing)<br>
 [Primary 2](https://drive.google.com/file/d/1wPOFUgg_A7a673Y9V-sa5yMUXcuzSEM9/view?usp=sharing)<br>
 [Primary 3](https://drive.google.com/file/d/19TMMvwP09cHOjgJ7y8JMsUxpX2cSVusW/view?usp=sharing)<br>
@@ -14,10 +23,9 @@ variant: markdown
 [Primary 5](https://drive.google.com/file/d/1LmX2ipAjQE5qqcodF3mSMiSoETIZ_00x/view?usp=sharing)<br>
 [Primary 6](https://drive.google.com/file/d/1Ke4JRi1m0hxutEL_LM-NaqQkBCE_ULW7/view?usp=sharing)<br>
 
-#### **Year-End Sales for School Uniform**
-[Purchase of School Uniform](/files/JunYuan_Pri_sale_schedule_Y25.pdf)
 
-#### **2026 Primary 1 Matters&nbsp; \*NEW**
+
+#### **2026 Primary 1 Matters**
 [P1 Microsite](https://go.gov.sg/jyps2026p1)
 
 
