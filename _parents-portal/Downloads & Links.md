@@ -8,7 +8,7 @@ variant: markdown
 #### **2026 Curriculum Briefing**<br>
 ##### Primary 1<br>
 [Learning Support Programme(LSP) for English Language](/files/JYPS%2026%LSP.pdf)<br>
-Learning Support for Mathematics (LSM) Programme<br>
+[Learning Support for Mathematics (LSM) Programme](/files/JYPS%2026%LSM.pdf)<br>
 ##### Primary 2
 ##### Primary 3
 ##### Primary 4
