@@ -22,6 +22,12 @@ variant: markdown
 [Science](/files/2026_P3_SCI.pdf)
 
 ##### Primary 4
+[Year Head's Sharing](/files/2026_P4_YH.pdf)<br>
+[Character &amp; Citizenship Education (CCE)](/files/2026_P4_CCE.pdf)<br>
+[English Language](/files/2026_P4_EL.pdf)<br>
+[Mother Tongue Language](/files/2026_P4_MTL.pdf)<br>
+[Science](/files/2026_P4_SCI.pdf)<br>
+
 ##### Primary 5
 ##### Primary 6
 
