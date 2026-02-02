@@ -13,8 +13,14 @@ variant: markdown
 [Assistant Year Head's Sharing](/files/2026_P2_AYH.pdf)<br>
 [Character &amp; Citizenship Education (CCE)](/files/2026_P2_CCE.pdf)<br>
 [English Language](/files/2026_P2_EL.pdf)<br>
-[Mother Tongue Languag](/files/2026_P2_MTL.pdf)
+[Mother Tongue Language](/files/2026_P2_MTL.pdf)
 ##### Primary 3
+[Assistant Year Head's Sharing](/files/2026_P3_AYH.pdf)<br>
+[Character &amp; Citizenship Education (CCE)](/files/2026_P3_CCE.pdf)<br>
+[English Language](/files/2026_P3_EL.pdf)<br>
+[Mother Tongue Language](/files/2026_P3_MTL.pdf)<br>
+[Science](/files/2026_P3_SCI.pdf)
+
 ##### Primary 4
 ##### Primary 5
 ##### Primary 6
