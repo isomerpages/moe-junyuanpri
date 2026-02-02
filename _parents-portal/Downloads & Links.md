@@ -36,6 +36,11 @@ variant: markdown
 [Science (Standard &amp; Foundation)](/files/2026_P5_SCI.pdf)<br>
 
 ##### Primary 6
+[Year Head's Sharing](/files/2026_P6_YH.pdf)<br>
+[Character &amp; Citizenship Education (CCE)](/files/2026_P6_CCE.pdf)<br>
+[English Language (Standard &amp; Foundation)](/files/2026_P6_EL.pdf)<br>
+[Mother Tongue Language](/files/2026_P6_MTL.pdf)<br>
+[Science (Standard &amp; Foundation)](/files/2026_P6_SCI.pdf)<br>
 
 #### **2026 Booklist**<br>
 [Primary 1](https://drive.google.com/file/d/1Z2xAHffb1B-5GmX_IyEITuUvisB0z36v/view?usp=sharing)<br>
