@@ -30,7 +30,7 @@ variant: markdown
 [English Language](/files/2026_P4_EL.pdf)<br>
 [Mathematics](/files/2026_P4_MA.pdf)<br>
 [Mother Tongue Language](/files/2026_P4_MTL.pdf)<br>
-[PE, Art, Music and CCA](/files/2026_P4_PAMPAL.pdf)<br>
+[PE, Art, Music and CCA](/files/2026_P4_PAMCCA.pdf)<br>
 [Science](/files/2026_P4_SCI.pdf)<br>
 
 ##### Primary 5
@@ -39,7 +39,7 @@ variant: markdown
 [English Language (Standard &amp; Foundation)](/files/2026_P5_EL.pdf)<br>
 [Mathematics](/files/2026_P5_MA.pdf)<br>
 [Mother Tongue Language](/files/2026_P5_MTL.pdf)<br>
-[PE, Art, Music and CCA](/files/2026_P5_PAMPAL.pdf)<br>
+[PE, Art, Music and CCA](/files/2026_P5_PAMCCA.pdf)<br>
 [Science (Standard &amp; Foundation)](/files/2026_P5_SCI.pdf)<br>
 
 ##### Primary 6
@@ -48,7 +48,7 @@ variant: markdown
 [English Language (Standard &amp; Foundation)](/files/2026_P6_EL.pdf)<br>
 [Mathematics](/files/2026_P6_MA.pdf)<br>
 [Mother Tongue Language](/files/2026_P6_MTL.pdf)<br>
-[PE, Art, Music and CCA](/files/2026_P6_PAMPAL.pdf)<br>
+[PE, Art, Music and CCA](/files/2026_P6_PAMCCA.pdf)<br>
 [Science (Standard &amp; Foundation)](/files/2026_P6_SCI.pdf)<br>
 
 #### **2026 Booklist**<br>
