@@ -22,7 +22,7 @@ variant: markdown
 [English Language](/files/2026_P3_EL.pdf)<br>
 [Mathematics](/files/2026_P3_MA.pdf)<br>
 [Mother Tongue Language](/files/2026_P3_MTL.pdf)<br>
-[PE, Art, Music, PAL and CCA](/files/2026_P3_PAMPAL.pdf)
+[PE, Art, Music and CCA](/files/2026_P3_PAMPAL.pdf)<br>
 [Science](/files/2026_P3_SCI.pdf)
 ##### Primary 4
 [Year Head's Sharing](/files/2026_P4_YH.pdf)<br>
@@ -30,6 +30,7 @@ variant: markdown
 [English Language](/files/2026_P4_EL.pdf)<br>
 [Mathematics](/files/2026_P4_MA.pdf)<br>
 [Mother Tongue Language](/files/2026_P4_MTL.pdf)<br>
+[PE, Art, Music and CCA](/files/2026_P4_PAMPAL.pdf)
 [Science](/files/2026_P4_SCI.pdf)<br>
 
 ##### Primary 5
