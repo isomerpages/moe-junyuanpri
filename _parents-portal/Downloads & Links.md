@@ -14,7 +14,7 @@ variant: markdown
 [Character &amp; Citizenship Education (CCE)](/files/2026_P2_CCE.pdf)<br>
 [English Language](/files/2026_P2_EL.pdf)<br>
 [Mathematics](/files/2026_P2_MA.pdf)<br>
-[Mother Tongue Language](/files/2026_P2_MTL.pdf)
+[Mother Tongue Language](/files/2026_P2_MTL.pdf)<br>
 [PE, Art, Music, PAL and CCA](/files/2026_P2_PAM_PAL_CCA.pdf)
 ##### Primary 3
 [Assistant Year Head's Sharing](/files/2026_P3_AYH.pdf)<br>
@@ -30,7 +30,7 @@ variant: markdown
 [English Language](/files/2026_P4_EL.pdf)<br>
 [Mathematics](/files/2026_P4_MA.pdf)<br>
 [Mother Tongue Language](/files/2026_P4_MTL.pdf)<br>
-[PE, Art, Music and CCA](/files/2026_P4_PAMPAL.pdf)
+[PE, Art, Music and CCA](/files/2026_P4_PAMPAL.pdf)<br>
 [Science](/files/2026_P4_SCI.pdf)<br>
 
 ##### Primary 5
@@ -39,6 +39,7 @@ variant: markdown
 [English Language (Standard &amp; Foundation)](/files/2026_P5_EL.pdf)<br>
 [Mathematics](/files/2026_P5_MA.pdf)<br>
 [Mother Tongue Language](/files/2026_P5_MTL.pdf)<br>
+[PE, Art, Music and CCA](/files/2026_P5_PAMPAL.pdf)<br>
 [Science (Standard &amp; Foundation)](/files/2026_P5_SCI.pdf)<br>
 
 ##### Primary 6
