@@ -8,8 +8,4 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage.gif
-      key_highlights:
-        - title: Announcements (Primary)
-          description: Caring Teacher Awards 2026
-          url: /parents-portal/Announcements/
 ---
