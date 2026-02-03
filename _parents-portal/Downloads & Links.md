@@ -22,8 +22,8 @@ variant: markdown
 [English Language](/files/2026_P3_EL.pdf)<br>
 [Mathematics](/files/2026_P3_MA.pdf)<br>
 [Mother Tongue Language](/files/2026_P3_MTL.pdf)<br>
+[PE, Art, Music, PAL and CCA](/files/2026_P3_PAMPAL.pdf)
 [Science](/files/2026_P3_SCI.pdf)
-
 ##### Primary 4
 [Year Head's Sharing](/files/2026_P4_YH.pdf)<br>
 [Character &amp; Citizenship Education (CCE)](/files/2026_P4_CCE.pdf)<br>
