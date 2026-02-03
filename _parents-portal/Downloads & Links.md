@@ -48,6 +48,7 @@ variant: markdown
 [English Language (Standard &amp; Foundation)](/files/2026_P6_EL.pdf)<br>
 [Mathematics](/files/2026_P6_MA.pdf)<br>
 [Mother Tongue Language](/files/2026_P6_MTL.pdf)<br>
+[PE, Art, Music and CCA](/files/2026_P6_PAMPAL.pdf)<br>
 [Science (Standard &amp; Foundation)](/files/2026_P6_SCI.pdf)<br>
 
 #### **2026 Booklist**<br>
