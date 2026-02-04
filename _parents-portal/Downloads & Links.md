@@ -7,7 +7,7 @@ variant: markdown
 ![](/images/banner.gif)
 #### **2026 Curriculum Briefing**<br>
 ##### Primary 1<br>
-[Year Head's Sharing](/files/2026_P1_AYH.pdf)<br>
+[Year Head's Sharing](/files/2026_P1_YH.pdf)<br>
 [Character &amp; Citizenship Education (CCE)](/files/2026_P1_CCE.pdf)<br>
 [English Language](/files/2026_P1_EL.pdf)<br>
 [Learning Support Programme(LSP) for English Language](/files/JYPS_LSP_2026.pdf)<br>
