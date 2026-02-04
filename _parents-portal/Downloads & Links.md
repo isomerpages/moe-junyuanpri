@@ -14,7 +14,7 @@ variant: markdown
 [Learning Support for Mathematics (LSM) Programme](/files/JYPS_LSM_2026.pdf)<br>
 [Mathematics](/files/2026_P1_MA.pdf)<br>
 [Mother Tongue Language](/files/2026_P1_MTL.pdf)<br>
-[PE, Art, Music, PAL and CCA](/files/2026_P1_PAMPAL.pdf)
+[PE, Art, Music and PAL](/files/2026_P1_PAMPAL.pdf)
 
 ##### Primary 2
 [Vice-Principal's Sharing](/files/2026_P2_VP.pdf)<br>
