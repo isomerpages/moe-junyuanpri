@@ -18,6 +18,7 @@ variant: markdown
 [Mother Tongue Language](/files/2026_P2_MTL.pdf)<br>
 [PE, Art, Music, PAL and CCA](/files/2026_P2_PAM_PAL_CCA.pdf)
 ##### Primary 3
+[Vice-Principal's Sharing](/files/2026_P3_VP.pdf)<br>
 [Assistant Year Head's Sharing](/files/2026_P3_AYH.pdf)<br>
 [Character &amp; Citizenship Education (CCE)](/files/2026_P3_CCE.pdf)<br>
 [English Language](/files/2026_P3_EL.pdf)<br>
