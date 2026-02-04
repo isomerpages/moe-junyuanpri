@@ -44,7 +44,7 @@ variant: markdown
 [Science](/files/2026_P4_SCI.pdf)<br>
 
 ##### Primary 5
-[Principal's Sharing](/files/2026_P2_P.pdf)<br>
+[Principal's Sharing](/files/2026_P5_P.pdf)<br>
 [Year Head's Sharing](/files/2026_P5_YH.pdf)<br>
 [Character &amp; Citizenship Education (CCE)](/files/2026_P5_CCE.pdf)<br>
 [English Language (Standard &amp; Foundation)](/files/2026_P5_EL.pdf)<br>
