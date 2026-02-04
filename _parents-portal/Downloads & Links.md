@@ -10,6 +10,7 @@ variant: markdown
 [Learning Support Programme(LSP) for English Language](/files/JYPS_LSP_2026.pdf)<br>
 [Learning Support for Mathematics (LSM) Programme](/files/JYPS_LSM_2026.pdf)<br>
 ##### Primary 2
+[Vice-Principal's Sharing](/files/2026_P2_VP.pdf)<br>
 [Assistant Year Head's Sharing](/files/2026_P2_AYH.pdf)<br>
 [Character &amp; Citizenship Education (CCE)](/files/2026_P2_CCE.pdf)<br>
 [English Language](/files/2026_P2_EL.pdf)<br>
