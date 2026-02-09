@@ -9,3 +9,14 @@ variant: markdown
 </div>
 <h1>Announcements</h1>
 
+Dear Parents/Guardians,
+ 
+Join us for MK@Junyuan Open House 2026!
+ 
+When: Saturday, 7 March2026
+Time: 8:30 am - 12:30 pm
+ 
+Register now using the QR code. We look forward to seeing you there!
+
+
+
