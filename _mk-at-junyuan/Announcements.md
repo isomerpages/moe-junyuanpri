@@ -18,5 +18,4 @@ Time: 8:30 am - 12:30 pm
  
 Register now using the QR code. We look forward to seeing you there!
 
-
-
+![](/images/MK_Open_House_2026_1.png)
