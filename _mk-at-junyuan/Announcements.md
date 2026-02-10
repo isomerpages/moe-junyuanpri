@@ -9,6 +9,7 @@ variant: markdown
 </div>
 <h1>Announcements</h1>
 
-##### Dear Parents/Guardians, <br><br>Join us for MK@Junyuan Open House 2026!<br>When: Saturday, 7 March 2026<br>Time: 8:30 am - 12:30 pm<br><br>Register now using the QR code. We look forward to seeing you there!
+##### Dear Parents/Guardians, <br><br>Join us for MK@Junyuan Open House 2026!<br>When: Saturday, 7 March 2026<br>Time: 8:30 am - 12:30 pm<br><br>Click [here](https://drive.google.com/file/d/1nfn9STGsCIKijvmmTZ98LIo89SZPLUt0/view?usp=drive_link) to watch the video<br><br>Register now using the QR code. We look forward to seeing you there!
+
 
 ![](/images/MK_Open_House_2026_1.png)![](/images/MK_Open_House_2026_2.png)
