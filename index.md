@@ -11,5 +11,5 @@ sections:
       key_highlights:
         - title: MK Announcement
           description: Open House 2026
-          url: /mk/announcement
+          url: /mk-at-junyuan/announcements/
 ---
