@@ -33,7 +33,8 @@ Our Junyuan floorball team is made up of passionate players, teachers and coache
 
 ##### **PARTICIPATION AND ACHIEVEMENTS AT EVENTS**
   
-<table style="border:1px solid black">
+****
+			<table style="border:1px solid black">
 	<thead>
 		<tr>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">Year</th>
@@ -42,9 +43,13 @@ Our Junyuan floorball team is made up of passionate players, teachers and coache
 		</tr>
 	</thead>
 	<tbody>
-			<tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2025</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">NSG Floorball Junior and Senior Boys: Junior Girls </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Preliminary Round<br><br> 1st in group 2B</th>
+		</tr><tr>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">2023</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">NSG FLOORBALL SENIORS 2023 </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">NSG Floorball Seniors 2023 </th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">Preliminary Round 1<br><br> 1st position</th>
 		</tr>
 		<tr>
