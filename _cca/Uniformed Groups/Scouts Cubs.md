@@ -49,6 +49,18 @@ Cub Scout Gangshow
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2025</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Chief Scout Award 2025	 </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">ELSTON WONG HE LE<br>ADELIA KHAIRISSA BINTE MOHAMMAD KHAIR<br>QAYSA ALARA BEINTE IMRAN NAZQIN<br>KEYES SEOW KAI YUAN<br>GOH YING MING CASPER<br>MAHMOOD BIN MUHAMMAD NIZAR<br>YUMI AOKI<br>JASON WANG<br>NOOR RENNY SEPTRIASA BINTE MOHAED YAZID IZKHAIROL<br>KYLER LIM
+</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2024</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Akela Award 2024	 </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">CAYDEN LEE PIN YI<br>CHEN HUIXIAN, FAELYN<br>VERA MEI LI NING<br>NAZRUL HAQ BIN MOHAMMAD ZHAFRIE<br>NICHOLAS HWEE YEAT FONG
+</th>
+		</tr>
 			<tr>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">2023</th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">Akela Award 2023	 </th>
@@ -79,15 +91,14 @@ Cub Scout Gangshow
 
 ---
 
-##### **SCHEDULE**  
+##### **CCA Schedule**  
 
-Fridays&nbsp;<br>
-2.00pm - 3.30pm
+Fridays: 2.00pm - 3.30pm
 
   
 
-**Teachers IC and Email address:**  
+**Name of CCA Teacher I/C and email address:**  
 Mdm Loo Chin Imm: l[oo\_chin\_imm@moe.edu.sg](mailto:oo_chin_imm@moe.edu.sg) <br>
-Mr Kelvin Goh:&nbsp;[goh\_wei\_keong\_kelvin@moe.edu.sg](mailto:goh_wei_keong_kelvin@moe.edu.sg)<br>
 Mdm Liyana:&nbsp;[nur\_liyana\_amrun@moe.edu.sg](mailto:nur_liyana_amrun@moe.edu.sg)<br>
+Mr Kelvin Goh:&nbsp;[goh\_wei\_keong\_kelvin@moe.edu.sg](mailto:goh_wei_keong_kelvin@moe.edu.sg)<br>
 Mdm Siti Hawa:&nbsp;[siti\_hawa\_abdul\_karim@moe.edu.sg](mailto:siti_hawa_abdul_karim@moe.edu.sg)
