@@ -150,8 +150,8 @@ Girls
 
 ##### **CCA Schedule**
 
-Mondays &amp; Fridays  
-2.00pm - 4.00pm  (All Members)
+Mondays: 2.00pm - 4.00pm  (All Members)<br>
+Fridays: 2.00pm - 4.00pm  (All Members)
   
 **Name of CCA Teacher I/C and email address:**  
 Mr Koh Thiam Joo:&nbsp;[koh\_thiam\_joo@moe.edu.sg](mailto:koh_thiam_joo@moe.edu.sg)  
