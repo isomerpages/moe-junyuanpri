@@ -72,7 +72,7 @@ The Volleyball CCA aims to educate its members on the schools’ 7 character val
 Mondays: 2.00pm - 4.00pm (All Members)<br>
 Fridays:    2.00pm - 4.00pm (All Members)<br>
   
-**Name of CCA Teachers I/C and email address:**  
+**Name of CCA Teacher I/C and email address:**  
 Mr Andre Ye:&nbsp;[ye\_huankun\_andre@moe.edu.sg](mailto:ye_huankun_andre@moe.edu.sg)  <br>
 Mrs Widdy Teh:&nbsp;[widdy\_haryanti\_srisungkouu@moe.edu.sg](mailto:widdy_haryanti_srisungkouu@moe.edu.sg)  <br>
 Mdm Marina:&nbsp;[marina\_hassan@moe.edu.sg](mailto:marina_hassan@moe.edu.sg) <br>
