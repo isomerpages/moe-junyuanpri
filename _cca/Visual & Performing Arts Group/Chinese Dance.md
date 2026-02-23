@@ -59,15 +59,15 @@ Chinese Dance allows students to learn dance moves, proper stretching, warm-up t
 
 ---
 
-##### **SCHEDULE**  
+##### **CCA Schedule**  
 
-  
+Mondays: 2.00pm - 4.00pm<br>
+Fridays: 2.00pm - 4.00pm
 
-Every Monday and Friday (2.00pm - 4.00pm)
 
-
-**Teachers IC and Email address:**
+**Name of CCA Teacher I/C and email address:**
 
 Mdm Pang Sze Sheng:&nbsp;[pang\_sze\_sheng@moe.edu.sg](mailto:pang_sze_sheng@moe.edu.sg)&nbsp;<br>
 Mdm Poh Choon Tee:&nbsp;[poh\_choon\_tee@moe.edu.sg](mailto:poh_choon_tee@moe.edu.sg)&nbsp;&nbsp;<br>
-Mdm Patricia Chiang:&nbsp;[chiang\_chih-yi\_patricia@moe.edu.sg](mailto:chiang_chih-yi_patricia@moe.edu.sg)
+Mdm Patricia Chiang:&nbsp;[chiang\_chih-yi\_patricia@moe.edu.sg](mailto:chiang_chih-yi_patricia@moe.edu.sg)<br>
+Mdm Chee Li Boon:&nbsp;[chee\_li\_boon@moe.edu.sg](mailto:chee_li_boon@moe.edu.sg)
