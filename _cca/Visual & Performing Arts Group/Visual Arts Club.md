@@ -35,39 +35,39 @@ In the Visual Arts Club, members have the opportunity to explore a wide range of
 	</thead>
 	<tbody>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="4">2023</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Invitation for Mural painting in Tampines by Tampines Town Council</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"> </th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left" rowspan="4">2023</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Invitation for Mural painting in Tampines by Tampines Town Council</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"> </td>
 		</tr>
 			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">SYF Art Exhibition 2021 Category A	 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Recognition </th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">SYF Art Exhibition 2021 Category A	 </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Recognition </td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">SYF Art Exhibition 2021 Category B</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Recognition</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">SYF Art Exhibition 2021 Category B</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Recognition</td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">SYF Art Exhibition 2021 Category C</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Recognition</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">SYF Art Exhibition 2021 Category C</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Recognition</td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2021</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">SYF Art Exhibition 2021 Category C	 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Recognition<br>(Special Mention)</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2021</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">SYF Art Exhibition 2021 Category C	 </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Recognition<br>(Special Mention)</td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="3">2019</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Singapore Youth Festive 2019 Art Exhibition, Category B	 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"> ‘Our Bridge of Success’ was selected for <br>on-site art exhibition at National Gallery Singapore.</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left" rowspan="3">2019</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Singapore Youth Festive 2019 Art Exhibition, Category B	 </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"> ‘Our Bridge of Success’ was selected for <br>on-site art exhibition at National Gallery Singapore.</td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Participated in SYF Art Exhibition 2017 Category C </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Participated in SYF Art Exhibition 2017 Category C </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"></td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Participated in SOTA competition 2019</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Participated in SOTA competition 2019</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"></td>
 		</tr>
 	</tbody>
 </table>	
