@@ -76,14 +76,14 @@ In the Visual Arts Club, members have the opportunity to explore a wide range of
 
 ---
 
-##### **SCHEDULE:**  
-P3 and P5 on Mondays (2.00pm - 3.30pm) <br>
-P4 and P6 on Fridays (2.00pm - 3.30pm)
+##### **CCA Schedule:**  
+Mondays: 2.00pm - 3.30pm (P6) <br>
+Fridays: 2.00pm - 3.30pm (P4 and P5)
 
   
-**Teachers IC and Email address:**<br>
-Mrs Ang:&nbsp;[chan\_yen\_ling\_michelle@moe.edu.sg](mailto:chan_yen_ling_michelle@moe.edu.sg)  <br>
+**Name of CCA Teacher I/C and email address:**<br>
+Mrs Michelle Ang (OIC):&nbsp;[chan\_yen\_ling\_michelle@moe.edu.sg](mailto:chan_yen_ling_michelle@moe.edu.sg)  <br>
 Mr Wang Shing Huei:&nbsp;[wang\_shing\_huei@moe.edu.sg](mailto:wang_shing_huei@moe.edu.sg)  <br>
 Mrs Monica Berger:&nbsp;[monica\_vasanti\_augustine@moe.edu.sg](mailto:monica_vasanti_augustine@moe.edu.sg)<br> 
-Mrs Angela Chin:&nbsp;[kam\_jiewen@moe.edu.sg](mailto:kam_jiewen@moe.edu.sg)<br>
+Mdm Sarina:&nbsp;[sarina\_arsad\_a@moe.edu.sg](mailto:sarina_arsad_a@moe.edu.sg)<br>
 Mrs Josephine Lee:&nbsp;[twoon\_mui\_chuan\_josephine@moe.edu.sg](mailto:woon_mui_chuan_josephine@moe.edu.sg)
