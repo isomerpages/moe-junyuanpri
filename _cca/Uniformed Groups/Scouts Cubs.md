@@ -53,21 +53,21 @@ Cub Scout Gangshow
 		<tr>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">2025</th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">Chief Scout Award 2025	 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">ELSTON WONG HE LE<br>ADELIA KHAIRISSA BINTE MOHAMMAD KHAIR<br>QAYSA ALARA BEINTE IMRAN NAZQIN<br>KEYES SEOW KAI YUAN<br>GOH YING MING CASPER<br>MAHMOOD BIN MUHAMMAD NIZAR<br>YUMI AOKI<br>JASON WANG<br>NOOR RENNY SEPTRIASA BINTE MOHAED YAZID IZKHAIROL<br>KYLER LIM
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Elston Wong He Le<br>Adelia Khairissa Binte Mohammad Khair<br>Qaysa Alara Binte Imran Nazqin<br>Keyes Seow Kai Yuan<br>Goh Ying Ming Casper<br>Mahmood Bin Muhammad Nizar<br>Yumi Aoki<br>Jason Wang<br>Noor Renny Septriasa Binte Mohamed Yazid Izkhairol<br>Kyler Lim
 </th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">Hiking<br>Scout Progress and Proficiency Badge activities<br>Singapore Scouts' Community Challenge<br>Job Week<br>National Day Observance and Concert<br>Cub Scout Leadership Camp<br>Chief Scout Award</th>
 		</tr>
 		<tr>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">2024</th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">Akela Award 2024	 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">CAYDEN LEE PIN YI<br>CHEN HUIXIAN, FAELYN<br>VERA MEI LI NING<br>NAZRUL HAQ BIN MOHAMMAD ZHAFRIE<br>NICHOLAS HWEE YEAT FONG
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Cayden Lee Pin Yi<br>Chen Huixian, Faelyn<br>Vera Mei Li Ning<br>Nazrul Haq Bin Mohammad Zhafrie<br>Nicholas Hwee Yeat Fong
 </th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
 		</tr>
 			<tr>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">2023</th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">Akela Award 2023	 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">VALENCIA BAI<br>SHRI SWASTHIKA<br>JISELE LI<br>REZANN LAU RUI ZHEN<br>YANG CHIAO FEI
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Valencia Bai<br>Shri Swasthika<br>Jisele Li<br>Rezann Lau Rui Zhen<br>Yang Chiao Fei
 </th>
 				<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
 		</tr>
