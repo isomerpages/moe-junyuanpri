@@ -30,6 +30,15 @@ The Info Comm Club focuses on hands-on coding and robotics, emphasizing programm
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2025</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">National Robotics Competition 2025	 </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Participation</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">IDE Series 2025</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Participation</th>
+		</tr>
 			<tr>
 			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2023</th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">National Robotics Competition 	 </th>
@@ -44,25 +53,21 @@ The Info Comm Club focuses on hands-on coding and robotics, emphasizing programm
 			<th style="border:1px solid black; text-align:left;vertical-align:left">Swift Explorers Singapore (SES)</th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation</th>
 		</tr>
-		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2021</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Artificial Intelligence Festival </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation</th>
-		</tr>
 	</tbody>
 </table>
 
 
 ---
 
-##### **SCHEDULE**  
+##### **CCA Schedule**  
 
-Fridays 2.00pm - 3.30pm
+Fridays: 2.00pm - 3.30pm
 
   
 
-**Teachers IC and Email address:**<br>
-Mdm Pan Xuan:&nbsp;[pan\_xuan@moe.edu.sg](mailto:pan_xuan@moe.edu.sg)<br>
-Mdm Siti Raihani Bte Husainni:&nbsp;[siti\_raihani\_husainni@moe.edu.sg](mailto:siti_raihani_husainni@moe.edu.sg)<br>
+**Name of CCA Teacher I/C and email address:**<br>
+Mdm Pan Xuan (OIC):&nbsp;[pan\_xuan@moe.edu.sg](mailto:pan_xuan@moe.edu.sg)<br>
 Mdm Corinne Sim:&nbsp;[sim\_chew\_yen@moe.edu.sg](mailto:sim_chew_yen@moe.edu.sg)  <br>
 Mdm Subiati:&nbsp;[subiati\_cromo@moe.edu.sg](mailto:subiati_cromo@moe.edu.sg)<br>
+Mdm Siti Raihani Bte Husainni:&nbsp;[siti\_raihani\_husainni@moe.edu.sg](mailto:siti_raihani_husainni@moe.edu.sg)<br>
+
