@@ -32,35 +32,35 @@ The Drama Club was formed in 2013. Currently, there are 41 members from Primary 
 	</thead>
 	<tbody>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="3">2025</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Mythos Junior Orators </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left" rowspan="3">2025</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Mythos Junior Orators </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"></td>
 		</tr>	
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">MK Engagement</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">MK Engagement</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"></td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National Day Concert</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">National Day Concert</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"></td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2024</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Mythos Junior Orators </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Nazrul Haq Bin Mohammad Zhafrie</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2024</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Mythos Junior Orators </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Nazrul Haq Bin Mohammad Zhafrie</td>
 		</tr>	
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">MK Engagement</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">MK Engagement</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"></td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2023</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Mythos Junior Orators</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2023</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Mythos Junior Orators</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"></td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National Day Concert</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">National Day Concert</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"></td>
 		</tr>
 	</tbody>
 </table>
