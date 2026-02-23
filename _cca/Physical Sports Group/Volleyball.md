@@ -46,21 +46,6 @@ The Volleyball CCA aims to educate its members on the schools’ 7 character val
 			<th style="border:1px solid black; text-align:left;vertical-align:left">National School Games – Senior Boys<br><br>National School Games – Junior Boys<br></th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation<br><br>Participation<br></th>
 		</tr>
-		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2021</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National School Games – Senior Boys<br><br>National School Games – Junior Boys<br></th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation<br><br>Participation<br></th>
-		</tr>
-		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2020</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National School Games – Senior Boys</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation</th>
-		</tr>
-		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2019</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">East Zone Volleyball Championships - Senior Boys<br><br>East Zone Volleyball Championships - Junior Boys</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">3rd in group<br><br> 4th in group</th>
-		</tr>
 	</tbody>
 </table>	
 
