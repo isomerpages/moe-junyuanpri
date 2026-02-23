@@ -59,7 +59,7 @@ The International Dance is a newly formed Aesthetics CCA in Junyuan Primary Scho
 </table>	
 
 ---
-##### **SCHEDULE**
+##### **CCA Schedule**
 
 Mondays and Fridays: 2.00pm - 4.00pm (All Members)
   
