@@ -85,7 +85,7 @@ Taekwondo is a Korean martial art that was developed by Korean masters in the 19
 ---
 
 
-##### **CCA SCHEDULE**  
+##### **CCA Schedule**  
  
  Mondays: 2.00pm - 3.30pm (P5, P6 and selected P4 members) <br>
 Fridays:    2.00pm - 3.30pm (P4 and selected P5 &amp; P6 members)
