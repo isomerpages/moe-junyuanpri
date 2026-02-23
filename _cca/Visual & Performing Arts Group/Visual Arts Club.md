@@ -86,4 +86,5 @@ Mrs Michelle Ang (OIC):&nbsp;[chan\_yen\_ling\_michelle@moe.edu.sg](mailto:chan_
 Mr Wang Shing Huei:&nbsp;[wang\_shing\_huei@moe.edu.sg](mailto:wang_shing_huei@moe.edu.sg)  <br>
 Mrs Monica Berger:&nbsp;[monica\_vasanti\_augustine@moe.edu.sg](mailto:monica_vasanti_augustine@moe.edu.sg)<br> 
 Mdm Sarina:&nbsp;[sarina\_arsad\_a@moe.edu.sg](mailto:sarina_arsad_a@moe.edu.sg)<br>
-Mrs Josephine Lee:&nbsp;[twoon\_mui\_chuan\_josephine@moe.edu.sg](mailto:woon_mui_chuan_josephine@moe.edu.sg)
+Mrs Josephine Lee:&nbsp;[twoon\_mui\_chuan\_josephine@moe.edu.sg](mailto:woon_mui_chuan_josephine@moe.edu.sg)<br>
+Miss Chloe Teo: &nbsp;[chloe\_teo\_liwen@moe.edu.sg](mailto:chloe_teo_liwen@moe.edu.sg)<br>
