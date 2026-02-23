@@ -34,24 +34,28 @@ We aim to develop our members into graceful and skilled dancers, and confident p
 	</thead>
 	<tbody>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2024</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2024	SYF Arts Presentation	 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"> Certificate of Distinction</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2025</th>
+		<th style="border:1px solid black; text-align:left;vertical-align:left">Mutiara Tari 2025 </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">5th</th>
+		</tr>
+		<tr><th style="border:1px solid black; text-align:left;vertical-align:left">SSayembara Tari (Muara Festival 2025)</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2nd (Primary School Category)</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="3">2024</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2024 SYF Arts Presentation	 </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Distinction</th>
+		</tr>
+		<tr><th style="border:1px solid black; text-align:left;vertical-align:left">Muara Festival 2024	 </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Participated in Youth Stage</th>
+		</tr>
+		<tr><th style="border:1px solid black; text-align:left;vertical-align:left">Sayembara Tari Antara Nusa	 </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">1st (Primary School Category)</th>
 		</tr>
 			<tr>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">2023</th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">2023	Tampines Learning Festival 2023	 </th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left"> </th>
-		</tr>
-		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2020</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">SYF Arts Presentation 2020</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation</th>
-		</tr>
-		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2019</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Performed at Tampines Learning Festival 2019</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
 		</tr>
 	</tbody>
 </table>	
@@ -60,10 +64,10 @@ We aim to develop our members into graceful and skilled dancers, and confident p
 
 ##### **SCHEDULE**
 
-Mondays &amp; Fridays  
-2.00pm - 3.30pm&nbsp;  
+Mondays: 2.00pm - 4.00pm (All members)<br>
+Fridays: 2.00pm - 4.00pm (All members)
   
-**Teachers IC and Email address:**  <br>
+**Name of CCA Teacher I/C and email address:**  <br>
 Mdm Jurieni:&nbsp;[jurieni\_bahrom@moe.edu.sg](mailto:jurieni_bahrom@moe.edu.sg) <br>
 Mdm Rozana:&nbsp;[rozana\_mohamad\_said@moe.edu.sg](mailto:rozana_mohamad_said@moe.edu.sg)  <br>
 Mdm Shahidah:&nbsp;[shahidah\_mahfodz@moe.edu.sg](mailto:shahidah_mohfodz@moe.edu.sg)
