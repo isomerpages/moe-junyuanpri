@@ -33,6 +33,11 @@ We aim to develop our members into graceful and skilled dancers, and confident p
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2024</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2024	SYF Arts Presentation	 </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Certificate of Distinction</th>
+		</tr>
 			<tr>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">2023</th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">2023	Tampines Learning Festival 2023	 </th>
