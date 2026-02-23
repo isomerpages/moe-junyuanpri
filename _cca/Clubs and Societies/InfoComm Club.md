@@ -31,27 +31,27 @@ The Info Comm Club focuses on hands-on coding and robotics, emphasizing programm
 	</thead>
 	<tbody>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2025</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National Robotics Competition 2025	 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Participation</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2025</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">National Robotics Competition 2025	 </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Participation</td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">IDE Series 2025</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Participation</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">IDE Series 2025</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Participation</td>
 		</tr>
 			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2023</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National Robotics Competition 	 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2023</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">National Robotics Competition 	 </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Participation</td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">FIRST LEGO League Challenge</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">FIRST LEGO League Challenge</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Participation</td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2022</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Swift Explorers Singapore (SES)</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2022</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Swift Explorers Singapore (SES)
+			</td><td style="border:1px solid black; text-align:left;vertical-align:left">Participation</td>
 		</tr>
 	</tbody>
 </table>
@@ -70,4 +70,3 @@ Mdm Pan Xuan (OIC):&nbsp;[pan\_xuan@moe.edu.sg](mailto:pan_xuan@moe.edu.sg)<br>
 Mdm Corinne Sim:&nbsp;[sim\_chew\_yen@moe.edu.sg](mailto:sim_chew_yen@moe.edu.sg)  <br>
 Mdm Subiati:&nbsp;[subiati\_cromo@moe.edu.sg](mailto:subiati_cromo@moe.edu.sg)<br>
 Mdm Siti Raihani Bte Husainni:&nbsp;[siti\_raihani\_husainni@moe.edu.sg](mailto:siti_raihani_husainni@moe.edu.sg)<br>
-
