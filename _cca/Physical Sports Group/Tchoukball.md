@@ -38,6 +38,38 @@ Junyuan Primary started Tchoukball as a CCA in 2012. It is an active and fun spo
 	</thead>
 	<tbody>
 		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="7">2025</th>
+		</tr><tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2025 (Junior Boys Cup)
+</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">1st position</th>
+		</tr>
+			<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2025 (Junior Boys Plate)
+</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">1st position</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2025 (Junior Girls Cup)
+</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">2nd position</th>
+		</tr>
+			<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2025 (Junior Girls Plate)
+</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">1st position</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2025 (Senior Boys)
+</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">4th position</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2025 (Senior Girls)
+</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">1st position</th>
+		</tr>
+		<tr>
 			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="7">2024</th>
 		</tr><tr>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2024 (Junior Boys Cup)
