@@ -53,7 +53,7 @@ Pupils learn to be self-directed learners and make their own decisions as they r
 
 Fridays: 2.00pm - 3.30pm  
   
-**Teachers IC and Email address:**  <br>
+**Name of Teacher I/C and email address:**  <br>
 Ms Loong Shu Yi (OIC):&nbsp;[loong\_shu\_yi@moe.edu.sg](mailto:loong_shu_yi@moe.edu.sg)<br>
 Mdm Joelyn Cheah:&nbsp;[cheah\_soo\_har@moe.edu.sg](mailto:cheah_soo_har@moe.edu.sg)  <br>
 Mrs Cynthia Chu:&nbsp;[lim\_hui\_ling\_cynthia@moe.edu.sg](mailto:lim_hui_ling_cynthia@moe.edu.sg) <br>
