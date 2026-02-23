@@ -34,28 +34,28 @@ We aim to develop our members into graceful and skilled dancers, and confident p
 	</thead>
 	<tbody>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2025</th>
-		<th style="border:1px solid black; text-align:left;vertical-align:left">Mutiara Tari 2025 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">5th</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2025</td>
+		<td style="border:1px solid black; text-align:left;vertical-align:left">Mutiara Tari 2025 </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">5th</td>
 		</tr>
-		<tr><th style="border:1px solid black; text-align:left;vertical-align:left">SSayembara Tari (Muara Festival 2025)</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2nd (Primary School Category)</th>
+		<tr><td style="border:1px solid black; text-align:left;vertical-align:left">SSayembara Tari (Muara Festival 2025)</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2nd (Primary School Category)</td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="3">2024</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2024 SYF Arts Presentation	 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Distinction</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left" rowspan="3">2024</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2024 SYF Arts Presentation	 </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Distinction</td>
 		</tr>
-		<tr><th style="border:1px solid black; text-align:left;vertical-align:left">Muara Festival 2024	 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Participated in Youth Stage</th>
+		<tr><td style="border:1px solid black; text-align:left;vertical-align:left">Muara Festival 2024	 </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Participated in Youth Stage</td>
 		</tr>
-		<tr><th style="border:1px solid black; text-align:left;vertical-align:left">Sayembara Tari Antara Nusa	 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">1st (Primary School Category)</th>
+		<tr><td style="border:1px solid black; text-align:left;vertical-align:left">Sayembara Tari Antara Nusa	 </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">1st (Primary School Category)</td>
 		</tr>
 			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2023</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2023	Tampines Learning Festival 2023	 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"> </th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2023</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2023	Tampines Learning Festival 2023	 </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"> </td>
 		</tr>
 	</tbody>
 </table>	
