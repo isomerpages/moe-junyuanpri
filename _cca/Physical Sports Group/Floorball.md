@@ -32,7 +32,7 @@ Our Junyuan floorball team is made up of passionate players, teachers and coache
 ---
 
 ##### **PARTICIPATION AND ACHIEVEMENTS AT EVENTS**
-**
+
 	<table style="border:1px solid black">
 	<thead>
 		<tr>
