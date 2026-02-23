@@ -34,7 +34,14 @@ The International Dance is a newly formed Aesthetics CCA in Junyuan Primary Scho
 		</tr>
 	</thead>
 	<tbody>
-			<tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2025</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">National Day Concert 2025</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> </th>
+		</tr>
+		  <tr><th style="border:1px solid black; text-align:left;vertical-align:left">End of Year Prize Presentation 2025</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> </th>
+			</tr><tr>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">2020</th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">Singapore Youth Festival (SYF​) </th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left"> </th>
@@ -54,11 +61,10 @@ The International Dance is a newly formed Aesthetics CCA in Junyuan Primary Scho
 ---
 ##### **SCHEDULE**
 
-Mondays &amp; Fridays  
-2.00pm - 3.30pm  
+Mondays &amp; Fridays: 2.00pm - 3.30pm (All Members)
   
-**Teachers IC and Email address:**  <br>
-Mr Nor Azri B Abdul Aziz(I.C):&nbsp;[nor\_azri@moe.edu.sg](mailto:nor_azri@moe.edu.sg)<br>
-Mdm Selvi D/O Suppiah:&nbsp;[selvarajoo\_selvi@moe.edu.sg](mailto:selvarajoo_selvi@moe.edu.sg)<br>
+**Name of CCA Teacher I/C and email address:**  <br>
+Mr Nor Azri B Abdul Aziz (OIC):&nbsp;[nor\_azri@moe.edu.sg](mailto:nor_azri@moe.edu.sg)<br>
 Miss Lim Chwee Neo, Pearl:&nbsp;[lim\_chwee\_neo\_pearl@moe.edu.sg](mailto:lim_chwee_neo_pearl@moe.edu.sg)<br>
 Miss Goh Mei Ling:&nbsp;[goh\_mei\_ling\_a@moe.edu.sg](mailto:goh_mei_ling_a@moe.edu.sg)<br>
+Mdm Selvarajoo:&nbsp;[selvarajoo\_selvi@moe.edu.sg](mailto:selvarajoo_selvi@moe.edu.sg)<br>
