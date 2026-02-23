@@ -32,19 +32,19 @@ The Volleyball CCA aims to educate its members on the schools’ 7 character val
 	</thead>
 	<tbody>
 			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2025</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National School Games – Senior Boys<br><br>National School Games – Junior Boys<br></th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation<br><br>Participation<br></th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2025</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">National School Games – Senior Boys<br><br>National School Games – Junior Boys<br></td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Participation<br><br>Participation<br></td>
 		</tr>
 			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2023</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National School Games – Senior Boys<br><br>National School Games – Junior Boys<br><br>National School Games – Junior Girls<br> </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">League 1  Round 1 - 4th position <br><br>Participation<br><br>Participation<br> </th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2023</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">National School Games – Senior Boys<br><br>National School Games – Junior Boys<br><br>National School Games – Junior Girls<br> </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">League 1  Round 1 - 4th position <br><br>Participation<br><br>Participation<br> </td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2022</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National School Games – Senior Boys<br><br>National School Games – Junior Boys<br></th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation<br><br>Participation<br></th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2022</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">National School Games – Senior Boys<br><br>National School Games – Junior Boys<br></td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Participation<br><br>Participation<br></td>
 		</tr>
 	</tbody>
 </table>	
