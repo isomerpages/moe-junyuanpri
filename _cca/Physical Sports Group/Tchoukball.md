@@ -148,7 +148,7 @@ Girls
 
 
 
-##### **CCA SCHEDULE**
+##### **CCA Schedule**
 
 Mondays &amp; Fridays  
 2.00pm - 4.00pm  (All Members)
