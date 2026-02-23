@@ -33,35 +33,35 @@ The Music Interest Club is a multi-instrumental ensemble club comprising of enth
 	</thead>
 	<tbody>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="3">2025</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National Day Observance Concert</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"> </th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left" rowspan="3">2025</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">National Day Observance Concert</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"> </td>
 		</tr>
 			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Tampines West National Day Carnival</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Tampines West National Day Carnival</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"></td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">End-of-year Prize Presentation</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">End-of-year Prize Presentation</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"></td>
 		</tr>
 			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2024</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">End-of_Year Prize Giving Day Performance</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"> </th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2024</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">End-of_Year Prize Giving Day Performance</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"> </td>
 		</tr>
 			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Racial Harmony Day Concert</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Racial Harmony Day Concert</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"></td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2023</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">End-of_Year Prize Giving Day Performance</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"> </th>
-		</tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2023</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">End-of_Year Prize Giving Day Performance
+			</td><th style="border:1px solid black; text-align:left;vertical-align:left"> 
+		</th></tr>
 			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">International Friendship Day Celebrations</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">International Friendship Day Celebrations</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"></td>
 		</tr>
 	</tbody>
 </table>	
