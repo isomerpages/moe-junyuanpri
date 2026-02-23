@@ -65,7 +65,8 @@ We aim to develop our members into graceful and skilled dancers, and confident p
 ##### **SCHEDULE**
 
 Mondays: 2.00pm - 4.00pm (All members)<br>
-Fridays: 2.00pm - 4.00pm (All members)
+Fridays: 2.00pm - 4.00pm (All members)<br>
+Those taking school bus till 3.30pm
   
 **Name of CCA Teacher I/C and email address:**  <br>
 Mdm Jurieni:&nbsp;[jurieni\_bahrom@moe.edu.sg](mailto:jurieni_bahrom@moe.edu.sg) <br>
