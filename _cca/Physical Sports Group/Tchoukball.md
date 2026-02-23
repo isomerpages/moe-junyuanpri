@@ -148,12 +148,12 @@ Girls
 
 
 
-##### **SCHEDULE**
+##### **CCA SCHEDULE**
 
 Mondays &amp; Fridays  
-2.00pm - 3.30pm  
+2.00pm - 4.00pm  (All Members)
   
-**Teachers IC and Email address:**  
+**Name of CCA Teacher I/C and email address:**  
 Mr Koh Thiam Joo:&nbsp;[koh\_thiam\_joo@moe.edu.sg](mailto:koh_thiam_joo@moe.edu.sg)  
 Mdm Soh Eng Wee:&nbsp;[soh\_eng\_wee@moe.edu.sg](mailto:soh_eng_wee@moe.edu.sg)  
 Mr Terence Khoo:&nbsp;[khoo\_kang\_ming@moe.edu.sg](mailto:khoo_kang_ming@moe.edu.sg)<br>
