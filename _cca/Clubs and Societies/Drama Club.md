@@ -32,18 +32,35 @@ The Drama Club was formed in 2013. Currently, there are 41 members from Primary 
 	</thead>
 	<tbody>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2020</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Junior Orators  </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">1st prize </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="3">2025</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Mythos Junior Orators </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
 		</tr>	
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2019</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Junior Orators  	 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">3rd prize</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">MK Engagement</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">SYF KidsPlay! Showcase</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">One of the schools selected to perform</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">National Day Concert</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2024</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Mythos Junior Orators </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Nazrul Haq Bin Mohammad Zhafrie</th>
+		</tr>	
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">MK Engagement</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2023</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Mythos Junior Orators</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">National Day Concert</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
 		</tr>
 	</tbody>
 </table>
@@ -52,12 +69,10 @@ The Drama Club was formed in 2013. Currently, there are 41 members from Primary 
 
 ### SCHEDULE
 
-
-Mondays  
-2.00pm - 3.30pm  
+Mondays: 2.00pm - 3.30pm  
   
 **Teachers IC:**<br>
-Mrs Suriani Hanes:&nbsp;[suriani\_abdullah@moe.edu.sg](mailto:suriani_abdullah@moe.edu.sg)<br>
+Mrs Hanes (OIC):&nbsp;[suriani\_abdullah@moe.edu.sg](mailto:suriani_abdullah@moe.edu.sg)<br>
 Mrs Chow Kar Yan:&nbsp;[chua\_kar\_yan@moe.edu.sg](mailto:chua_kar_yan@moe.edu.sg)<br>
-Mdm Nadhira Parveen:&nbsp;[nadhira\_parveen@moe.edu.sg](mailto:nadhira_parveen@moe.edu.sg)<br>
+Mdm Nadhira:&nbsp;[nadhira\_parveen@moe.edu.sg](mailto:nadhira_parveen@moe.edu.sg)<br>
 Miss Isabel Liang:&nbsp;[isabel_liang_hun_sin@moe.edu.sg](mailto:isabel_liang_hun_sin@moe.edu.sg)<br>
