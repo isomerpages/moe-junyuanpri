@@ -67,7 +67,7 @@ The Volleyball CCA aims to educate its members on the schools’ 7 character val
 
 ---
 
-##### **CCA SCHEDULE**
+##### **CCA Schedule**
 
 Mondays: 2.00pm - 4.00pm (All Members)<br>
 Fridays:    2.00pm - 4.00pm (All Members)<br>
