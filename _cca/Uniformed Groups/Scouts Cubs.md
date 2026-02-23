@@ -45,6 +45,7 @@ Cub Scout Gangshow
 		<tr>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">Year</th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left"> Event / Activity</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Name of Student</th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left"> Participation / Achievement</th>
 		</tr>
 	</thead>
@@ -54,36 +55,21 @@ Cub Scout Gangshow
 			<th style="border:1px solid black; text-align:left;vertical-align:left">Chief Scout Award 2025	 </th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">ELSTON WONG HE LE<br>ADELIA KHAIRISSA BINTE MOHAMMAD KHAIR<br>QAYSA ALARA BEINTE IMRAN NAZQIN<br>KEYES SEOW KAI YUAN<br>GOH YING MING CASPER<br>MAHMOOD BIN MUHAMMAD NIZAR<br>YUMI AOKI<br>JASON WANG<br>NOOR RENNY SEPTRIASA BINTE MOHAED YAZID IZKHAIROL<br>KYLER LIM
 </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Hiking<br>Scout Progress and Proficiency Badge activities<br>Singapore Scouts' Community Challenge<br>Job Week<br>National Day Observance and Concert<br>Cub Scout Leadership Camp<br>Chief Scout Award</th>
 		</tr>
 		<tr>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">2024</th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">Akela Award 2024	 </th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">CAYDEN LEE PIN YI<br>CHEN HUIXIAN, FAELYN<br>VERA MEI LI NING<br>NAZRUL HAQ BIN MOHAMMAD ZHAFRIE<br>NICHOLAS HWEE YEAT FONG
 </th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
 		</tr>
 			<tr>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">2023</th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">Akela Award 2023	 </th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">VALENCIA BAI<br>SHRI SWASTHIKA<br>JISELE LI<br>REZANN LAU RUI ZHEN<br>YANG CHIAO FEI
 </th>
-		</tr>
-		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2022</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Akela Award 2022</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">LIM XUAN EN, EMILY <br>MOHAMMAD ARYAN SHAH BIN ASRIN <br>HOO WEN ZE <br>MUHAMMAD HAZIM BIN HIDAYAT <br>RAZIQ AMMAR BIN ABDUL KAMAL 
-</th>
-		</tr>
-		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2021</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Akela Award 2021	 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">NUR'AINAA IZZATI BINTE MOHAMAD IZUANDI<br>RYAN NG HONG WEI<br>DUONG NGUYEN NGOC TRAN<br>JANESSA CHIA YU XUAN<br>SIM XIAO EN, KELLIE<br>CRYSTAL TAN MI SIAN<br>AALIA ARINA
-</th>
-		</tr>
-		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2019</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Akela Award 2021	 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">NUR'AINAA IZZATI BINTE MOHAMAD IZUANDI<br>RYAN NG HONG WEI<br>DUONG NGUYEN NGOC TRAN<br>JANESSA CHIA YU XUAN<br>SIM XIAO EN, KELLIE<br>CRYSTAL TAN MI SIAN<br>AALIA ARINA
-</th>
+				<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
 		</tr>
 	</tbody>
 </table>	
