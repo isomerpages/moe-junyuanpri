@@ -48,6 +48,19 @@ Taekwondo is a Korean martial art that was developed by Korean masters in the 19
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="3">2025</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">National Schools Games - Senior Boys</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Poomsae Gold <br> </th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Taekwondo (Junior and Senior Boys)</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Junior Boys Green Belt, 4th placing</th>
+		</tr>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Taekwondo (Junior and Senior Girls)</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Senior Girls Blue Belt, 4th placing</th>
+		</tr>
 			<tr>
 			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="3">2023</th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">Taekwondo (Senior Boys)</th>
@@ -72,12 +85,12 @@ Taekwondo is a Korean martial art that was developed by Korean masters in the 19
 ---
 
 
-##### **SCHEDULE**  
+##### **CCA SCHEDULE**  
+ 
+ Mondays: 2.00pm - 3.30pm (P5, P6 and selected P4 members) <br>
+Fridays:    2.00pm - 3.30pm (P4 and selected P5 &amp; P6 members)
   
-Mondays &amp; Fridays  
-2.00pm - 3.30pm  
-  
-**Teachers IC and Email address:**  
-Mdm Sim Hui Hui:&nbsp;[sim\_huihui@moe.edu.sg](mailto:sim_huihui@moe.edu.sg)  
+**Name of CCA Teacher I/C and email address:**  
+Mdm Sim Hui Hui (OIC):&nbsp;[sim\_huihui@moe.edu.sg](mailto:sim_huihui@moe.edu.sg)  
 Mdm Norlinda:&nbsp;[norlinda\_saadon@moe.edu.sg](mailto:norlinda_saadon@moe.edu.sg)  
-Mdm Zhu Xue Shu:&nbsp;[zhu\_xueshu@moe.edu.sg](mailto:zhu_xueshu@moe.edu.sg)
+Mrs Hao (Mdm Zhu Xue Shu):&nbsp;[zhu\_xueshu@moe.edu.sg](mailto:zhu_xueshu@moe.edu.sg)
