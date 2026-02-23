@@ -67,11 +67,11 @@ The Drama Club was formed in 2013. Currently, there are 41 members from Primary 
 
 
 
-### SCHEDULE
+### CCA Schedule
 
 Mondays: 2.00pm - 3.30pm  
   
-**Teachers IC:**<br>
+**Name of CCA Teacher I/C and email address:**<br>
 Mrs Hanes (OIC):&nbsp;[suriani\_abdullah@moe.edu.sg](mailto:suriani_abdullah@moe.edu.sg)<br>
 Mrs Chow Kar Yan:&nbsp;[chua\_kar\_yan@moe.edu.sg](mailto:chua_kar_yan@moe.edu.sg)<br>
 Mdm Nadhira:&nbsp;[nadhira\_parveen@moe.edu.sg](mailto:nadhira_parveen@moe.edu.sg)<br>
