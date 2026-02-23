@@ -42,19 +42,19 @@ Our Junyuan floorball team is made up of passionate players, teachers and coache
 	</thead>
 	<tbody>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2025</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">NSG Floorball Junior and Senior Boys: Junior Girls </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Preliminary Round<br><br> 1st in group 2B</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2025</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">NSG Floorball Junior and Senior Boys: Junior Girls </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Preliminary Round<br><br> 1st in group 2B</td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2023</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">NSG Floorball Seniors 2023 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Preliminary Round 1<br><br> 1st position</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2023</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">NSG Floorball Seniors 2023 </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Preliminary Round 1<br><br> 1st position</td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2019</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National Floorball Championships: Junior Boys</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Tier 2 - Group 2A<br><br> 2nd position</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2019</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">National Floorball Championships: Junior Boys</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Tier 2 - Group 2A<br><br> 2nd position</td>
 		</tr>
 	</tbody>
 </table>	
