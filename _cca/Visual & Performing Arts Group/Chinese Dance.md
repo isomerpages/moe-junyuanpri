@@ -43,14 +43,14 @@ Chinese Dance allows students to learn dance moves, proper stretching, warm-up t
 	</thead>
 	<tbody>
 			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2018</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Singapore Youth Festival (SYF​) </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Accomplishment </th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2018</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Singapore Youth Festival (SYF) </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Accomplishment </td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2016</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Singapore Youth Festival (SYF)</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"> Certificate of Distinction</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2016</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Singapore Youth Festival (SYF)</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"> Certificate of Distinction</td>
 		</tr>
 	</tbody>
 </table>	
