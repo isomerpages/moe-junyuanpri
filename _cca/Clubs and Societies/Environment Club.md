@@ -37,13 +37,13 @@ Pupils learn to be self-directed learners and make their own decisions as they r
 	</thead>
 	<tbody>
 			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2021</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">World Water Day Online Celebrations 2021	 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2021</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">World Water Day Online Celebrations 2021	 </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Participation</td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">World Water Day Poster Making Competition </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">World Water Day Poster Making Competition </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Participation</td>
 		</tr>
 	</tbody>
 </table>
