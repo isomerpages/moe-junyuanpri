@@ -35,25 +35,25 @@ The International Dance is a newly formed Aesthetics CCA in Junyuan Primary Scho
 	</thead>
 	<tbody>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2025</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National Day Concert 2025</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"> </th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2025</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">National Day Concert 2025</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"> </td>
 		</tr>
-		  <tr><th style="border:1px solid black; text-align:left;vertical-align:left">End of Year Prize Presentation 2025</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"> </th>
+		  <tr><td style="border:1px solid black; text-align:left;vertical-align:left">End of Year Prize Presentation 2025</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"> </td>
 			</tr><tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2020</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Singapore Youth Festival (SYF​) </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"> </th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2020</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Singapore Youth Festival (SYF) </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"> </td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2019</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">International Friendship Day</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2019</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">International Friendship Day</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"></td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National Day Observance Ceremony</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">National Day Observance Ceremony</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"></td>
 		</tr>
 	</tbody>
 </table>	
