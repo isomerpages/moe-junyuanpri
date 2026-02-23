@@ -51,25 +51,25 @@ Cub Scout Gangshow
 	</thead>
 	<tbody>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2025</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Chief Scout Award 2025	 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Elston Wong He Le<br>Adelia Khairissa Binte Mohammad Khair<br>Qaysa Alara Binte Imran Nazqin<br>Keyes Seow Kai Yuan<br>Goh Ying Ming Casper<br>Mahmood Bin Muhammad Nizar<br>Yumi Aoki<br>Jason Wang<br>Noor Renny Septriasa Binte Mohamed Yazid Izkhairol<br>Kyler Lim
-</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Hiking<br>Scout Progress and Proficiency Badge activities<br>Singapore Scouts' Community Challenge<br>Job Week<br>National Day Observance and Concert<br>Cub Scout Leadership Camp<br>Chief Scout Award</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2025</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Chief Scout Award 2025	 </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Elston Wong He Le<br>Adelia Khairissa Binte Mohammad Khair<br>Qaysa Alara Binte Imran Nazqin<br>Keyes Seow Kai Yuan<br>Goh Ying Ming Casper<br>Mahmood Bin Muhammad Nizar<br>Yumi Aoki<br>Jason Wang<br>Noor Renny Septriasa Binte Mohamed Yazid Izkhairol<br>Kyler Lim
+</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Hiking<br>Scout Progress and Proficiency Badge activities<br>Singapore Scouts' Community Challenge<br>Job Week<br>National Day Observance and Concert<br>Cub Scout Leadership Camp<br>Chief Scout Award</td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2024</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Akela Award 2024	 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Cayden Lee Pin Yi<br>Chen Huixian, Faelyn<br>Vera Mei Li Ning<br>Nazrul Haq Bin Mohammad Zhafrie<br>Nicholas Hwee Yeat Fong
-</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2024</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Akela Award 2024	 </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Cayden Lee Pin Yi<br>Chen Huixian, Faelyn<br>Vera Mei Li Ning<br>Nazrul Haq Bin Mohammad Zhafrie<br>Nicholas Hwee Yeat Fong
+</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"></td>
 		</tr>
 			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2023</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Akela Award 2023	 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Valencia Bai<br>Shri Swasthika<br>Jisele Li<br>Rezann Lau Rui Zhen<br>Yang Chiao Fei
-</th>
-				<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2023</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Akela Award 2023	 </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Valencia Bai<br>Shri Swasthika<br>Jisele Li<br>Rezann Lau Rui Zhen<br>Yang Chiao Fei
+</td>
+				<td style="border:1px solid black; text-align:left;vertical-align:left"></td>
 		</tr>
 	</tbody>
 </table>	
