@@ -62,7 +62,7 @@ We aim to develop our members into graceful and skilled dancers, and confident p
 
 
 
-##### **SCHEDULE**
+##### **CCA Schedule**
 
 Mondays: 2.00pm - 4.00pm (All members)<br>
 Fridays: 2.00pm - 4.00pm (All members)<br>
