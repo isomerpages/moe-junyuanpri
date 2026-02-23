@@ -61,7 +61,7 @@ The International Dance is a newly formed Aesthetics CCA in Junyuan Primary Scho
 ---
 ##### **SCHEDULE**
 
-Mondays and Fridays: 2.00pm - 3.30pm (All Members)
+Mondays and Fridays: 2.00pm - 4.00pm (All Members)
   
 **Name of CCA Teacher I/C and email address:**  <br>
 Mr Nor Azri B Abdul Aziz (OIC):&nbsp;[nor\_azri@moe.edu.sg](mailto:nor_azri@moe.edu.sg)<br>
