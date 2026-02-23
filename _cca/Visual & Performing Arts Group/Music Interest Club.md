@@ -69,7 +69,7 @@ The Music Interest Club is a multi-instrumental ensemble club comprising of enth
 
 ---
 
-##### **SCHEDULE**
+##### **CCA Schedule**
 
 Mondays: 2:00pm – 3:30pm  <br>
 Fridays: 2:00pm – 3:30pm  <br>
