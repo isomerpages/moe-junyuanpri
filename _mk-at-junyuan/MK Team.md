@@ -90,7 +90,7 @@ MK Team
 	 <tr>
     <td class="tg-ncov"> Ms Nur Afiqah Binte Abdul Aziz</td>
     <td class="tg-ncov">English Language Teacher </td>
-    <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">nur_afiqah_adbul_aziz@moe.edu.sg</span><br></td>
+    <td class="tg-1jrd"><span style="text-decoration:underline;color:#A52023">nur_afiqah_abdul_aziz@moe.edu.sg</span><br></td>
   </tr>
 	 <tr>
     <td class="tg-ncov"> Mdm Nurul Fatin Binte Hassan</td>
