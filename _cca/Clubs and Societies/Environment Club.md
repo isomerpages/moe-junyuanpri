@@ -37,25 +37,24 @@ Pupils learn to be self-directed learners and make their own decisions as they r
 	</thead>
 	<tbody>
 			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2021</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">World Water Day Online Celebrations 2021	 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2021</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">World Water Day Online Celebrations 2021	 </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Participation</td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">World Water Day Poster Making Competition </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">World Water Day Poster Making Competition </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Participation</td>
 		</tr>
 	</tbody>
 </table>
 
 
-##### **SCHEDULE**
+##### **CCA Schedule**
 
-Fridays  
-2.00pm - 3.30pm  
+Fridays: 2.00pm - 3.30pm  
   
-**Teachers IC and Email address:**  <br>
-Ms Loong Shu Yi:&nbsp;[loong\_shu\_yi@moe.edu.sg](mailto:loong_shu_yi@moe.edu.sg)<br>
-Mrs Cynthia Chu:&nbsp;[lim\_hui\_ling\_cynthia@moe.edu.sg](mailto:lim_hui_ling_cynthia@moe.edu.sg) <br>
+**Name of CCA Teacher I/C and email address:**  <br>
+Ms Loong Shu Yi (OIC):&nbsp;[loong\_shu\_yi@moe.edu.sg](mailto:loong_shu_yi@moe.edu.sg)<br>
 Mdm Joelyn Cheah:&nbsp;[cheah\_soo\_har@moe.edu.sg](mailto:cheah_soo_har@moe.edu.sg)  <br>
-Mdm Hidayah:&nbsp;[nurhidayah\_farook@moe.edu.sg](mailto:nurhidayah_farook@moe.edu.sg)  <br>
+Mrs Cynthia Chu:&nbsp;[lim\_hui\_ling\_cynthia@moe.edu.sg](mailto:lim_hui_ling_cynthia@moe.edu.sg) <br>
+Miss Tilagawathy:&nbsp;[tilagawathy\_v\_tirumalai@moe.edu.sg](mailto:tilagawathy_v_tirumalai@moe.edu.sg)  <br>

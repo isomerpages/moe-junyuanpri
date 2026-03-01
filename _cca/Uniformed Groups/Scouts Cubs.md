@@ -45,33 +45,31 @@ Cub Scout Gangshow
 		<tr>
 			<th style="border:1px solid black; text-align:left;vertical-align:left">Year</th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left"> Event / Activity</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Name of Student</th>
 			<th style="border:1px solid black; text-align:left;vertical-align:left"> Participation / Achievement</th>
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2025</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Chief Scout Award 2025	 </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Elston Wong He Le<br>Adelia Khairissa Binte Mohammad Khair<br>Qaysa Alara Binte Imran Nazqin<br>Keyes Seow Kai Yuan<br>Goh Ying Ming Casper<br>Mahmood Bin Muhammad Nizar<br>Yumi Aoki<br>Jason Wang<br>Noor Renny Septriasa Binte Mohamed Yazid Izkhairol<br>Kyler Lim
+</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Hiking<br>Scout Progress and Proficiency Badge activities<br>Singapore Scouts' Community Challenge<br>Job Week<br>National Day Observance and Concert<br>Cub Scout Leadership Camp<br>Chief Scout Award</td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2024</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Akela Award 2024	 </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Cayden Lee Pin Yi<br>Chen Huixian, Faelyn<br>Vera Mei Li Ning<br>Nazrul Haq Bin Mohammad Zhafrie<br>Nicholas Hwee Yeat Fong
+</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"></td>
+		</tr>
 			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2023</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Akela Award 2023	 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">VALENCIA BAI<br>SHRI SWASTHIKA<br>JISELE LI<br>REZANN LAU RUI ZHEN<br>YANG CHIAO FEI
-</th>
-		</tr>
-		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2022</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Akela Award 2022</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">LIM XUAN EN, EMILY <br>MOHAMMAD ARYAN SHAH BIN ASRIN <br>HOO WEN ZE <br>MUHAMMAD HAZIM BIN HIDAYAT <br>RAZIQ AMMAR BIN ABDUL KAMAL 
-</th>
-		</tr>
-		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2021</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Akela Award 2021	 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">NUR'AINAA IZZATI BINTE MOHAMAD IZUANDI<br>RYAN NG HONG WEI<br>DUONG NGUYEN NGOC TRAN<br>JANESSA CHIA YU XUAN<br>SIM XIAO EN, KELLIE<br>CRYSTAL TAN MI SIAN<br>AALIA ARINA
-</th>
-		</tr>
-		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2019</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Akela Award 2021	 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">NUR'AINAA IZZATI BINTE MOHAMAD IZUANDI<br>RYAN NG HONG WEI<br>DUONG NGUYEN NGOC TRAN<br>JANESSA CHIA YU XUAN<br>SIM XIAO EN, KELLIE<br>CRYSTAL TAN MI SIAN<br>AALIA ARINA
-</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2023</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Akela Award 2023	 </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Valencia Bai<br>Shri Swasthika<br>Jisele Li<br>Rezann Lau Rui Zhen<br>Yang Chiao Fei
+</td>
+				<td style="border:1px solid black; text-align:left;vertical-align:left"></td>
 		</tr>
 	</tbody>
 </table>	
@@ -79,15 +77,14 @@ Cub Scout Gangshow
 
 ---
 
-##### **SCHEDULE**  
+##### **CCA Schedule**  
 
-Fridays&nbsp;<br>
-2.00pm - 3.30pm
+Fridays: 2.00pm - 3.30pm
 
   
 
-**Teachers IC and Email address:**  
+**Name of CCA Teacher I/C and email address:**  
 Mdm Loo Chin Imm: l[oo\_chin\_imm@moe.edu.sg](mailto:oo_chin_imm@moe.edu.sg) <br>
-Mr Kelvin Goh:&nbsp;[goh\_wei\_keong\_kelvin@moe.edu.sg](mailto:goh_wei_keong_kelvin@moe.edu.sg)<br>
 Mdm Liyana:&nbsp;[nur\_liyana\_amrun@moe.edu.sg](mailto:nur_liyana_amrun@moe.edu.sg)<br>
+Mr Kelvin Goh:&nbsp;[goh\_wei\_keong\_kelvin@moe.edu.sg](mailto:goh_wei_keong_kelvin@moe.edu.sg)<br>
 Mdm Siti Hawa:&nbsp;[siti\_hawa\_abdul\_karim@moe.edu.sg](mailto:siti_hawa_abdul_karim@moe.edu.sg)

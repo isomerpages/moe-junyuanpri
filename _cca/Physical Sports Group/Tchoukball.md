@@ -37,135 +37,123 @@ Junyuan Primary started Tchoukball as a CCA in 2012. It is an active and fun spo
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left" rowspan="7">2025</td>
+		</tr><tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2025 (Junior Boys Cup)
+</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">1st position</td>
+		</tr>
 			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="8">2023</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">6th World Youth Tchoukball Championships 2023,
-Boys</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">3rd position</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2025 (Junior Boys Plate)
+</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">1st position</td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">6th World Youth Tchoukball Championships 2023,
+			<td style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2025 (Junior Girls Cup)
+</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2nd position</td>
+		</tr>
+			<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2025 (Junior Girls Plate)
+</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">1st position</td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2025 (Senior Boys)
+</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">4th position</td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2025 (Senior Girls)
+</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">1st position</td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left" rowspan="7">2024</td>
+		</tr><tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2024 (Junior Boys Cup)
+</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2nd position</td>
+		</tr>
+			<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2024 (Junior Boys Plate)
+</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">1st position</td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2024 (Junior Girls Cup)
+</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2nd position</td>
+		</tr>
+			<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2024 (Junior Girls Plate)
+</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">3rd position</td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2024 (Senior Boys)
+</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">1st position</td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2024 (Senior Girls)
+</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">3rd position</td>
+		</tr>
+			<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left" rowspan="8">2023</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">6th World Youth Tchoukball Championships 2023,
+Boys</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">3rd position</td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">6th World Youth Tchoukball Championships 2023,
 Girls
-</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2nd position</th>
+</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2nd position</td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2023 (Junior Boys Cup)
-</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2nd position</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2023 (Junior Boys Cup)
+</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2nd position</td>
 		</tr>
 			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2023 (Junior Boys Plate)
-</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2nd position</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2023 (Junior Boys Plate)
+</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2nd position</td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2023 (Junior Girls Cup)
-</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">3rd position</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2023 (Junior Girls Cup)
+</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">3rd position</td>
 		</tr>
 			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2023 (Junior Girls Plate)
-</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2nd position</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2023 (Junior Girls Plate)
+</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2nd position</td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2023 (Senior Boys)
-</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">1st position</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2023 (Senior Boys)
+</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">1st position</td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2023 (Senior Girls)
-</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2nd position</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">ActiveSG-TBAS Inter School Tchoukball Championships 2023 (Senior Girls)
+</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2nd position</td>
 		</tr>
-		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="10">2022</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">SPH Foundation National Primary School Tchoukball Championships 2022 (Juniors), 
-Cup (Boys)
-</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2nd position</th>
-		</tr>
-		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">SPH Foundation National Primary School Tchoukball Championships 2022 (Juniors), 
-Cup (Girls)
-
-</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2nd position</th>
-		</tr>
-		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">SPH Foundation National Primary School Tchoukball Championships 2022 (Juniors), 
-Plate (Boys)
-</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">1st position</th>
-		</tr>
-			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">SPH Foundation National Primary School Tchoukball Championships 2022 (Juniors), 
-Plate (Girls)
-</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2nd position</th>
-		</tr>
-		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">SPH Foundation National Primary School Tchoukball Championships 2022 (Juniors), Bowl (Boys)
-</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">3rd position</th>
-		</tr>
-			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">SPH Foundation National Primary School Tchoukball Championships 2022 (Juniors), Bowl (Girls)
-</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">4th position</th>
-		</tr>
-		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">SPH Foundation National Primary School Tchoukball Championships 2022 (Senior), Cup (Boys)
-</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2nd position</th>
-		</tr>
-		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">SPH Foundation National Primary School Tchoukball Championships 2022 (Senior), Cup (Girls)
-</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2nd position</th>
-		</tr>
-		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">SPH Foundation National Primary School Tchoukball Championships 2022 (Senior),
-Plate (Boys)
-</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">1st position</th>
-		</tr>
-		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">SPH Foundation National Primary School Tchoukball Championships 2022 (Senior),
-Plate (Girls)
-</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">3rd position</th>
-		</tr>
-		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="4">2019</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National Primary School Tchoukball Championships 2019 (Seniors), Boys</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Champion</th>
-		</tr>
-		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National Primary School Tchoukball Championships 2019 (Seniors), Girls</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">1st Runner up</th>
-		</tr>
-			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National Primary School Tchoukball Championships 2019 (Juniors), Boys</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Champion</th>
-		</tr>
-		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National Primary School Tchoukball Championships 2019 (Juniors), Girls</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Champion</th>
-		</tr>
-		<tr>
-	</tr></tbody>
+		</tbody>
 </table>	
 
 
 
-##### **SCHEDULE**
+##### **CCA Schedule**
 
-Mondays &amp; Fridays  
-2.00pm - 3.30pm  
+Mondays: 2.00pm - 4.00pm  (All Members)<br>
+Fridays: 2.00pm - 4.00pm  (All Members)
   
-**Teachers IC and Email address:**  
+**Name of CCA Teacher I/C and email address:**  
 Mr Koh Thiam Joo:&nbsp;[koh\_thiam\_joo@moe.edu.sg](mailto:koh_thiam_joo@moe.edu.sg)  
 Mdm Soh Eng Wee:&nbsp;[soh\_eng\_wee@moe.edu.sg](mailto:soh_eng_wee@moe.edu.sg)  
 Mr Terence Khoo:&nbsp;[khoo\_kang\_ming@moe.edu.sg](mailto:khoo_kang_ming@moe.edu.sg)<br>

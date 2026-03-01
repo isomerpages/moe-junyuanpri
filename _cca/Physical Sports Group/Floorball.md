@@ -32,7 +32,6 @@ Our Junyuan floorball team is made up of passionate players, teachers and coache
 ---
 
 ##### **PARTICIPATION AND ACHIEVEMENTS AT EVENTS**
-  
 <table style="border:1px solid black">
 	<thead>
 		<tr>
@@ -42,15 +41,20 @@ Our Junyuan floorball team is made up of passionate players, teachers and coache
 		</tr>
 	</thead>
 	<tbody>
-			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2023</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">NSG FLOORBALL SENIORS 2023 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Preliminary Round 1<br><br> 1st position</th>
+		<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2025</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">NSG Floorball Junior and Senior Boys: Junior Girls </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Preliminary Round<br><br> 1st in group 2B</td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2019</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National Floorball Championships: Junior Boys</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Tier 2 - Group 2A<br><br> 2nd position</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2023</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">NSG Floorball Seniors 2023 </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Preliminary Round 1<br><br> 1st position</td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2019</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">National Floorball Championships: Junior Boys</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Tier 2 - Group 2A<br><br> 2nd position</td>
 		</tr>
 	</tbody>
 </table>	
@@ -60,14 +64,16 @@ Our Junyuan floorball team is made up of passionate players, teachers and coache
 -----
 
 
-##### **SCHEDULE**  
+##### **CCA Schedule**  
+ 
+Mondays: 2.00pm - 3.30pm (P4 &amp; P5) <br>
+Fridays:    2.00pm - 3.30pm (P6) <br>
+Mondays &amp; Fridays: 2.00pm - 5.00pm (P6 boys and girls school team)
   
-Mondays &amp; Fridays  
-2.00pm - 3.30pm&nbsp;  
-  
-**Teachers IC and Email address:**&nbsp;  
-
-Mr Pavadai Mohan:&nbsp;[pavadai\_mohan@moe.edu.sg](mailto:pavadai_mohan@moe.edu.sg)<br>
+**Name of CCA Teacher I/C and email address:**<br>  
+Mr Pavadai Mohan (OIC):&nbsp;[pavadai\_mohan@moe.edu.sg](mailto:pavadai_mohan@moe.edu.sg)<br>
 Mdm Nur Azlina:&nbsp;[nur\_azlina\_othman@moe.edu.sg](mailto:nur_azlina_othman@moe.edu.sg)<br>
 Mdm Sabrina:&nbsp;[sabrina\_mohamed@moe.edu.sg](mailto:sabrina_mohamed@moe.edu.sg)
+<br>
+Mdm Azimah:&nbsp;[noor\_azimah\_ahmad\_shariff@moe.edu.sg](mailto:noor_azimah_ahmad_shariff@moe.edu.sg)
 <br>

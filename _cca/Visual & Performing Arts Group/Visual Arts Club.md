@@ -35,39 +35,39 @@ In the Visual Arts Club, members have the opportunity to explore a wide range of
 	</thead>
 	<tbody>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="4">2023</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Invitation for Mural painting in Tampines by Tampines Town Council</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"> </th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left" rowspan="4">2023</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Invitation for Mural painting in Tampines by Tampines Town Council</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"> </td>
 		</tr>
 			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">SYF Art Exhibition 2021 Category A	 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Recognition </th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">SYF Art Exhibition 2021 Category A	 </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Recognition </td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">SYF Art Exhibition 2021 Category B</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Recognition</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">SYF Art Exhibition 2021 Category B</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Recognition</td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">SYF Art Exhibition 2021 Category C</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Recognition</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">SYF Art Exhibition 2021 Category C</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Recognition</td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2021</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">SYF Art Exhibition 2021 Category C	 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Recognition<br>(Special Mention)</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2021</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">SYF Art Exhibition 2021 Category C	 </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Certificate of Recognition<br>(Special Mention)</td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="3">2019</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Singapore Youth Festive 2019 Art Exhibition, Category B	 </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"> ‘Our Bridge of Success’ was selected for <br>on-site art exhibition at National Gallery Singapore.</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left" rowspan="3">2019</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Singapore Youth Festive 2019 Art Exhibition, Category B	 </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"> ‘Our Bridge of Success’ was selected for <br>on-site art exhibition at National Gallery Singapore.</td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Participated in SYF Art Exhibition 2017 Category C </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Participated in SYF Art Exhibition 2017 Category C </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"></td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Participated in SOTA competition 2019</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Participated in SOTA competition 2019</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"></td>
 		</tr>
 	</tbody>
 </table>	
@@ -76,14 +76,15 @@ In the Visual Arts Club, members have the opportunity to explore a wide range of
 
 ---
 
-##### **SCHEDULE:**  
-P3 and P5 on Mondays (2.00pm - 3.30pm) <br>
-P4 and P6 on Fridays (2.00pm - 3.30pm)
+##### **CCA Schedule:**  
+Mondays: 2.00pm - 3.30pm (P6) <br>
+Fridays: 2.00pm - 3.30pm (P4 and P5)
 
   
-**Teachers IC and Email address:**<br>
-Mrs Ang:&nbsp;[chan\_yen\_ling\_michelle@moe.edu.sg](mailto:chan_yen_ling_michelle@moe.edu.sg)  <br>
+**Name of CCA Teacher I/C and email address:**<br>
+Mrs Michelle Ang (OIC):&nbsp;[chan\_yen\_ling\_michelle@moe.edu.sg](mailto:chan_yen_ling_michelle@moe.edu.sg)  <br>
 Mr Wang Shing Huei:&nbsp;[wang\_shing\_huei@moe.edu.sg](mailto:wang_shing_huei@moe.edu.sg)  <br>
 Mrs Monica Berger:&nbsp;[monica\_vasanti\_augustine@moe.edu.sg](mailto:monica_vasanti_augustine@moe.edu.sg)<br> 
-Mrs Angela Chin:&nbsp;[kam\_jiewen@moe.edu.sg](mailto:kam_jiewen@moe.edu.sg)<br>
-Mrs Josephine Lee:&nbsp;[twoon\_mui\_chuan\_josephine@moe.edu.sg](mailto:woon_mui_chuan_josephine@moe.edu.sg)
+Mdm Sarina:&nbsp;[sarina\_arsad\_a@moe.edu.sg](mailto:sarina_arsad_a@moe.edu.sg)<br>
+Mrs Josephine Lee:&nbsp;[twoon\_mui\_chuan\_josephine@moe.edu.sg](mailto:woon_mui_chuan_josephine@moe.edu.sg)<br>
+Miss Chloe Teo: &nbsp;[chloe\_teo\_liwen@moe.edu.sg](mailto:chloe_teo_liwen@moe.edu.sg)<br>

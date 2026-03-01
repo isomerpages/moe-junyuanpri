@@ -48,23 +48,36 @@ Taekwondo is a Korean martial art that was developed by Korean masters in the 19
 		</tr>
 	</thead>
 	<tbody>
-			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="3">2023</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Taekwondo (Senior Boys)</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Poomsae Green 6, 5th position <br><br>5-Duan Nanquan, 17th position<br><br>		1st International Nan Gun, 23rd position<br> </th>
+		<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left" rowspan="3">2025</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">National Schools Games - Senior Boys</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Poomsae Gold <br> </td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Taekwondo (Senior Girls)</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Poomsae Yellow 7, 7th position</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Taekwondo (Junior and Senior Boys)</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Junior Boys Green Belt, 4th placing</td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Taekwondo (Junior Boys)</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Poomsae Poom 1, Gold</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Taekwondo (Junior and Senior Girls)</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Senior Girls Blue Belt, 4th placing</td>
 		</tr>
 			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="3">2019</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">NSG (Senior Division Male category)</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">4th position Overall <br> </th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left" rowspan="3">2023</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Taekwondo (Senior Boys)</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Poomsae Green 6, 5th position <br><br>5-Duan Nanquan, 17th position<br><br>		1st International Nan Gun, 23rd position<br> </td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Taekwondo (Senior Girls)</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Poomsae Yellow 7, 7th position</td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Taekwondo (Junior Boys)</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Poomsae Poom 1, Gold</td>
+		</tr>
+			<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left" rowspan="3">2019</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">NSG (Senior Division Male category)</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">4th position Overall <br> </td>
 		</tr>
 	</tbody>
 </table>	
@@ -72,12 +85,12 @@ Taekwondo is a Korean martial art that was developed by Korean masters in the 19
 ---
 
 
-##### **SCHEDULE**  
+##### **CCA Schedule**  
+ 
+ Mondays: 2.00pm - 3.30pm (P5, P6 and selected P4 members) <br>
+Fridays:    2.00pm - 3.30pm (P4 and selected P5 &amp; P6 members)
   
-Mondays &amp; Fridays  
-2.00pm - 3.30pm  
-  
-**Teachers IC and Email address:**  
-Mdm Sim Hui Hui:&nbsp;[sim\_huihui@moe.edu.sg](mailto:sim_huihui@moe.edu.sg)  
+**Name of CCA Teacher I/C and email address:**  
+Mdm Sim Hui Hui (OIC):&nbsp;[sim\_huihui@moe.edu.sg](mailto:sim_huihui@moe.edu.sg)  
 Mdm Norlinda:&nbsp;[norlinda\_saadon@moe.edu.sg](mailto:norlinda_saadon@moe.edu.sg)  
-Mdm Zhu Xue Shu:&nbsp;[zhu\_xueshu@moe.edu.sg](mailto:zhu_xueshu@moe.edu.sg)
+Mrs Hao (Mdm Zhu Xue Shu):&nbsp;[zhu\_xueshu@moe.edu.sg](mailto:zhu_xueshu@moe.edu.sg)

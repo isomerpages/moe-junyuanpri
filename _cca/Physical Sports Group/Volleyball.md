@@ -32,29 +32,19 @@ The Volleyball CCA aims to educate its members on the schools’ 7 character val
 	</thead>
 	<tbody>
 			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2023</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National School Games – Senior Boys<br><br>National School Games – Junior Boys<br><br>National School Games – Junior Girls<br> </th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">League 1  Round 1 - 4th position <br><br>Participation<br><br>Participation<br> </th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2025</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">National School Games – Senior Boys<br><br>National School Games – Junior Boys<br></td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Participation<br><br>Participation<br></td>
+		</tr>
+			<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2023</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">National School Games – Senior Boys<br><br>National School Games – Junior Boys<br><br>National School Games – Junior Girls<br> </td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">League 1  Round 1 - 4th position <br><br>Participation<br><br>Participation<br> </td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2022</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National School Games – Senior Boys<br><br>National School Games – Junior Boys<br></th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation<br><br>Participation<br></th>
-		</tr>
-		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2021</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National School Games – Senior Boys<br><br>National School Games – Junior Boys<br></th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation<br><br>Participation<br></th>
-		</tr>
-		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2020</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">National School Games – Senior Boys</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Participation</th>
-		</tr>
-		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">2019</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">East Zone Volleyball Championships - Senior Boys<br><br>East Zone Volleyball Championships - Junior Boys</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">3rd in group<br><br> 4th in group</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">2022</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">National School Games – Senior Boys<br><br>National School Games – Junior Boys<br></td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Participation<br><br>Participation<br></td>
 		</tr>
 	</tbody>
 </table>	
@@ -62,13 +52,13 @@ The Volleyball CCA aims to educate its members on the schools’ 7 character val
 
 ---
 
-##### **SCHEDULE**
+##### **CCA Schedule**
 
-Mondays &amp; Fridays  
-2.00pm - 3.30pm&nbsp;  
+Mondays: 2.00pm - 4.00pm (All Members)<br>
+Fridays:    2.00pm - 4.00pm (All Members)<br>
   
-**Teachers IC and Email address:**  
+**Name of CCA Teacher I/C and email address:**  
 Mr Andre Ye:&nbsp;[ye\_huankun\_andre@moe.edu.sg](mailto:ye_huankun_andre@moe.edu.sg)  <br>
-Mdm Marina:&nbsp;[marina\_hassan@moe.edu.sg](mailto:marina_hassan@moe.edu.sg) <br>
 Mrs Widdy Teh:&nbsp;[widdy\_haryanti\_srisungkouu@moe.edu.sg](mailto:widdy_haryanti_srisungkouu@moe.edu.sg)  <br>
+Mdm Marina:&nbsp;[marina\_hassan@moe.edu.sg](mailto:marina_hassan@moe.edu.sg) <br>
 Mdm De Souza Valerie Jean:&nbsp;[de\_souza\_valerie\_jean@moe.edu.sg](mailto:de_souza_valerie_jean@moe.edu.sg)

@@ -32,32 +32,36 @@ The Music Interest Club is a multi-instrumental ensemble club comprising of enth
 		</tr>
 	</thead>
 	<tbody>
-			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2024</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">End-of_Year Prize Giving Day Performance</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"> </th>
-		</tr>
-			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Racial Harmony Day Concert</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
-		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2023</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">End-of_Year Prize Giving Day Performance</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"> </th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left" rowspan="3">2025</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">National Day Observance Concert</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"> </td>
 		</tr>
 			<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">International Friendship Day Celebrations</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left"></th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Tampines West National Day Carnival</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"></td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2019</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">TWCC National Day Carnival 2019</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Performance of a medley of popular Singapore Songs </th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">End-of-year Prize Presentation</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"></td>
+		</tr>
+			<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2024</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">End-of_Year Prize Giving Day Performance</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"> </td>
+		</tr>
+			<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Racial Harmony Day Concert</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"></td>
 		</tr>
 		<tr>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Awards Day 2019</th>
-			<th style="border:1px solid black; text-align:left;vertical-align:left">Latin and Pop music performance</th>
+			<td style="border:1px solid black; text-align:left;vertical-align:left" rowspan="2">2023</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">End-of_Year Prize Giving Day Performance
+			</td><th style="border:1px solid black; text-align:left;vertical-align:left"> 
+		</th></tr>
+			<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">International Friendship Day Celebrations</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left"></td>
 		</tr>
 	</tbody>
 </table>	
@@ -65,12 +69,13 @@ The Music Interest Club is a multi-instrumental ensemble club comprising of enth
 
 ---
 
-##### **SCHEDULE**
+##### **CCA Schedule**
 
-Every Mondays &amp; Fridays  2:00pm – 3:30pm  
+Mondays: 2:00pm – 3:30pm  <br>
+Fridays: 2:00pm – 3:30pm  <br>
   
-**Teachers IC and Email address:**  <br>
+**Name of CCA Teacher I/C and email address:**  <br>
 Mrs M De Almeida:&nbsp;[bonaparte\_marisa@moe.edu.sg](mailto:Bonaparte_marisa@moe.edu.sg)<br>
 Mr Murugesu:&nbsp;[murugesu\_samarasan@moe.edu.sg](mailto:murugesu_samarasan@moe.edu.sg)<br>
-Mr Joseph Sim:&nbsp;[sim\_poh\_meng\_joseph@moe.edu.sg](mailto:sim_poh_meng_joseph@moe.edu.sg)  <br>
 Mrs Chua Ming Peow:&nbsp;[foo\_ming\_peow@moe.edu.sg](mailto:foo_ming_peow@moe.edu.sg)  <br>
+Mr Joseph Sim:&nbsp;[sim\_poh\_meng\_joseph@moe.edu.sg](mailto:sim_poh_meng_joseph@moe.edu.sg)  <br>
