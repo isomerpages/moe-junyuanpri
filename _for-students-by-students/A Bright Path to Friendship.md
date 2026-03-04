@@ -4,3 +4,4 @@ permalink: /a-bright-path-to-friendship/
 variant: markdown
 description: ""
 ---
+![](/images/A_bright_path_to_friendship_Pg1.png)
