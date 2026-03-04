@@ -6,3 +6,5 @@ description: ""
 ---
 ![](/images/A_bright_path_to_friendship_Pg1.png)
 ![](/images/A_bright_path_to_friendship_Pg2.png)
+![](/images/A_bright_path_to_friendship_Pg3.png)
+![](/images/A_bright_path_to_friendship_Pg4.png)
