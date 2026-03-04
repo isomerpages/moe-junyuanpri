@@ -2,6 +2,7 @@ collections:
   for-students-by-students:
     output: true
     order:
+      - A Bright Path to Friendship.md
       - Welcome to JYPS News 91.md
       - Sleep Well.md
       - Our School Field is Open.md
