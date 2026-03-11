@@ -11,10 +11,6 @@ variant: markdown
 Floorball
 =========
 
-![](/images/Floorball_Formal.jpg)
-
-![](/images/Floorball_Informal.jpg)
-
 
 
 
