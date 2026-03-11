@@ -10,9 +10,6 @@ variant: markdown
 Visual Arts Club
 ================
 
-![](/images/Visual_Art_Club_P4_Informal.jpg) <br>
-![](/images/Visual_Art_Club_P5_Informal.jpg) <br>
-![](/images/Visual_Art_Club_P6_Informal.jpg) 
 
 In the Visual Arts Club, members have the opportunity to explore a wide range of artistic mediums and techniques, fostering creativity and artistic expression. Members are encouraged to develop their personal artistic style while building a strong foundation in visual communication and creativity. The CCA provides a supportive space for all skill levels. In addition, students get to work on group art pieces, murals, or installations that contribute to the displays around the school and foster teamwork.
 
