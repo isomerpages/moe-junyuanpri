@@ -10,8 +10,7 @@ variant: markdown
   
 # InfoComm Club
 
-![](/images/InfoComm_Club_Formal.jpg) <br>
-![](/images/InfoComm_Club_Informal.jpg)
+
 
 The Info Comm Club focuses on hands-on coding and robotics, emphasizing programming, problem-solving, and teamwork. Students learn the fundamentals of coding through the LEGO Spike Prime software and apply their knowledge by designing, building, and programming robots to complete specific tasks. These activities often involve challenges such as navigating obstacle courses or performing designated actions, fostering creativity and innovation. Students work collaboratively in teams to brainstorm and execute solutions, enhancing their ability to work together and communicate effectively. Those who demonstrate competency and dedication are selected to represent the club in robotics competitions, showcasing their skills and gaining valuable experience.
 
