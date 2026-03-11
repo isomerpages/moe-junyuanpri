@@ -11,9 +11,6 @@ variant: markdown
 Tchoukball
 ==========
 
-![](/images/Tchoukball_Formal.jpg)<br>
-
-![](/images/Tchoukball_Informal.jpg)
 
 
 Tchoukball, which is invented in late 1960 by Dr Hermann Brandt, is the fastest hand ball sport in the world today.  
