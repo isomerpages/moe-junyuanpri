@@ -132,7 +132,7 @@ Mathematics is a hierarchical subject, where higher concepts and skills are buil
 
 *   **[https://www.seab.gov.sg/](https://www.seab.gov.sg/)**
 
-*   **[https://www.moe.gov.sg/-/media/files/primary/2021-mathematics-syllabus-primary-1-to-6.pdf](https://www.moe.gov.sg/-/media/files/primary/2021-primary-mathematics-syllabus-p1-to-p6-updated-dec-2024.pdf)**
+*   **[https://www.moe.gov.sg/-/media/files/primary/2021-mathematics-syllabus-primary-1-to-6.pdf](https://www.moe.gov.sg/api/media/92bff26d-b2b4-4535-b868-b8415c744b91/2021-Primary-Mathematics-Syllabus-P1-to-P6-Updated-October-2025.pdf)**
 
 
 ##### **Calculators for Primary 5 and Primary 6**
