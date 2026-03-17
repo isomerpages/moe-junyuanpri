@@ -211,7 +211,7 @@ Vasanthakumar secured 1st Runner-up placing in the Finals.
 
 ### **Useful links and/or tips**
 
-[2020 English Language (Primary) Syallabus](https://www.moe.gov.sg/api/media/b8eb0437-67fb-4042-a26c-64fef2af12df/2020-english-language-primary.pdf)
+[2020 English Language (Primary) Syllabus](https://www.moe.gov.sg/api/media/b8eb0437-67fb-4042-a26c-64fef2af12df/2020-english-language-primary.pdf)
 
 [2020 English Language (Primary (Foundation) and Secondary - Normal (Technical)) Syllabus](https://www.moe.gov.sg/api/media/0cb36845-8a7c-4330-bb52-5bf0b70d3192/felnt_els-2020_syllabus.pdf)
 
