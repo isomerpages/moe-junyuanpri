@@ -79,5 +79,4 @@ The Primary 5 Overseas Learning Journey to Chiang Mai provides an opportunity fo
 
 ### Useful Links
 
-1. [The 2014 primary science syllabus](https://www.moe.gov.sg/-/media/files/primary/science-primary-2014.pdf)
-
+1. [2023 Science (Primary) Syllabus](https://www.moe.gov.sg/api/media/ba3562d3-5b31-4459-8693-45cde7b97273/Primary-Science-Syllabus-2023.pdf)
