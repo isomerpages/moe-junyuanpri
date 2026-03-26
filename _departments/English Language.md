@@ -127,6 +127,10 @@ Over four weeks, students are to write the name or draw their favourite books an
 
 Through these carefully crafted programmes and contests, we are not just teaching students to read – we are inspiring them to become passionate, lifelong readers and critical thinkers. Our LIP programme has proven highly effective in promoting a vibrant reading culture amongst our students.  
 
+##### **Library Ambassadors Programme (P4)**
+At the heart of our vibrant school library and reading culture lies our Library Ambassadors Programme. This peer-led approach cultivates public speaking skills, sparks curiosity about the different literary categories, encourages students to explore books in our school library and promotes a school-wide culture of reading and book appreciation.
+
+This initiative empowers Primary 4 students to become champions of literature as they facilitate the following activities and competitions:
 
 _Assembly Talks - Storytelling_
 
