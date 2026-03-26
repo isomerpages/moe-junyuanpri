@@ -132,50 +132,59 @@ At the heart of our vibrant school library and reading culture lies our Library 
 
 This initiative empowers Primary 4 students to become champions of literature as they facilitate the following activities and competitions:
 
+<dl>
+	<dd><b><font color="blue" size="+1"></font></b><li><b><font color="blue" size="+1">Read-aloud Sessions (P1)</font></b><br>
+During pre-morning assemblies, lower primary students bring stories to life with dramatic readings, harmonising voices to sing a tuning-song and sharing captivating tales with the school community. 
+		
+<b><font color="blue" size="+1"></font></b></li><li><b><font color="blue" size="+1">Storytelling Competition (P4)</font></b><br>
+Unleashing imagination and building confidence, our annual Storytelling Competition is a celebration of creativity, literacy and public speaking. This exciting event ignites a passion for storytelling, showcases our library's diverse book collection and builds students' confidence in public speaking.
+		
+Through this competition, we aim to provide a platform for our young storytellers to demonstrate their narrative skills and captivate audiences with their unique interpretations.
+
+		
 _Assembly Talks - Storytelling_
 
 ![](/images/English6.png)
+</li></dd></dl>
 
-_Kids’ Lit Quiz_
+##### **Within or After-school Curriculum Literacy Programme (P1 – P5)**
+In our school, we provide comprehensive support for students who need extra help with their literacy skills. This support is seamlessly integrated into both our regular curriculum and/or after-school programmes. We are committed to ensuring that every student has the opportunity to improve their reading and writing abilities, regardless of their starting point.
 
-In this quiz competition, students pit their wits against one another to answer questions on children’s books ranging from classics to comics.
+<dl>
+	<dd><b><font color="blue" size="+1"></font></b><li><b><font color="blue" size="+1">STARLETS Programme(P1 &amp; P2)</font></b><br>
+This programme enhances students’ reading abilities by targeting the foundational reading and comprehension skills, phonological awareness and alphabetic principle through engaging and meaningful reading activities. It has helped build students’ confidence in reading and speaking, making them effective and confident communicators.
 
-![](/images/English7.png)
+<b><font color="blue" size="+1"></font></b></li><li><b><font color="blue" size="+1">MOE Reading Support Programmes (P1 - P4)</font></b><br>
+Students who require further support in reading are enrolled in the following programmes according to their needs.
+* Learning Support Programme (LSP) a.k.a. Rainbow Classes (P1 &amp; P2)
+* Reading Remediation Programme (RRP P3 &amp; P4)
+* School-based Dyslexia Remediation (SDR) Programme (P3 &amp; P4)
+* Reading Remediation Programme (RRP P5 Phase 1)
+</li></dd></dl>
+	
+##### **Partnership with National Library Board (NLB) for Whole School Reading Programme**
+Our school is delighted to collaborate with NLB to promote reading and literacy. The collaboration centres on their popular NLB Book Bugs: School Edition Activity booklet, which provides engaging and interactive self-directed activities for students to complete and collect unique Book Bugs stickers and cards in school. 
+
+Our partnership extends beyond the Book Bugs programme. The school hosts NLB-led assembly talks, including captivating storytelling and Book Buzz sessions that bring books to life for our students.
+
+Through these varied activities, we hope our students will visit public libraries more frequently and cultivate a lifelong passion for reading.
+
 
 ### **EVENTS**
 
 ##### **Library Festival**
 
-During Library Festival, pupils can look forward to playing games that are tied to a theme during recess at the library. Games were also conducted in their Mother Tongue languages. We hope to spark pupils' curiosity about the wonderful world of books through these exciting activities.
+We celebrate the magic of words and stories through our annual Library Festival. This vibrant event honours literature, creativity and learning. Each year, we transform our school into a wonderland of books, with a unique theme that sparks curiosity and imagination. Through engaging games and activities during recess in English and Mother Tongue languages, students discover the joy of reading whilst expanding their knowledge in fun and interactive ways.
 
-  
+ <dl>
+	<dd><b><font color="blue" size="+1"></font></b><li><b><font color="blue" size="+1">A Book Character (ABC) Day (P1 – P4)</font></b><br>
+Watch our younger students bring their favourite literary characters to life! Students dress up as their beloved book characters and parade during recess. They also have the opportunity to share about their chosen characters. This fosters a love for reading and encourages creativity through joyful learning. The best-dressed book character will receive prizes!
 
-In year 2019, the theme was on “STEAM”. Students had a chance to engage in literacy activities such as: Books Come to Life, Puppet Storytelling, Feed the Sharks and The 3E.
-
-*2019 Library Week - “The World of STEAM"*
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-oe15"><img src="/images/img_6393a.jpg" alt="Image" width="400" height="300"></th>
-    <th class="tg-oe15"><img src="/images/img_6398.JPG" alt="Image" width="400" height="300"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-oe15"><img src="/images/img_6456.JPG" alt="Image" width="400" height="300"></td>
-    <td class="tg-oe15"><img src="/images/img_6471.JPG" alt="Image" width="400" height="300"></td>
-  </tr>
-</tbody>
-</table>
+<b><font color="blue" size="+1"></font></b></li><li><b><font color="blue" size="+1">Similes and Idioms Fun Day (P5 – P6)</font></b><br>
+Our older students dive into the playful world of figurative language! They dress up to represent a chosen simile or idiom and participate in an interactive guessing game during the recess parade. This not only enhances understanding of figurative language in a fun and memorable way but also encourages exploration and enjoyment of the English language’s quirks and nuances.
+	</li></dd></dl>
+	 
+These engaging activities promote a love for reading, boost creativity and self-expression, enhance language skills and vocabulary, foster a sense of community through shared literary experiences, making learning enjoyable and memorable.
 
 
 ### **ACHIEVEMENTS**
