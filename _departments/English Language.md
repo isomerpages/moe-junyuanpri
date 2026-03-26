@@ -94,51 +94,38 @@ _2019 P5 Overseas Learning Trip (Suzhou, Brunei, Chiang Mai)_
 
   
 
-##### **Ask Me To Read (AMTR)**
+##### **Enhanced Library Instruction Programme (LIP)**
 
-To develop and maintain a vibrant school library and reading culture, our department rides on this AMTR programme where teachers promote books of different categories during pre-morning assemblies once a month. Teachers will encourage pupils to borrow books of a particular category shared.
+Our comprehensive LIP is designed to cultivate passionate readers and critical thinkers, nurturing lifelong readers and learners. By exposing students to diverse genres and engaging them in meaningful reading-related activities, we aim to ignite a passion for reading that extends far beyond the classroom. This is in line with STELLAR’s aim where we want our pupils to ‘Learn to Read’ and progress to “Read to Learn’ in their primary school years.
+
+At the lower primary, students explore the literary landscapes, introducing them to varied genres such as fiction, fairy tales, humour and non-fiction. There is special focus on topics like animals and amazing facts with engaging activities that have been designed to deepen the understanding and appreciation of the different text types.
+
+In the upper primary, students develop research and literacy skills. Focusing on developing visual, discipline and digital literacy through non-fiction texts, they participate in exciting book hunt sessions in the school library and online activities, create book summaries, word splashes and fact sheets based on chosen topics. 
 
 ![](/images/English5.png)
+Below are the reading programmes which the children will be engaged in:
 
-##### **Reading Journey (P1)**
+<dl>
+	<dd><b><font color="blue" size="+1"></font></b><li><b><font color="blue" size="+1">Reading Journey (P1 – P3)</font></b><br>
+For our young readers, the adventure begins with learning how to choose books that spark their interest. With their chosen book, students will complete thoughtful and manageable book reviews, share with classmates and library teachers to encourage discussion and reflection about the book read. Upon completing their Reading Journey book, students earn a delightful keychain featuring our JYPS Little Life Skills Family. 
 
-This is a programme to encourage our P1 pupils to read widely. Pupils read to our Parent Volunteers, complete a short and simple review based on the books that they have read and share them with the Parent Volunteers. These reading sessions have proven effective in promoting reading amongst our young ones. Reading sessions are conducted weekly during LIP periods in the library.  
+<b><font color="blue" size="+1"></font></b></li><li><b><font color="blue" size="+1">Reading Passport (P4 – P6)</font></b><br>
+As our students mature, so does their reading independence. The upper primary students will explore a wider variety of books. They will record this in their book record and collect a stamp in their Reading Passport for each book read. After completing each page of the Reading Passport, they will write a book review on one of the books to redeem exciting prizes. 
 
-##### **STARLETS Programme(P1)**
+ <b><font color="blue" size="+1"></font></b></li><li><b><font color="blue" size="+1">Book Flood (P1 – P6)</font></b><br>
+Across all levels, a set of age-appropriate library books are accessible to all students in the classroom to promote the love for reading, especially for those who may have difficulty finding appropriate books on their own. For the upper primary, the books are made available for them to read in class anytime they have finished their work. This encourages every student to read widely and frequently and develop positive reading habits starting from the classroom.
 
-This year, the English department embarked on the STARLETS programme for the Primary 1 pupils. This programme aimed to enhance pupils’ reading abilities by targeting the foundational reading skills, phonological awareness and alphabetic principle. Pupils were taught these skills through engaging and meaningful reading activities. Pupils were also taught how to apply these skills when they read. This programme has helped build pupils confidence in reading and speaking, in turn making them effective and confident communicators.
+<b><font color="blue" size="+1"></font></b></li><li><b><font color="blue" size="+1">Make a Corner Bookmark Contest (P2 – P3)</font></b><br>
+A self-directed activity that motivates students to read with their own DIY corner bookmarks. Tapping on our online learning system, SLS, students access a lesson on making a corner bookmark, create their own and showcase it during recess to earn tokens.
 
-  
+<b><font color="blue" size="+1"></font></b></li><li><b><font color="blue" size="+1">‘Did I Get It Right?’ Quiz (P4 – P6)</font></b><br>
+This quiz on SLS promotes our school library books, develops students’ ability in listening actively and making educated guesses about book content, themes and genres, encouraging them to explore the school library. 
 
-##### **Enhanced Library Instruction Programme (P2 - P6)**
+<b><font color="blue" size="+1"></font></b></li><li><b><font color="blue" size="+1">Reading Opens Doors Contest (P5 – P6)</font></b><br>
+Over four weeks, students are to write the name or draw their favourite books and explain why they like them. These will be displayed attractively on classroom doors. The class with the best decorated class door will receive attractive tokens.
+</li></dd></dl>
 
-The programme is carefully designed to expose pupils to varied genres as well as to make reading meaningful through engaging pupils in different reading-related activities when they visit the school library. &nbsp;
-
-  
-
-At P2 and P3, we expose pupils to different genres such as fiction, fairy tales, humour, non-fiction / endangered animals and amazing facts. While from P4 - P6, pupils are engaged in book hunt sessions where they hunt for non-fiction books in the school library and non-fiction texts online. They will then write or draw a book summary, create word splash, fact sheets on a particular topic they choose to work on. These activities aim to heighten pupils’ awareness and development of visual, discipline and media literacy in non-fiction texts.
-
-  
-
-##### **Book Flood (P1 – P6)**
-
-A set of books is available in P1 – P3 classroom to encourage every pupil to read widely and frequently.&nbsp; The pupils also take the books home to read to their parents. This allows for bonding between the child and parents through such a meaningful activity.
-
-P4 – P6 pupils also borrow books from the school library for their silent reading daily.
-
-
-MOE Reading Support Programmes (P1 - P4)
-
-Pupils who require further support in reading are enrolled into the following programmes according to their needs.
-
-*   Learning Support Programme (LSP) a.k.a. Rainbow Classes (P1 &amp; P2)
-*   Reading Remediation Programme (RRP) (P3 &amp; P4)
-*   School-based Dyslexia Remediation (SDR) Programme (P3 &amp; P4)
-
-
-##### **Partnership with NLB for Whole School Reading Programme**
-
-We have been collaborating with the National Library Board in promoting reading in our school. Apart from Books2Go and Assembly Talks like Storytelling and Book Buzz. Some pupils also took part in the Kids’ Lit Quiz co-organised with POSB and Read for Books which is a charity book drive.
+Through these carefully crafted programmes and contests, we are not just teaching students to read – we are inspiring them to become passionate, lifelong readers and critical thinkers. Our LIP programme has proven highly effective in promoting a vibrant reading culture amongst our students.  
 
 
 _Assembly Talks - Storytelling_
