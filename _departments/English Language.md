@@ -106,10 +106,10 @@ In the upper primary, students develop research and literacy skills. Focusing on
 Below are the reading programmes which the children will be engaged in:
 
 <dl>
-	<dd><b><font color="blue" size="+1"><li>Reading Journey (P1 – P3)</li></font></b><br>
+	<dd><b><font color="blue" size="+1"></font></b><li><b><font color="blue" size="+1">Reading Journey (P1 – P3)</font></b><br>
 For our young readers, the adventure begins with learning how to choose books that spark their interest. With their chosen book, students will complete thoughtful and manageable book reviews, share with classmates and library teachers to encourage discussion and reflection about the book read. Upon completing their Reading Journey book, students earn a delightful keychain featuring our JYPS Little Life Skills Family. 
 
-<b><font color="blue" size="+1"></font></b><li><b><font color="blue" size="+1">Reading Passport (P4 – P6)</font></b><br>
+<b><font color="blue" size="+1"></font></b></li><li><b><font color="blue" size="+1">Reading Passport (P4 – P6)</font></b><br>
 As our students mature, so does their reading independence. The upper primary students will explore a wider variety of books. They will record this in their book record and collect a stamp in their Reading Passport for each book read. After completing each page of the Reading Passport, they will write a book review on one of the books to redeem exciting prizes. 
 
  <b><font color="blue" size="+1"></font></b></li><li><b><font color="blue" size="+1">Book Flood (P1 – P6)</font></b><br>
