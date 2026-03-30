@@ -36,4 +36,4 @@ ECG lessons are integrated into the FTGP (Form-Teacher Guidance Period) in schoo
 * <b>Digital resources</b>: Students use online portals like MySkillsFuture to explore their interests and learn about different careers.
 * <b>School events</b>: JYPS organises hands-on experiences such as ECG Circles, ECG LJs and Secondary School Fair to supplement and complement our students’ development to be Future-Ready earners and Leaders of Characters. 
 
-Visit [Overview of Education and Career Guidance](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview)) to learn more about Education and Career Guidance (ECG) and the resources available to support students in their journey from school to further education or work.
+Visit [Overview of Education and Career Guidance](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview) to learn more about Education and Career Guidance (ECG) and the resources available to support students in their journey from school to further education or work.
