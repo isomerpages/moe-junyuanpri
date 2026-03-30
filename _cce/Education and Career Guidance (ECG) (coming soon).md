@@ -17,7 +17,7 @@ Nurture students' self-awareness to support them in discovering how they can mea
 	Develop students' self-directedness and confidence to explore and leverage education and career opportunities while respecting the value of all occupations.
 * <b><u>Staying relevant</u></b> - How do I get there?<br>
 Build students' adaptability and resilience to embrace the need for lifelong learning.
- 
+ ![](/images/ECG_Goals.jpg)
 ECG lessons are integrated into the FTGP (Form-Teacher Guidance Period) in schools to help students understand their interests, abilities, and career aspirations. These lessons use activities and resources like the MySkillsFuture portal (insert this link - https://www.myskillsfuture.gov.sg/content/student/en/primary.html) to guide students in making informed decisions about their education and future career paths. 
 
 
