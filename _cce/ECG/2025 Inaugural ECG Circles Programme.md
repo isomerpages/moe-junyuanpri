@@ -24,6 +24,10 @@ These inspiring speakers shared valuable lessons on the important values, skills
 - Raise awareness of diverse educational and career options  
 - Foster understanding of the values, attitudes, and skills necessary to be future-ready
 
-
-
 The event was a great success, inspiring our students to aspire to greater heights and equipping them with the knowledge and motivation to navigate their future with confidence. We are proud of our students’ active participation and look forward to more of such impactful initiatives.
+
+<figure><img style="width:50%" src="/images/2026_CCE_TDD_Pic_1.jpg"> <figcaption>Students learning about solving financial problems in the real world</figcaption></figure>
+<figure><img style="width:50%" src="/images/2026_CCE_TDD_Pic_2.jpg"> <figcaption>Students learning how their actions can impact the community and beyond</figcaption></figure>
+<figure><img style="width:50%" src="/images/2026_CCE_TDD_Pic_3.jpg"> <figcaption>How being curious is an invaluable quality to have!</figcaption></figure>
+<figure><img style="width:50%" src="/images/2026_CCE_TDD_Pic_4.jpg"> <figcaption>Students learning what the Law in Singapore is about</figcaption></figure>
+<figure><img style="width:50%" src="/images/2026_CCE_TDD_Pic_5.jpg"> <figcaption>Getting tips from a financial consultant</figcaption></figure>
