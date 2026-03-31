@@ -86,18 +86,14 @@ The following are some events where roving reporters were in action.
 2019 P5 Overseas Learning Journey (Suzhou, Brunei, Chiang Mai)<br>
 2019 Racial Harmony Day Celebration<br>
 2024  Library Week-cum-A Book Character Day<br>
-
-<table class="tg">
+<table>
 <thead>
   <tr>
-    <th class="tg-zv4m"><img src="/images/2024_Library_Week_Pic1.png" width="300" height="150"></th>
-    <th class="tg-zv4m"><img src="/images/2024_Library_Week_Pic2.png" width="300" height="200"></th>
+    <th><img src="/images/2024_Library_Week_Pic1.png" width="300" height="150"></th>
+    <th><img src="/images/2024_Library_Week_Pic2.png" width="300" height="200"></th>
   </tr>
 </thead>
-<tbody>
-</tbody>
 </table>
-
 2024 Racial Harmony Day
 <table class="tg">
 <thead>
