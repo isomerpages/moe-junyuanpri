@@ -71,7 +71,7 @@ Every Junyuan pupil will be equipped with skills and dispositions for the 21st c
 
 
 ##### **Junyuan Broadcast @ Studio 91**  
-Pupils are provided with opportunities to broadcast current events, upcoming school events, share their personal stories of the events they experienced in the school or outside school or even interesting information or facts on the various subjects that they had learnt in school. This opportunity provides pupils to learn collaborative in an authentic environment as they get to prepare scripts about current issues or topics and speak to "real audience" - their peers.
+Students are provided with opportunities to broadcast current events, upcoming school events, share their personal stories of the events they experienced in the school or outside school or even interesting information or facts on the various subjects that they had learnt in school. This opportunity provides students to learn collaborative in an authentic environment as they get to prepare scripts about current issues or topics and speak to “real audience” - their peers.
 
 ![](/images/English2.png)
 
@@ -80,11 +80,12 @@ Pupils are provided with opportunities to broadcast current events, upcoming sch
 
 
 ##### **Roving Reporters**  
-Pupils are given the opportunities to take on the role as reporters. They write their own scripts and report on school events. They also get to interview teachers, parents and pupils to find out how they feel about the event. To be able to think on your feet, remain poise and confidence when the camera rolls could be nerve wracking but our pupils rise to the occasion.  
-  
-The following are some roving reporters in action during the P5 Overseas Learning Trip and Racial Harmony Celebration.  
-  
-_2019 P5 Overseas Learning Trip (Suzhou, Brunei, Chiang Mai)_
+Students are given the opportunities to take on the role as reporters. They write their own scripts and report on school events. They also get to interview teachers, parents and students to find out how they feel about the event. To be able to think on your feet, remain poise and confidence when the camera rolls could be nerve wracking but our students rise to the occasion.
+The following are some events where roving reporters were in action. 
+
+2019 P5 Overseas Learning Journey (Suzhou, Brunei, Chiang Mai)<br>
+2019 Racial Harmony Day Celebration<br>
+2024  Library Week-cum-A Book Character Day<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -97,8 +98,8 @@ _2019 P5 Overseas Learning Trip (Suzhou, Brunei, Chiang Mai)_
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-zv4m"><img src="/images/dsc01628a.jpg" width="400" height="300"></th>
-    <th class="tg-zv4m"><img src="/images/dsc01653.JPG" width="400" height="300"></th>
+    <th class="tg-zv4m"><img src="/images/2024_Library_Week_Pic1.png" width="400" height="150"></th>
+    <th class="tg-zv4m"><img src="/images/2024_Library_Week_Pic2.png" width="400" height="300"></th>
   </tr>
 </thead>
 <tbody>
