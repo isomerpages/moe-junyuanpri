@@ -34,12 +34,41 @@ STELLAR stands for Strategies in the Teaching of the English Language Learning a
 **“I Am a Confident Communicator”**  
 Every Junyuan pupil will be equipped with skills and dispositions for the 21st century in the area of confident communication via the implementation of specific programmes for the whole school and customised programmes for students with aptitude.
 
-*   Show &amp; Tell and Speech &amp; Drama via Moo-O (P1)
-*   Show &amp; Tell and Speech &amp; Drama via Moo-O (P2)
-*   Storytelling via Storyboard (P3)
-*   Producing an Instructional Video (P4)
-*   Group Public Speaking / Basic Journalism (P5)
-*   Individual Public Speaking (P6)
+<table style="border:1px solid black">
+	<thead>
+		<tr>
+			<th style="border:1px solid black; text-align:left;vertical-align:left">Level</th>
+			<th style="border:1px solid black; text-align:left;vertical-align:left"> Confident Communicator Programme</th>
+		</tr>
+	</thead>
+	<tbody>
+			<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Primary 1</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Show &amp; Tell (Individual)<br></td>
+		</tr>
+			<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Primary 2</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Show &amp; Tell (Individual)</td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Primary 3</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Presenting an Information Text (Group)</td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Primary 4</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Presenting an Instructional Text with a demonstration (Individual)</td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Primary 5</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Persuasive Speech (Group)</td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Primary 6</td>
+			<td style="border:1px solid black; text-align:left;vertical-align:left">Public Speaking (individual)</td>
+		</tr>
+	</tbody>
+</table>
+
 
 ##### **Junyuan Broadcast @ Studio 91**  
 Pupils are provided with opportunities to broadcast current events, upcoming school events, share their personal stories of the events they experienced in the school or outside school or even interesting information or facts on the various subjects that they had learnt in school. This opportunity provides pupils to learn collaborative in an authentic environment as they get to prepare scripts about current issues or topics and speak to "real audience" - their peers.
