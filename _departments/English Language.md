@@ -87,28 +87,31 @@ The following are some events where roving reporters were in action.
 2019 Racial Harmony Day Celebration<br>
 2024  Library Week-cum-A Book Character Day<br>
 <table>
-<thead>
-  <tr>
-    <td><img src="/images/2024_Library_Week_Pic1.png" width="300" height="100"></td>
-    <td><img src="/images/2024_Library_Week_Pic2.png" width="300" height="200"></td>
-  </tr>
-</thead>
-</table>
+	<tbody>
+		<tr>
+			<th><img src="/images/2024_Library_Week_Pic1.png" width="100" height="100"></th>
+			<th><img src="/images/2024_Library_Week_Pic2.png" width="100" height="100"></th>
+		</tr>
+	</tbody>
+	</table>
 2024 Racial Harmony Day
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-zv4m"><img src="/images/2024_Library_Week_Pic1.png" width="400" height="150"></th>
-    <th class="tg-zv4m"><img src="/images/2024_Library_Week_Pic2.png" width="400" height="300"></th>
-  </tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+<table>
+	<tbody>
+		<tr>
+			<th><img src="/images/2024_RHD_Pic1.png" width="100" height="100"></th>
+			<th><img src="/images/2024_RHD_Pic2.png" width="100" height="100"></th>
+		</tr>
+	</tbody>
+	</table>
 
-*2019 Racial Harmony Day Celebration*
-
-![](/images/English3.png)
+2025 DJ Immersion
+<table>
+	<tbody>
+		<tr>
+			<th><img src="/images/2025_DJ_Immersion_Pic1.png" width="100" height="100"></th>
+		</tr>
+	</tbody>
+	</table>
 
 
 ### READING PROGRAMMES
