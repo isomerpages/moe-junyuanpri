@@ -289,27 +289,6 @@ Our older students dive into the playful world of figurative language! They dres
 These engaging activities promote a love for reading, boost creativity and self-expression, enhance language skills and vocabulary, foster a sense of community through shared literary experiences, making learning enjoyable and memorable.
 
 
-### **ACHIEVEMENTS**
-
-**SPEECH ARTS’ COMPETITION AND FESTIVAL 2019**
-
-**\-A NATIONAL COMPETITION FOR SCHOOLS@ACJC**
-
-&nbsp;**(Extempore Comic Speaking - Upper Primary/ Lower Sec)**
- 
- Vasanthakumar Ramamoorthy 6C3 (Tr-in-charge: Mdm Rahayu)
-
-  
-
-The Extempore Comic Speaking competition was held on 31 August 2019. Vasanthakumar’s contenders were upper primary and lower secondary students from primary and secondary schools in Singapore. On the day of the competition, Vasanthkumar was given topics for his impromptu 3-minute speeches. He was allocated a fixed length of time for speech preparation. The speeches Vasanthakumar presented tickled the audience. He won the judges’ hearts with his wit and confidence. He presented speeches in Preliminary Round 1 and Round 2. His scores were high enough to be awarded an advancement to the Semi-Finals and later, the ultimate Finals.&nbsp;
-
-  
-
-Vasanthakumar secured 1st Runner-up placing in the Finals.
-
-
-![](/images/Eng.png)
-
 
 ### **Useful links and/or tips**
 
