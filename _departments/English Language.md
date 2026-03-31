@@ -25,14 +25,14 @@ Good English Matters!
 ### **CURRICULUM**
 
 ##### **STELLAR (P1-P6)**  
-STELLAR stands for Strategies in the Teaching of the English Language Learning and Reading. &nbsp;Central to the STELLAR programme is reading, and anchored through the wide variety of interesting books, are the teaching of the various language skills as well as the development of social skills such as teamwork and opportunities for pupils to work independently. &nbsp;Through this programme, pupils have become avid readers and are more proficient, and confident, EL communicator.
+STELLAR stands for Strategies in the Teaching of the English Language Learning and Reading.  Central to the STELLAR programme is reading, and anchored through the wide variety of interesting books, are the teaching of the various language skills as well as the development of social skills such as teamwork and opportunities for students to work independently.  Through this programme, students have become avid readers and are more proficient, and confident, EL communicator.
 
 ### **PROGRAMMES**
 
 ##### **Applied Learning Programme**  
   
 **“I Am a Confident Communicator”**  
-Every Junyuan pupil will be equipped with skills and dispositions for the 21st century in the area of confident communication via the implementation of specific programmes for the whole school and customised programmes for selected pupils.
+Every Junyuan pupil will be equipped with skills and dispositions for the 21st century in the area of confident communication via the implementation of specific programmes for the whole school and customised programmes for students with aptitude.
 
 *   Show &amp; Tell and Speech &amp; Drama via Moo-O (P1)
 *   Show &amp; Tell and Speech &amp; Drama via Moo-O (P2)
