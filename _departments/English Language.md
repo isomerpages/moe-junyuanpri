@@ -89,8 +89,8 @@ The following are some events where roving reporters were in action.
 <table>
 <thead>
   <tr>
-    <th><img src="/images/2024_Library_Week_Pic1.png" width="300" height="150"></th>
-    <th><img src="/images/2024_Library_Week_Pic2.png" width="300" height="200"></th>
+    <td><img src="/images/2024_Library_Week_Pic1.png" width="300" height="100"></td>
+    <td><img src="/images/2024_Library_Week_Pic2.png" width="300" height="200"></td>
   </tr>
 </thead>
 </table>
