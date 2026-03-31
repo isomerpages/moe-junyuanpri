@@ -87,14 +87,18 @@ The following are some events where roving reporters were in action.
 2019 Racial Harmony Day Celebration<br>
 2024  Library Week-cum-A Book Character Day<br>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
-</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-zv4m"><img src="/images/2024_Library_Week_Pic1.png" width="300" height="150"></th>
+    <th class="tg-zv4m"><img src="/images/2024_Library_Week_Pic2.png" width="300" height="200"></th>
+  </tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+2024 Racial Harmony Day
 <table class="tg">
 <thead>
   <tr>
@@ -103,17 +107,8 @@ The following are some events where roving reporters were in action.
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-zv4m"><img src="/images/dsc01704a.jpg" width="400" height="300"></td>
-    <td class="tg-zv4m"><img src="/images/dsc01724.JPG" width="400" height="300"></td>
-  </tr>
-  <tr>
-    <td class="tg-zv4m"><img src="/images/dsc02244a.jpg" width="400" height="300"></td>
-    <td class="tg-zv4m"><img src="/images/dsc02250a.jpg" width="400" height="300"></td>
-  </tr>
 </tbody>
 </table>
-
 
 *2019 Racial Harmony Day Celebration*
 
