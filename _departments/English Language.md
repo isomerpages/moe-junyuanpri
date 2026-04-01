@@ -73,7 +73,7 @@ Every Junyuan pupil will be equipped with skills and dispositions for the 21st c
 ##### **Junyuan Broadcast @ Studio 91**  
 Students are provided with opportunities to broadcast current events, upcoming school events, share their personal stories of the events they experienced in the school or outside school or even interesting information or facts on the various subjects that they had learnt in school. This opportunity provides students to learn collaborative in an authentic environment as they get to prepare scripts about current issues or topics and speak to “real audience” - their peers.
 
-![](/images/English2.png)
+![](/images/studio91_Pic1.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RK9vx3LcNrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
