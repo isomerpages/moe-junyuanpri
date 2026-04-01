@@ -133,7 +133,7 @@ The following are some events where roving reporters were in action.
 <table>
 	<tbody>
 		<tr>
-			<th><img style="width:75%; float:left" src="/images/2025_Library_Week_Pic.png"></th>
+			<th><img style="width:100%; float:left" src="/images/2025_Library_Week_Pic.png"></th>
 		</tr>
 	</tbody>
 	</table>
@@ -142,8 +142,7 @@ The following are some events where roving reporters were in action.
 <table>
 	<tbody>
 		<tr>
-			<th><img style="width:75%; float:left" src="/images/2025_RHD_Pic1.png"></th>
-			<th><img style="width:75%; float:left" src="/images/2025_RHD_Pic2.png"></th>
+			<th><img style="width:100%; float:left" src="/images/2025_RHD_Pic.png"></th>
 		</tr>
 	</tbody>
 	</table>
@@ -152,8 +151,7 @@ The following are some events where roving reporters were in action.
 <table>
 	<tbody>
 		<tr>
-			<th><img style="width:75%; float:left" src="/images/2025_ND_Pic1.png"></th>
-			<th><img style="width:75%; float:left" src="/images/2025_ND_Pic2.png"></th>
+			<th><img style="width:100%; float:left" src="/images/2025_ND_Pic.png"></th>
 		</tr>
 	</tbody>
 	</table>
@@ -162,8 +160,7 @@ The following are some events where roving reporters were in action.
 <table>
 	<tbody>
 		<tr>
-			<th><img style="width:75%; float:left" src="/images/2025_OLJ_Brunei_Pic1.png"></th>
-			<th><img style="width:75%; float:left" src="/images/2025_OLJ_Brunei_Pic2.png"></th>
+			<th><img style="width:100%; float:left" src="/images/2025_OLJ_Brunei_Pic.png"></th>
 		</tr>
 	</tbody>
 	</table>
@@ -172,8 +169,7 @@ The following are some events where roving reporters were in action.
 <table>
 	<tbody>
 		<tr>
-			<th><img style="width:75%; float:left" src="/images/2026_CNY_Pic1.png"></th>
-			<th><img style="width:75%; float:left" src="/images/2026_CNY_Pic2.png"></th>
+			<th><img style="width:100%; float:left" src="/images/2026_CNY_Pic.png"></th>
 		</tr>
 	</tbody>
 	</table>
