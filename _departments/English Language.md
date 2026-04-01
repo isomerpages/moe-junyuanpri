@@ -204,7 +204,7 @@ At the lower primary, students explore the literary landscapes, introducing them
 
 In the upper primary, students develop research and literacy skills. Focusing on developing visual, discipline and digital literacy through non-fiction texts, they participate in exciting book hunt sessions in the school library and online activities, create book summaries, word splashes and fact sheets based on chosen topics. 
 
-![](/images/English5.png)
+![](/images/LIP_Pic.png)
 Below are the reading programmes which the children will be engaged in:
 
 <dl>
@@ -227,6 +227,7 @@ This quiz on SLS promotes our school library books, develops students’ ability
 Over four weeks, students are to write the name or draw their favourite books and explain why they like them. These will be displayed attractively on classroom doors. The class with the best decorated class door will receive attractive tokens.
 </li></dd></dl>
 
+![](/images/Reading_Open_Door_Contest_Pic1.png)
 Through these carefully crafted programmes and contests, we are not just teaching students to read – we are inspiring them to become passionate, lifelong readers and critical thinkers. Our LIP programme has proven highly effective in promoting a vibrant reading culture amongst our students.  
 
 ##### **Library Ambassadors Programme (P4)**
