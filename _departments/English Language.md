@@ -87,33 +87,30 @@ The following are some events where roving reporters were in action.
 2019 Racial Harmony Day Celebration<br>
 		
 		
-		2024  Library Week-cum-A Book Character Day
+2024  Library Week-cum-A Book Character Day
 		<table>
 	<tbody>
-		<tr></tr>
 		<tr>
-			<th><img style="width:75%; float:left" src="/images/2024_Library_Week_Pic4.png"></th>
-			<th><img style="width:75%; float:left" src="/images/2024_Library_Week_Pic2.png"></th>
-			<th><img style="width:75%; float:left" src="/images/2024_Library_Week_Pic3.png"></th>
+		</tr><tr>
+			<th><img style="width:100%; float:left" src="/images/2024_Library_Week_Pic.png"></th>
 		</tr>
 	</tbody>
 	</table>
 
 
-			2024 Racial Harmony Day
+2024 Racial Harmony Day
 		<table>
 	<tbody>
 		<tr></tr>
 		<tr>
-			<th><img style="width:75%; float:left" src="/images/2024_RHD_Pic1.png"></th>
-			<th><img style="width:75%; float:left" src="/images/2024_RHD_Pic2.png"></th>
+			<th><img style="width:80%; float:left" src="/images/2024_RHD_Pic.png"></th>
 		</tr>
 	</tbody>
 	</table>
 
 
 
-			2025 DJ Immersion
+2025 DJ Immersion
 		<table>
 	<tbody>
 		<tr></tr>
@@ -127,7 +124,7 @@ The following are some events where roving reporters were in action.
 <table>
 	<tbody>
 		<tr>
-			<th><img style="width:30%; float:left" src="/images/2025_IFD_Day_Pic1.png"></th>
+			<th><img style="width:75%; float:left" src="/images/2025_IFD_Day_Pic.png"></th>
 		</tr>
 	</tbody>
 	</table>
@@ -136,8 +133,7 @@ The following are some events where roving reporters were in action.
 <table>
 	<tbody>
 		<tr>
-			<th><img style="width:75%; float:left" src="/images/2025_Library_Week_Pic1.png"></th>
-			<th><img style="width:75%; float:left" src="/images/2025_Library_Week_Pic2.png"></th>
+			<th><img style="width:75%; float:left" src="/images/2025_Library_Week_Pic.png"></th>
 		</tr>
 	</tbody>
 	</table>
@@ -186,8 +182,7 @@ The following are some events where roving reporters were in action.
 <table>
 	<tbody>
 		<tr>
-			<th><img style="width:75%; float:left" src="/images/2026_Hari_Raya_Pic1.png"></th>
-			<th><img style="width:75%; float:left" src="/images/2026_Hari_Raya_Pic2.png"></th>
+			<th><img style="width:100%; float:left" src="/images/2026_Hari_Raya_Pic.png"></th>
 		</tr>
 	</tbody>
 	</table>
@@ -196,8 +191,7 @@ The following are some events where roving reporters were in action.
 <table>
 	<tbody>
 		<tr>
-			<th><img style="width:75%; float:left" src="/images/2026_DJ_Immersion_Pic1.png"></th>
-			<th><img style="width:75%; float:left" src="/images/2026_DJ_Immersion_Pic2.png"></th>
+			<th><img style="width:100%; float:left" src="/images/2026_DJ_Immersion_Pic.png"></th>
 		</tr>
 	</tbody>
 	</table>
