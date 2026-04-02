@@ -83,9 +83,9 @@ Students are provided with opportunities to broadcast current events, upcoming s
 Students are given the opportunities to take on the role as reporters. They write their own scripts and report on school events. They also get to interview teachers, parents and students to find out how they feel about the event. To be able to think on your feet, remain poise and confidence when the camera rolls could be nerve wracking but our students rise to the occasion.
 The following are some events where roving reporters were in action. 
 
-2019 P5 Overseas Learning Journey (Suzhou, Brunei, Chiang Mai)<br>
-2019 Racial Harmony Day Celebration<br>		
-2024  Library Week-cum-A Book Character Day
+<b><font color="blue" size="+1"></font></b><b><font color="blue">2019 P5 Overseas Learning Journey (Suzhou, Brunei, Chiang Mai)</font></b><br>
+<b><font color="blue" size="+1"></font></b><b><font color="blue">2019 Racial Harmony Day Celebration</font></b><br>
+<b><font color="blue" size="+1"></font></b><b><font color="blue">2024  Library Week-cum-A Book Character Day</font></b>
 <table>
 	<tbody>
 		<tr>
@@ -94,10 +94,8 @@ The following are some events where roving reporters were in action.
 		</tr>
 	</tbody>
 	</table>
-
-
-2024 Racial Harmony Day
-		<table>
+<b><font color="blue" size="+1"></font></b><b><font color="blue">2024 Racial Harmony Day</font></b>
+<table>
 	<tbody>
 		<tr></tr>
 		<tr>
@@ -105,11 +103,8 @@ The following are some events where roving reporters were in action.
 		</tr>
 	</tbody>
 	</table>
-
-
-
-2025 DJ Immersion
-		<table>
+<b><font color="blue" size="+1"></font></b><b><font color="blue">2025 DJ Immersion</font></b>
+<table>
 	<tbody>
 		<tr></tr>
 		<tr>
@@ -117,8 +112,7 @@ The following are some events where roving reporters were in action.
 		</tr>
 	</tbody>
 	</table>
-
-2025 International Friendship Day
+<b><font color="blue" size="+1"></font></b><b><font color="blue">2025 International Friendship Day</font></b>
 <table>
 	<tbody>
 		<tr>
@@ -126,8 +120,7 @@ The following are some events where roving reporters were in action.
 		</tr>
 	</tbody>
 	</table>
-	
-2025 Library Week-cum-A Book Character Day
+<b><font color="blue" size="+1"></font></b><b><font color="blue">2025 Library Week-cum-A Book Character Day</font></b>	
 <table>
 	<tbody>
 		<tr>
@@ -135,8 +128,7 @@ The following are some events where roving reporters were in action.
 		</tr>
 	</tbody>
 	</table>
-
-2025 Racial Harmony Day
+<b><font color="blue" size="+1"></font></b><b><font color="blue">2025 Racial Harmony Day</font></b>
 <table>
 	<tbody>
 		<tr>
@@ -144,8 +136,7 @@ The following are some events where roving reporters were in action.
 		</tr>
 	</tbody>
 	</table>
-	
-2025 National Day Celebration
+<b><font color="blue" size="+1"></font></b><b><font color="blue">2025 National Day Celebration</font></b>
 <table>
 	<tbody>
 		<tr>
@@ -153,8 +144,7 @@ The following are some events where roving reporters were in action.
 		</tr>
 	</tbody>
 	</table>
-	
-2025 P5 Overseas Learning Journey (Brunei)
+<b><font color="blue" size="+1"></font></b><b><font color="blue">2025 P5 Overseas Learning Journey (Brunei)</font></b>	
 <table>
 	<tbody>
 		<tr>
@@ -162,8 +152,7 @@ The following are some events where roving reporters were in action.
 		</tr>
 	</tbody>
 	</table>
-	
-2026 Chinese New Year Celebration
+<b><font color="blue" size="+1"></font></b><b><font color="blue">2026 Chinese New Year Celebration</font></b>	
 <table>
 	<tbody>
 		<tr>
@@ -171,8 +160,7 @@ The following are some events where roving reporters were in action.
 		</tr>
 	</tbody>
 	</table>
-	
-2026 Hari Raya Celebration
+<b><font color="blue" size="+1"></font></b><b><font color="blue">2026 Hari Raya Celebration</font></b>	
 <table>
 	<tbody>
 		<tr>
@@ -180,8 +168,7 @@ The following are some events where roving reporters were in action.
 		</tr>
 	</tbody>
 	</table>
-	
-2026 DJ Immersion
+<b><font color="blue" size="+1"></font></b><b><font color="blue">2026 DJ Immersion</font></b>	
 <table>
 	<tbody>
 		<tr>
@@ -245,7 +232,7 @@ Unleashing imagination and building confidence, our annual Storytelling Competit
 		
 Through this competition, we aim to provide a platform for our young storytellers to demonstrate their narrative skills and captivate audiences with their unique interpretations.
 
-<img style="width: 100%;" src="/images/P4_Storytelling_Pic.png">
+<img style="width: 80%;" src="/images/P4_Storytelling_Pic.png">
 		
 _Assembly Talks - Storytelling_
 
@@ -288,6 +275,7 @@ Watch our younger students bring their favourite literary characters to life! St
 		
 <b><font color="blue" size="+1"></font></b></li><li><b><font color="blue" size="+1">Similes and Idioms Fun Day (P5 – P6)</font></b><br>
 Our older students dive into the playful world of figurative language! They dress up to represent a chosen simile or idiom and participate in an interactive guessing game during the recess parade. This not only enhances understanding of figurative language in a fun and memorable way but also encourages exploration and enjoyment of the English language’s quirks and nuances.
+		<img style="width: 80%;" src="/images/Similes_Pic.png">
 	</li></dd></dl>
 	 
 These engaging activities promote a love for reading, boost creativity and self-expression, enhance language skills and vocabulary, foster a sense of community through shared literary experiences, making learning enjoyable and memorable.
