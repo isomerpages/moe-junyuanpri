@@ -84,11 +84,9 @@ Students are given the opportunities to take on the role as reporters. They writ
 The following are some events where roving reporters were in action. 
 
 2019 P5 Overseas Learning Journey (Suzhou, Brunei, Chiang Mai)<br>
-2019 Racial Harmony Day Celebration<br>
-		
-		
+2019 Racial Harmony Day Celebration<br>		
 2024  Library Week-cum-A Book Character Day
-		<table>
+<table>
 	<tbody>
 		<tr>
 		</tr><tr>
@@ -231,9 +229,12 @@ Over four weeks, students are to write the name or draw their favourite books an
 Through these carefully crafted programmes and contests, we are not just teaching students to read – we are inspiring them to become passionate, lifelong readers and critical thinkers. Our LIP programme has proven highly effective in promoting a vibrant reading culture amongst our students.  
 
 ##### **Library Ambassadors Programme (P4)**
-At the heart of our vibrant school library and reading culture lies our Library Ambassadors Programme. This peer-led approach cultivates public speaking skills, sparks curiosity about the different literary categories, encourages students to explore books in our school library and promotes a school-wide culture of reading and book appreciation.
+<img style="width:25%; float:left" src="/images/P4_LibPrg_Pic.png">
+ At the heart of our vibrant school library and reading culture lies our Library Ambassadors Programme. This peer-led approach cultivates public speaking skills, sparks curiosity about the different literary categories, encourages students to explore books in our school library and promotes a school-wide culture of reading and book appreciation.
 
 This initiative empowers Primary 4 students to become champions of literature as they facilitate the following activities and competitions:
+	
+
 
 <dl>
 	<dd><b><font color="blue" size="+1"></font></b><li><b><font color="blue" size="+1">Read-aloud Sessions (P1)</font></b><br>
