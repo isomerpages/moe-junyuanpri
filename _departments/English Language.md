@@ -83,9 +83,9 @@ Students are provided with opportunities to broadcast current events, upcoming s
 Students are given the opportunities to take on the role as reporters. They write their own scripts and report on school events. They also get to interview teachers, parents and students to find out how they feel about the event. To be able to think on your feet, remain poise and confidence when the camera rolls could be nerve wracking but our students rise to the occasion.
 The following are some events where roving reporters were in action. 
 
-<b><font color="blue" size="+1"></font></b><b><font color="blue">2019 P5 Overseas Learning Journey (Suzhou, Brunei, Chiang Mai)</font></b><br>
-<b><font color="blue" size="+1"></font></b><b><font color="blue">2019 Racial Harmony Day Celebration</font></b><br>
-<b><font color="blue" size="+1"></font></b><b><font color="blue">2024  Library Week-cum-A Book Character Day</font></b>
+<b><font color="blue"></font></b><b><font color="blue">2019 P5 Overseas Learning Journey (Suzhou, Brunei, Chiang Mai)</font></b><br>
+<b><font color="blue"></font></b><b><font color="blue">2019 Racial Harmony Day Celebration</font></b><br>
+<b><font color="blue"></font></b><b><font color="blue">2024  Library Week-cum-A Book Character Day</font></b>
 <table>
 	<tbody>
 		<tr>
@@ -94,7 +94,7 @@ The following are some events where roving reporters were in action.
 		</tr>
 	</tbody>
 	</table>
-<b><font color="blue" size="+1"></font></b><b><font color="blue">2024 Racial Harmony Day</font></b>
+<b><font color="blue"></font></b><b><font color="blue">2024 Racial Harmony Day</font></b>
 <table>
 	<tbody>
 		<tr></tr>
@@ -103,7 +103,7 @@ The following are some events where roving reporters were in action.
 		</tr>
 	</tbody>
 	</table>
-<b><font color="blue" size="+1"></font></b><b><font color="blue">2025 DJ Immersion</font></b>
+<b><font color="blue"></font></b><b><font color="blue">2025 DJ Immersion</font></b>
 <table>
 	<tbody>
 		<tr></tr>
@@ -112,7 +112,7 @@ The following are some events where roving reporters were in action.
 		</tr>
 	</tbody>
 	</table>
-<b><font color="blue" size="+1"></font></b><b><font color="blue">2025 International Friendship Day</font></b>
+<b><font color="blue"></font></b><b><font color="blue">2025 International Friendship Day</font></b>
 <table>
 	<tbody>
 		<tr>
@@ -120,7 +120,7 @@ The following are some events where roving reporters were in action.
 		</tr>
 	</tbody>
 	</table>
-<b><font color="blue" size="+1"></font></b><b><font color="blue">2025 Library Week-cum-A Book Character Day</font></b>	
+<b><font color="blue"></font></b><b><font color="blue">2025 Library Week-cum-A Book Character Day</font></b>	
 <table>
 	<tbody>
 		<tr>
@@ -128,7 +128,7 @@ The following are some events where roving reporters were in action.
 		</tr>
 	</tbody>
 	</table>
-<b><font color="blue" size="+1"></font></b><b><font color="blue">2025 Racial Harmony Day</font></b>
+<b><font color="blue"></font></b><b><font color="blue">2025 Racial Harmony Day</font></b>
 <table>
 	<tbody>
 		<tr>
@@ -136,7 +136,7 @@ The following are some events where roving reporters were in action.
 		</tr>
 	</tbody>
 	</table>
-<b><font color="blue" size="+1"></font></b><b><font color="blue">2025 National Day Celebration</font></b>
+<b><font color="blue"></font></b><b><font color="blue">2025 National Day Celebration</font></b>
 <table>
 	<tbody>
 		<tr>
@@ -144,7 +144,7 @@ The following are some events where roving reporters were in action.
 		</tr>
 	</tbody>
 	</table>
-<b><font color="blue" size="+1"></font></b><b><font color="blue">2025 P5 Overseas Learning Journey (Brunei)</font></b>	
+<b><font color="blue"></font></b><b><font color="blue">2025 P5 Overseas Learning Journey (Brunei)</font></b>	
 <table>
 	<tbody>
 		<tr>
@@ -152,7 +152,7 @@ The following are some events where roving reporters were in action.
 		</tr>
 	</tbody>
 	</table>
-<b><font color="blue" size="+1"></font></b><b><font color="blue">2026 Chinese New Year Celebration</font></b>	
+<b><font color="blue"></font></b><b><font color="blue">2026 Chinese New Year Celebration</font></b>	
 <table>
 	<tbody>
 		<tr>
@@ -160,7 +160,7 @@ The following are some events where roving reporters were in action.
 		</tr>
 	</tbody>
 	</table>
-<b><font color="blue" size="+1"></font></b><b><font color="blue">2026 Hari Raya Celebration</font></b>	
+<b><font color="blue"></font></b><b><font color="blue">2026 Hari Raya Celebration</font></b>	
 <table>
 	<tbody>
 		<tr>
@@ -168,7 +168,7 @@ The following are some events where roving reporters were in action.
 		</tr>
 	</tbody>
 	</table>
-<b><font color="blue" size="+1"></font></b><b><font color="blue">2026 DJ Immersion</font></b>	
+<b><font color="blue"></font></b><b><font color="blue">2026 DJ Immersion</font></b>	
 <table>
 	<tbody>
 		<tr>
