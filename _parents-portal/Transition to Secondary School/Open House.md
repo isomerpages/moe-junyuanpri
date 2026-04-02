@@ -7,7 +7,7 @@ third_nav_title: Transition to Secondary School
 ---
 ![](/images/banner.gif)
 
-Open House for Secondary Schools 2025
+2026 Open House for Secondary Schools 
 =====================================
 ### Hwa Chong International School
 
