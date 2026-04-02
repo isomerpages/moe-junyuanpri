@@ -284,7 +284,8 @@ We celebrate the magic of words and stories through our annual Library Festival.
  <dl>
 	<dd><b><font color="blue" size="+1"></font></b><li><b><font color="blue" size="+1">A Book Character (ABC) Day (P1 – P4)</font></b><br>
 Watch our younger students bring their favourite literary characters to life! Students dress up as their beloved book characters and parade during recess. They also have the opportunity to share about their chosen characters. This fosters a love for reading and encourages creativity through joyful learning. The best-dressed book character will receive prizes!
-
+<img style="width: 75%;" src="/images/P1P4_Bk_Character_Pic.png">
+		
 <b><font color="blue" size="+1"></font></b></li><li><b><font color="blue" size="+1">Similes and Idioms Fun Day (P5 – P6)</font></b><br>
 Our older students dive into the playful world of figurative language! They dress up to represent a chosen simile or idiom and participate in an interactive guessing game during the recess parade. This not only enhances understanding of figurative language in a fun and memorable way but also encourages exploration and enjoyment of the English language’s quirks and nuances.
 	</li></dd></dl>
