@@ -229,22 +229,23 @@ Over four weeks, students are to write the name or draw their favourite books an
 Through these carefully crafted programmes and contests, we are not just teaching students to read – we are inspiring them to become passionate, lifelong readers and critical thinkers. Our LIP programme has proven highly effective in promoting a vibrant reading culture amongst our students.  
 
 ##### **Library Ambassadors Programme (P4)**
-<img style="width:25%; float:left" src="/images/P4_LibPrg_Pic.png">
- At the heart of our vibrant school library and reading culture lies our Library Ambassadors Programme. This peer-led approach cultivates public speaking skills, sparks curiosity about the different literary categories, encourages students to explore books in our school library and promotes a school-wide culture of reading and book appreciation.
-
-This initiative empowers Primary 4 students to become champions of literature as they facilitate the following activities and competitions:
-	
-
-
+ <div style="display: flex; gap: 20px; align-items: start;">
+      <img style="width: 25%;" src="/images/P4_LibPrg_Pic.png"><br>
+      At the heart of our vibrant school library and reading culture lies our Library Ambassadors Programme. This peer-led approach cultivates public speaking skills, sparks curiosity about the different literary categories, encourages students to explore books in our school library and promotes a school-wide culture of reading and book appreciation.<br><br>
+				This initiative empowers Primary 4 students to become champions of literature as they facilitate the following activities and competitions:
+ </div>
 <dl>
 	<dd><b><font color="blue" size="+1"></font></b><li><b><font color="blue" size="+1">Read-aloud Sessions (P1)</font></b><br>
 During pre-morning assemblies, lower primary students bring stories to life with dramatic readings, harmonising voices to sing a tuning-song and sharing captivating tales with the school community. 
+
+<img style="width: 75%;" src="/images/P1_Read_Aloud_Pic.png">
 		
 <b><font color="blue" size="+1"></font></b></li><li><b><font color="blue" size="+1">Storytelling Competition (P4)</font></b><br>
 Unleashing imagination and building confidence, our annual Storytelling Competition is a celebration of creativity, literacy and public speaking. This exciting event ignites a passion for storytelling, showcases our library's diverse book collection and builds students' confidence in public speaking.
 		
 Through this competition, we aim to provide a platform for our young storytellers to demonstrate their narrative skills and captivate audiences with their unique interpretations.
 
+<img style="width: 100%;" src="/images/P4_Storytelling_Pic.png">
 		
 _Assembly Talks - Storytelling_
 
