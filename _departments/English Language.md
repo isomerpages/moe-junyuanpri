@@ -234,8 +234,6 @@ Through this competition, we aim to provide a platform for our young storyteller
 
 <img style="width: 80%;" src="/images/P4_Storytelling_Pic.png">
 		
-
-![](/images/English6.png)
 </li></dd></dl>
 
 ##### **Within or After-school Curriculum Literacy Programme (P1 – P5)**
