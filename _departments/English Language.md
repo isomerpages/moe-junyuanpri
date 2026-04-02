@@ -280,7 +280,7 @@ Through these varied activities, we hope our students will visit public librarie
 ##### **Library Festival**
 
 We celebrate the magic of words and stories through our annual Library Festival. This vibrant event honours literature, creativity and learning. Each year, we transform our school into a wonderland of books, with a unique theme that sparks curiosity and imagination. Through engaging games and activities during recess in English and Mother Tongue languages, students discover the joy of reading whilst expanding their knowledge in fun and interactive ways.
-
+![](/images/Library_Festival_Pic.png)
  <dl>
 	<dd><b><font color="blue" size="+1"></font></b><li><b><font color="blue" size="+1">A Book Character (ABC) Day (P1 – P4)</font></b><br>
 Watch our younger students bring their favourite literary characters to life! Students dress up as their beloved book characters and parade during recess. They also have the opportunity to share about their chosen characters. This fosters a love for reading and encourages creativity through joyful learning. The best-dressed book character will receive prizes!
