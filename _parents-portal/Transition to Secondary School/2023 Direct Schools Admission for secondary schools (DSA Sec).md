@@ -19,4 +19,4 @@ We wish to highlight that DSA is a commitment on the part of both the student an
 
   
 
-Do visit the MOE website for information on the 2026 DSA-Sec talent areas, application process and timeline ([www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)).
+Do visit the MOE website for information on the DSA-Sec talent areas, application process and timeline ([www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)).
