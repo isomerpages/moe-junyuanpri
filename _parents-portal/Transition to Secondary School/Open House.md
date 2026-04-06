@@ -25,3 +25,7 @@ Channel News Asia: [Educating The Next Generation: The "Cool" Factor](https://ww
 The Straits Time: [Global mindset, Asian Values and Close-knit Support: How Students at this International School are being Equipped for the Future](https://www.straitstimes.com/singapore/parenting-education/hwa-chong-international-school-global-mindset-asian-values-close-knit-support)
 
 ![](/images/HCIS_Open_House_2026.jpg)
+
+### Temasek Secondary School
+![](/images/TMS_DSA_Outreach_Pg1.jpg)
+![](/images/TMS_DSA_Outreach_Pg2.jpg)
