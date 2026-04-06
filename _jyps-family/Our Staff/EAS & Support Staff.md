@@ -69,6 +69,10 @@ EAS &amp; Support Staff
     <td class="tg-0lj4"> Mdm Dinda Binte Daud</td>
     <td class="tg-0lj4"> Operations Support Officer<br></td>
   </tr>
+	<tr>
+    <td class="tg-0lj4"> Mdm Eng Siew Kim</td>
+    <td class="tg-0lj4"> Operations Support Officer<br></td>
+  </tr>
   <tr>
     <td class="tg-0lj4"> Mdm Siti Aisah Bte Ahmad <br></td>
     <td class="tg-0lj4"> Operations Support Officer (MK)<br></td>
@@ -94,7 +98,7 @@ EAS &amp; Support Staff
     <td class="tg-0lj4"> Library Assistant</td>
   </tr>
   <tr>
-    <td class="tg-0lj4"> Mdm Vasaghee</td>
+    <td class="tg-0lj4"> Ms Hanizahwati Bte Kammo</td>
     <td class="tg-0lj4"> Security Guard </td>
   </tr>
   <tr>
