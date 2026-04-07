@@ -29,3 +29,6 @@ The Straits Time: [Global mindset, Asian Values and Close-knit Support: How Stud
 ### Temasek Secondary School
 ![](/images/TMS_DSA_Outreach_Pg1.jpg)
 ![](/images/TMS_DSA_Outreach_Pg2.jpg)
+
+### Temasek Junior College 
+![](/images/TJC_DSA_Sec_Session.png)
