@@ -32,3 +32,6 @@ The Straits Time: [Global mindset, Asian Values and Close-knit Support: How Stud
 
 ### Temasek Junior College 
 ![](/images/TJC_DSA_Sec_Session.png)
+
+### Methodist Girls' School (Secondary)
+![](/images/250426_MGS_Open_House_Poster.jpg)
