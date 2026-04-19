@@ -39,7 +39,7 @@ Waitlist form below:</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/MKWaitlist.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/MKWaitlist.png">
 </div>
 <p></p>
 <p>The waitlist will be considered on a case-by-case basis, subject to available
