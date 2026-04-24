@@ -6,7 +6,7 @@ variant: markdown
 ---
 ![](/images/banner.gif)
 
-#### **Math Alive! Briefing Slides**<br>
+#### **Math Alive! Workshop for Parents' Briefing Slides**<br>
 [Primary 1](/files/P1_Math_Alive__Workshop_for_Parents_2026.pdf)<br>
 [Primary 2 ](/files/P2_Math_Alive__Workshop_for_Parents_2026.pdf)<br>
 [Primary 3 &amp; Primary 4](/files/P3__P4_Math_Alive__Workshop_for_Parents_2026.pdf)<br>
