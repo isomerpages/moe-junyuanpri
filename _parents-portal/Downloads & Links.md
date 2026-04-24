@@ -7,10 +7,10 @@ variant: markdown
 ![](/images/banner.gif)
 
 #### **Math Alive! Briefing Slides**<br>
-[Primary 1](/files/P1_Math_Alive!_Workshop_for_Parents_2026.pdf)<br>
-[Primary 2 ](https://drive.google.com/file/d/1wPOFUgg_A7a673Y9V-sa5yMUXcuzSEM9/view?usp=sharing)<br>
-[Primary 3 &amp; Primary 4](https://drive.google.com/file/d/19TMMvwP09cHOjgJ7y8JMsUxpX2cSVusW/view?usp=sharing)<br>
-[Primary 5 &amp; Primary 6](https://drive.google.com/file/d/1JgkbKYi4891CHxqNkmWu8U4RezEJrO2I/view?usp=sharing)<br>
+[Primary 1](/files/P1_Math_Alive__Workshop_for_Parents_2026.pdf)<br>
+[Primary 2 ](/files/P2_Math_Alive__Workshop_for_Parents_2026.pdf)<br>
+[Primary 3 &amp; Primary 4](/files/P3__P4_Math_Alive__Workshop_for_Parents_2026.pdf)<br>
+[Primary 5 &amp; Primary 6](/files/P5__P6_Math_Alive__Workshop_for_Parents_2026.pdf)<br>
 
 #### **2026 Booklist**<br>
 [Primary 1](https://drive.google.com/file/d/1Z2xAHffb1B-5GmX_IyEITuUvisB0z36v/view?usp=sharing)<br>
