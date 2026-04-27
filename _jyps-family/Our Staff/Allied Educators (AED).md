@@ -30,6 +30,10 @@ Allied Educators (AED)
     <td class="tg-0lj4"> Ms Chan Keng Sun<br> <a href="mailto:chan_keng_sun@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chan_keng_sun@moe.edu.sg</span></a><br></td>
     <td class="tg-0lj4"> AED-Counselling<br></td>
   </tr>
+	<tr>
+    <td class="tg-0lj4"> Mr Ng Wei Zhou<br> <a href="mailto:ng_wei_zhou@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">ng_wei_zhou@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lj4"> AED-Counselling<br></td>
+  </tr>
   <tr>
     <td class="tg-0lj4"> Mdm Siti Alawiyah Binte Yusope<br> <a href="mailto:siti_alawiyah_yusope@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">siti_alawiyah_yusope@moe.edu.sg</span></a><br></td>
     <td class="tg-0lj4"> AED-SWO</td>
