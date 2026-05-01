@@ -9,6 +9,16 @@ third_nav_title: Transition to Secondary School
 
 2026 Open House for Secondary Schools 
 =====================================
+### Raffles Institution
+
+We cordially invite you and your son to attend RI’s Open House on the following date and time:
+
+	09 May 2026 (Saturday)
+	8:00 am – 1:00 pm
+	1 Raffles Institution Lane, Singapore 575954
+![](/images/2026_RI_Poster_Page_1.jpg)<br>
+![](/images/2026_RI_Poster_Page_2.jpg)
+
 ### Hwa Chong International School
 
 ![](/images/HCI_2026.jpg)
