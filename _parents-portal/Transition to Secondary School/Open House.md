@@ -13,9 +13,10 @@ third_nav_title: Transition to Secondary School
 
 We cordially invite you and your son to attend RI’s Open House on the following date and time:
 
-	09 May 2026 (Saturday)
-	8:00 am – 1:00 pm
-	1 Raffles Institution Lane, Singapore 575954
+<b>09 May 2026 (Saturday)<br>
+8:00 am – 1:00 pm<br>
+1 Raffles Institution Lane, Singapore 575954</b>
+
 ![](/images/2026_RI_Poster_Page_1.jpg)<br>
 ![](/images/2026_RI_Poster_Page_2.jpg)
 
