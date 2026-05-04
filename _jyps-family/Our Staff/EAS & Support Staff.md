@@ -21,10 +21,6 @@ EAS &amp; Support Staff
 </style>
 <table class="tg">
 <thead>
-  <tr>
-    <th class="tg-0lj4">Mdm Fazidah Hani Abdul Hadi </th>
-    <th class="tg-0lj4"> Admin Manager</th>
-  </tr>
 	  <tr>
     <td class="tg-0lj4"> Mdm Cynthia Lee Ling Ling </td>
     <td class="tg-0lj4"> Admin Manager (ICT)<br></td>
