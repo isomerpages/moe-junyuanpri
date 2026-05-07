@@ -9,6 +9,24 @@ third_nav_title: Transition to Secondary School
 
 2026 Open House for Secondary Schools 
 =====================================
+### NUS High School
+
+We invite you to find out about more about our unique learning culture and how we think differently. 
+Know more about how you can:<br>
+<b>Experiment</b> with possibilities as you personalise your pathway.<br>
+<b>Explore</b> the depth of learning, venture beyond the surface to real understanding.<br>
+<b>Excel</b> in a community where success is measured by the impact you make.
+
+<b>Date: </b>16th May 2026<br>
+<b>Time: </b> 9 am – 3 pm<br>
+<b>Address: </b>20 Clementi Avenue 1 S(129957)<br>
+
+See you on 16th May!<br> 
+https://www.nushigh.edu.sg/admissions/open-house/
+
+![](/images/NUSHS_Page_1.jpg)
+![](/images/NUSHS_Page_2.jpg)
+
 ### Raffles Institution
 
 We cordially invite you and your son to attend RI’s Open House on the following date and time:
