@@ -49,6 +49,10 @@ EAS &amp; Support Staff
     <td class="tg-0lj4"> Mdm Paridah Binte Yahya </td>
     <td class="tg-0lj4"> Corporate Support Officer </td>
   </tr>
+	<tr>
+    <td class="tg-0lj4"> Ms Rafpizah Binte Sarpuan </td>
+    <td class="tg-0lj4"> Corporate Support Officer </td>
+  </tr>
   <tr>
     <td class="tg-0lj4"> Mdm Lee Li Juin</td>
     <td class="tg-0lj4"> Operations Manager </td>
