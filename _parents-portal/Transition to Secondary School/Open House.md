@@ -19,7 +19,6 @@ We would like to join us at our SJI Open House to find out more about our SJI ed
 There is no pre-registration required for the Open House. However, they would need to register if they are interested to attend the Principal’s Sharing and DSA Information Talks. 
 To indicate their interest for the Talks, they may register via this link : https://app.sji.edu.sg/op2026/openhouse.php 
 
-
 Click here: www.sji.edu.sg for more information on  SJI Open House.
 
 ### NUS High School
