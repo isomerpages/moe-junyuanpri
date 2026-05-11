@@ -16,6 +16,8 @@ We would like to join us at our SJI Open House to find out more about our SJI ed
 <b>Time</b>: 9 am - 4 pm <br>
 <b>Address</b>: 38 Malcolm Road S308274
 
+![](/images/SJI.jpg)
+
 There is no pre-registration required for the Open House. However, they would need to register if they are interested to attend the Principal’s Sharing and DSA Information Talks. 
 To indicate their interest for the Talks, they may register via this link : https://app.sji.edu.sg/op2026/openhouse.php 
 
