@@ -9,6 +9,19 @@ third_nav_title: Transition to Secondary School
 
 2026 Open House for Secondary Schools 
 =====================================
+### St Joseph's Institution (SJI)
+We would like to join us at our SJI Open House to find out more about our SJI education and the SJI experience as they consider their secondary education options.
+
+<b>Date</b>: 23 May 2026 <br>
+<b>Time</b>: 9 am - 4 pm <br>
+<b>Address</b>: 38 Malcolm Road S308274
+
+There is no pre-registration required for the Open House. However, they would need to register if they are interested to attend the Principal’s Sharing and DSA Information Talks. 
+To indicate their interest for the Talks, they may register via this link : https://app.sji.edu.sg/op2026/openhouse.php 
+
+
+Click here: www.sji.edu.sg for more information on  SJI Open House.
+
 ### NUS High School
 
 We invite you to find out about more about our unique learning culture and how we think differently. 
