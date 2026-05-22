@@ -8,8 +8,13 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage.gif
-      key_highlights:
-        - title: 2026 Open House (Primary)
-          description: Key Highlight description
-          url: ""
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Open House (Primary)
+          date: 25 May 2026
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 ---
