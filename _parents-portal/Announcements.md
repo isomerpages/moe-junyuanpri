@@ -8,6 +8,18 @@ variant: markdown
 
 Announcements
 =============
+### **JYPS Open House 2026**&nbsp;
+
+Dear Parents and Prospective P1 students, <br>
+
+You are invited to Junyuan Primary School's Open House 2026!
+Registration will close on 15 June 2026 or when the participation capacity is reached.
+
+We look forward to seeing you and your child!
+
+![](/images/2026_JYPS_Open_House.png)
+
+
 ### Alumni Visiting on Teachers' Day 2025
 
 Dear former students,<br><br>You can visit the teachers between <b>10.45 a.m. and 11.30 a.m.</b> on <b>Thursday, 4 September 2025.</b><br><br>You should make prior appointment with your teacher(s) before coming so that they will be around to meet you. Students currently schooling in secondary schools or junior colleges are to come, clad in your school uniforms. <br>However, please note that school premises needs to be vacated by 11.30 a.m.<br><br><b>Time:</b> 10.45 a.m. to 11.30 a.m.<br><b>Venue:</b> Meeting area in the canteen <br><b>End: </b>11.30 a.m. to leave school premises <br><br>You can also send your heartfelt e-messages to the teacher(s) and staff who has made a positive difference in their lives via the Compliments Portal at [https://www.moe.gov.sg/about-us/compliments](https://www.moe.gov.sg/about-us/compliments). <br><br>Thank you.
@@ -18,21 +30,6 @@ The Caring Teacher Awards (CTA) celebrate educators who exemplify care and compa
 	Closing Date: 31 December 2025</b><br>
 
 <img src="/images/CTA_2026.png" style="width:100%">
-
-
-### **JYPS Open House 2025**&nbsp;
-
-Dear Parents and Prospective P1 students, <br>
-
-Thank you for your interest in our Open House. Due to overwhelming responses, we have reached full capacity. The registration for Junyuan Primary School Open House 2025 will now be closed. 
-
-
-![](/images/2025_JYPS_Open_House_slides_closed.png)
-
-
-Successful registrants will be informed via email by **13 June, 2025**.
-
-We look forward to seeing you and your child!
 
 
 ### **JYPS 35th Anniversary Coffeetable e-Book**&nbsp;
