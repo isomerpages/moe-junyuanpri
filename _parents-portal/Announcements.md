@@ -17,7 +17,7 @@ Registration will close on 15 June 2026 or when the participation capacity is re
 
 We look forward to seeing you and your child!
 
-![](/images/2026_JYPS_Open_House.png)
+![](/images/2026_JYPS_Open_House.jpg)
 
 
 ### Alumni Visiting on Teachers' Day 2025
