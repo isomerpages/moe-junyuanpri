@@ -8,4 +8,8 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage.gif
+      key_highlights:
+        - title: Announcements (Primary)
+          description: Open House 2026
+          url: /parents-portal/Announcements/
 ---
