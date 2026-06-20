@@ -41,7 +41,7 @@ Primary 3 Teachers
   <tr>
     <td class="tg-0lj4"> P3 Responsibility </td>
 		<td class="tg-0lj4">Mdm Nurul Syahidah Bte Rahmat<br> <a href="mailto:nurul_syahidah_rahmat@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nurul_syahidah_rahmat@moe.edu.sg</span></a> </td>
-		<td class="tg-0lj4">Miss Chloe Teo Liwen<br> <a href="mailto: chloe_teo_liwen@moe.edu.sg"><span style="text-decoration:underline;color:#A52023"> chloe_teo_liwen@moe.edu.sg </span></a><br></td>
+		<td class="tg-0lj4">Mr Muhammad Khairi Bin Hanafi<br> <a href="mailto: muhammad_khairi_hanafi@moe.edu.sg"><span style="text-decoration:underline;color:#A52023"> muhammad_khairi_hanafi@moe.edu.sg </span></a><br><br>Miss Chloe Teo Liwen<br> <a href="mailto: chloe_teo_liwen@moe.edu.sg"><span style="text-decoration:underline;color:#A52023"> chloe_teo_liwen@moe.edu.sg </span></a><br></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P3 Resilience</td>
