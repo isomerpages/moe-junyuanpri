@@ -69,7 +69,7 @@ Primary 1 Teachers
   <tr>
     <td class="tg-0lj4"> P1 Compassion<br></td>
 		<td class="tg-0lj4"> Mdm Rahilawati Bte Rahmat<br> <a href="mailto:rahilawati_rahmat@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">rahilawati_rahmat@moe.edu.sg</span></a><br></td>
-		<td class="tg-0lj4">  Mdm Chee Li Boon<br> <a href="mailto:chee_li_boon@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chee_li_boon@moe.edu.sg</span></a><br></td>
+		<td class="tg-0lj4">Mdm Liang Hong Bing<br><a href="mailto:liang_hongbing@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">liang_hongbing@moe.edu.sg</span></a><br><br>Mdm Quek Shu Mien<br><a href="mailto:quek_shu_mien@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">quek_shu_mien@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P1 Excellence</td>
