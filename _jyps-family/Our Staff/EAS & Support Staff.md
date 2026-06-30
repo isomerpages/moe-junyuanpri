@@ -21,6 +21,10 @@ EAS &amp; Support Staff
 </style>
 <table class="tg">
 <thead>
+	<tr>
+    <td class="tg-0lj4"> Ms Tan Siew Mei Paulin </td>
+    <td class="tg-0lj4"> Admin Manager<br></td>
+  </tr>
 	  <tr>
     <td class="tg-0lj4"> Mdm Cynthia Lee Ling Ling </td>
     <td class="tg-0lj4"> Admin Manager (ICT)<br></td>
