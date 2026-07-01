@@ -49,7 +49,7 @@ Primary 1 Teachers
   <tr>
     <td class="tg-0lj4"> P1 Resilience</td>
 		<td class="tg-0lj4"> Mdm Chua Kar Yan (Mrs Chow)<br> <a href="mailto:chua_kar_yan@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chua_kar_yan@moe.edu.sg</span></a><br></td>
-		<td class="tg-0lj4"> Mdm Salamah Bte Massa'id<br> <a href="mailto:salamah_massaid@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">salamah_massaid@moe.edu.sg</span></a> </td>
+		<td class="tg-0lj4"> Mdm Salamah Bte Massa'id<br> <a href="mailto:salamah_massaid@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">salamah_massaid@moe.edu.sg</span></a><br><br>Ms Nik Aina Mariana Nik Hassim<br> <a href="mailto:nik_aina_mariana_nik@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">nik_aina_mariana_nik@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P1 Integrity</td>
@@ -69,7 +69,7 @@ Primary 1 Teachers
   <tr>
     <td class="tg-0lj4"> P1 Compassion<br></td>
 		<td class="tg-0lj4"> Mdm Rahilawati Bte Rahmat<br> <a href="mailto:rahilawati_rahmat@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">rahilawati_rahmat@moe.edu.sg</span></a><br></td>
-		<td class="tg-0lj4">  Mdm Chee Li Boon<br> <a href="mailto:chee_li_boon@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">chee_li_boon@moe.edu.sg</span></a><br></td>
+		<td class="tg-0lj4">Mdm Liang Hong Bing<br><a href="mailto:liang_hongbing@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">liang_hongbing@moe.edu.sg</span></a><br><br>Mdm Quek Shu Mien<br><a href="mailto:quek_shu_mien@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">quek_shu_mien@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lj4"> P1 Excellence</td>
@@ -79,7 +79,7 @@ Primary 1 Teachers
 	<tr>
     <td class="tg-0lj4"> P1 Kindness</td>
 	<td class="tg-0lj4"> Mdm Jurieni Bte Bahrom<br> <a href="mailto:jurieni_bahrom@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">jurieni_bahrom@moe.edu.sg</span></a></td>
-		<td class="tg-0lj4"> Mrs Selvarajoo Selvi<br> <a href="mailto:selvarajoo_selvi@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">selvarajoo_selvi@moe.edu.sg</span></a><br><br> Mdm Noor Azimah Bte Ahmad Shariff<br> <a href="mailto: Noor_Azimah_Ahmad_Shariff@moe.edu.sg"><span style="text-decoration:underline;color:#A52023"> Noor_Azimah_Ahmad_Shariff@moe.edu.sg</span></a><br></td>
+		<td class="tg-0lj4"> Mrs Selvarajoo Selvi<br> <a href="mailto:selvarajoo_selvi@moe.edu.sg"><span style="text-decoration:underline;color:#A52023">selvarajoo_selvi@moe.edu.sg</span></a><br></td>
 	</tr>
 	</tbody>
 </table>

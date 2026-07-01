@@ -21,10 +21,18 @@ EAS &amp; Support Staff
 </style>
 <table class="tg">
 <thead>
+	<tr>
+    <td class="tg-0lj4"> Ms Tan Siew Mei Paulin </td>
+    <td class="tg-0lj4"> Admin Manager<br></td>
+  </tr>
 	  <tr>
     <td class="tg-0lj4"> Mdm Cynthia Lee Ling Ling </td>
     <td class="tg-0lj4"> Admin Manager (ICT)<br></td>
   </tr>
+	<tr>
+    <td class="tg-0lj4"> Mdm Lee Li Juin</td>
+    <td class="tg-0lj4"> Operations Manager </td>
+	</tr>
   <tr>
     <td class="tg-0lj4"> Ms Chan Pui Lin Rachael </td>
     <td class="tg-0lj4"> Admin Executive </td>
@@ -53,10 +61,6 @@ EAS &amp; Support Staff
     <td class="tg-0lj4"> Ms Rafpizah Binte Sarpuan </td>
     <td class="tg-0lj4"> Corporate Support Officer </td>
   </tr>
-  <tr>
-    <td class="tg-0lj4"> Mdm Lee Li Juin</td>
-    <td class="tg-0lj4"> Operations Manager </td>
-	</tr>
   <tr>
     <td class="tg-0lj4"> Mdm Ijo Hiok Tjoe</td>
     <td class="tg-0lj4"> Operations Support Officer</td>
