@@ -9,9 +9,7 @@ sections:
   - hero:
       background: /images/Homepage.gif
       key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-      button: 2026 ECHA Nomination
-      url: /departments/cce/echa/
+        - title: MOE Edusave Character Award (ECHA) 2026
+          description: Click here to find out more
+          url: /departments/cce/echa/
 ---
