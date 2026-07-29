@@ -16,13 +16,14 @@ ECHA Nomination Criteria: <br>
 • Possess a high level of civic responsibility and/or qualities associated with resilience.
 
 ECHA is a rigorous, robust, and fair selection process based on the guidelines and criteria provided by MOE. The 4 main stages in the selection process are:<br>
-a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; nomination;<br>
-b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; shortlisting of nominees by level teachers;<br>
-c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; selection of the final awardees by a panel headed by the Principal;&nbsp;<br>
-d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; endorsement by the Principal and representatives from key stakeholders.
+a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nomination;<br>
+b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shortlisting of nominees by level teachers;<br>
+c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selection of the final awardees by a panel headed by the Principal;&nbsp;<br>
+d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Endorsement by the Principal and representatives from key stakeholders.
 
-In addition to the MOE Edusave Character Award, the school will continue to recognise students who are good role models with school-based award – the **JYPS Character Award**. These awardees will be selected based on similar criteria for ECHA and would include non-Singaporeans.
+In addition to the MOE Edusave Character Award, the school will continue to recognise students who are good role models with school-based awards such as the **JYPS Character Awards**. These awardees will be selected based on similar criteria for ECHA and would include non-Singaporeans.
 
-As our key partner-in-education, we invite you to nominate suitable students for ECHA. You may nominate online via [https://go.gov.sg/jypsecha2025](https://go.gov.sg/jypsecha2025)
+As our key partner-in-education, we invite you to nominate suitable students for ECHA. You may nominate online via 
+ [https://go.gov.sg/jypsecha2026](https://go.gov.sg/jypsecha2026)
 
-Nominations will open from Friday, 1 August 2025 to Friday, 29 August 2025.
+This link is also available in our school website. Nominations will open from Monday 3 August 2026 to Friday, 28 August 2026.
