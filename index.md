@@ -8,4 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage.gif
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+      button: 2026 ECHA Nomination
+      url: /departments/cce/echa/
 ---
