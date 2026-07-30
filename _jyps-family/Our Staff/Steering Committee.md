@@ -13,12 +13,12 @@ Steering Committee
 ### PRINCIPAL &amp; VICE-PRINCIPALS
 
 <table class="tg">
-  <thead>
+  <tbody>
     <tr>
-      <th class="tg-yp4s">Mr Chan Weng Cheong</th>
-      <th class="tg-yp4s">Principal</th>
+      <td class="tg-yp4s">Mr Chan Weng Cheong</td>
+      <td class="tg-yp4s">Principal</td>
     </tr>
-  </thead>
+  </tbody>
   <tbody>
 		<tr>
       <td class="tg-yp4s">Mrs Audrea Chin</td>
