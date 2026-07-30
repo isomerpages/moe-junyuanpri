@@ -18,8 +18,6 @@ Steering Committee
       <td class="tg-yp4s">Mr Chan Weng Cheong</td>
       <td class="tg-yp4s">Principal</td>
     </tr>
-  </tbody>
-  <tbody>
 		<tr>
       <td class="tg-yp4s">Mrs Audrea Chin</td>
       <td class="tg-yp4s">VP-Academic</td>
