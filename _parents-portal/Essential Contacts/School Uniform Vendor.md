@@ -11,5 +11,5 @@ variant: markdown
 | **Contact No:**    | 6747 8037    |      |
 | **Email:**  |[contact@shanghai-uniforms.com](mailto:contact@shanghai-uniforms.com) | |
 | **Website:**    | [https://shanghai-uniforms.sg/](https://shanghai-uniforms.sg/)    |      |
-|**Operating Hours:**  | Monday to Friday <br> 7.30am to 3.00pm<br><br> Open to Parents <br> 2.00pm to 3.00pm     |     |
+|**Operating Hours:**  |  Monday to Saturday: 10.00am to 6.00pm<br>Closed: 1.00pm - 2.00pm, Sundays &amp; Public Holidays<br>   |     |
 |
