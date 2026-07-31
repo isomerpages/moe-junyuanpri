@@ -43,10 +43,6 @@ Teacher Leaders
     <td class="tg-sdzj">ST-Mathematics</td>
   </tr>
   <tr>
-    <td class="tg-sdzj">Ms Halimatussa'diah Bte Jaffar</td>
-    <td class="tg-sdzj">ST-Malay Language</td>
-  </tr>
-  <tr>
     <td class="tg-sdzj">Mdm Cheah Soo Har Joelyn<br></td>
     <td class="tg-sdzj">ST-Science</td>
   </tr>
