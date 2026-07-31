@@ -1,7 +1,7 @@
 ---
 title: School Canteen Advertisement
 permalink: /school-canteen-advertisement/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: Essential Contacts
 ---

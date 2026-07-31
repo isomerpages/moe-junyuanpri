@@ -8,4 +8,8 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage.gif
+      key_highlights:
+        - title: MOE Edusave Character Award (ECHA) 2026
+          description: Click here to find out more
+          url: /departments/cce/echa/
 ---

@@ -11,7 +11,7 @@ third_nav_title: About Us
 
 MOE Kindergarten (MK) provides quality and affordable preschool education to Singapore Citizens and Permanent Residents aged 5 and 6.
 
-The monthly fee for MK in 2024 is:
+The monthly fee for MK is:
 * $160 for Singapore Citizens
 * $320 for Singapore Permanent Residents.
 
