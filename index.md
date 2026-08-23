@@ -12,4 +12,7 @@ sections:
         - title: MOE Edusave Character Award (ECHA) 2026
           description: Click here to find out more
           url: /departments/cce/echa/
+        - title: Alumni Visiting on 3 Sep 2026
+          description: Click here to find out more
+          url: /parents-portal/Announcements/
 ---
